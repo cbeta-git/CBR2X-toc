@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1555_001.xml#p0989a26">1 分別色品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1555_002.xml#p0993a27">2 分別心品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1555_002.xml#p0994a18">3 分別心所法品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1555_001.xml#p0989a22">第一</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1555_002.xml#p0992a03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

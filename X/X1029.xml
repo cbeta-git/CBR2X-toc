@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n1029_001.xml#p0704b06">一乘決疑論</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1029_001.xml#p0713b01">No. 1029-A 題一乘決疑論後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n1029_001.xml#p0704b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

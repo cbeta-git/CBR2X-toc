@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0035a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0035a20">譯文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0035a22">稱誦</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0035a24">一、三皈文</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0036a12">二、十戒文</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0036a24">三、三十二身份</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0037a04">四、問沙彌文</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0037a21">五、吉祥經</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0039a15">六、寶經</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0042a04">七、戶外經</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0043a16">八、伏藏經</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0045_001.xml#p0045a15">九、慈悲經</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0281_001.xml#p0447b05">2 願行品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0281_001.xml#p0449b25">3 十地品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0281_001.xml#p0446b26">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

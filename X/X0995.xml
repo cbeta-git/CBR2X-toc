@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n0995_001.xml#p0185a02">No. 995-A 華嚴一乘分齊章義苑疏敘</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_001.xml#p0185b09">華嚴一乘分齊章義苑疏</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_010.xml#p0256c05">No. 995-B 義苑後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n0995_001.xml#p0185b06">第一</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_002.xml#p0195a03">第二</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_003.xml#p0202b18">第三</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_004.xml#p0209a03">第四</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_005.xml#p0216c09">第五</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_006.xml#p0224c08">第六</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_007.xml#p0231b03">第七</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_008.xml#p0238a03">第八</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_009.xml#p0244b03">第九</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0995_010.xml#p0251b21">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

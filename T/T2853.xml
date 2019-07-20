@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1301b24">布薩文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1301c04">布薩文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1301c18">罷四季文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1302a17">行城文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1302b06">行城文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1302b23">行軍轉經文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1302c12">轉經文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1302c26">置傘文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1303a07">置傘文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1303a27">置傘文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2853_001.xml#p1301b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

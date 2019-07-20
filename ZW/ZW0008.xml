@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0251a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0253a01">錄文</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0318a10">附：關於《佛為心王菩薩說頭陀經》</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0318a13">一　歷代著錄</cblink></li>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0320a19">二　現存寫本及研究史</cblink></li>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0325a16">三　兩個問題</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0325a17">一、經文與註疏的卷數</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0008_001.xml#p0326a08">二、經文與註疏的作者</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

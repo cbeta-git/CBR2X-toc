@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0350a06">前文</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0350b16">菩薩戒有八種殊勝</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0350c12">次觀五法</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0350c17">次興三願</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0350c24">次發四弘願</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0351a03">次請戒師</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0351b23">次問難法</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0353b16">次當禮謝諸佛菩薩</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0353b22">次更胡跪合掌</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0353c03">結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1085_001.xml#p0350a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

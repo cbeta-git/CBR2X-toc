@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1499_001.xml#p1104c23">1 受戒羯磨</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1499_001.xml#p1106b01">2 懺罪羯磨</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1499_001.xml#p1106b20">3 得捨差別</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1499_001.xml#p1106c03">序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1499_001.xml#p1104c19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

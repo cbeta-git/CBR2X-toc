@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0282a05">No. 488-A 自序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0282c13">攷異</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0284b21">說略總論(十則)</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0292b19">附記</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0293a18">章句</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0294a04">標名</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0294a10">通序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0295a03">別序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0295a11">正宗</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0330a10">流通</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0488_001.xml#p0294a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

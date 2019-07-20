@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1612_001.xml#p0001a02">No. 1612-A</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1612_001.xml#p0001a10">No. 1612-B 人天寶鑑序</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1612_001.xml#p0023c03">No. 1612-C</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1612_001.xml#p0023c14">No. 1612-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1612_001.xml#p0001b10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

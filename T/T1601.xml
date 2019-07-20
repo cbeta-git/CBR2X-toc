@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0477c06">1 辯相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0478a24">2 辯障品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0478c01">3 辯真實品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0479a19">4 辯修對治品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0479b19">5 辯修分位品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0479b28">6 辯得果品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0479c04">7 辯無上乘品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1601_001.xml#p0477c02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

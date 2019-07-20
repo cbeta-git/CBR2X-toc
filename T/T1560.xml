@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0310c26">1 分別界品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0312a05">2 分別根品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0313c09">3 分別世界品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0316a07">4 分別業品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0319a09">5 分別隨眠品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0320c03">6 分別賢聖品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0322b25">7 分別智品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0324a03">8 分別定品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1560_001.xml#p0310c22">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

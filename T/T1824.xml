@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1824_001.xml#p0001a03">中論序疏</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_001.xml#p0005b19">1 因緣品(一本-三末)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T42/T42n1824_001.xml#p0005b19">1</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1824_002.xml#p0020a18">2</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1824_003.xml#p0034a20">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T42/T42n1824_004.xml#p0053a05">2 去來品(四本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_004.xml#p0061c22">3 六情品(四末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_004.xml#p0065c08">4 五陰品(四末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_005.xml#p0069c05">5 六種品(五本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_005.xml#p0073b01">6 染染者品(五本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_005.xml#p0076c16">7 三相品(五本-五末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_006.xml#p0089a05">8 作者品(六本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_006.xml#p0091c19">9 本住品(六本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_006.xml#p0094b11">10 燃可燃品(六本-六末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_006.xml#p0100b09">11 本際品(六末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0102b10">12 苦品(七本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0104a19">13 行品(七本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0108c22">14 合品(七末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0111b10">15 有無品(七末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0113b10">16 縛解品(七末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_008.xml#p0116a05">17 業品(八本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_008.xml#p0123b24">18 法品(八末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_008.xml#p0130b07">19 時品(八末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_009.xml#p0132a11">20 因果品(九本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_009.xml#p0135c19">21 成壞品(九本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_009.xml#p0139b14">22 如來品(九末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_009.xml#p0144b07">23 觀顛倒品(九末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_010.xml#p0148b23">24 四諦品(十本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_010.xml#p0154c03">25 涅槃品(十本-十末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_010.xml#p0160a27">26 十二因緣品(十末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_010.xml#p0164b26">27 觀邪見品(十末)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1824_001.xml#p0005b16">第一本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_001.xml#p0013a15">第一末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_002.xml#p0020a18">第二本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_002.xml#p0027c23">第二末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_003.xml#p0034a20">第三本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_003.xml#p0044a16">第三末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_004.xml#p0053a02">第四本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_004.xml#p0061c19">第四末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_005.xml#p0069c02">第五本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_005.xml#p0078c16">第五末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_006.xml#p0089a02">第六本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_006.xml#p0095c04">第六末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0102b07">第七本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_007.xml#p0108c19">第七末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_008.xml#p0116a02">第八本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_008.xml#p0123b21">第八末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_009.xml#p0132a08">第九本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_009.xml#p0139b11">第九末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_010.xml#p0148b20">第十本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1824_010.xml#p0159a04">第十末</cblink></li>
+</ol>
+</nav>
+</body></html>

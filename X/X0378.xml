@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0378_001.xml#p0581a03">No. 378-A 盂蘭盆經折中疏序</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0378_001.xml#p0582a01">No. 378-B 盂蘭盆經折中疏科</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0378_001.xml#p0583a02">佛說盂蘭盆經折中疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0378_001.xml#p0583a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

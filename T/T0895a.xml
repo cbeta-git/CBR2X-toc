@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0895a_001.xml#p0719a06">1 律分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_001.xml#p0720b24">2 分別處所分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_001.xml#p0722a11">3 除障分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_001.xml#p0723a07">4 分別金剛杵及藥證驗分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_002.xml#p0725a20">5 分別成就相分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_002.xml#p0726a19">6 念誦真言軌則觀像印等夢證分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_002.xml#p0726c29">7 悉地相分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_002.xml#p0728a15">8 下缽私那分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_002.xml#p0728c29">9 分別遮難分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_003.xml#p0730a18">10 分別道分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_003.xml#p0731b26">11 分別諸部分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_003.xml#p0732b06">12 分別八法分品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0895a_001.xml#p0719a03">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_002.xml#p0725a17">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895a_003.xml#p0730a15">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

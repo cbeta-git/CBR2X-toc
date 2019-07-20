@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0454b05">No. 825-A 序〔龍省〕</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0455a04">第一卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0460a44">第二卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0467a27">第三卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0473a36">第四卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0480a30">第五卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_002.xml#p0488a03">第六卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_002.xml#p0494a42">第七卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_002.xml#p0500a44">第八卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_002.xml#p0506a42">第九卷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_002.xml#p0511a20">第十卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0825_001.xml#p0455a02">第一</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0825_002.xml#p0488a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

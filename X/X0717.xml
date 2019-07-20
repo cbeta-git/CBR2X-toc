@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0192b02">No. 717-A敘四分戒本如釋語</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0192c04">凡例十三節</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0194a01">具足戒相威儀細行總圖</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0195a01">No. 717-B 四分戒本如釋科</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0196a01">目錄</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0196b18">釋本題目</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0197a12">釋初讚頌</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0199b06">釋前方便</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0201a05">釋白羯磨</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0202b03">釋戒經序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_002.xml#p0203a15">釋波羅夷法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_002.xml#p0209c06">釋僧殘法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_003.xml#p0221c09">釋不定法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_004.xml#p0222c22">釋捨墮法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_007.xml#p0245b20">釋波逸提法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_010.xml#p0279a21">釋悔過法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_011.xml#p0281b06">釋眾學法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0292a18">釋滅諍法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0296a18">釋總結前相</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0296b07">釋學餘法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0296b16">釋七佛戒經</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0299b03">釋後結頌</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0301b24">附攝頌戒相圖</cblink>
+	<ol>
+		<li><cblink href="XML/X/X40/X40n0717_012.xml#p0301c01">二百五十戒攝頌</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0717_012.xml#p0302b11">戒相篇聚圖</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0717_001.xml#p0196b15">第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_002.xml#p0203a12">第二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_003.xml#p0212c04">第三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_004.xml#p0222c19">第四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_005.xml#p0230c12">第五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_006.xml#p0238a16">第六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_007.xml#p0245b17">第七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_008.xml#p0254c08">第八</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_009.xml#p0263c16">第九</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_010.xml#p0272b03">第十</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_011.xml#p0281b03">第十一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0717_012.xml#p0292a15">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

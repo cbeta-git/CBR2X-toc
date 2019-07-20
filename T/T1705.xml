@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1705_001.xml#p0253a04">仁王護國般若經疏序</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1705_001.xml#p0253b13">序分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T33/T33n1705_001.xml#p0253b13">1 序品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T33/T33n1705_001.xml#p0253b13">1</cblink></li>
+			<li><cblink href="XML/T/T33/T33n1705_002.xml#p0259b02">2</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T33/T33n1705_003.xml#p0265a05">正宗分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T33/T33n1705_003.xml#p0265a05">2 觀空品</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1705_003.xml#p0269a19">3 菩薩教化品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T33/T33n1705_003.xml#p0269a19">1</cblink></li>
+			<li><cblink href="XML/T/T33/T33n1705_004.xml#p0270b16">2</cblink></li>
+			<li><cblink href="XML/T/T33/T33n1705_005.xml#p0276b05">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T33/T33n1705_005.xml#p0278c05">4 二諦品</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1705_005.xml#p0280a03">5 護國品</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1705_005.xml#p0281b24">6 散花品</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1705_005.xml#p0282a13">7 受持品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T33/T33n1705_005.xml#p0285b01">流通分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T33/T33n1705_005.xml#p0285b01">8 囑累品</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1705_001.xml#p0253b12">第一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1705_002.xml#p0259b02">第二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1705_003.xml#p0265a02">第三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1705_004.xml#p0270b16">第四</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1705_005.xml#p0276b02">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

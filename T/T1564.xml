@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0001a05">釋僧叡序</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0001b10">1 觀因緣品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0003c05">2 觀去來品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0005c15">3 觀六情品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0006b18">4 觀五陰品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0007b05">5 觀六種品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0008a14">6 觀染染者品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0009a06">7 觀三相品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0012b05">8 觀作作者品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0013b03">9 觀本住品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0014b14">10 觀燃可燃品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0016a04">11 觀本際品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0016b20">12 觀苦品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0017a25">13 觀行品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0018c28">14 觀合品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0019c19">15 觀有無品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0020c05">16 觀縛解品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0021b20">17 觀業品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0023c15">18 觀法品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0025c01">19 觀時品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0026b01">20 觀因果品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0027c11">21 觀成壞品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0029c06">22 觀如來品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0031a11">23 觀顛倒品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0032b11">24 觀四諦品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0034c13">25 觀涅槃品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0036b17">26 觀十二因緣品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0036c24">27 觀邪見品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1564_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_002.xml#p0009a02">第二</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_003.xml#p0019c15">第三</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1564_004.xml#p0029c02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

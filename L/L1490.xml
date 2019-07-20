@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/L/L115/L115n1490_001.xml#p0741a01">釋籤緣起序</cblink></li>
+	<li><cblink href="XML/L/L115/L115n1490_001.xml#p0742a01">玄義序釋籤</cblink></li>
+	<li><cblink href="XML/L/L115/L115n1490_001.xml#p0757b01">玄義釋籤</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/L/L115/L115n1490_001.xml#p0757b01">第一</cblink></li>
+	<li><cblink href="XML/L/L115/L115n1490_002.xml#p0776a01">第二</cblink></li>
+	<li><cblink href="XML/L/L115/L115n1490_003.xml#p0810a01">第三</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_004.xml#p0001a01">第四</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_005.xml#p0030a01">第五</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_006.xml#p0059a01">第六</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_007.xml#p0088b01">第七</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_008.xml#p0118b01">第八</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_009.xml#p0151a01">第九</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_010.xml#p0172b01">第十</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_011.xml#p0198b01">第十一</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_012.xml#p0219b01">第十二</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_013.xml#p0240b01">第十三</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_014.xml#p0268a01">第十四</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_015.xml#p0294b01">第十五</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_016.xml#p0314b01">第十六</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_017.xml#p0334b01">第十七</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_018.xml#p0362a01">第十八</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_019.xml#p0389a01">第十九</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_020.xml#p0409b01">第二十</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_021.xml#p0431b01">第二十一</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_022.xml#p0455b01">第二十二</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_023.xml#p0483b01">第二十三</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_024.xml#p0508a01">第二十四</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_025.xml#p0533a01">第二十五</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_026.xml#p0556a01">第二十六</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_027.xml#p0578b01">第二十七</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_028.xml#p0598b01">第二十八</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_029.xml#p0621a01">第二十九</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_030.xml#p0640b01">第三十</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_031.xml#p0659b01">第三十一</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_032.xml#p0679b01">第三十二</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_033.xml#p0701b01">第三十三</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_034.xml#p0721a01">第三十四</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_035.xml#p0742a01">第三十五</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_036.xml#p0759b01">第三十六</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_037.xml#p0778b01">第三十七</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_038.xml#p0807b01">第三十八</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_039.xml#p0838a01">第三十九</cblink></li>
+	<li><cblink href="XML/L/L116/L116n1490_040.xml#p0857b01">第四十</cblink></li>
+</ol>
+</nav>
+</body></html>

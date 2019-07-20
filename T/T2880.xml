@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2880_002.xml#p1369b24">6 顯一切眾生身內有佛父母品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_002.xml#p1370a17">7 對治服藥治病品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_002.xml#p1371b09">8 除一切眾生修道作佛病品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_003.xml#p1373a29">10 一切諸法即相解脫品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_003.xml#p1374a15">11 即相無相萬物不遷事用究竟品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_003.xml#p1375b26">12 顯一切眾生身與法一如無二品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_004.xml#p1376c05">13 對一切眾生辯邪正品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_004.xml#p1378a05">14 起信皆是宿基品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_004.xml#p1379a01">15 校量功德品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_004.xml#p1379c16">16 流通品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2880_002.xml#p1368b22">第二</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_003.xml#p1372b06">第三</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2880_004.xml#p1376c03">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

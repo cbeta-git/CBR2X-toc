@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1825_001.xml#p0171a03">十二門論序疏</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_001.xml#p0174b23">1 觀因緣門(上本)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T42/T42n1825_001.xml#p0174b27">1 釋名門</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1825_001.xml#p0176b09">2 次第門</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1825_001.xml#p0177a14">3 根本門</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1825_001.xml#p0177b21">4 有無門</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1825_001.xml#p0177c19">5 同異門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T42/T42n1825_001.xml#p0187a17">2 觀有果無果門(上末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_002.xml#p0194a05">3 觀緣門(中本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_002.xml#p0196b15">4 觀相門(中末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0201a14">5 觀有相無相門(下本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0201c12">6 觀一異門(下本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0202c11">7 觀有無門(下本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0204c14">8 觀性門(下本)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0207a19">9 觀因果門(下末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0207c25">10 觀作者門(下末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0210a04">11 觀三時門(下末)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0211b09">12 觀生門(下末)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1825_001.xml#p0174b20">上之本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_001.xml#p0187a15">上之末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_002.xml#p0194a02">中之本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_002.xml#p0196b13">中之末</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0201a12">下之本</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1825_003.xml#p0207a17">下之末</cblink></li>
+</ol>
+</nav>
+</body></html>

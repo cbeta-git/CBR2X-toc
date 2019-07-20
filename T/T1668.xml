@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1668_001.xml#p0591c25">釋摩訶衍論序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1668_001.xml#p0592b13">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_002.xml#p0602a18">第二</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_003.xml#p0613c02">第三</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_004.xml#p0623a02">第四</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_005.xml#p0632b02">第五</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_006.xml#p0639c11">第六</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_007.xml#p0646b05">第七</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_008.xml#p0652b22">第八</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_009.xml#p0657b02">第九</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1668_010.xml#p0664b02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

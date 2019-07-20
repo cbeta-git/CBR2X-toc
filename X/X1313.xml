@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1313_001.xml#p0706b05">No. 1313-A 青州百問序</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1313_001.xml#p0706c05">青州百問</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1313_001.xml#p0706c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

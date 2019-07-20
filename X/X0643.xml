@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0643_001.xml#p0086a05">第一卷科</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0643_001.xml#p0092a01">第二卷科</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0643_001.xml#p0097a41">第三卷科</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0643_001.xml#p0102a31">第四卷科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0643_001.xml#p0086a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

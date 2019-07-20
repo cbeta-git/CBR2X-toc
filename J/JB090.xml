@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0317a01">序</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0317b01">篇目</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0317c03">原教論</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0318b21">觀心解</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0319a30">內教外教辯</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0320a02">執跡解</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0320b20">儒者參禪辯</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0321a28">論禪近理辯</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0321c06">作用是性解</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0323a03">名儒好佛解</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0323b26">自私辯</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0324b10">莊老異同辯</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0325a01">錯說諸經解</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0325b21">較是非得失辯</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0326c20">三教論</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0328a14">諸師人物雄偉論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J20/J20nB090_001.xml#p0317c01">第一</cblink></li>
+	<li><cblink href="XML/J/J20/J20nB090_002.xml#p0323a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

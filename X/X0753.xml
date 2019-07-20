@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0753_001.xml#p0022a02">No. 753-A 刻十地義記序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_001.xml#p0022a23">題言六則</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_001.xml#p0022c01">目次</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_001.xml#p0023a03">十地義記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0753_001.xml#p0023a05">第一本</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_001.xml#p0039c04">第一末</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_002.xml#p0055a01">第二本</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_002.xml#p0070c21">第二末</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_003.xml#p0087a04">第三本</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_003.xml#p0102c13">第三末</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_004.xml#p0120a07">第四本</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0753_004.xml#p0136b21">第四末</cblink></li>
+</ol>
+</nav>
+</body></html>

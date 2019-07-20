@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1361_001.xml#p0598a04">無競齋質湖隱</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1361_001.xml#p0598a15">錢塘湖隱濟顛禪師語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1361_001.xml#p0620b02">No. 1361-A 湖隱方圓叟舍利銘　(出于北磵文集)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1361_001.xml#p0598a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

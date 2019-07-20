@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0441a04">目次</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0441a18">序品第一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0441c24">拈華品第二</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0444a03">月輪品第三</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0445a04">法界品第四</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0446c01">六大品第五</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0447b21">降魔品第六</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0450b01">往生品第七</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0027_001.xml#p0441a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

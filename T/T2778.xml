@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2778_001.xml#p0508b28">釋序文四</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0518b20">弟子品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0522a13">菩薩品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0524c06">文殊師利問疾品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0527c02">不思議品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0528b23">觀眾生品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0529b23">佛道品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0532b06">香積佛品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0532c20">菩薩行品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0533b13">見阿閦佛品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0533c15">觀眾生品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0534a13">法供養品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0535a13">囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2778_001.xml#p0501b07">第一</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2778_002.xml#p0518b17">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

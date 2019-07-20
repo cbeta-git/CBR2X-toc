@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0241a04">目次</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0241a24">釋賢聖學觀品十觀心第九已下</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0244c13">釋義品</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0248b07">釋佛母品</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0251b05">釋因果品</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0257b24">釋大眾受學品</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0258c19">釋集散品</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0259a17">No. 705-A 菩薩瓔珞本業經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0705_002.xml#p0241a22">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B08/B08n0028_001.xml#p0612a03">本文</cblink></li>
+	<li><cblink href="XML/B/B08/B08n0028_001.xml#p0691a04">後序</cblink>
+	<ol>
+		<li><cblink href="XML/B/B08/B08n0028_001.xml#p0691a04">段祺瑞序</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0028_001.xml#p0692a01">密林序</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0028_001.xml#p0693a01">屈映光跋</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0028_001.xml#p0694a02">湯薌銘序</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B08/B08n0028_001.xml#p0612a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

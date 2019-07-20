@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0400_001.xml#p0473c04">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_002.xml#p0476c02">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_003.xml#p0479b23">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_004.xml#p0482c02">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_005.xml#p0485b02">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_006.xml#p0487b07">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_007.xml#p0489b16">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_008.xml#p0492b05">第八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_009.xml#p0495b24">第九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_010.xml#p0498c08">第十</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_011.xml#p0501c16">第十一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_012.xml#p0504c08">第十二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_013.xml#p0507c20">第十三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_014.xml#p0510a13">第十四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_015.xml#p0512b16">第十五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_016.xml#p0514c16">第十六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_017.xml#p0517b22">第十七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0400_018.xml#p0519c24">第十八</cblink></li>
+</ol>
+</nav>
+</body></html>

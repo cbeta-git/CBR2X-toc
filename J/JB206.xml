@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0275a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0275a01">陳之伸序</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0275c01">曹林韻敘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0276b04">住浙江餘杭臥龍山廣化禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0280c11">機緣</cblink></li>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a11">讚偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a12">接引佛</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a16">達摩像</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a19">天童悟祖</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a22">天童奇和尚</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a26">三昧和尚</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282a29">自題</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b03">與閩雪吼公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b06">與毒山傑公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b09">與瞿目頂公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b12">與吼巖獅公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b15">與霞起晙公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b18">與懶云學公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b21">與古月楨公</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b24">贈我鐘沈居士</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282b28">贈秦伯潛居士</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c01">贈雪峨陸居士</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c04">贈瑞彰蔣居士</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c08">贈上由姚居士</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c11">示宿靈侍者看經</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c14">示守真玄徒</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c17">示王居士入山</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c20">贈來清張居士</cblink></li>
+		<li><cblink href="XML/J/J28/J28nB206_001.xml#p0282c23">贈增之蔡居士</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0283a01">拈古</cblink></li>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0283c21">佛事</cblink></li>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0284b01">行實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J28/J28nB206_001.xml#p0276b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

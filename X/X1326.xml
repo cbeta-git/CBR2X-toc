@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1326_001.xml#p0021a02">No. 1326-A 五家語錄序</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1326_001.xml#p0021d02">No. 1326-B 五宗源流圖</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1326_001.xml#p0022b02">No. 1326-C 五家語錄序</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1326_001.xml#p0022b19">No. 1326-D 五家語錄序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1326_001.xml#p0021a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

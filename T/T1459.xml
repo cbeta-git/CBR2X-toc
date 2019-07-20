@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1459_001.xml#p0617b07">1 創明受近圓事及苾芻等要行軌式(上)</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1459_001.xml#p0620b29">1 初部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1459_001.xml#p0620b29">1 四他勝法(上)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1459_001.xml#p0623a01">2 第二部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1459_001.xml#p0623a01">1 十三僧伽伐尸沙法(上)</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1459_001.xml#p0625c28">2 二不定法(上)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1459_001.xml#p0626a16">3 第三部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1459_001.xml#p0626a16">1 三十捨墮法(上)</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1459_002.xml#p0631b19">2 九十波逸底迦法(中)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1459_002.xml#p0644a18">2 第四部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1459_002.xml#p0644a18">1 四別悔法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1459_002.xml#p0644b24">5 第五部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1459_002.xml#p0644b24">1 眾學法(中)</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1459_002.xml#p0645a19">2 七滅諍法(中)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1459_003.xml#p0646a24">於十七跋窣睹等中述其要事(下)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1459_001.xml#p0617b03">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1459_002.xml#p0631b14">第二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1459_003.xml#p0646a20">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

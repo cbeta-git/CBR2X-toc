@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1629_001.xml#p0449a09">序</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1629_001.xml#p0449b06">救護篇第一(并序十九章)　延壽篇第二(并序十二章)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X87/X87n1629_001.xml#p0449b07">救護篇第一(并序十九章)</cblink></li>
+		<li><cblink href="XML/X/X87/X87n1629_001.xml#p0452c17">延壽篇第二(并序十二章)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X87/X87n1629_002.xml#p0456b20">滅罪篇第三(并序三章)　神力篇第四(并序十六章)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X87/X87n1629_002.xml#p0456b21">滅罪篇第三(并序三章)</cblink></li>
+		<li><cblink href="XML/X/X87/X87n1629_002.xml#p0457c16">神力篇第四(并序十六章)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X87/X87n1629_003.xml#p0461b06">功德篇第五(并序十章)　誠應篇第六(并序十章)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X87/X87n1629_003.xml#p0461b07">功德篇第五(并序十章)</cblink></li>
+		<li><cblink href="XML/X/X87/X87n1629_003.xml#p0464c16">誠應篇第六(并序十章)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X87/X87n1629_003.xml#p0466b02">No. 1629-A</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1629_003.xml#p0466c11">No. 1629-B 金剛般若經集驗拾遺</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1629_003.xml#p0467a07">No. 1629-C 刻金剛般若經集驗記後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1629_001.xml#p0449a06">第一</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1629_002.xml#p0456b17">第二</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1629_003.xml#p0461b03">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

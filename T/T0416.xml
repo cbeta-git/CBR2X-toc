@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0416_001.xml#p0872a05">1 思惟品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_002.xml#p0877b11">2 三昧行品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_002.xml#p0877c28">3 見佛品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_002.xml#p0878b22">4 正信品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_002.xml#p0879c16">5 受持品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_002.xml#p0881a02">6 觀察品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_003.xml#p0882c06">7 戒行具足品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_004.xml#p0886a19">8 稱讚功德品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_004.xml#p0887c02">9 饒益品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_004.xml#p0889a11">10 具五法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_004.xml#p0890c12">11 授記品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_004.xml#p0891a02">12 甚深品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_005.xml#p0892a18">13 現前三昧中十法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_005.xml#p0892c10">14 不共功德品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_005.xml#p0894a23">15 隨喜功德品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_005.xml#p0896b22">16 覺寤品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_005.xml#p0897a21">17 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0416_001.xml#p0872a02">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_002.xml#p0876c02">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_003.xml#p0881b15">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_004.xml#p0886a16">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0416_005.xml#p0892a15">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

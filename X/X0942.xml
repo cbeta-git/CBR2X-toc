@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0942_001.xml#p0671c05">天台宗未決（問答十箇條）</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_002.xml#p0672c10">釋疑（問答三十箇條）</cblink>
+	<ol>
+		<li><cblink href="XML/X/X56/X56n0942_002.xml#p0672c11"> 圓澄疑問</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_002.xml#p0673b07">日本國三十問謹案科直答如後</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X56/X56n0942_003.xml#p0682c05">釋疑（問答三十箇條）</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_004.xml#p0690a05">釋疑（問答十三箇條）</cblink>
+	<ol>
+		<li><cblink href="XML/X/X56/X56n0942_004.xml#p0690a06"> 義真疑問</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_004.xml#p0690a21">答修禪院問</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X56/X56n0942_005.xml#p0691a06">釋疑（問答六箇條）</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_006.xml#p0693b06">釋疑（問答十箇條）</cblink>
+	<ol>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0693b09">疑問條目</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0693b21">第一法華經六十食頃與五十半日疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0694a11">第二初發心住百佛世界疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0694c09">第三生佛不異何度眾生疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0695a11">第四圓實報與別實報同異疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0695b11">第五建立四教與開漸四教同異疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0695c23">第六本地釋迦與毗盧遮那同異疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0696b09">第七毗盧遮那經與法華經前後教部所攝疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0696b24">第八即身成佛時無明所感之身捨不捨疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0697a07">第九非情草木等自成佛說法否疑</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0942_006.xml#p0697b11">第十究竟佛位性惡斷不斷決</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0942_001.xml#p0671c01">第一</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_002.xml#p0672c06">第二</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_003.xml#p0682c01">第三</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_004.xml#p0690a01">第四</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_005.xml#p0691a01">第五</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0942_006.xml#p0693b01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

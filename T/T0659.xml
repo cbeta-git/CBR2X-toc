@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0659_001.xml#p0241a06">1 序品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_001.xml#p0244b22">2 十波羅蜜品(一-二)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T16/T16n0659_001.xml#p0244b22">1</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0659_002.xml#p0247a21">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T16/T16n0659_003.xml#p0254a14">3 平等品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_004.xml#p0259a23">4 陀羅尼品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_005.xml#p0265c24">5 安樂行品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_006.xml#p0272b05">6 二諦品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_007.xml#p0276b05">7 寶積品(七)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0659_001.xml#p0241a03">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_002.xml#p0247a21">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_003.xml#p0254a11">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_004.xml#p0259a20">第四</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_005.xml#p0265c21">第五</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_006.xml#p0272b02">第六</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0659_007.xml#p0276b02">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0674a08">No. 296-A 重刻楞嚴截流小引</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0674b03">No. 296-B 楞嚴截流小序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0674c03">No. 296-C 楞嚴截流序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0675a10">一卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0676b01">二卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0677a09">三卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0678a12">四卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0679c13">五卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0681a06">六卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0682a12">七卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0683a12">八卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0683c11">九卷</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0683c24">十卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0296_001.xml#p0675a06">第一</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0296_002.xml#p0679a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

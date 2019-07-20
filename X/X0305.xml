@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0586a03">No. 305-A 序</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0586b17">No. 305-B 楞嚴定解序</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0587a09">No. 305-C 自序</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0587c07">前文</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0587c09">一判總別者</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0590b01">二定境觀者</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0593a17">三釋題目</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0601b12">四系凡例(十條)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0305_001.xml#p0587c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

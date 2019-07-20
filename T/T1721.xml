@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1721_001.xml#p0451a05">1 序品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1721_001.xml#p0451a05">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1721_002.xml#p0466b21">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1721_003.xml#p0482b17">2 方便品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1721_003.xml#p0482b17">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1721_004.xml#p0499a05">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1721_005.xml#p0511b19">3 譬喻品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1721_005.xml#p0511b19">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1721_006.xml#p0526c07">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1721_007.xml#p0542b19">4 信解品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_008.xml#p0558a24">5 藥草喻品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_008.xml#p0565b22">6 授記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_008.xml#p0568a05">7 化城喻品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0578b05">8 五百弟子授記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0582c13">9 授學無學人記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0583b24">10 法師品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0587c18">11 見寶塔品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0591b07">12 提婆達多品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0592c11">13 持品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_010.xml#p0593c27">14 安樂行品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_010.xml#p0599a11">15 從地涌出品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_010.xml#p0602b06">16 壽量品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_010.xml#p0610b27">17 分別功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0612c05">18 隨喜功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0614b23">19 法師功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0616a19">20 常不輕菩薩品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0618a04">21 如來神力品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0619a05">22 囑累品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0619c21">23 藥王菩薩本事品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_012.xml#p0621c12">24 妙音菩薩品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_012.xml#p0623c05">25 觀世音菩薩普門品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_012.xml#p0629b08">26 陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_012.xml#p0630b25">27 妙莊嚴王本事品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_012.xml#p0631a17">28 普賢菩薩勸發品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1721_001.xml#p0451a03">第一</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_002.xml#p0466b18">第二</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_003.xml#p0482b14">第三</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_004.xml#p0499a02">第四</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_005.xml#p0511b16">第五</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_006.xml#p0526c04">第六</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_007.xml#p0542b16">第七</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_008.xml#p0558a21">第八</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_009.xml#p0578b02">第九</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_010.xml#p0593c24">第十</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_011.xml#p0612c02">第十一</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1721_012.xml#p0621c09">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

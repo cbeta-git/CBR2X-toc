@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0462a02">No. 338-A 廣本淨名經疏序</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0462b05">No. 338-B 新刻維摩經文疏序</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0463a01">凡例</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0463b04">維摩羅詰經文疏目錄</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0464a09">釋佛國品初</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0465b09">佛國品第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_009.xml#p0518c06">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_011.xml#p0537b17">弟子品第三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_016.xml#p0581b21">菩薩品第四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_019.xml#p0608b16">問疾品第五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_022.xml#p0636b16">不思議品第六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_023.xml#p0644a12">觀眾生品第七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_025.xml#p0662a10">佛道品第八</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_026.xml#p0671c21">入不二法門品第九</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_027.xml#p0680c11">香積品第十</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_027.xml#p0685b05">菩薩行品第十一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_028.xml#p0693a22">阿閦品第十二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_028.xml#p0697a10">法供養品第十三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_028.xml#p0700c05">囑累品第十四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_028.xml#p0703c04">No. 338-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0338_001.xml#p0464a07">第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_002.xml#p0470c21">第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_003.xml#p0477b11">第三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_004.xml#p0483c04">第四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_005.xml#p0491c10">第五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_006.xml#p0497b13">第六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_007.xml#p0504a04">第七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_008.xml#p0511b04">第八</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_009.xml#p0518c05">第九</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_010.xml#p0528a04">第十</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_011.xml#p0537b16">第十一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_012.xml#p0546a12">第十二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_013.xml#p0556a24">第十三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_014.xml#p0564b08">第十四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_015.xml#p0572b04">第十五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_016.xml#p0581b20">第十六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_017.xml#p0589c17">第十七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_018.xml#p0599a04">第十八</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_019.xml#p0608b15">第十九</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_020.xml#p0617b20">第二十</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_021.xml#p0627a04">第二十一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_022.xml#p0636b15">第二十二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_023.xml#p0644a10">第二十三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_024.xml#p0652c04">第二十四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_025.xml#p0662a09">第二十五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_026.xml#p0671c19">第二十六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_027.xml#p0680c09">第二十七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0338_028.xml#p0693a21">第二十八</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0203b08">1 曼拏羅分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0204a23">2 一切成就法分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0205a17">3 觀想分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0205c20">4 畫像儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0206b14">5 護摩法分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0207a18">6 觀想成就分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1242_001.xml#p0203b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

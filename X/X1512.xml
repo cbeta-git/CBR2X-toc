@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X75/X75n1512_001.xml#p0106b03">隆興佛教編年通論目錄</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_001.xml#p0110c09">東漢</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_002.xml#p0116a06">三國</cblink>
+	<ol>
+		<li><cblink href="XML/X/X75/X75n1512_002.xml#p0116a06">曹魏</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_002.xml#p0116b24">孫吳</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X75/X75n1512_002.xml#p0117b12">西晉</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_002.xml#p0118c06">東晉</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_005.xml#p0131b07">南北朝</cblink>
+	<ol>
+		<li><cblink href="XML/X/X75/X75n1512_005.xml#p0131b07">宋</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_006.xml#p0136b03">齊</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_006.xml#p0140b04">梁</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_008.xml#p0149a10">後齊</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_008.xml#p0150b04">陳</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_009.xml#p0151a03">周</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X75/X75n1512_009.xml#p0152b07">隋</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_010.xml#p0157c11">唐</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_028.xml#p0248c23">五代</cblink>
+	<ol>
+		<li><cblink href="XML/X/X75/X75n1512_028.xml#p0248c24">五代序</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_028.xml#p0249b03">後梁</cblink></li>
+		<li><cblink href="XML/X/X75/X75n1512_028.xml#p0250a24">後漢</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X75/X75n1512_029.xml#p0252a06">聖宋御製附</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X75/X75n1512_001.xml#p0110c06">第一</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_002.xml#p0116a03">第二</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_003.xml#p0121a03">第三</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_004.xml#p0125c19">第四</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_005.xml#p0131b04">第五</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_006.xml#p0136b01">第六</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_007.xml#p0141a19">第七</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_008.xml#p0146a08">第八</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_009.xml#p0151a01">第九</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_010.xml#p0156a03">第十</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_011.xml#p0162a03">第十一</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_012.xml#p0166c03">第十二</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_013.xml#p0171b01">第十三</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_014.xml#p0176b01">第十四</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_015.xml#p0181a01">第十五</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_016.xml#p0186a01">第十六</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_017.xml#p0191a01">第十七</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_018.xml#p0195c19">第十八</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_019.xml#p0201a01">第十九</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_020.xml#p0206a01">第二十</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_021.xml#p0210c18">第二十一</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_022.xml#p0216a03">第二十二</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_023.xml#p0221a01">第二十三</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_024.xml#p0226a19">第二十四</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_025.xml#p0231a16">第二十五</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_026.xml#p0236a04">第二十六</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_027.xml#p0241a01">第二十七</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_028.xml#p0246a20">第二十八</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1512_029.xml#p0252a04">第二十九</cblink></li>
+</ol>
+</nav>
+</body></html>

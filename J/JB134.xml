@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J23/J23nB134_001.xml#p0518c04">鎮州臨濟義玄禪師</cblink>
+	<ol>
+		<li><cblink href="XML/J/J23/J23nB134_001.xml#p0518c05">行狀</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_001.xml#p0519c06">機緣</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_001.xml#p0521c02">上堂示眾</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J23/J23nB134_002.xml#p0537a04">韶州雲門匡真文偃禪師</cblink>
+	<ol>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0537a05">行狀</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0537b04">機緣</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0538c18">上堂</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0545b23">室中語要</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0551a23">垂示代語</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0555c25">勘辨</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0560c10">十二時歌</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0560c17">偈頌</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0561a11">大師遺表</cblink></li>
+		<li><cblink href="XML/J/J23/J23nB134_002.xml#p0561a28">遺誡</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J23/J23nB134_001.xml#p0518c01">第一</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB134_002.xml#p0537a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

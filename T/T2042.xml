@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2042_001.xml#p0099a15">本施土緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_001.xml#p0102b09">阿育王本緣傳</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2042_001.xml#p0102b09">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2042_002.xml#p0103b22">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2042_002.xml#p0106a20">阿恕伽王第本緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_003.xml#p0108a05">駒那羅本緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_003.xml#p0110b10">半菴羅果因緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_003.xml#p0111b27">優波毱多因緣</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2042_003.xml#p0111b27">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2042_004.xml#p0112b07">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2042_004.xml#p0114a26">摩訶迦葉涅槃因緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_004.xml#p0116b11">摩田提因緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_005.xml#p0116c24">商那和修因緣</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_005.xml#p0121b02">優波毱多因緣</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2042_005.xml#p0121b02">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2042_006.xml#p0122a12">2</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2042_007.xml#p0126c22">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2042_007.xml#p0128b05">阿育王現報因緣</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2042_001.xml#p0099a12">第一</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_002.xml#p0103b22">第二</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_003.xml#p0108a02">第三</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_004.xml#p0112b04">第四</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_005.xml#p0116c21">第五</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_006.xml#p0122a12">第六</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2042_007.xml#p0126c22">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

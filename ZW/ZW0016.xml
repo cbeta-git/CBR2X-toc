@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0392a04">前文</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0394a04">一、《禪藏》是否真實存在</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0396a15">二、《禪藏》是著述還是編輯</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0398a12">三、關於《禪藏》的名稱</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0401a17">四、關於《禪藏》的卷數與亡佚問題</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0412a16">五、編輯宗旨</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0413a16">六、取材標準</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0414a09">七、編輯方法</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0415a05">八、結構體例</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0418a24">九、《禪藏》與敦煌禪籍</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0423a22">十、關於《禪藏》的復原</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0016_001.xml#p0424a20">後記</cblink></li>
+</ol>
+</nav>
+</body></html>

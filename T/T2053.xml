@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2053_001.xml#p0220c06">大唐大慈恩寺三藏法師傳序</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_001.xml#p0221b20">起載誕於緱氏終西屆于高昌</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_002.xml#p0226b06">起阿耆尼國終羯若鞠闍國</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_003.xml#p0233c06">起阿踰陀國終伊爛拏國</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_004.xml#p0240a21">起瞻波國終迦摩縷波國王請</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_005.xml#p0245c24">起尼乾占歸國終至帝城之西漕</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_006.xml#p0252b12">起十九年春正月入西京終二十二年夏六月謝御製經序并答</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_007.xml#p0257a25">起二十二年六月　天皇製述聖記終永徽五年春二月法師答書</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_008.xml#p0262b06">起永徽六年夏五月譯理門論終顯慶元年春三月　百官謝示御製寺碑文</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_009.xml#p0267c20">起顯慶元年三月謝慈恩寺碑成終三年正月隨車駕還西京</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_010.xml#p0275b19">起顯慶三年正月隨車駕自洛還西京至麟德元年二月玉華宮捨化</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2053_001.xml#p0221b17">第一</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_002.xml#p0226b02">第二</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_003.xml#p0233c02">第三</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_004.xml#p0240a17">第四</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_005.xml#p0245c20">第五</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_006.xml#p0252b08">第六</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_007.xml#p0257a21">第七</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_008.xml#p0262b02">第八</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_009.xml#p0267c16">第九</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2053_010.xml#p0275b15">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

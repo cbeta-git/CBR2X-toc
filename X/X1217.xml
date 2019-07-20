@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1217_001.xml#p0001a04">No. 1217-A</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1217_001.xml#p0001a18">達摩大師四行觀</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1217_001.xml#p0001c03">No. 1217-B (附)達磨大師碑頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1217_001.xml#p0001a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

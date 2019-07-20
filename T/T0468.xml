@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0492b24">1 序品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0492c09">2 菩薩戒品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0493c12">3 不可思議品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0494b25">4 無我品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0495a01">5 涅槃品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0495b24">6 般若波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0495c23">7 有餘氣品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0496a25">8 來去品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0496b14">9 中道品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0496c02">10 世間戒品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0497a09">11 出世間戒品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0497b18">12 上出世間戒品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0497c18">13 菩薩受戒品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0498a05">14 字母品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_002.xml#p0501a18">15 分部品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_002.xml#p0501c01">16 雜問品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_002.xml#p0504b29">17 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0468_001.xml#p0492b21">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0468_002.xml#p0501a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0398_001.xml#p0409a06">1 法典品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_001.xml#p0412c28">2 嘆會品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_002.xml#p0414b14">3 無蓋法門品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_002.xml#p0415b07">4 莊嚴法本品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_002.xml#p0419b09">5 八光品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_003.xml#p0420c11">6 大哀品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_003.xml#p0421b01">7 開化品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_003.xml#p0422a05">8 道慧品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_003.xml#p0425a16">9 宣劫世品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_003.xml#p0425c17">10 處處品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0426c16">11 了三世品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0427a29">12 了眾生所品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0427c06">13 號眾種類品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0428b01">14 曉眾生根本品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0429a21">15 普遊品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0430a13">16 一心定意品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_005.xml#p0431a16">17 知眾生本行品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_005.xml#p0431c07">18 徹視品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_005.xml#p0432b10">19 諸漏盡品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_005.xml#p0432c25">20 四無畏品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_005.xml#p0434c03">21 十八不共法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_006.xml#p0439b06">22 如來道品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_007.xml#p0440c27">23 八總持品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_008.xml#p0445c18">24 往古品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_008.xml#p0447a20">25 智本慧業品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_008.xml#p0449c18">26 智積菩薩品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_008.xml#p0450a29">27 歎品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_008.xml#p0452a03">28 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0398_001.xml#p0409a03">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_002.xml#p0414b11">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_003.xml#p0420c08">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_004.xml#p0426c13">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_005.xml#p0431a13">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_006.xml#p0435c02">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_007.xml#p0440c24">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0398_008.xml#p0445c15">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

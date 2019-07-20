@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0259_001.xml#p0510a06">經題</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_001.xml#p0510c06">譯師</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_001.xml#p0510c12">序分</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_001.xml#p0512a14">正宗分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0259_001.xml#p0512a14">文殊章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_001.xml#p0514c10">普賢章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_002.xml#p0516b19">普眼章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_003.xml#p0521b21">金剛藏章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_003.xml#p0524a13">彌勒章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_004.xml#p0527a22">清淨慧章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_004.xml#p0529c13">威德章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_005.xml#p0531c13">辨音章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_005.xml#p0533c16">淨諸業障章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_006.xml#p0537b06">普覺章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0259_006.xml#p0539b20">圓覺章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0259_006.xml#p0541b02">流通分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0259_006.xml#p0541b02">賢善首章</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0259_001.xml#p0510a03">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_002.xml#p0516b17">第二</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_003.xml#p0521b19">第三</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_004.xml#p0527a20">第四</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_005.xml#p0531c11">第五</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0259_006.xml#p0537b04">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

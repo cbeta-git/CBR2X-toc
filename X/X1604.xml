@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0486a05">No. 1604-A 重刻法門鋤宄五家辨正序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0486a21">No. 1604-B 法門鋤宄序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0488a18">法門鋤究</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0489c05">禪通劒叟昰禪師與晦山顯和尚書</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0490b01">靈隱晦山顯禪師復劒叟昰和尚書</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0490c01">五家辨正</cblink>
+	<ol>
+		<li><cblink href="XML/X/X86/X86n1604_001.xml#p0493a13">五家綱要</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0493a22">五派一滴圖</cblink>
+	<ol>
+		<li><cblink href="XML/X/X86/X86n1604_001.xml#p0493c14">道原傳燈錄</cblink></li>
+		<li><cblink href="XML/X/X86/X86n1604_001.xml#p0494a03">夢堂宗派序</cblink></li>
+		<li><cblink href="XML/X/X86/X86n1604_001.xml#p0494b01">虎關五家辨</cblink></li>
+		<li><cblink href="XML/X/X86/X86n1604_001.xml#p0494b43">五派一滴圖</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1604_001.xml#p0486b17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

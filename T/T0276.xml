@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0276_001.xml#p0383b14">無量義經序</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0276_001.xml#p0384a22">1 德行品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0276_001.xml#p0385b22">2 說法品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0276_001.xml#p0387a16">3 十功德品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0276_001.xml#p0384a22">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X24/X24n0462_001.xml#p0565c07">No. 462-A 金剛般若經會解序</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0462_001.xml#p0566a02">金剛般若波羅蜜經會解</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0462_002.xml#p0597a20">No. 462-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X24/X24n0462_001.xml#p0566a04">第一</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0462_002.xml#p0581b04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0058_001.xml#p0217a01">編者原敘</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0058_001.xml#p0217a03">（一）大手印教法之由來</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0058_001.xml#p0219a03">（二）原文及英譯</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0058_001.xml#p0222a09">（三）大手印教法之勝義</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0058_001.xml#p0223a16">（四）上師系統</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B10/B10n0058_001.xml#p0227a01">科文</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0058_001.xml#p0231a07">本文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0058_001.xml#p0217a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0781a06">前文</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0781c22">論本第二</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782a03">論本第三</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782a09">論本第四</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782a11">論本第五</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782a17">論本第六</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782a24">論本第八</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782b07">論本第九</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0782b16">論本第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0770_001.xml#p0781a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

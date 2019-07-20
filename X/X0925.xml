@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0925_001.xml#p0304a06">十不二門義</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0925_001.xml#p0306a17">考異</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0925_001.xml#p0308a02">No. 925-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0925_001.xml#p0304a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

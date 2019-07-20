@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0267_001.xml#p0226a29">1 序品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_001.xml#p0230a15">2 信行品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_002.xml#p0233c18">3 聲聞辟支佛品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_003.xml#p0240a19">4 重釋二乘相品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_003.xml#p0241b19">5 除想品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_003.xml#p0244a20">6 降魔品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_004.xml#p0246b20">7 受記品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_004.xml#p0250a08">8 現見品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_004.xml#p0251a29">9 安養國品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0267_001.xml#p0226a25">第一</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_002.xml#p0231c21">第二</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_003.xml#p0240a15">第三</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0267_004.xml#p0246b16">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

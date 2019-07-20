@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549a03">目次</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549a15">十譬贊</cblink>
+	<ol>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549a16">飛沫泡合</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549a19"> 𦦨</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549a22">芭蕉</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549b01">聚幻</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549b04">夢</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549b07">影響合</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549b10">浮雲</cblink></li>
+		<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549b13">電</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549c09">佛國品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_002.xml#p0552b13">方便品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_003.xml#p0553b15">弟子品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_004.xml#p0556c06">菩薩品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_005.xml#p0559b05">問疾品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_006.xml#p0561b23">不思議品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_007.xml#p0563b06">觀眾生品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_008.xml#p0565b10">佛道品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_009.xml#p0567b05">入不二法門品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_010.xml#p0569a09">香積佛品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_011.xml#p0570c09">菩薩行品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_012.xml#p0572b21">見阿閦佛品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_013.xml#p0573c14">法供養品</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_014.xml#p0575a17">囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0347_001.xml#p0549c07">第一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_002.xml#p0552b12">第二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_003.xml#p0553b14">第三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_004.xml#p0556c05">第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_005.xml#p0559b04">第五</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_006.xml#p0561b22">第六</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_007.xml#p0563b05">第七</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_008.xml#p0565b09">第八</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_009.xml#p0567b04">第九</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_010.xml#p0569a08">第十</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_011.xml#p0570c08">第十一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_012.xml#p0572b20">第十二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_013.xml#p0573c13">第十三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0347_014.xml#p0575a16">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>

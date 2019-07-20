@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0426c06">1 日宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0426c14">2 月宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0426c23">3 木宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0427a03">4 火宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0427a14">5 土宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0427a25">6 金宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0427b06">7 水宮占災攘之法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0427b18">宿度法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_002.xml#p0451b17">五星臨十二宮吉凶法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1308_001.xml#p0426b20">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1308_002.xml#p0442b02">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0287_001.xml#p0535a28">1 菩薩極喜地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_002.xml#p0542b12">2 菩薩離垢地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_003.xml#p0545a06">3 菩薩發光地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_003.xml#p0547c03">4 菩薩焰慧地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_004.xml#p0549c21">5 菩薩難勝地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_004.xml#p0552b06">6 菩薩現前地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_005.xml#p0555c03">7 菩薩遠行地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_006.xml#p0559a06">8 菩薩不動地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_007.xml#p0563a14">9 菩薩善慧地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_008.xml#p0567a10">10 菩薩法雲地</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0287_001.xml#p0535a23">第一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_002.xml#p0539c02">第二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_003.xml#p0545a02">第三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_004.xml#p0549c17">第四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_005.xml#p0554b02">第五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_006.xml#p0559a02">第六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_007.xml#p0563a10">第七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_008.xml#p0567a06">第八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0287_009.xml#p0570c10">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

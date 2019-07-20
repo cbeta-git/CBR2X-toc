@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1784_001.xml#p0012b03">第一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1784_002.xml#p0017c14">第二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1784_003.xml#p0024a04">第三</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1784_004.xml#p0030a07">第四</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1784_005.xml#p0036a08">第五</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1784_006.xml#p0041b18">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0298_001.xml#p0709c02">No. 298-A 首楞嚴經直解序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_001.xml#p0710a08">No. 298-B 首楞嚴經直解序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_001.xml#p0710b16">No. 298-C 首楞嚴經直贊(并序)</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_001.xml#p0711a10">No. 298-D 首楞嚴經直解略敘</cblink>
+	<ol>
+		<li><cblink href="XML/X/X14/X14n0298_001.xml#p0711a12">先定時味</cblink></li>
+		<li><cblink href="XML/X/X14/X14n0298_001.xml#p0711b17">次明綱要</cblink></li>
+		<li><cblink href="XML/X/X14/X14n0298_001.xml#p0712a20">楞嚴經直解凡例</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X14/X14n0298_001.xml#p0712b20">楞嚴經直解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0298_001.xml#p0712b22">第一</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_002.xml#p0732c10">第二</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_003.xml#p0753b04">第三</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_004.xml#p0769b14">第四</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_005.xml#p0791c01">第五</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_006.xml#p0807b01">第六</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_007.xml#p0823a16">第七</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_008.xml#p0834b08">第八</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_009.xml#p0855c20">第九</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0298_010.xml#p0870a12">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

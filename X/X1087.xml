@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0357b09">八門次第</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0357b21">第一由序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0358a04">第二請證明</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0358a14">第三翻邪</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0358c02">第四懺除</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0359a04">第五說法</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0359b01">第六正發律儀</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0359c04">第七示相護持</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0359c15">第八發願回向</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360a03">次明授八戒法</cblink>
+	<ol>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360a04">第一說受由序</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360b09">第二請聖證明</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360b10">第三歸依三寶</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360b18">第四懺除往業</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360b19">第五說法開導</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0360c24">第六正發律儀</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0361a13">第七示相護持</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1087_001.xml#p0361a24">第八發願回向</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0361b20">別出廣示戒相</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0362b05">略授菩薩戒</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1087_001.xml#p0357b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

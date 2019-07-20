@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0778a02">No. 725-A 式义摩那尼戒本序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0778b05">目次</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0778b19">前文</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0778b23">初學四根本</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0778c21">二學六法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0779a11">三學二百九十二行法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0784c24">懺二百九十二行法法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0725_001.xml#p0778b16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

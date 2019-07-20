@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0261_001.xml#p0865a03">序</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_001.xml#p0865b23">1 歸依三寶品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_002.xml#p0870a05">2 陀羅尼護持國界品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_002.xml#p0874c04">3 發菩提心品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_003.xml#p0876a05">4 不退轉品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_004.xml#p0881c05">5 布施波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_005.xml#p0886c13">6 淨戒波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_006.xml#p0890c25">7 安忍波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_007.xml#p0895a16">8 精進波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_008.xml#p0899a05">9 靜慮波羅蜜多品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T08/T08n0261_008.xml#p0899a05">之一</cblink></li>
+		<li><cblink href="XML/T/T08/T08n0261_009.xml#p0904b16">之餘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T08/T08n0261_009.xml#p0907a21">10 般若波羅蜜多品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T08/T08n0261_009.xml#p0907a21">之一</cblink></li>
+		<li><cblink href="XML/T/T08/T08n0261_010.xml#p0910c12">之餘</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0261_001.xml#p0865b20">第一</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_002.xml#p0870a02">第二</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_003.xml#p0876a02">第三</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_004.xml#p0881c02">第四</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_005.xml#p0886c10">第五</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_006.xml#p0890c22">第六</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_007.xml#p0895a13">第七</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_008.xml#p0899a02">第八</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_009.xml#p0904b13">第九</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0261_010.xml#p0910c09">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

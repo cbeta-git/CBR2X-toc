@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0563c07">目次</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0564a20">No. 621-A 序</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0564c07">No. 621-B 雲峰禪師法華授手序</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0565b04">No. 621-C 序</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0566a02">No. 621-D 法華授手序</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0566b09">No. 621-E 妙法蓮華經授手緣起</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0567a19">凡例</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0567c15">No. 621-F 妙法蓮華經大意</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0572c15">No. 621-G 妙法蓮華經授手弘傳序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0621_001.xml#p0563c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

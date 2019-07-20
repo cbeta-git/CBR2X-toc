@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0269_001.xml#p0705a12">起第一卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_002.xml#p0719b18">起第二卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_002.xml#p0726c01">起第三卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_002.xml#p0730c01">起第四卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_003.xml#p0741a11">起第五卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_004.xml#p0746b03">起第六卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_004.xml#p0754b01">起第七卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_004.xml#p0759c01">起第八卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_005.xml#p0768b02">起第九卷</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_005.xml#p0773b03">起第十卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0269_001.xml#p0705a03">第一</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_002.xml#p0719b16">第二</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_003.xml#p0732c09">第三</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_004.xml#p0746b01">第四</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0269_005.xml#p0761a16">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

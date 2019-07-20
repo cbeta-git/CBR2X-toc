@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0681a04">經題</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0681a19">法會因由分第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0681c13">善現起請分第二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0682b14">大乘正宗分第三</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0683a24">妙行無住分第四</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0684a02">如理實見分第五</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0684b07">正信希有分第六</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0685a22">無得無說分第七</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0685c19">依法出生分第八</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0686c06">一相無相分第九</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0687c14">莊嚴淨土分第十</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0688c02">無為福勝分第十一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0689a09">尊重正教分第十二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0689b19">如法受持分第十三</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0690b24">離相寂滅分第十四</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0693b18">持經功德分第十五</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0694c09">能淨業障分第十六</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0695b19">究竟無我分第十七</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0697b16">一體同觀分等十八</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0698a15">法界通化分第十九</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0698b04">離色離相分第二十</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0698c12">非說所說分第二十一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0699b06">無法可得分第二十二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0699b21">淨心行善分第二十三</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0700a01">福智無比分第二十四</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0700a17">化無所化分第二十五</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0700c06">法身非相分第二十六</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0701a11">無斷無滅分第二十七</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0701b11">不受不貪分第二十八</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0701c17">威儀寂靜分第二十九</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0702a04">一合理相分第三十</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0702a06">知見不生分第三十一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0702a08">應化非真分第三十二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0702a17">No. 501-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0501_001.xml#p0681a03">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0501_002.xml#p0695b17">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

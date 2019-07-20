@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0311_001.xml#p0373a03">No. 311-A 引</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0311_001.xml#p0373b10">No. 311-B 念佛圓通章　日誦式</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0311_001.xml#p0375a02">楞嚴經勢至念佛圓通章疏鈔</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0311_002.xml#p0392a17">No. 311-C 刻勢至疏鈔緣起</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0311_001.xml#p0375a04">第一</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0311_002.xml#p0382c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

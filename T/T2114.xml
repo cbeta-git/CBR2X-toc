@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2114_001.xml#p0637a03">重刻護法論題辭</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2114_001.xml#p0637c02">護法論元序</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2114_001.xml#p0638a14">護法論</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2114_001.xml#p0646b22">護法論後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2114_001.xml#p0638a11">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

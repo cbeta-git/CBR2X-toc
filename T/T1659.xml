@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0508c09">1 勸發品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0509b19">2 發心品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0510b02">3 願誓品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0511a12">4 檀波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0511c07">5 尸羅波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0512b12">6 羼提波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0513a19">7 毘梨耶波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0513c23">8 禪那波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0514c11">9 般若波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0515b13">10 如實法門品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0516a09">11 空無相品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0516c08">12 功德持品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1659_001.xml#p0508c05">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1659_002.xml#p0513a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

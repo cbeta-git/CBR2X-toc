@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0979_001.xml#p0653a02">No. 979-A 四教集註節義并科序</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0979_001.xml#p0654a01">No. 979-B 集註節科</cblink>
+	<ol>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0654a05">一卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0654a67">二卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0655a37">三卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0655a57">五卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0656a32">六卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0658a53">七卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0659a18">九卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0659a30">十卷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X57/X57n0979_001.xml#p0660a09">集註節義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0660a09">一卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0661c05">二卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0662b19">三卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0663a17">四卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0664a11">五卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0665a17">六卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0666c01">七卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0667b05">八卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0668b11">九卷</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0979_001.xml#p0669b21">十卷</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0979_001.xml#p0660a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

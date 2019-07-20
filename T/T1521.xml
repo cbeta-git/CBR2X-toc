@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1521_001.xml#p0020a09">1 序品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_001.xml#p0022c22">2 入初地品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_002.xml#p0026a17">3 地相品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_002.xml#p0028c22">4 淨地品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_002.xml#p0030b10">5 釋願品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_003.xml#p0035a22">6 發菩提心品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_004.xml#p0036b06">7 調伏心品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_004.xml#p0038a18">8 阿惟越致相品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_005.xml#p0040c28">9 易行品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_005.xml#p0045a18">10 除業品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_006.xml#p0047b06">11 分別功德品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_006.xml#p0049b10">12 分別布施品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_007.xml#p0053a20">13 分別法施品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_007.xml#p0054b05">14 歸命相品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_007.xml#p0055c28">15 五戒品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_007.xml#p0057b15">16 知家過患品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_008.xml#p0059b24">17 入寺品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_008.xml#p0063c29">18 共行品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_009.xml#p0065c23">19 四法品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_009.xml#p0068c07">20 念佛品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_010.xml#p0071c11">21 四十不共法品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_010.xml#p0073c29">22 四十不共法中難一切智人品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_011.xml#p0079a08">23 四十不共法中善知不定品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_012.xml#p0083c23">24 讚偈品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_012.xml#p0086a06">25 助念佛三昧品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_012.xml#p0088c19">26 譬喻品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_013.xml#p0091c21">27 略行品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_013.xml#p0094a21">28 分別二地業道品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_014.xml#p0099b10">29 分別聲聞辟支佛品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_015.xml#p0101c25">30 大乘品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_016.xml#p0107c25">31 護戒品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_016.xml#p0111b26">32 解頭陀品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_017.xml#p0116a27">33 助尸羅果品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_017.xml#p0120a07">34 讚戒品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_017.xml#p0121a19">35 戒報品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1521_001.xml#p0020a05">第一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_002.xml#p0026a13">第二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_003.xml#p0031b19">第三</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_004.xml#p0036b02">第四</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_005.xml#p0040c24">第五</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_006.xml#p0047b02">第六</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_007.xml#p0053a16">第七</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_008.xml#p0059b20">第八</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_009.xml#p0065c19">第九</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_010.xml#p0071c07">第十</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_011.xml#p0077c10">第十一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_012.xml#p0083c19">第十二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_013.xml#p0090a10">第十三</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_014.xml#p0095a21">第十四</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_015.xml#p0100c02">第十五</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_016.xml#p0107c21">第十六</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1521_017.xml#p0115b02">第十七</cblink></li>
+</ol>
+</nav>
+</body></html>

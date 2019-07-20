@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0425_001.xml#p0001a06">1 問三昧品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_001.xml#p0004c13">2 行品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_001.xml#p0006c05">3 四事品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_001.xml#p0007b04">4 法師品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_001.xml#p0010b08">5 法供養品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_002.xml#p0011b17">6 諸度無極品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_002.xml#p0013a07">7 習行品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_002.xml#p0015c26">8 無際品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_003.xml#p0019b05">9 聞持品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_003.xml#p0022b22">10 神通品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_003.xml#p0025c02">11 三十二相品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_004.xml#p0028a19">12 順時品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_004.xml#p0030c04">13 三十七品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_005.xml#p0034c23">14 寂然度無極品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_005.xml#p0038a09">15 十種力品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_005.xml#p0038c27">16 四無所畏品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_005.xml#p0040a21">17 十八不共品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_005.xml#p0041c18">18 方便品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_006.xml#p0042c05">19 八等品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_006.xml#p0045c02">20 千佛名號品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_007.xml#p0050b12">21 千佛興立品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_008.xml#p0058c11">22 千佛發意品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_008.xml#p0063b27">23 歎古品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_008.xml#p0065a14">24 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0425_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_002.xml#p0011b14">第二</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_003.xml#p0019b02">第三</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_004.xml#p0028a16">第四</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_005.xml#p0034c20">第五</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_006.xml#p0042c02">第六</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_007.xml#p0050b09">第七</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0425_008.xml#p0058c08">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

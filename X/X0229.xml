@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X05/X05n0229_001.xml#p0220b01">No. 229-A 大方廣佛華嚴經普賢行願品別行疏鈔重刊序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X05/X05n0229_001.xml#p0221a06">第一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0229_002.xml#p0235c09">第二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0229_003.xml#p0256b22">第三</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0229_004.xml#p0274b22">第四</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0229_005.xml#p0289c16">第五</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0229_006.xml#p0308a13">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

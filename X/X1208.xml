@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1208_001.xml#p0816b05">No. 1208-A 自序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1208_001.xml#p0816c11">偈頌上</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1208_001.xml#p0818b09">孝思篇</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1208_001.xml#p0818c07">偈頌下</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1208_001.xml#p0816c08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

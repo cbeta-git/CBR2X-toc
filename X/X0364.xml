@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0773a02">No. 364-A 思益梵天所問經簡註序</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0773c07">思益梵天所問經簡註目次</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0774b13">經題</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0774b19">如來光明品第一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0780b14">四法品第二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0783a21">菩薩正問品第三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0789c11">四諦品第四</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0791c08">歎功德品第五</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0795a10">如來五力說法品第六</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0797c14">如來大悲品第七</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0799b16">幻化品第八</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0802c13">菩薩光明品第九</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0806a15">菩薩受記品第十</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0810c11">薩婆若品第十一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0813b11">菩薩無二品第十二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0817a09">名字義品第十三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0818c21">論寂品第十四</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0821b06">如來二事品第十五</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0826a05">得聖道品第十六</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0827b12">志大乘品第十七</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0830c07">發菩提心品第十八</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0835b16">師子吼品第十九</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0837c12">梵行牢強精進品第二十</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0840a23">海喻品第二十一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0843c21">建立法品第二十二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0847b18">如來神呪品第二十三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0851a02">囑累品第二十四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0364_001.xml#p0774b06">第一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_002.xml#p0795a04">第二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_003.xml#p0813b05">第三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0364_004.xml#p0835b10">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

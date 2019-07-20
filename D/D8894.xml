@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D35/D35n8894_001.xml#p0001b01">目錄</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_001.xml#p0003b02">分叚變易二種生死下</cblink>
+	<ol>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0003b03">一分叚生死出躰得名</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0005a03">二變易生死出躰門</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0006b08">變易生死得名門</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0009a09">變易生死問[前-刖+合]分別門</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0018b01">招生死差別門(并)反易性有漏㕝</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0021a03">變易生死得人門</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0023a07">變易生死得處門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D35/D35n8894_001.xml#p0028a09">增壽反易之下</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_001.xml#p0033a09">轉識得智惣釋之下</cblink>
+	<ol>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0045a07">妙觀平䓁二智現起位之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_001.xml#p0058a06">大圓鏡智之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_002.xml#p0070b02">成所作智現起位之下</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D35/D35n8894_002.xml#p0078a07">無間解脫二道別之下(付)断證同時之㕝</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_002.xml#p0094a08">一心見道之下(付二分有無三義下)批判目錄</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_002.xml#p0104b09">三心相見道之下(付)十六心相見道批判目錄</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_002.xml#p0121b01">故意力之下</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_003.xml#p0138b02">修道位十地之下</cblink>
+	<ol>
+		<li><cblink href="XML/D/D35/D35n8894_003.xml#p0143b01">初地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_003.xml#p0165a05">魔自在方便之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_003.xml#p0178a10">第二地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_004.xml#p0193b01">第三地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_004.xml#p0205a03">第四地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_004.xml#p0216b08">第五地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_004.xml#p0230a01">第六地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_005.xml#p0237b02">第七地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_005.xml#p0246a05">第八地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_005.xml#p0257b03">第九地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_005.xml#p0263a07">第十地之下</cblink></li>
+		<li><cblink href="XML/D/D35/D35n8894_005.xml#p0268b04">等覺位之下</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D35/D35n8894_001.xml#p0003b01">第一</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_002.xml#p0070b01">第二</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_003.xml#p0138b01">第三</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_004.xml#p0193b01">第四</cblink></li>
+	<li><cblink href="XML/D/D35/D35n8894_005.xml#p0237b01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

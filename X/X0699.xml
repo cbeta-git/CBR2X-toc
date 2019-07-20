@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0699_001.xml#p0001a02">No. 699-A 佛說梵網經順硃敘</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0699_001.xml#p0001b01">佛說梵網經順硃</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0699_001.xml#p0001b03">第一</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0699_002.xml#p0041b12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

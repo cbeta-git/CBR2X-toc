@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0753a02">No. 747-A 校勘義鈔序</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0754b09">毗尼大綱</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0756a17">起戒差別</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0760b05">十三難</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0762c15">不學無知</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0763b18">轉業變根</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0765a09">破僧大意</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0767c14">時非時</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0769b02">四波羅夷</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0773a07">十三僧殘</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0776b17">二不定</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0778a12">三十捨墮</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0784b22">九十單提</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0791c14">四提舍尼</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0792a18">眾學</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0792c15">七滅諍</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0795b11">四諍</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0796c11">No. 747-B 新羅國寄還書</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0797a01">唐法寶律師批</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0754b06">上之一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_001.xml#p0762c13">上之二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0773a04">中之一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0747_002.xml#p0784b20">中之二</cblink></li>
+</ol>
+</nav>
+</body></html>

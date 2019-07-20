@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0253c17">1 序品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0255c10">2 一切如來金剛最勝王義利堅固染愛王心品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0256a15">3 攝一切如來大阿闍梨位品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0256b05">4 金剛薩埵冒地心品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0256b25">5 愛染王品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0257b16">6 一切佛頂最上遍照王勝義難摧摧邪一切處瑜伽四行攝法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0257c18">7 一切如來大勝金剛心瑜伽成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0258b01">8 一切如來大勝金剛頂最勝真實大三昧耶品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_002.xml#p0259c26">9 金剛吉祥大成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_002.xml#p0264b01">10 一切如來內護摩金剛軌儀品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_002.xml#p0266c26">11 金剛薩埵菩提心內作業灌頂悉地品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_002.xml#p0268c04">12 大金剛焰口降伏一切魔怨品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0867_001.xml#p0253c13">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0867_002.xml#p0259c22">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

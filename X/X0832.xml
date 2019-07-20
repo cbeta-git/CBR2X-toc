@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0832_001.xml#p0818a05">No. 832-A 觀所緣緣論釋記序</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0832_001.xml#p0818b05">No. 832-B 觀所緣緣論釋記題詞</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0832_001.xml#p0818c11">No. 832-C 分科</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0832_001.xml#p0820a04">觀所緣緣論釋記</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0832_001.xml#p0836b09">No. 832-D 觀所緣緣論釋記問答釋疑</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0832_001.xml#p0820a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

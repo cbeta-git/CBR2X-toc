@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0348_001.xml#p0576a05">No. 348-A 維摩詰所說經無我疏序</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_001.xml#p0576c04">目次</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_001.xml#p0577a16">前文</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_001.xml#p0579c20">佛國品第一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_004.xml#p0622a06">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_004.xml#p0631a18">弟子品第三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_006.xml#p0649a14">菩薩品第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_007.xml#p0661c23">文殊師利問疾品第五</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_007.xml#p0673c23">不思議品第六</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_008.xml#p0679a06">觀眾生品第七</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_009.xml#p0688b10">佛道品第八</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_010.xml#p0697b03">入不二法門品第九</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_011.xml#p0707a18">香積佛品第十</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_011.xml#p0712a12">菩薩行品第十一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_012.xml#p0719b15">阿閦佛品第十二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_012.xml#p0725b22">法供養品第十三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_012.xml#p0729c05">囑累品第十四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0348_001.xml#p0577a13">第一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_002.xml#p0591c05">第二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_003.xml#p0608b21">第三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_004.xml#p0622a04">第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_005.xml#p0634c12">第五</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_006.xml#p0649a12">第六</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_007.xml#p0661c21">第七</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_008.xml#p0679a04">第八</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_009.xml#p0688b08">第九</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_010.xml#p0697b01">第十</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_011.xml#p0707a16">第十一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0348_012.xml#p0719b13">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

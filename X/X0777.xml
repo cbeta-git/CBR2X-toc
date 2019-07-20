@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X46/X46n0777_001.xml#p0199b04">金剛頂菩提心論略記</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0777_001.xml#p0206b18">No. 777-A</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0777_001.xml#p0206c06">No. 777-B</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0777_001.xml#p0207a07">No. 777-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X46/X46n0777_001.xml#p0199b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

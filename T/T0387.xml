@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0387_001.xml#p1077c16">1 大眾健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_002.xml#p1085c09">2 三昧健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1088b16">3 陀羅尼健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1089a07">4 密語健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1089b06">5 轉生有藏健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1089b24">6 得轉生死業煩惱健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1089c10">7 智狂入健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1089c24">8 解脫轉福德藏法門健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1090a08">9 解脫有德轉藏健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1090a22">10 轉功德行健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1090b11">11 雲虛空生健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1090b23">12 電光轉健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1090c07">13 電轉健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1090c22">14 神通健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091a05">15 寶雹健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091a19">16 金剛智健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091b05">17 無盡健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091b16">18 正行健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091c01">19 師子吼健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091c15">20 師子吼神通健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1091c27">21 善方便健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092a11">22 神通健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092a23">23 金翅鳥健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092b06">24 大捨健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092b18">25 無畏健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092c01">26 入行健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092c12">27 至心健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1092c24">28 勇力健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093a07">29 善健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093a19">30 神通健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093b03">31 智健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093b15">32 智寶藏健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093b29">33 施健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093c11">34 福田健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1093c25">35 正法健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_004.xml#p1094a15">36 如來涅槃健度</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_005.xml#p1099a21">37 增長健度</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0387_001.xml#p1077c13">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_002.xml#p1083a09">第二</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_003.xml#p1088b13">第三</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_004.xml#p1094a12">第四</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_005.xml#p1099a18">第五</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0387_006.xml#p1103b06">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

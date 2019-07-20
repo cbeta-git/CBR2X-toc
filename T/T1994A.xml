@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0640a14">袁州楊岐山普通禪院會和尚語錄</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0641a05">後住潭州雲蓋山海會寺語錄</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0643a11">潭州道吾真禪師語要</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645a02">勘辨</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b11">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b12">溈山水牯牛</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b15">杖林山下竹筋鞭</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b18">北斗藏身</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b21">百丈野狐</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b24">庭前柏</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645b27">靈雲桃花</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645c03">麻三斤</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645c08">興化問雲居何必話</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645c10">前三三後三三</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645c13">僧請益三妙三訣師以頌示之</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0645c26">潭州雲蓋山會和尚語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0646a15">題楊岐會老語錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1994A_001.xml#p0640a12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0263_001.xml#p0694a02">No. 263-A 圓覺經析義疏大義</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0263_001.xml#p0697c05">No. 263-B 圓覺經析義疏懸示</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0697c18">第一教起因緣</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0699b12">第二藏乘分攝</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0700c24">第三能被教義</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0701c17">第四所被機宜</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0702b15">第五體性淺深</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0703b18">第六宗趣通別</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0704b01">第七傳譯紀略</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0704b13">第八註釋倡先</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0263_001.xml#p0705b04">圓覺經析義疏</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0705b10">第九總釋名題</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0263_001.xml#p0706c23">第十別解文義</cblink>
+		<ol>
+			<li><cblink href="XML/X/X10/X10n0263_001.xml#p0707a02">敘分</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0263_002.xml#p0714b21">正宗分</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0263_004.xml#p0766a15">流通分</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0263_004.xml#p0770a13">No. 263-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0263_001.xml#p0705b06">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0263_002.xml#p0714b18">第二</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0263_003.xml#p0731c14">第三</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0263_004.xml#p0750c09">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

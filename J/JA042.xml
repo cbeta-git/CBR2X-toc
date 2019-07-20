@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J01/J01nA042_001.xml#p0793a01">序</cblink></li>
+	<li><cblink href="XML/J/J01/J01nA042_001.xml#p0793a11">年譜</cblink>
+	<ol>
+		<li><cblink href="XML/J/J01/J01nA042_001.xml#p0793a14">哲宗</cblink></li>
+		<li><cblink href="XML/J/J01/J01nA042_001.xml#p0793b21">徽宗</cblink></li>
+		<li><cblink href="XML/J/J01/J01nA042_001.xml#p0797a32">欽宗</cblink></li>
+		<li><cblink href="XML/J/J01/J01nA042_001.xml#p0797b30">高宗</cblink></li>
+		<li><cblink href="XML/J/J01/J01nA042_001.xml#p0806b25">孝宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J01/J01nA042_001.xml#p0807b09">後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J01/J01nA042_001.xml#p0793a12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

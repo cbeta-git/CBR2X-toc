@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0834c09">目次</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0834c15">二諦義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0836a10">二智義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0837a09">般若義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0837b22">真應義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0838a24">涅槃義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0839b10">佛性義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0839c21">二河義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0840b11">二種次第義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0840c21">正像義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0841c09">金剛三昧義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0841c21">生法二空義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0842a06">涅槃義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0842b09">真應二身義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0842c09">常無常二鳥義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0842c18">半滿義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0843a08">佛性義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0876_001.xml#p0834c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

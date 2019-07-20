@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1656_001.xml#p0493b06">1 安樂解脫品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1656_001.xml#p0495b29">2 雜品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1656_001.xml#p0497c25">3 菩提資糧品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1656_001.xml#p0500a23">4 正教王品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1656_001.xml#p0502c03">5 出家正行品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1656_001.xml#p0493b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

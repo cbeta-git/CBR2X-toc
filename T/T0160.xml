@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0160_001.xml#p0332b22">1 投身飼虎緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_001.xml#p0333b10">2 尸毘王救鴿命緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_001.xml#p0334a14">3 如來分衛緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_002.xml#p0334c28">4 最勝神化緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_002.xml#p0336c12">5 如來不為毒所害緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_002.xml#p0337b06">6 兔王捨身供養梵志緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_003.xml#p0338b13">7 慈心龍王消伏怨害緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_003.xml#p0339c08">8 慈力王刺身血施五夜叉緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_003.xml#p0340a27">9 開示少施正因功能緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_004.xml#p0341a13">10 如來具智不嫉他善緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_004.xml#p0342b10">11 佛為病比丘灌頂獲安緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_004.xml#p0342c20">12 稱念三寶功德緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_004.xml#p0343b24">13 造塔勝報緣起</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_004.xml#p0343c23">14 出家功德緣起</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0160_001.xml#p0331c15">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_002.xml#p0334c23">第二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_003.xml#p0338b08">第三</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_004.xml#p0341a08">第四</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_005.xml#p0344c03">第五</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_006.xml#p0348a18">第六</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_007.xml#p0352a03">第七</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_008.xml#p0354b02">第八</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_009.xml#p0358b01">第九</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_010.xml#p0361c15">第十</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_011.xml#p0363c23">第十一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_012.xml#p0366a06">第十二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_013.xml#p0369c18">第十三</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_014.xml#p0373b24">第十四</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_015.xml#p0377b04">第十五</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0160_016.xml#p0381b09">第十六</cblink></li>
+</ol>
+</nav>
+</body></html>

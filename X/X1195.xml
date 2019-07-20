@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1195_001.xml#p0547a05">No. 1195-A 念佛起緣觀偈直解敘</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1195_001.xml#p0547c10">念佛起緣彌陀觀偈直解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1195_001.xml#p0547c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1291_001.xml#p0439a02">No. 1291-A 南明泉頌永嘉證道謌序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1291_001.xml#p0439b05">證道歌頌</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1291_001.xml#p0448b05">No. 1291-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1291_001.xml#p0439b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

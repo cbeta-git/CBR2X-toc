@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0041_001.xml#p0465a03">引言</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0041_001.xml#p0465a11">現量品第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0041_001.xml#p0466a10">為自比量品第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0041_001.xml#p0469a06">為他比量品第三</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0041_001.xml#p0465a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

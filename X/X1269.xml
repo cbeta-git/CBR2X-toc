@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0773b08">序</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0773c01">尋牛序一</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0773c12">見跡序二</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0773c23">見牛序三</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0774a11">得牛序四</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0774a22">牧牛序五</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0774b09">騎牛歸家序六</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0774b20">忘牛存人序七</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0774c07">人牛俱忘序八</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0774c19">返本還源序九</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0775a06">入鄽垂手序十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1269_001.xml#p0773b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0260a02">No. 1241-A 蘇州靈岩妙空佛海和尚註證道歌序</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0260b07">No. 1241-B 靈岩妙空和尚註證道歌</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0260b20">No. 1241-C 舒州梵天琪和尚註證道謌(并)序</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0260c15">證道歌註</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0280b06">No. 1241-D 後序</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0280c02">No. 1241-E 永嘉石碑</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0280c12">音釋</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0280c22">註中</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1241_001.xml#p0260c16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

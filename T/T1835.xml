@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T44/T44n1835_001.xml#p0001b03">1 相品</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_001.xml#p0009c17">2 障品</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_002.xml#p0015b27">3 真實品</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_002.xml#p0022a07">4 對治品</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_002.xml#p0026b10">5 分位品</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_002.xml#p0027b18">6 得果品</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_002.xml#p0028c03">7 無上乘品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T44/T44n1835_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_002.xml#p0015b24">第二</cblink></li>
+	<li><cblink href="XML/T/T44/T44n1835_003.xml#p0031a02">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

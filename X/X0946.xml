@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0780b07">螺溪振祖集目錄</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0780b21">吳越錢忠懿王賜淨光法師制</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0780c11">本朝賜額　勑黃</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0780c21">建傳教院碑銘</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0782a14">淨光大師行業碑</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0783a05">傳教院新建育王石塔記</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0783a20">淨光大師塔銘</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0783b14">淨光法師讚</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0783b19">淨光大師讚</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0783c08">查菴法師讚</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0783c15">栢庭法師讚</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0784a02">螺谿移塔記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0946_001.xml#p0780b18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

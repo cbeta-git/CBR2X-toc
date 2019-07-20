@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0405_001.xml#p0243a02">No. 405-A 刻釋觀無量壽經記序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0405_001.xml#p0243b12">釋觀無量壽佛經記</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0405_001.xml#p0253a13">No. 405-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0405_001.xml#p0243b14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

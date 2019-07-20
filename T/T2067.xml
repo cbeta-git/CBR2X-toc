@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2067_001.xml#p0012b24">1 圖像</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_002.xml#p0014b17">2 翻譯</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_003.xml#p0017c18">3 講解</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_004.xml#p0021c09">4 修觀</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_005.xml#p0023c06">5 遺身</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_006.xml#p0026c26">6 誦持</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2067_006.xml#p0026c26">1</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2067_007.xml#p0031b07">2</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2067_008.xml#p0035b06">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2067_009.xml#p0040b16">7 轉讀</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_010.xml#p0042b23">8 書寫</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_010.xml#p0048a04">附錄</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_010.xml#p0048a05">天台法華疏序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2067_001.xml#p0012b16">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_002.xml#p0014b14">第二</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_003.xml#p0017c15">第三</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_004.xml#p0021c06">第四</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_005.xml#p0023c03">第五</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_006.xml#p0026c23">第六</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_007.xml#p0031b07">第七</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_008.xml#p0035b06">第八</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_009.xml#p0040b13">第九</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2067_010.xml#p0042b20">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0619a05">No. 1530-A 法界宗五祖略記引</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0619b10">初祖杜順和尚</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0620a21">二祖智儼和尚</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0620c15">三祖賢首國師</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0622c23">四祖清涼國師</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0624c09">五祖圭峯大師</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X77/X77n1530_001.xml#p0619b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

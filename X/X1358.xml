@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0499a03">虎丘隆和尚語錄　目錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0499a19">住和州開聖禪院語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0500a24">宣州彰教禪院語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0502a13">平江府虎丘雲巖禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0504b22">初祖贊</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0504b24">塔銘　宋臨濟正傳虎丘隆和尚塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1358_001.xml#p0499a15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

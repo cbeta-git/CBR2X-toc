@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0425_001.xml#p0685a06">第一卷</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0425_001.xml#p0688b08">第二卷</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0425_001.xml#p0691a22">第三卷</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0425_001.xml#p0693c02">第四卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0425_001.xml#p0685a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

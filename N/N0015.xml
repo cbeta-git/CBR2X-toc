@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0077a01">一偈集</cblink>
+	<ol>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0077a13">第一品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0080a02">第二品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0082a02">第三品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0084a02">第四品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0086a02">第五品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0088a02">第六品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0090a02">第七品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0092a02">第八品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0094a02">第九品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0096a02">第十品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0098a04">第十一品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0100a03">第十二品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0106a02">二偈集</cblink>
+	<ol>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0106a05">第一品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0108a12">第二品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0111a08">第三品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0114a02">第四品</cblink></li>
+		<li><cblink href="XML/N/N28/N28n0015_001.xml#p0117a02">第五品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0121a03">三偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0127a03">四偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0133a03">五偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0140a03">六偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0149a03">七偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0153a03">八偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0156a03">九偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0158a03">十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0165a03">十一偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0167a03">十二偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0170a03">十三偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0172a03">一四偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0175a03">一六偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0179a03">二十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0200a03">三十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0211a03">四十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0216a03">五十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0223a03">六十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0015_001.xml#p0230a03">大集</cblink></li>
+</ol>
+</nav>
+</body></html>

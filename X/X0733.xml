@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X42/X42n0733_002.xml#p0001a04">目次</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_002.xml#p0001c02">飾宗義記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X42/X42n0733_002.xml#p0001c04">第二本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_002.xml#p0017c18">第二末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_003.xml#p0035b04">第三本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_003.xml#p0053a14">第三末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_004.xml#p0072a05">第四本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_004.xml#p0090a22">第四末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_005.xml#p0114b04">第五本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_005.xml#p0139a19">第五末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_006.xml#p0159b08">第六本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_006.xml#p0182a04">第六末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_007.xml#p0205a19">第七本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_007.xml#p0222a11">第七末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_008.xml#p0244a10">第八本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_008.xml#p0261b22">第八末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_010.xml#p0281a16">第十本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0733_010.xml#p0294b08">第十末</cblink></li>
+</ol>
+</nav>
+</body></html>

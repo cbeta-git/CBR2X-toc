@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0649_001.xml#p0727b11">1 無邊善方便行品</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0649_002.xml#p0731b20">2 先世勤相應品</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0649_003.xml#p0739b11">3 授記品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0649_001.xml#p0727b08">第一</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0649_002.xml#p0731b17">第二</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0649_003.xml#p0736a13">第三</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0649_004.xml#p0741c22">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

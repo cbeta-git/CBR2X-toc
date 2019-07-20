@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2073_001.xml#p0153a14">1 部類</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_001.xml#p0153b16">2 隱顯</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_001.xml#p0153c24">3 傳譯</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_001.xml#p0155b10">4 支流</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_001.xml#p0156b16">5 論釋</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_002.xml#p0158a11">6 講解</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2073_002.xml#p0158a11">1</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2073_003.xml#p0161c19">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2073_004.xml#p0165a23">7 諷誦</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_004.xml#p0167b22">8 轉讀</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_005.xml#p0170c15">9 書寫</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_005.xml#p0172a14">10 雜述</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2073_001.xml#p0153a09">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_002.xml#p0158a08">第二</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_003.xml#p0161c19">第三</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_004.xml#p0165a07">第四</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2073_005.xml#p0170c11">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

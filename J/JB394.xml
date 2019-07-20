@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB394_001.xml#p0667a01">國清語錄</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB394_001.xml#p0667a03">住天台國清禪寺語錄一</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB394_002.xml#p0672b03">住天台國清禪寺語錄二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J37/J37nB394_003.xml#p0677b01">真如語錄</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB394_003.xml#p0677b03">住真如禪寺語錄一</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB394_004.xml#p0682a03">住真如禪寺語錄二</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB394_005.xml#p0687a03">住真如禪寺語錄三</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J37/J37nB394_006.xml#p0692c01">通玄語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_007.xml#p0697a01">和寒山詩</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB394_007.xml#p0697a01">序</cblink>
+		<ol>
+			<li><cblink href="XML/J/J37/J37nB394_007.xml#p0697a01">善酇序</cblink></li>
+			<li><cblink href="XML/J/J37/J37nB394_007.xml#p0697b01">閭丘胤序</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J37/J37nB394_007.xml#p0698a01">卷上</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB394_008.xml#p0702c01">卷下</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB394_008.xml#p0706c01">附</cblink>
+		<ol>
+			<li><cblink href="XML/J/J37/J37nB394_008.xml#p0706c01">和豐干禪師詩</cblink></li>
+			<li><cblink href="XML/J/J37/J37nB394_008.xml#p0706c21">和拾得大士詩</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB394_001.xml#p0667a01">第一</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_002.xml#p0672b01">第二</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_003.xml#p0677b01">第三</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_004.xml#p0682a01">第四</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_005.xml#p0687a01">第五</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_006.xml#p0692c01">第六</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_007.xml#p0698a01">第七</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB394_008.xml#p0702c01">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

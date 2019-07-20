@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0722_001.xml#p0669a02">No. 722-A 刪定比丘尼戒本序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0722_001.xml#p0669b08">四分刪定比丘尼戒本</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0722_001.xml#p0679b20">No. 722-B</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a02">音義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a03">前序</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a04">戒序</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a05">八夷</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a06">僧殘</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a07">捨墮</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a09">單提</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a15">提舍</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a16">眾學</cblink></li>
+		<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a18">略教</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X40/X40n0722_001.xml#p0680a20">No. 722-C 佛法東流千有餘載</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0722_001.xml#p0669b10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

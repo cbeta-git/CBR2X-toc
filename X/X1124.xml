@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1124_001.xml#p0545a03">律要後集目次</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1124_001.xml#p0545a19">重定授菩薩戒法</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1124_001.xml#p0546b03"> 䟦語</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1124_001.xml#p0546b16">學菩薩戒法</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0546b22">一嚴道場</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0546c06">二淨三業</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0546c12">三結界</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0546c19">四修供養</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0547a12">五讚禮歸依</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0547b16">六悔除惡罪</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0547c01">七敬白請證</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0547c13">八正誦戒經</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0547c23">九發誓禮佛</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1124_001.xml#p0548b16">十發願迴向</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X60/X60n1124_001.xml#p0550c15">毗尼後集問辯</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1124_001.xml#p0545a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

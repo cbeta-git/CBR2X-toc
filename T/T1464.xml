@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1464_001.xml#p0851a03">序</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_001.xml#p0851b14">波羅夷法</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1464_001.xml#p0851b14">1</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1464_002.xml#p0857b02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1464_003.xml#p0860b19">僧殘法</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1464_003.xml#p0860b19">1</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1464_004.xml#p0864c16">2</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1464_005.xml#p0869a02">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1464_006.xml#p0874a27">二不定及三十捨墮法</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_007.xml#p0878c21">波逸提法</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1464_007.xml#p0878c21">1</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1464_008.xml#p0884c02">2</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1464_009.xml#p0887b15">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1464_010.xml#p0894a26"> 𤿺麗提舍尼</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_010.xml#p0894c25">尸叉罽賴尼</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1464_001.xml#p0851b10">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_002.xml#p0857b02">第二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_003.xml#p0860b16">第三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_004.xml#p0864c16">第四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_005.xml#p0869a02">第五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_006.xml#p0874a24">第六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_007.xml#p0878c18">第七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_008.xml#p0884c02">第八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_009.xml#p0887b15">第九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1464_010.xml#p0893b02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

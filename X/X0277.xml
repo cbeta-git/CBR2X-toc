@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0277_001.xml#p0509c02">No. 277-A 首楞嚴經懸鏡序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0277_001.xml#p0510b05">No. 277-B 首楞嚴經懸鏡序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0277_001.xml#p0510c01">首楞嚴經懸鏡</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0277_001.xml#p0510c04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

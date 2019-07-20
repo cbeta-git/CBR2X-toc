@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0838_001.xml#p0118a05">No. 838-A 刻法盈俱舍頌疏敘記序</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0838_001.xml#p0118b10">俱舍頌疏序記</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0838_001.xml#p0123b12">No. 838-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0838_001.xml#p0118b12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

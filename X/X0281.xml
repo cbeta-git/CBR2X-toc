@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0688b02">No. 281-A 大佛頂首楞嚴經圓通疏序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0689a02">No. 281-B 楞嚴經圓通疏序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0689c11">No. 281-C 大佛頂首楞嚴經圓通疏序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0691a01">圓通疏引用并曾所經目古今書疏</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0691c01">圓通疏凡例(八條)</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0692b02">No. 281-D 大佛頂首楞嚴經會解敘</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0693b06">No. 281-E</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0693b24">會解所引教禪諸師名目</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0694a01">楞嚴經圓通疏</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_010.xml#p0955b07">No. 281-F 勸持敘</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_010.xml#p0955c13">No. 281-G</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0281_001.xml#p0694a02">第一</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_002.xml#p0716b01">第二</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_003.xml#p0737a15">第三</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_004.xml#p0761a11">第四</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_005.xml#p0799b08">第五</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_006.xml#p0828c01">第六</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_007.xml#p0855a19">第七</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_008.xml#p0877c01">第八</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_009.xml#p0913c20">第九</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0281_010.xml#p0936b01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p0999a03">真心直說序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p0999a25">重刻真心直說序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p0999b12">真心正信</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p0999c11">真心異名</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1000a10">真心妙體</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1000b12">真心妙用</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1000c01">真心體用一異</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1000c13">真心在迷</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1000c28">真心息妄</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1001c22">真心四儀</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1002a20">真心所在</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1002b05">真心出死</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1002c03">真心正助</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1003a02">真心功德</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1003a20">真心驗功</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1003b07">真心無知</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p1003c21">真心所往</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2019A_001.xml#p0999b10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

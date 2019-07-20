@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0593_001.xml#p0633a01">法華經文句輔正記目次</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_001.xml#p0633b20">前文</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_001.xml#p0633c01">釋序品第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_003.xml#p0685b01">釋方便品第二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_005.xml#p0712c07">釋譬喻品第三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_006.xml#p0729c03">釋信解品第四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_007.xml#p0739a21">釋藥草喻品第五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_007.xml#p0746b04">釋授記品第六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_007.xml#p0747b12">釋化城喻品第七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_007.xml#p0757a04">釋五百弟子授記品第八</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_007.xml#p0759c14">釋人記品第九</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_008.xml#p0760b21">釋法師品第十</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_008.xml#p0765b03">釋見寶塔品第十一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_008.xml#p0767c17">釋提婆品第十二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_008.xml#p0772a08">釋勸持品第十三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_008.xml#p0773b07">釋安樂行品第十四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_009.xml#p0779b12">釋涌出品第十五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_009.xml#p0782a22">釋壽量品第十六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_009.xml#p0792a19">釋分別功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0794c03">釋隨喜功德品第十八</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0795c10">釋法師功德品第十九</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0797b07">釋不輕品第二十</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0799a18">釋神力品第二十一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0799c06">釋囑累品第二十二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0800b18">釋藥王品第二十三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0802b09">釋妙音品第二十四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0803b15">釋普門品第二十五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0812c14">釋陀羅尼品第二十六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0813c05">釋嚴王品第二十七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0815a13">釋普賢品第二十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0593_001.xml#p0633b16">第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_002.xml#p0655a08">第二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_003.xml#p0676c03">第三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_004.xml#p0697a18">第四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_005.xml#p0712c04">第五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_006.xml#p0729c01">第六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_007.xml#p0739a18">第七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_008.xml#p0760b18">第八</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_009.xml#p0779b09">第九</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0593_010.xml#p0794c01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

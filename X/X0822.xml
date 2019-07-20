@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X50/X50n0822_001.xml#p0829a02">No. 822-A 成唯識論證義自序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0822_001.xml#p0830b04">成唯識論證義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X50/X50n0822_001.xml#p0830b06">第一</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0822_002.xml#p0854c10">第二</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0822_003.xml#p0876b03">第三</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_004.xml#p0001a03">第四</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_005.xml#p0018b06">第五</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_006.xml#p0033c08">第六</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_007.xml#p0052c03">第七</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_008.xml#p0077a19">第八</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_009.xml#p0100b09">第九</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0822_010.xml#p0126c14">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

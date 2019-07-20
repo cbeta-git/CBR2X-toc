@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1730_002.xml#p0973b14">無生行品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_002.xml#p0977a29">本覺利品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_002.xml#p0982b11">入實際品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_003.xml#p0990b18">真性空品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_003.xml#p0996a28">如來藏品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_003.xml#p1001a20">總持品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1730_001.xml#p0961a03">第一</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_002.xml#p0973b11">第二</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1730_003.xml#p0990b15">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

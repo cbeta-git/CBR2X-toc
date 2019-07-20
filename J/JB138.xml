@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J24/J24nB138_001.xml#p0373a02">機緣</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB138_001.xml#p0374c26">示眾</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB138_002.xml#p0381b02">室中語要</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB138_002.xml#p0387b03">垂示代語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J24/J24nB138_001.xml#p0373a01">第一</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB138_002.xml#p0381b01">第二</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB138_003.xml#p0388c01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2147_001.xml#p0150a18">眾經目錄序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_001.xml#p0150c07">單本</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2147_001.xml#p0150c09">大乘經單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_001.xml#p0153a17">大乘律單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_001.xml#p0153b07">大乘論單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_001.xml#p0154a03">小乘經單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_001.xml#p0155b07">小乘律單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_001.xml#p0155c13">小乘論單本</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2147_002.xml#p0156a25">重翻</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2147_002.xml#p0156a27">大乘經重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_002.xml#p0159c03">大乘律重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_002.xml#p0159c08">大乘論重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_002.xml#p0159c22">小乘經重翻</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2147_002.xml#p0161b03">賢聖集傳</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_003.xml#p0162a06">別生</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2147_003.xml#p0162a08">大乘別生</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_003.xml#p0163c15">大乘別生抄</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_003.xml#p0165a17">小乘出別生</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_003.xml#p0169c19">小乘別生抄</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2147_003.xml#p0172b14">別集抄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2147_004.xml#p0172b28">五分疑偽</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_005.xml#p0175a28">闕本</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2147_001.xml#p0150c05">第一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_002.xml#p0156a22">第二</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_003.xml#p0162a03">第三</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_004.xml#p0172b25">第四</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2147_005.xml#p0175a25">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

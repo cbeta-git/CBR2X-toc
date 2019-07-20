@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/L/L164/L164n1668_001.xml#p0003a01">御錄宗鏡大綱序</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_001.xml#p0005a02">宗鏡錄序</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_001.xml#p0009b11">標宗章第一</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_001.xml#p0011b11">問答章第二</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_019.xml#p0301b10">引證章第三</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/L/L164/L164n1668_001.xml#p0005a01">第一</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_002.xml#p0024a01">第二</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_003.xml#p0041b01">第三</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_004.xml#p0057b01">第四</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_005.xml#p0072b01">第五</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_006.xml#p0083b01">第六</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_007.xml#p0100a01">第七</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_008.xml#p0117b01">第八</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_009.xml#p0131a01">第九</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_010.xml#p0146a01">第十</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_011.xml#p0165b01">第十一</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_012.xml#p0181b01">第十二</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_013.xml#p0197b01">第十三</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_014.xml#p0212a01">第十四</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_015.xml#p0229a01">第十五</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_016.xml#p0245b01">第十六</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_017.xml#p0261b01">第十七</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_018.xml#p0276b01">第十八</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_019.xml#p0292b01">第十九</cblink></li>
+	<li><cblink href="XML/L/L164/L164n1668_020.xml#p0311b01">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

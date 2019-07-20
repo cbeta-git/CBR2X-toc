@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0100a05">No. 476-A 林子自書金剛統論卷端</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0100b15">小引</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0100c08">如來所說我義卷之一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0103c04">如來所說我義卷之二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0106c19">如來所說我義卷之三</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0109c20">如來所說我義卷之四</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0113a14">No. 476-B 䟦</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0113b09">附答儒氏</cblink>
+	<ol>
+		<li><cblink href="XML/X/X25/X25n0476_001.xml#p0113b10">不住相</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0476_001.xml#p0113c18">大身</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0476_001.xml#p0114a12">無說</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0476_001.xml#p0114a21">佛果羅漢果</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0476_001.xml#p0114b07">如來</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0476_001.xml#p0100b13">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

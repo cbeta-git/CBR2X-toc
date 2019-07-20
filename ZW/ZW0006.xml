@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0101a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0101a17">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0101a22">序</cblink></li>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0104a03">上卷　有十二篇　攝於眾務</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0104a06">標宗顯德篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0105a05">集僧通局篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0106a06">足數眾相篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0107a03">受欲是非篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0107a18">通辨羯磨篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0110a17">結界方法篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0112a19">僧網大綱篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0114a18">受戒緣集篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0117a12">師資相攝篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0118a13">說戒正儀篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0119a19">安居策修篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0122a06">自恣宗要篇</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0123a22">中卷　有四篇　遵於戒體　持犯立懺</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0124a01">篇聚名報篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0124a20">隨戒釋相篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0136a02">持犯方軌篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0142a07">懺六聚法篇</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0149a18">下卷　明隨機要行　有十四篇</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0149a21">二衣總別篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0156a03">四藥受淨篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0159a06">鉢器制聽篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0159a20">對施興治篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0160a11">頭陀行儀篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0161a12">僧像致敬篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0162a10">訃請設則篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0163a09">道俗化方篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0164a18">主客相待篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0165a06">瞻病送終篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0165a16">諸雜要行篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0166a03">沙彌別行篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0167a03">尼眾別行篇</cblink></li>
+			<li><cblink href="XML/ZW/ZW01/ZW01n0006_001.xml#p0168a11">諸部別行篇</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

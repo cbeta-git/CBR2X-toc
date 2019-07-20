@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0511c05">No. 1193-A 蓮邦消息</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0512a01">蓮邦消息目次</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0512a16">性相光明品第一</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1193_001.xml#p0512a17">前文</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1193_001.xml#p0513a01">圖說</cblink>
+		<ol>
+			<li><cblink href="XML/X/X62/X62n1193_001.xml#p0513a01">小世界圖</cblink></li>
+			<li><cblink href="XML/X/X62/X62n1193_001.xml#p0514a01">小千世界圖</cblink></li>
+			<li><cblink href="XML/X/X62/X62n1193_001.xml#p0515a01">中千世界圖</cblink></li>
+			<li><cblink href="XML/X/X62/X62n1193_001.xml#p0516a01">大千世界圖</cblink></li>
+			<li><cblink href="XML/X/X62/X62n1193_001.xml#p0517a01">剎塵世界圖</cblink></li>
+			<li><cblink href="XML/X/X62/X62n1193_001.xml#p0518a01">一蓮花世界海圖</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X62/X62n1193_001.xml#p0519a01">後文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0519c09">背覺合塵品第二</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0520c11">消息輪回品第三</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0521b12">淨土因緣品第四</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0523a08">精進無虧品第五</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0524a16">定慧相隨品第六</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0525c01">念念現前品第七</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0527a01">往生入位品第八</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0528a22">身土圓融品第九</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0529a13">附</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1193_001.xml#p0529a13">No. 1193-B 駐雲飛十首(戒十惡也)</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1193_001.xml#p0530a02">No. 1193-C 臨江仙</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1193_001.xml#p0512a14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

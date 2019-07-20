@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0304_001.xml#p0558a04">一序分</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0304_001.xml#p0558a45">二正宗分</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0304_001.xml#p0584a70">三流通分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0304_001.xml#p0558a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

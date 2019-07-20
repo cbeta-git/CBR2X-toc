@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X29/X29n0596_001.xml#p0145a04">妙經文句私志記目次</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_001.xml#p0145b20">序品第一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_002.xml#p0168c03">從釋文方軌盡如是因緣釋</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_003.xml#p0192a23">從約教釋如是終經文住字</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_004.xml#p0214b03">從經王城終皆是阿羅漢釋位義</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_005.xml#p0239a16">從歎羅漢德盡目蓮</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_006.xml#p0268a14">從迦旃延訖菩薩眾氣類</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_007.xml#p0297a23">從竪嘆菩薩德盡通序</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_008.xml#p0326a19">入別序釋</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_009.xml#p0354b24">入疑念序釋</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_010.xml#p0377a18">方便品第二盡釋題</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_011.xml#p0398b17">方便品文從初盡於疑請</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_012.xml#p0419a08">從廣開顯盡過去佛章開人天乘總問答</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_013.xml#p0453a21">盡方便品文釋</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_014.xml#p0472a11">入譬喻品第三釋文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X29/X29n0596_001.xml#p0145b17">第一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_002.xml#p0168c01">第二</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_003.xml#p0192a20">第三</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_004.xml#p0214b01">第四</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_005.xml#p0239a13">第五</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_006.xml#p0268a11">第六</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_007.xml#p0297a20">第七</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_008.xml#p0326a16">第八</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_009.xml#p0354b21">第九</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_010.xml#p0377a15">第十</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_011.xml#p0398b14">第十一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_012.xml#p0419a05">第十二</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_013.xml#p0453a18">第十三</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0596_014.xml#p0472a08">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>

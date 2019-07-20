@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0495a03">臨濟慧照玄公大宗師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0495a25">臨濟慧照玄公大宗師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0495c09">臨濟慧照玄公大宗師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0496a18">鎮州臨濟慧照禪師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0503a16">勘辨</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0504b27">行錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1985_001.xml#p0496b11">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

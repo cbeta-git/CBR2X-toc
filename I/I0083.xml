@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/I/I01/I01n0083_001.xml#p0225a00">之一　碑側</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0083_001.xml#p0225b00">之二　碑陽</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0083_001.xml#p0225c00">之三　碑側</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0083_001.xml#p0225d00">之四　碑陰</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/I/I01/I01n0083_001.xml#p0225a00">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

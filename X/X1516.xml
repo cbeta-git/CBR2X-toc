@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0001a02">No. 1516-A 釋氏通鑑序</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0001b02">No. 1516-B 釋氏通鑑序</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0001c03">No. 1516-C 釋氏通鑑序</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0002a13">歷代編年釋氏通鑑採摭經傳錄</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0002c08">歷代編年釋氏通鑑目錄</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0008a07">周</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0013b10">秦</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0013c16">西漢</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0015b04">後漢</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_002.xml#p0018b09">三國</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_002.xml#p0019c17">西晉</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_003.xml#p0022a11">東晉</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_004.xml#p0033c23">南北朝</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_006.xml#p0064a21">隋</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_007.xml#p0074b04">唐</cblink>
+	<ol>
+		<li><cblink href="XML/X/X76/X76n1516_007.xml#p0074b06">高祖神堯太武皇帝(淵)</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_007.xml#p0077c11">太宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_008.xml#p0085c02">高宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_008.xml#p0091c10">則天皇后</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_008.xml#p0093a17">中宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_008.xml#p0094b15">睿宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_009.xml#p0095a21">元宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_009.xml#p0100a08">肅宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_009.xml#p0101a13">代宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_009.xml#p0103b14">德宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_010.xml#p0105b09">德宗(下)</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_010.xml#p0106c04">順帝</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_010.xml#p0107a22">憲宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_010.xml#p0112b09">穆宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_010.xml#p0113a14">敬宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_010.xml#p0113b15">文宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_011.xml#p0115b13">武宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_011.xml#p0116a19">宣宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_011.xml#p0119b23">懿宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_011.xml#p0122a20">僖宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_011.xml#p0124b22">昭宗</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_011.xml#p0127a04">哀帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X76/X76n1516_012.xml#p0127b18">五代</cblink>
+	<ol>
+		<li><cblink href="XML/X/X76/X76n1516_012.xml#p0127b19">後梁</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_012.xml#p0129a18">後唐</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_012.xml#p0130c19">後晉</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_012.xml#p0131c24">後漢</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1516_012.xml#p0132b16">後周</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X76/X76n1516_001.xml#p0008a03">第一</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_002.xml#p0015b21">第二</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_003.xml#p0022a07">第三</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_004.xml#p0033c19">第四</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_005.xml#p0047a06">第五</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_006.xml#p0058c14">第六</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_007.xml#p0074b01">第七</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_008.xml#p0085b21">第八</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_009.xml#p0095a16">第九</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_010.xml#p0105b04">第十</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_011.xml#p0115b08">第十一</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1516_012.xml#p0127b14">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

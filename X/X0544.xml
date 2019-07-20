@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0544_001.xml#p0831b02">No. 544-A 林子心經釋略槩論總序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0544_001.xml#p0831c02">No. 544-B 附心經釋論就正小柬</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0544_001.xml#p0832a01">心經釋略</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0544_001.xml#p0835c02">No. 544-C 自書心經釋略卷後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0544_001.xml#p0832a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

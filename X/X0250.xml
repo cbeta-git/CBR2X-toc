@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0250_001.xml#p0012a02">No. 250-A 圓覺疏鈔隨文要解序</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_001.xml#p0012b11">No. 250-B 圓覺疏鈔隨文要解(并序)</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_001.xml#p0012c15">科標總題</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_001.xml#p0013c21">鈔序解</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0013c21">前文</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014a14">一通明所受</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014a20">二總敘能受</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014a24">三別明所歸</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014b11">四章疏該博</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014b18">五別嘆義鈔</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014c04">六略敘本懷</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0014c19">七通敘挍證</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0015a12">八因敘刊勒</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0015a15">九斟酌取舍</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0015b01">十謙己勉勵</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0015b08">十一朝代年月</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0250_001.xml#p0015b21">隨文要解</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0250_001.xml#p0015b21">鈔一</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_002.xml#p0031a10">鈔二</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_003.xml#p0044b13">鈔三</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_005.xml#p0072a01">鈔四</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_007.xml#p0088a18">鈔五</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_008.xml#p0099c11">鈔六</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_009.xml#p0108a03">疏一末　鈔六末</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_009.xml#p0111c19">疏二　鈔七</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_010.xml#p0119a19">疏二中　鈔七末</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_010.xml#p0120c21">疏二　鈔八　大鈔十三</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_011.xml#p0130b03">疏二　鈔八末　大鈔十六</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_011.xml#p0135c23">疏三(彌勒章)</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_012.xml#p0145b22">疏三(辨音章)　鈔十一　大鈔二十三</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_012.xml#p0146a06">疏四(淨業章)</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0250_012.xml#p0148b10">鈔十二　大鈔二十五</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0250_012.xml#p0151b01">絕筆頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0250_001.xml#p0012c12">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_002.xml#p0024c18">第二</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_003.xml#p0037a13">第三</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_004.xml#p0049c01">第四</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_005.xml#p0061c21">第五</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_006.xml#p0074a10">第六</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_007.xml#p0085b14">第七</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_008.xml#p0097a01">第八</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_009.xml#p0108a01">第九</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_010.xml#p0119a17">第十</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_011.xml#p0130b01">第十一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0250_012.xml#p0140c22">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

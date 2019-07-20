@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634a09">前文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634a15">普禮三寶</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634b13">禮釋迦世尊</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634b20">禮彌陀佛</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634c02">禮彌勒菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634c09">禮文殊菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634c15">禮普賢菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634c21">禮觀自在菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635a07">禮大勢至菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635a13">禮地藏菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635a20">禮虗空藏菩薩</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635b01">禮迦葉尊者</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635b06">禮優波離尊者</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635b11">禮阿難尊者</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635b16">五悔法</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0635c16">附寶積經</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0636b14">音釋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1492_001.xml#p0634a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

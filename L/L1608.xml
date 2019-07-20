@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/L/L143/L143n1608_001.xml#p0507a01">序偈</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_001.xml#p0508a01">序</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_001.xml#p0508b11">科分</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_001.xml#p0512a01">大乘經律論</cblink>
+	<ol>
+		<li><cblink href="XML/L/L143/L143n1608_001.xml#p0512a02">經</cblink>
+		<ol>
+			<li><cblink href="XML/L/L143/L143n1608_001.xml#p0512a02">般若部</cblink></li>
+			<li><cblink href="XML/L/L143/L143n1608_001.xml#p0523b05">寶積部</cblink></li>
+			<li><cblink href="XML/L/L143/L143n1608_002.xml#p0539a15">大集部</cblink></li>
+			<li><cblink href="XML/L/L143/L143n1608_002.xml#p0544b12">華嚴部</cblink></li>
+			<li><cblink href="XML/L/L143/L143n1608_002.xml#p0549b09">涅槃部</cblink></li>
+			<li><cblink href="XML/L/L143/L143n1608_002.xml#p0552a10">其他</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/L/L143/L143n1608_005.xml#p0610a07">律</cblink></li>
+		<li><cblink href="XML/L/L143/L143n1608_005.xml#p0613b03">論</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/L/L143/L143n1608_006.xml#p0626a06">小乘經律論</cblink>
+	<ol>
+		<li><cblink href="XML/L/L143/L143n1608_006.xml#p0626a06">經</cblink></li>
+		<li><cblink href="XML/L/L143/L143n1608_007.xml#p0656a01">律</cblink></li>
+		<li><cblink href="XML/L/L143/L143n1608_008.xml#p0663b09">論</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/L/L143/L143n1608_008.xml#p0671b02">聖賢集、傳記、經錄等</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_009.xml#p0684b04">貞元譯經</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_010.xml#p0699a01">宋代新譯經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/L/L143/L143n1608_001.xml#p0512a01">第一</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_002.xml#p0532b01">第二</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_003.xml#p0553a01">第三</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_004.xml#p0571b01">第四</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_005.xml#p0594b01">第五</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_006.xml#p0616a01">第六</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_007.xml#p0638b01">第七</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_008.xml#p0659b01">第八</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_009.xml#p0679b01">第九</cblink></li>
+	<li><cblink href="XML/L/L143/L143n1608_010.xml#p0699a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

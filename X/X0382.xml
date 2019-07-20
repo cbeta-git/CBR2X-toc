@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0382_001.xml#p0621c04">地藏菩薩本願經科註目次</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0382_001.xml#p0622a01">地藏經科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0382_001.xml#p0622a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

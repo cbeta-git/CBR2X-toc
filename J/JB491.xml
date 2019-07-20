@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0475a03">提唱</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0476b21">酬問</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0478b01">普說</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0479a21">頌古</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0480c11">讚頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0480c12">釋迦讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0480c16">文殊讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0480c20">普賢讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0480c24">觀音讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0480c29">達磨讚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481a04">諸經頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481a05">華嚴經頌</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481a24">讀般若經妙相品</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481a27">讀寶積經</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481a30">一字奇特經</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b02">諸法本無經</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b05">閱大藏經完滿</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b08">雜頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b09">華藏世界圖</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b13">太極圖</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b16">堅密軒</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b19">恕堂忠禪師像</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481b22">梅谷墨禪師乞語</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c01">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c02">有嘲予好談以偈自解</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c06">贈王左江居士</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c09">答西丘笑菴竺源諸子問</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c18">閒居四首和墨林</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c23">潔山一宿辭去</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0481c26">示雪洲坐禪</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482a01">節堂辭去</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482a04">示冬谿牧牛</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482a11">山居</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482a24">示宜興證無為</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482a27">示學者誦金剛經</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482a30">和雲東詠雨</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b05">陶侍御見湖論知字</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b07">弔谷泉禪師</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b10">聞董蘿石訃</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b13">示璇月溪</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b16">焚香</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b19">樂閒誦心經有省</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b22">過古溪禪師塔院</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b24">贈靜愛山</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b27">睡覺</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482b30">示老者</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482c03">示少年</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB491_001.xml#p0482c06">示滄萬川</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0483a01">行狀</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0484a01">跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB491_001.xml#p0475a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

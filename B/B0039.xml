@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0039_001.xml#p0285a06">凡例</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0039_001.xml#p0286a01">會譯</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0039_001.xml#p0318a02">附論奘譯本之特徵</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0039_001.xml#p0283a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0070a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0071a01">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0071a06">文殊師利品第五</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0100a17">不思議品第六</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0112a01">觀眾生品第七</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0136a01">佛道品第八</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0152a01">入不二法門品第九</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0162a04">香積佛品第十</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0174a14">菩薩行品第十一</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0190a18">見阿閦佛品第十二</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0201a03">法供養品第十三</cblink></li>
+		<li><cblink href="XML/ZW/ZW03/ZW03n0025_002.xml#p0211a05">囑累品第十四</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

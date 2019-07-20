@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J30/J30nB259_001.xml#p0905a01">述意</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB259_001.xml#p0905a19">凡例</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB259_001.xml#p0905b10">略釋</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB259_001.xml#p0916a10">附文</cblink>
+	<ol>
+		<li><cblink href="XML/J/J30/J30nB259_001.xml#p0916a10">跋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J30/J30nB259_001.xml#p0916a19">事義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J30/J30nB259_001.xml#p0905b10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

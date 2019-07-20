@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0641_001.xml#p0021a02">No. 641-A 刻觀音玄義疏記序</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0641_001.xml#p0021b05">No. 641-B 重刻觀音玄疏記會本附言</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0641_001.xml#p0022a04">觀音玄義記條箇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0641_001.xml#p0022a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB248_001.xml#p0795a01">敘</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_001.xml#p0795b03">語錄一</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_002.xml#p0799b03">語錄二</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_003.xml#p0803b03">語錄三</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_004.xml#p0807b03">頌古</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_005.xml#p0811c03">垂問</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_005.xml#p0812a19">問畣機緣</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_005.xml#p0812c24">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0812c25">送禪人行腳</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813a01">和石頭回禪師艸菴歌</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813a13">靈峰山歌</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813a28">拄杖歌</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813b08">示禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813b12">除夕</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813b16">和靈澄禪師山居詩</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813b23">賦得參差竹影上東窗</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813b27">和越五陳居士韻</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c01">壽本師天童和尚五秩</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c05">送友住剡谿</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c09">擬梅送友住大梅寺</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c13">大梅</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c17">龍山</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c21">亮公</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c25">船子</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0813c29">次宋學士靈峰留題韻呈本師和尚</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a03">臘月三鼓出坡口占</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a06">山居</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a11">荷上露珠</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a14">破艸鞋</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a17">臘月送亡僧值雨</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a22">辭世偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J29/J29nB248_005.xml#p0814a28">佛事</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB248_001.xml#p0795b01">第一</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_002.xml#p0799b01">第二</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_003.xml#p0803b01">第三</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_004.xml#p0807b01">第四</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB248_005.xml#p0811c01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

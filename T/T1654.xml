@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1654_001.xml#p0490a25">1 因緣心論頌</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1654_001.xml#p0490b16">2 因緣心論釋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1654_001.xml#p0490a25">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

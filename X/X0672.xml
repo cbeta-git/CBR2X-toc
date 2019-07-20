@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737b07">初總標</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737b14">二別明</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737b14">初無常無我覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737c06">二常修少欲覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737c12">三知足守道覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737c18">四常行精進覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0738a02">五多聞智慧覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0738a08">六布施平等覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0738a15">七出家梵行覺</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0672_001.xml#p0738a23">八大心普濟覺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X37/X37n0672_001.xml#p0738b05">三結歎</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0672_001.xml#p0737b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

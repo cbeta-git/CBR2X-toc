@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1719_001.xml#p0151a06">釋序品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1719_001.xml#p0151a06">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1719_002.xml#p0172b02">2</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1719_003.xml#p0194a24">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1719_003.xml#p0209b25">釋方便品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1719_003.xml#p0209b25">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1719_004.xml#p0215a07">2</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1719_005.xml#p0234c18">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1719_005.xml#p0253a02">釋譬喻品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1719_005.xml#p0253a02">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1719_006.xml#p0255c04">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1719_007.xml#p0274b14">釋信解品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_007.xml#p0287c05">釋藥草喻品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0295c08">釋授記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0296c06">釋化城喻品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0302c22">釋五百弟子受記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0304a13">釋受學無學人記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0304b05">釋法師品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0309c28">釋見寶塔品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0312b14">釋提婆達多品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0314c08">釋持品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_009.xml#p0316a24">釋安樂行品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_009.xml#p0323b05">釋踊出品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_009.xml#p0327b23">釋壽量品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1719_009.xml#p0327b23">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1719_010.xml#p0337b27">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0340c21">釋分別功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0344a07">釋隨喜功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0346a06">釋法師功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0347c08">釋常不輕菩薩品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0349c16">釋如來神力品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0350b21">釋囑累品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0354a22">釋藥王品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0355b15">釋妙音菩薩品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0356b18">釋普門品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0358a07">釋陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0358b12">釋嚴王品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0359a03">釋普賢品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1719_001.xml#p0151a03">第一上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_001.xml#p0158a02">第一中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_001.xml#p0165a21">第一下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_002.xml#p0172b02">第二上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_002.xml#p0179a26">第二中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_002.xml#p0185c10">第二下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_003.xml#p0194a24">第三上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_003.xml#p0200c02">第三中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_003.xml#p0209b22">第三下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_004.xml#p0215a07">第四上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_004.xml#p0222a17">第四中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_004.xml#p0228a19">第四下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_005.xml#p0234c18">第五上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_005.xml#p0240c11">第五中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_005.xml#p0247c02">第五下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_006.xml#p0255c04">第六上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_006.xml#p0262a02">第六中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_006.xml#p0267c22">第六下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_007.xml#p0274b11">第七上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_007.xml#p0281a12">第七中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_007.xml#p0287c02">第七下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0295c05">第八之一</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0302c19">第八之二</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0304b02">第八之三</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_008.xml#p0309c25">第八之四</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_009.xml#p0316a21">第九上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_009.xml#p0323b02">第九中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_009.xml#p0330a26">第九下</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0337b24">第十上</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0344a04">第十中</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1719_010.xml#p0350b18">第十下</cblink></li>
+</ol>
+</nav>
+</body></html>

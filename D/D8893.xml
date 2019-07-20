@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D34/D34n8893_001.xml#p0002b01">卷一上</cblink></li>
+	<li><cblink href="XML/D/D34/D34n8893_001.xml#p0057b01">卷一下</cblink></li>
+	<li><cblink href="XML/D/D34/D34n8893_002.xml#p0093b01">卷二上</cblink></li>
+	<li><cblink href="XML/D/D34/D34n8893_002.xml#p0122b01">卷二下</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T49/T49n2038_001.xml#p0903a03">續刻釋氏稽古略序</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2038_001.xml#p0903b04">續集稽古略敘</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2038_001.xml#p0903c09">元</cblink>
+	<ol>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0903c20">世祖</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0909a09">成宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0910a02">武宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0910c02">仁宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0912b03">英宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0913a28">泰定帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0913b12">明宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0913b19">文宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0913c24">寧宗</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_001.xml#p0914a07">順宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T49/T49n2038_002.xml#p0921a06">明</cblink>
+	<ol>
+		<li><cblink href="XML/T/T49/T49n2038_002.xml#p0921a10">太祖高皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0939c21">建文皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0941a07">太宗文皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0943b25">仁宗昭皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0943c19">宣宗章皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0944c06">英宗睿皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0945c06">景皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0946a18">英宗復辟</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0946c16">憲宗純皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0947b16">孝宗敬皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0948a08">武宗毅皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0948c25">世宗肅皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0950b03">穆宗莊皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0950c24">神宗顯皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0953b01">光宗貞皇帝</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2038_003.xml#p0953b10">熹宗哲皇帝</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T49/T49n2038_001.xml#p0903c05">第一</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2038_002.xml#p0921a02">第二</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2038_003.xml#p0939c17">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

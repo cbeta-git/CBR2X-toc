@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0054c15">1 因緣品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0055c13">2 稱歎如來品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0057a20">3 降胎品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0058b19">4 如來生品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0059b25">5 梵志占相品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0060b11">6 阿夷決疑品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0061c17">7 入譽論品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0063a18">8 與眾婇女遊居品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0064a13">9 現憂懼品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0066a14">10 閻浮提樹蔭品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0067b23">11 出家品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0069a09">12 車匿品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0070b06">13 瓶沙王問事品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_003.xml#p0072b25">14 為瓶沙王說法品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_003.xml#p0074b12">15 不然阿蘭品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_003.xml#p0076a10">16 降魔品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_004.xml#p0079a18">17 度五比丘品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_004.xml#p0079c09">18 度寶稱品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_004.xml#p0082a07">19 廣度品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_004.xml#p0083c27">20 現大神變品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0088b09">21 昇忉利宮為母說法品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0089a12">22 憶先品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0090a20">23 遊維耶離品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0091c28">24 歎定光佛品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0093c08">25 降象品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0095c14">26 魔勸捨壽品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_006.xml#p0098b28">27 調達入地獄品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_006.xml#p0103a08">28 現乳哺品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_007.xml#p0106b21">29 大滅品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_007.xml#p0109b13">30 嘆無為品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_007.xml#p0112a22">31 舍利品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0193_001.xml#p0054c12">第一</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_002.xml#p0063a15">第二</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_003.xml#p0072b22">第三</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_004.xml#p0079a15">第四</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_005.xml#p0088b06">第五</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_006.xml#p0098b25">第六</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0193_007.xml#p0106b18">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

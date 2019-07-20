@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0574c23">1 大感動品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0576b29">2 等目菩薩說行定品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0577c23">3 等目菩薩神變品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0578a25">4 等目菩薩幻事品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0578c25">5 菩薩樂定品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0579a23">6 等目菩薩大權慧定品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0579b28">7 等目菩薩無量如品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_002.xml#p0580a08">8 權慧清淨品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_002.xml#p0581a14">9 等目菩薩興顯品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_002.xml#p0582c25">10 外身現化品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_003.xml#p0585a09">11 分別身行大慧空品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_003.xml#p0588b01">12 等目菩薩大權慧品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_003.xml#p0590b17">13 等目菩薩悅樂龍王品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0288_001.xml#p0574c19">第一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_002.xml#p0580a05">第二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0288_003.xml#p0585a06">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

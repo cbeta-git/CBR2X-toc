@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB301_001.xml#p0281a01">序</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_001.xml#p0281a21">總目</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_001.xml#p0281c03">住常州夫山祥符寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_001.xml#p0283c23">住台州天台國清寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_001.xml#p0284b01">住蘇州靈嵒崇報寺語一</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_002.xml#p0286a03">住蘇州靈嵒崇報寺語二</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_003.xml#p0290b03">住蘇州靈嵒崇報寺語三</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_004.xml#p0295a03">住蘇州靈嵒崇報寺語四</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_004.xml#p0296b29">住蘇州堯封寶雲寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_005.xml#p0299c03">住蘇州虎丘雲巖寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_005.xml#p0301c21">住秀州金粟廣慧寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_006.xml#p0305b03">住衡州南岳福嚴寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_006.xml#p0306b23">住衡州花藥寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_006.xml#p0307b27">住高峰理山寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_006.xml#p0308b06">住武昌東巖寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_006.xml#p0309b19">住漢陽大別山興國寺語</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_007.xml#p0311b03">靈巖廿一錄卷上</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_008.xml#p0316a03">靈嵒廿一錄卷下</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_009.xml#p0320b03">南岳正續錄卷上</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_010.xml#p0324b03">南岳正續錄卷下</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB301_001.xml#p0281c01">第一</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_002.xml#p0286a01">第二</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_003.xml#p0290b01">第三</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_004.xml#p0295a01">第四</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_005.xml#p0299c01">第五</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_006.xml#p0305b01">第六</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_007.xml#p0311b01">第七</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_008.xml#p0316a01">第八</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_009.xml#p0320b01">第九</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB301_010.xml#p0324b01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

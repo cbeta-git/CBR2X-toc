@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0870a02">No. 340-A 刻淨名疏記序</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0870b05">No. 340-B 刻維摩經疏記辯語</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0870c14">No. 340-C 維摩經疏記序</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0872a15">淨名疏卷第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0875a20">淨名疏卷第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0876a17">淨名疏卷第三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0877b07">淨名疏卷第四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0878a12">淨名疏卷第五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0878c24">淨名疏卷第六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0882a07">淨名疏卷第七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0885b05">淨名疏卷第八</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0889a05">淨名疏卷第九</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0892b13">淨名疏卷第十</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0896a02">淨名疏卷第十一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0898b13">淨名疏卷第十二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0903b08">淨名疏卷第十三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0907a16">淨名疏卷第十四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0910b17">淨名疏卷第十五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0913c06">淨名疏卷第十六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0915c09">淨名疏卷第十七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0917c04">淨名疏卷第十八</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0918c15">淨名疏卷第十九</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0921b12">淨名疏卷第二十</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0923b16">淨名疏卷第二十一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0925b07">淨名疏卷第二十二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0926a17">淨名疏卷第二十三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0928c02">淨名疏卷第二十四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0929c07">淨名疏卷第二十五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0932b23">淨名疏卷第二十六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0934a05">淨名疏卷第二十七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0934b06">淨名疏卷第二十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0340_001.xml#p0872a12">第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_002.xml#p0892b11">第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0340_003.xml#p0915c07">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

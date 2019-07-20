@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0874b05">No. 750-A 佛說目連五百問經略解序</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0874c04">目次</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0875a10">釋題</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0875b05">五篇事品第一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0876b20">問佛事品第二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0879a19">問法事品第三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0880a05">結界法品第四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0881c01">問歲坐事品第五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0883c16">度人事品第六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0884c03">問受戒事品第七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0885c24">受施事品第八</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0887b16">疾病事品第九</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0888a05">死亡事品第十</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0889b04">三衣事品第十一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0889c21">鉢事品第十二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0890b08">雜事品第十三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0896c03">三自歸事品第十四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0897b17">問五戒事品第十五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0898b03">十戒事品第十六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0898b21">問沙彌品第十七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0899b11">歲坐竟懺悔文</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0899c11">此九十日所犯事通威儀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0750_001.xml#p0875a05">第一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0750_002.xml#p0889b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

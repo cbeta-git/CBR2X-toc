@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1271b19">讚夷數文</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1272b07">歎無常文</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1273a23">普啟讚文</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274a11">稱讚忙儞具智王</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274a19">一者明尊</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274a26">收食單偈</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274a27">1 第一疊</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274b06">2 第二疊</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274b11">初聲讚文</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274b24">歎諸護法明使文</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274b26">1 第一疊</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1274c21">2 第二疊</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1275a15">3 第三疊</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1275b11">歎無上明尊偈文</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1275c07">歎五明文</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1275c08">1 第一疊</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2140_001.xml#p1276a03">2 第二疊</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1276a28">歎明界文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2140_001.xml#p1270b20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

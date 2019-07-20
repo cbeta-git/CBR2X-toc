@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0378_001.xml#p0912a22">1 哀泣品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_001.xml#p0914b17">2 四童現生品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_001.xml#p0917b21">3 四童品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0921a22">4 囑累品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0923a05">5 度地獄品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0924a27">6 現諸佛品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0925a25">7 佛國淨品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0925c28">8 天菩薩品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0927a17">9 如來化說法品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0378_001.xml#p0912a19">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0378_002.xml#p0921a19">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

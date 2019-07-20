@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB236_001.xml#p0431c03">上堂</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB236_002.xml#p0436c03">小參</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB236_002.xml#p0437c01">法語</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0437c02">示穎禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0437c11">示允㓓知客</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0437c18">示瞿諳知庫</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0437c26">示敏旃禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438a08">示匡禪人省親</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438a14">示雲監寺</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438a20">示致中禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438a26">示明宗馬居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438b01">示明章李居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438b06">示明忠王居士</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438b11">拈古</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438c21">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438c22">示貫如監院</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438c25">示大省禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0438c28">示洞雲禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a01">示雪幢禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a04">示星槎禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a07">示蓬雪禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a10">示紫橋關主</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a13">示大用監院</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a16">示聞白禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a19">示香雪禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a22">示法直歲</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a25">示惺知庫</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439a28">示靈樞禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b01">示敏修新戒</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b04">示廓曙禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b07">示璽文禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b10">示澄明禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b13">示大宗禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b16">示存文禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b19">示閑雲監院</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b22">示據一知事</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b25">示雲在副寺</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439b28">示字瀾禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c01">示參機禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c04">示洞一禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c07">示雨谷知庫</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c10">示清影禪人托缽</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c13">示謙行者</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c16">示長脈禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c19">示春寰詹居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c22">示爾公王居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c25">示明性陳居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0439c28">示妙圓朱居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a01">示發道李居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a04">示清因陳居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a07">示發誠徐居士持經</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a10">示發曇馮居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a13">示鄂渚海山馬居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a16">復太史宋容菴先生次來韻</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a21">復節崖法弟來韻</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a24">贈密岸禪宿</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a27">贈鼻源禪宿</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440a30">贈月恆禪宿</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b03">贈大峨萬年寺洞初上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b06">贈大峨伏虎寺可聞上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b09">贈雲濟若愚上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b12">贈廣福密印上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b15">贈鼇山時禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b18">贈在邇禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b21">贈菩提端圓禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b24">贈歸龍大谷禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b27">贈東寺端霞禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440b30">贈智周禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c03">贈大龍拳徹禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c06">贈量周禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c09">贈若惕禪人養親</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c12">贈允㓓上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c15">贈悅可禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c20">贈慧目禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c23">贈且拙禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c26">贈廓曙禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0440c29">贈大可禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a02">贈遍圓禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a05">贈上機禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a08">寄溢天上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a11">寄龍潭斷雪禪師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a14">寄君之姚居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a17">寄伯樓熊居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a20">寄開伯禪友</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a23">寄珠林上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a26">寄樹義上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441a29">寄雲臺符居士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441b02">訪鄂渚秀巖上座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441b05">登太白峰</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441b08">鄮山禮舍利塔</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441b11">玲瓏巖禮悟祖爪髮塔</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB236_002.xml#p0441b14">題子美張居士像</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB236_001.xml#p0431c01">第一</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB236_002.xml#p0436c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

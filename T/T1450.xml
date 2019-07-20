@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1450_001.xml#p0099a17">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_002.xml#p0104b14">第二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_003.xml#p0109c02">第三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_004.xml#p0115a22">第四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_005.xml#p0120c19">第五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_006.xml#p0126c02">第六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_007.xml#p0132a02">第七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_008.xml#p0137b09">第八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_009.xml#p0142b16">第九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_010.xml#p0147c02">第十</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_011.xml#p0153b01">第十一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_012.xml#p0158c12">第十二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_013.xml#p0164a16">第十三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_014.xml#p0169c04">第十四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_015.xml#p0175a02">第十五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_016.xml#p0180a18">第十六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_017.xml#p0185c20">第十七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_018.xml#p0190c09">第十八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_019.xml#p0195c24">第十九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1450_020.xml#p0200c24">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

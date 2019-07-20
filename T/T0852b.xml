@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0127b07">1 供養方便會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0129a17">2 菩提幢密印標幟祕密漫荼羅法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0132a18">6 第六會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0132c16">2 第二會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0133a15">3 第三會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0133c29">8 第八會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0134b22">9 第九會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_002.xml#p0135a18">10 第十會</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_002.xml#p0135b18">11 第十一會</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0852b_001.xml#p0127b03">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0852b_002.xml#p0135a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

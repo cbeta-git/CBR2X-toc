@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0365a10">1 心經頌</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0366c18">2 破相論</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0369c19">3 二種入</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0370a29">4 安心法門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0370c11">5 悟性論</cblink>
+	<ol>
+		<li><cblink href="XML/T/T48/T48n2009_001.xml#p0373a29">真性頌</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0373b12">6 血脈論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2009_001.xml#p0365a08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J33/J33nB283_001.xml#p0395a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J33/J33nB283_001.xml#p0395a01">馮甦再來氏序</cblink></li>
+		<li><cblink href="XML/J/J33/J33nB283_001.xml#p0395b11">張方起序</cblink></li>
+		<li><cblink href="XML/J/J33/J33nB283_001.xml#p0395c01">閭丘胤序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J33/J33nB283_001.xml#p0396b04">寒山子詩并和</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB283_001.xml#p0418c05">拾得詩并和</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB283_001.xml#p0422a12">豐干禪師詩并和</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB283_001.xml#p0422b01">後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J33/J33nB283_001.xml#p0396b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

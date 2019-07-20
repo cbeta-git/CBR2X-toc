@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1542_001.xml#p0692b22">1 辯五事品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_001.xml#p0694b03">2 辯諸智品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_002.xml#p0696b14">3 辯諸處品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_002.xml#p0698b27">4 辯七事品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_003.xml#p0702a07">5 辯隨眠品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1542_003.xml#p0702a07">1</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_004.xml#p0704b02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1542_005.xml#p0711b06">6 辯攝等品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1542_005.xml#p0711b06">1</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_006.xml#p0713b02">2</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_007.xml#p0717c21">3</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_008.xml#p0722a04">4</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_009.xml#p0726b10">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1542_010.xml#p0733a17">7 辯千問品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1542_010.xml#p0733a17">1</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_011.xml#p0735b02">2</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_012.xml#p0739c02">3</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_013.xml#p0744a11">4</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_014.xml#p0748b15">5</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_015.xml#p0753a02">6</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_016.xml#p0757b04">7</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1542_017.xml#p0761b21">8</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1542_018.xml#p0766a06">8 辨決擇品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1542_001.xml#p0692b18">第一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_002.xml#p0695c07">第二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_003.xml#p0700a02">第三</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_004.xml#p0704b02">第四</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_005.xml#p0708c10">第五</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_006.xml#p0713b02">第六</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_007.xml#p0717c21">第七</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_008.xml#p0722a04">第八</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_009.xml#p0726b10">第九</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_010.xml#p0731a02">第十</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_011.xml#p0735b02">第十一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_012.xml#p0739c02">第十二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_013.xml#p0744a11">第十三</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_014.xml#p0748b15">第十四</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_015.xml#p0753a02">第十五</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_016.xml#p0757b04">第十六</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_017.xml#p0761b21">第十七</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1542_018.xml#p0766a02">第十八</cblink></li>
+</ol>
+</nav>
+</body></html>

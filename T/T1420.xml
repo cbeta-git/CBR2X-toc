@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1420_001.xml#p0958b03">祕決圖經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1420_002.xml#p0962a13">咒事</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1420_002.xml#p0963a13">五明印論</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1420_002.xml#p0965c02">五明論事印法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1420_002.xml#p0967b22">五明論決</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1420_002.xml#p0968b07">服香方法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1420_001.xml#p0956b18">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1420_002.xml#p0962a11">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

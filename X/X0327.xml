@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0327_001.xml#p0471c09">釋題</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0327_001.xml#p0472a19">下第一卷</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0327_001.xml#p0475b19">下第二卷</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0327_001.xml#p0476b23">下第三卷</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0327_001.xml#p0477c07">下第四卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0327_001.xml#p0471c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

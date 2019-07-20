@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X73/X73n1446_001.xml#p0028b02">No. 1446-A 玄沙大師語錄序</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1446_001.xml#p0028c05">No. 1446-B 刻玄沙語錄緣起</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1446_001.xml#p0029a05">語錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X73/X73n1446_001.xml#p0029a06">第一</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1446_002.xml#p0032c20">第二</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1446_003.xml#p0041a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

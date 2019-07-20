@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0118a04">No. 1589-A 錦江禪燈序</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0118b12">No. 1589-B 序</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0118c14">No. 1589-C 序</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0119b02">No. 1589-D 序</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0119c05">No. 1589-E 題辭</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0120a16">古今採摭</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0120b04">辯譌</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0120c01">校譌篇</cblink></li>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0120c14">凡例</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X85/X85n1589_001.xml#p0108a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

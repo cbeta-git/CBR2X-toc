@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0451a01">像．讚．題．序</cblink>
+	<ol>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0451a01">曹溪中興肉身嗣祖憨山大師法影</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0452a01">崇禎御讚憨山老和尚法像</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0452a04">康僧會尊者像讚．并序．寄憨山大師</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0453a07">憨祖臨化自題曹溪影堂法像</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0453a11">憨翁法祖真容讚</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0454a03">憨山本師法像讚</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0455a04">題憨山大師六詠手卷</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_001.xml#p0456a01">排印流通序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0457a04">一歲至十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0462a06">十一歲至二十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0468a08">二十一歲至三十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0485a08">三十一歲至四十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0503a05">四十一歲至五十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_002.xml#p0520a02">五十一歲至六十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_002.xml#p0541a10">六十一歲至七十歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_002.xml#p0556a01">七十一歲至七十七歲</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_002.xml#p0580a01">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0580a02">三十六頌</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0584a01">後事因緣</cblink>
+		<ol>
+			<li><cblink href="XML/B/B14/B14n0085_002.xml#p0586a09">張三星作年譜序</cblink></li>
+			<li><cblink href="XML/B/B14/B14n0085_002.xml#p0587a09">按語</cblink></li>
+			<li><cblink href="XML/B/B14/B14n0085_002.xml#p0599a04">問答</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0601a04">年譜疏旭法師偈并序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0602a02">譚埽庵皈依詩</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0602a10">譚埽庵遙慟詩</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0604a06">譚歎年譜詩</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0605a06">疏年譜詩</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0605a09">梓年譜疏詩</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0606a06">項桂芳讚年譜并序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0607a07">王起隆跋</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0608a09">東遊集法語三則</cblink>
+		<ol>
+			<li><cblink href="XML/B/B14/B14n0085_002.xml#p0608a10">參禪切要</cblink></li>
+			<li><cblink href="XML/B/B14/B14n0085_002.xml#p0613a01">念佛切要</cblink></li>
+			<li><cblink href="XML/B/B14/B14n0085_002.xml#p0614a11">持準提呪說</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B14/B14n0085_002.xml#p0615a09">東遊集原序</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B14/B14n0085_001.xml#p0451a01">第一</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0085_002.xml#p0520a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

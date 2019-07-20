@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB408_001.xml#p0253a01">像　讚</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_001.xml#p0253a11">目錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_001.xml#p0253c03">上堂</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_001.xml#p0257b06">普說</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_001.xml#p0263c02">小參一</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0267a03">小參二</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0268c10">茶話</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0270c23">頌古</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0274a08">書問</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0277c22">像讚</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0277c23">釋迦世尊讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0278a05">阿彌陀如來讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0278a29">彌勒如來讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0278b02">文殊菩薩讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0278b25">觀音菩薩讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0279c07">準提菩薩讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0279c16">普門品書成佛像讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0279c22">地藏王菩薩讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB408_002.xml#p0279c26">達磨初祖讚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0279c29">佛事</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0281c01">行狀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB408_001.xml#p0253c01">第一</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB408_002.xml#p0267a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

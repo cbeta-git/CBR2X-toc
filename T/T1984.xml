@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0491a20">1 嚴淨道場</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0491b06">2 明方便法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0491b18">3 明正修意</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0491c17">4 燒香散華</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0492a06">5 禮請法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0492c02">6 讚歎法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0492c15">7 禮佛法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0493b10">8 懺願法</cblink>
+	<ol>
+		<li><cblink href="XML/T/T47/T47n1984_001.xml#p0493b11">1 懺悔法</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1984_001.xml#p0493c19">2 勸請法</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1984_001.xml#p0493c26">3 隨喜法</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1984_001.xml#p0494a02">4 迴向法</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1984_001.xml#p0494a06">5 發願法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0494a23">9 旋遶誦經法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0494b13">10 坐禪法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1984_001.xml#p0490c21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

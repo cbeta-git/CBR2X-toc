@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB247_001.xml#p0791a01">序</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB247_001.xml#p0791b01">請啟</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB247_001.xml#p0791b01">嘉興諸鄉紳請啟</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB247_001.xml#p0791b21">眾文學請啟</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB247_001.xml#p0791c16">普光請啟</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J29/J29nB247_001.xml#p0792a23">語錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB247_001.xml#p0792a21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

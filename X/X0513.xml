@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0132a02">No. 513-A 鍥仁王般若經合疏敘</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0132b05">No. 513-B 合刻仁王護國般若經疏序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0132c09">No. 513-C 仁王護國般若經疏序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0133a19">目次</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0133b08">凡例</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0134a01">No. 513-D 仁王護國般若波羅蜜經疏科</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0142a08">經前玄義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0142a08">前文</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0142a13">第一釋名</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0143b12">第二辨體</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0143c08">第三明宗</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0143c18">第四辨用</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0144a11">第五明教相</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0144a18">入文解釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0144a18">前文</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_001.xml#p0144b03">序品第一</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_002.xml#p0154c08">觀空品第二</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_002.xml#p0160b01">教化品第三</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_003.xml#p0174a05">二諦品第四</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_003.xml#p0176c02">護國品第五</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_003.xml#p0179b13">散華品第六</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_003.xml#p0180b19">受持品第七</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0513_003.xml#p0187a05">囑累品第八</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0513_001.xml#p0142a03">第一</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_002.xml#p0154c04">第二</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0513_003.xml#p0170a14">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

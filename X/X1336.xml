@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1336_001.xml#p0131a10">語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1336_002.xml#p0134b21">詩</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1336_002.xml#p0134b21">五言</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1336_003.xml#p0142b18">七言</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1336_003.xml#p0143b22">雜句</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1336_003.xml#p0144b01">歷代讚文(并諸方拈古附)</cblink>
+		<ol>
+			<li><cblink href="XML/X/X69/X69n1336_003.xml#p0144b02">大丞相張天覺</cblink></li>
+			<li><cblink href="XML/X/X69/X69n1336_003.xml#p0144b05">徑山佛日大慧禪師</cblink></li>
+			<li><cblink href="XML/X/X69/X69n1336_003.xml#p0144b11">東林珪老</cblink></li>
+			<li><cblink href="XML/X/X69/X69n1336_003.xml#p0144b14">雲門杲公禪師</cblink></li>
+			<li><cblink href="XML/X/X69/X69n1336_003.xml#p0144b17">白雲端和尚</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1336_001.xml#p0131a06">第一</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1336_002.xml#p0134b20">第二</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1336_003.xml#p0139b19">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

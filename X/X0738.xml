@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X43/X43n0738_001.xml#p0474a03">上之一</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_001.xml#p0489a02">上之二</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_001.xml#p0497a02">上之三</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_001.xml#p0506a02">上之四</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_002.xml#p0516a02">中之一</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_002.xml#p0530a02">中之二</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_002.xml#p0543a02">中之三</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_002.xml#p0561a02">中之四</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_003.xml#p0574a02">下之一</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_003.xml#p0585a02">下之二</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_003.xml#p0593a02">下之三</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0738_003.xml#p0601a02">下之四</cblink></li>
+</ol>
+</nav>
+</body></html>

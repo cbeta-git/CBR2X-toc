@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0291_001.xml#p0461a02">No. 291-A 首楞嚴直指敘</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_001.xml#p0461c11">No. 291-B 刻首楞嚴直指緣起</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_001.xml#p0462a14">No. 291-C 首楞嚴直指總論</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_001.xml#p0464b01">楞嚴經直指</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0291_001.xml#p0464b03">第一</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_002.xml#p0475c01">第二</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_003.xml#p0491a01">第三</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_004.xml#p0503c18">第四</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_005.xml#p0523a21">第五</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_006.xml#p0536a07">第六</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_007.xml#p0552a18">第七</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_008.xml#p0563b10">第八</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_009.xml#p0579a15">第九</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0291_010.xml#p0592a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB416_001.xml#p0477a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0477a01">羅開麟序</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0477b07"><unclear/><unclear/>序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB416_001.xml#p0478a03">頌古</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB416_001.xml#p0482c29">雜著</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0482c29">和普明禪師牧牛頌</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0483a20">和天封佛慈禪師蜜蜂頌</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0483b12">四威儀</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0483b17">十二時歌</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0483c12">金明介菴和尚付如意呈偈</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0483c17">示友參禪</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0483c27">示友</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484a30">輓三塔主峰和尚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b03">哭本師介老人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b07">和朱葵石表叔夢中得初句</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b10">觀濤</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b13">即事</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b16">送金明介老人住大慈菴</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b19">送剖玉和尚之杭</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b22">酬天台密因和尚送拄杖</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b25">蔣正言兄圃中看並頭蓮</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484b28">答碩揆和尚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c01">仝眾請介老人住敬畏菴</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c04">和項牧公道兄盆蘭韻</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c07">壬午遊山左得梅種名金剛拳手種庭墀已七紀今花開結實故志喜</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c11">自述</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c15">輓朱葵石表叔</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c20">嘆世</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB416_001.xml#p0484c23">行略</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB416_001.xml#p0478a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

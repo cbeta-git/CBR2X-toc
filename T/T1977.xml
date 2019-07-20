@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1977_001.xml#p0419c20">淨土疑辨序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1977_001.xml#p0420a11">淨土疑辯</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1977_001.xml#p0420c03">淨土疑辨後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1977_001.xml#p0420a09">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

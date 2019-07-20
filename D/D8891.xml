@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D32/D32n8891_001.xml#p0001b02">辨名門第一</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_001.xml#p0029b04">出體門第二</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_001.xml#p0043a05">假實分別門第三</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_001.xml#p0045b09">具支多少門第四</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_002.xml#p0065b02">得捨分齊第五</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_003.xml#p0173a02">界地有無門第六</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_003.xml#p0180b07">四大造性門第七</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_003.xml#p0184a03">應成差別門第八</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_003.xml#p0191b08">先後得捨門第九</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_003.xml#p0196b03">問[前-刖+合]分別門第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D32/D32n8891_001.xml#p0001b01">第一</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_002.xml#p0065b01">第二</cblink></li>
+	<li><cblink href="XML/D/D32/D32n8891_003.xml#p0133b01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

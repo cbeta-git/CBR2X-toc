@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW06/ZW06n0056_001.xml#p0382a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW06/ZW06n0056_001.xml#p0383a13">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0056_001.xml#p0383a15">進新譯大方廣佛花嚴經表</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0056_001.xml#p0385a02">大周新譯大方廣佛花嚴經總目一卷</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

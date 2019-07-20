@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X83/X83n1578_001.xml#p0396c05">No. 1578-A 水月齋指月錄原序</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_001.xml#p0397b01">No. 1578-B 刻指月錄發願偈</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_001.xml#p0397c04">指月錄總目</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_001.xml#p0404c09">七佛</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0404c10">毗婆尸佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0404c17">尸棄佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0404c23">毗舍浮佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0405a05">拘留孫佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0405a11">拘那含牟尼佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0405a17">迦葉佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0405b05">釋迦牟尼佛</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_001.xml#p0410c18">諸師拈頌諸經語句</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0410c19">經題[米-木+八]字</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411a01">華嚴論</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411a04">金剛經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411a15">文殊所說般若經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411a22">圓覺經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411b21">楞伽經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411b24">維摩經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0411c12">楞嚴經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_001.xml#p0412a19">法華經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_002.xml#p0412c03">應化聖賢</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0412c04">文殊菩薩</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0413a20">天親菩薩</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0413b03">維摩（大士）</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0413b16">善財</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0413b24">須菩提尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0413c13">無厭足王</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0413c17">舍利弗尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414a07">鴦崛魔羅尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414a13">賓頭盧尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414a22">障蔽魔王</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414b09">那吒太子</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414b11">廣額屠兒</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414c02">秦䟦陀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0414c20">寶誌禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0418a14">善慧大士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0419b06">南嶽慧思禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0419c21">天台山修禪寺智者禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0421b04">泗州僧伽大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0421c08">天台豐干禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0422a04">寒山子</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0422a22">拾得者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0422b14">明州奉化縣布袋和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0423a04">法華志言大士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0423a24">扣氷澡先古佛</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0423b21">千歲寶掌和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0423c18">懶殘</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0424b03">法順大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_002.xml#p0424b11">清凉澄觀國師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_003.xml#p0425a03">西天祖師</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0425a04">一祖摩訶迦葉尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0425b23">二祖阿難尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0426a20">三祖商那和修尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0426b24">四祖優波毱多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0427a10">五祖提多迦尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0427b09">六祖彌遮迦尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0427c04">七祖婆須蜜尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0427c20">八祖佛陀難提尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0428a14">九祖伏馱蜜多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0428a24">十祖脇尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0428b17">十一祖富那夜奢尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0428c19">十二祖馬鳴大士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0429b04">十三祖迦毗摩羅尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0429c03">十四祖龍樹尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0430a14">十五祖迦那提婆尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0430c05">十六祖羅睺羅多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0431a17">十七祖僧伽難提尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0431b22">十八祖伽耶舍多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0431c12">十九祖鳩摩羅多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0432a10">二十祖闍夜多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0432b16">二十一祖婆修盤頭尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0432c20">二十二祖摩挐羅尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0433b05">二十三祖鶴勒那尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0433c12">二十四祖師子比丘尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0434c03">二十五祖婆舍斯多</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0435a20">二十六祖不如蜜多尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_003.xml#p0435b20">二十七祖般若多羅尊者</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_004.xml#p0436a21">東土祖師</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_004.xml#p0436a22">初祖菩提達磨大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_004.xml#p0439a12">二祖慧可大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_004.xml#p0439c05">三祖僧璨大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_004.xml#p0441a22">四祖道信大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_004.xml#p0441b18">五祖弘忍大師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_004.xml#p0442a24">六祖慧能大師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_005.xml#p0450c24">六祖下第一世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_005.xml#p0451a01">南嶽懷讓禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_005.xml#p0451b18">吉州青原山靜居寺行思禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_005.xml#p0452a02">六祖下第二世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_005.xml#p0452a03">江西道一禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_005.xml#p0454b09">南嶽石頭希遷禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_006.xml#p0455a19">旁出法嗣</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0455a20">僧那禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0455b13">向居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0455c02">牛頭山法融禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0457a18">牛頭山智巖禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0457b07">牛頭山智威禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0457c01">安國玄挺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0457c06">天柱崇慧禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0457c15">徑山道欽禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0458a07">天台山雲居智禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0458b07">鳥窠道林禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0459a01">嵩嶽慧安國師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0459a17">壽州道樹禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0459a23">嵩嶽破竈墮和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0459b18">嵩嶽元珪禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0460a22">終南山惟政禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0460b11">嵩山峻極和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0460b18">司空山本淨禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0461b14">南陽慧忠國師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0465b12">永嘉玄覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0468a08">西京荷澤神會禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_006.xml#p0468a16">圭峰宗密禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_007.xml#p0470c11">未詳法嗣</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0470c12">泗州塔頭</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0470c16">講肇論僧</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0470c20">道流在佛殿(法師入佛殿)</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a06">六通院僧</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a09">聖僧像</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a11">死魚浮水</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a14">馮延巳</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a18">問聖僧年</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a21">偃臺感山主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471a24">僧見地藏</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471b04"> 鷂子趂鴿</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471b08">問無揀</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471b11">廣南住菴僧</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471b15">圓通和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471b21">童子上經</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471b24">先淨照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471c04">曹溪主衣鉢僧</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471c07">高麗觀音</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471c12">長明燈</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471c16">護國天王</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471c20">五蘊偈</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0471c23">犬傷持鉢僧</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472a01">宋太宗</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472a19">茶陵郁山主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472b01">因禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472b03">樓子和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472b06">神照本如</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472b09">上竺圓智</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472c05">公期和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472c09">雲頂禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0472c13">終夏不說(老宿畜童)</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473a03">二庵主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473a08">舉九年面壁</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473a13">師子捉兔</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473a16">婆子燒庵</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473a20">婆子到趙州</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473a23">跨驢人</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473b02">肇法師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473b05">雙溪布衲</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473b11">法海立禪師(天寧明附)</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473c01">幽棲和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473c07">老洞華嚴</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0473c19">太瘤</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474a07">歐陽文忠公</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474a17">醫官僧</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474a23">無鬼論</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474b03">古德油糍</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474b09">定僧問彌勒</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474b12">元曉</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0474c02">修雅法師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_007.xml#p0475a07">文通慧</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_008.xml#p0475b06">六祖下第三世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_008.xml#p0475b07">洪州百丈山懷海禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_008.xml#p0483c15">池州南泉普願禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0491b07">鹽官海昌院齊安國師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0491c06">廬山歸宗寺智常禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0492a15">明州大梅山法常禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0492c04">池州魯祖山寶雲禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0492c18">泐潭常興和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0492c22">泐潭法會禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0493a03">洛京佛光如滿禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0493a15">五洩山靈默禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0493b07">幽州寶積禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0493c20">麻谷寶徹禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0494a05">東寺如會禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0494a19">西堂智藏禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0494b16">越州大珠慧海禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0496b05">杉山智堅禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0496b18">水潦和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0496b24">澧州茗溪道行禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0496c07">撫州石鞏慧藏禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0497a05">袁州南源道明禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0497a09">中邑洪恩禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0497a23">潭州三角山總印禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0497b10">汾州無業禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0498b01">信州鵞湖大義禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0498b18">京兆興善惟寬禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0498c03">常州芙蓉太毓禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0498c10">利山和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0498c12">松山和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0498c20">唐州紫玉山道通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0499a09">五臺山隱峰禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0499b19">龜洋無了禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0499c04">南嶽西園曇藏禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0499c15">磁州馬頭峰神藏禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0499c22">潭州華林善覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0500a10">烏臼和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0500b11">石臼和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0500b16">鎮州金牛和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0500c02">亮座主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0500c16">百靈和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0500c24">則川和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501a12">忻州打地和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501a18">潭州秀溪和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501a24">江西椑樹和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501b03">浮盃和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501b21">潭州龍山和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501c13">濛溪和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0501c23">襄州居士龐蘊</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0503b05">澧州藥山惟儼禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0505c14">鄧州丹霞天然禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0507a16">潭州大川禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0507b02">潮州靈山大顛寶通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0507c14">潭州長髭曠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0508b15">潭州招提寺慧朗禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0508b23">長沙興國寺振朗禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0508c04">汾州石樓禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0508c11">鳳翔府法門寺佛陀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0508c14">澧州大同濟禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_009.xml#p0509a16">南嶽青原宗派未定法嗣</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0509a17">荊州天皇道悟禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_009.xml#p0509b14">天王道悟禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_010.xml#p0510a08">六祖下第四世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_010.xml#p0510a09">洪州黃檗希運禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0518c24">福州長慶大安禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0519b19">福州古靈神贊禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0519c11">大慈寰中禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520a15">天台平田普岸禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520b07">瑞州五峰常觀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520b10">潭州石霜山性空禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520b18">廣州和安寺通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520c05">洪州東山慧禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520c14">百丈山涅槃和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0520c17">趙州觀音院真際從諗禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0527a15">湖南長沙景岑招賢禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0529a17">鄂州茱萸山和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0529a22">衢州子湖巖利蹤禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530a03">荊南白馬曇照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530a08">終南山雲際師祖禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530a18">鄧州香嚴下堂義端禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530a22">池州靈鷲閑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530b02">日子和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530b07">蘇州西禪和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530b18">池州甘贄行者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530c08">洪州雙嶺玄真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530c12">福州芙蓉山靈訓禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530c20">漢南高亭和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0530c24">新羅大茅和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531a02">五臺山智通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531a09">鎮州普化和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531b09">壽州良遂禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531b15">虔州處微禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531b22">金州操禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531c03">湖南上林戒靈禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531c09">五臺山秘魔巖和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_011.xml#p0531c15">湖南祇林和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0532a07">潭州溈山靈祐禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0535a24">潭州道吾山宗智禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0535c18">潭州雲巖曇晟禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0536c18">秀州華亭船子德誠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0537c06">宣州椑樹慧省禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0537c09">鄂州百巖明哲禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0537c19">澧州高沙彌</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0538a16">京兆府翠微無學禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0538b04">吉州孝義寺性空禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0538b09">仙天禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0538b19">漳州三平義忠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0538c04">馬頰山本空禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0538c20">本生禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0539a02">潭州石室善道禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_012.xml#p0539b09">澧州龍潭崇信禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_013.xml#p0539c11">六祖下第五世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0539c12">陳睦州尊宿</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0541b08">福州烏石山靈觀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0541b20">益州大隨法真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542a07">福州靈雲志勤禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542b12">洪州新興嚴陽尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542c05">揚州光孝院慧覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542c08">婺州木陳從朗禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542c10">婺州新建禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542c13">杭州多福和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542c17">益州西睦和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0542c20">明州雪竇常通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543a02">石梯和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543a09">紫桐和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543a13">日容遠和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543a17">襄州關南道吾和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543b02">漳州羅漢和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543b10">瑞州末山尼了然禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0543c03">婺州金華山俱胝和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0544a05">袁州仰山慧寂通智禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0547b24">鄧州香嚴智閑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0548a21">杭州徑山洪諲禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0548b11">滁州定山神英禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0548b21">京兆府米和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0548c15">元康和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0548c22">襄州王敬初常侍</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_013.xml#p0549a16">鄭十三娘</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_014.xml#p0549b21">鎮州臨濟義玄禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0563b10">潭州石霜山慶諸禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0564b06">潭州漸源仲興禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0564c18">僧密禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0565a04">澧州夾山善會禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0566a13">舒州投子山大同禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0567a01">鄂州清平山安樂院令遵禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_015.xml#p0567a13">鼎州德山宣鑒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_016.xml#p0570c07">瑞州洞山良价悟本禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_017.xml#p0579b23">六祖下第六世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0579b24">睦州刺史陳操尚書</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0579c13">袁州仰山南塔光涌禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0579c21">杭州無著文喜禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0580b04">福州雙峰古禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0580b16">魏府興化存獎禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0581c10">魏府大覺和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0581c16">鎮州寶壽沼禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582a01">鎮州三聖院慧然禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582a23">定州善崔禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582b02">幽州談空和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582b13">虎溪菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582b17">覆盆菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582b21">桐峰菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582c08">杉洋菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0582c16">定上座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0583a11">奯上座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0583b02">瑞州九峰道虔禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0583c13">台州涌泉景欣禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0583c20">邵武軍龍湖普聞禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0584a22">潭州雲盖山志元圓淨禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0584b24">鳳翔府石柱禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0584c10">張拙秀才</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0584c18">澧州洛浦山元安禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0586a06">撫州黃山月輪禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0586a15">洛京韶山普寰禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0586b17">鄆州四禪禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0586b19">鳳翔府天盖山幽禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0586b24">鄂州巖頭全奯禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0588c05">福州雪峰義存禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0591c20">泉州瓦棺和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_017.xml#p0592a05">襄州高亭簡禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0592a23">撫州曹山本寂禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0595b24">洪州雲居道膺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0597c05">撫州疎山匡仁禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0599a09">青林師䖍禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0599b04">高安白水本仁禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0599b11">潭州龍牙山居遁證空禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0600a19">益州北院通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0600b05">京兆府蜆子和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0600b12">越州乾峰和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0600c21">澧州欽山文𨗉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_018.xml#p0601a21">瑞州九峰通玄禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_019.xml#p0601b10">六祖下第七世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0601b11">吉州資福如寶禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0601b14">郢州芭蕉山慧清禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0601c05">汝州南院慧顒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0602a23">守廓侍者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0602c15">汝州西院思明禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0603a07">寶壽和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0603b02">洪州鳳棲同安院常察禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0603c12">吉州禾山無殷禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0604b01">鳳翔府青峰傳楚禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0604b09">袁州木平山善道禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0604b19">郢州桐泉山禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0604c01">台州瑞巖師彥禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0605a07">福州羅山道閑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0606a17">福州玄沙師備宗一禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0612a08">福州長慶慧稜禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0612c17">漳州保福院從展禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0613b03">福州鼓山神宴興聖國師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0613c23">龍華照布衲</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0614a05">明州翠巖令參永明禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0614c04">越州鏡清寺道怤順德禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0615b15">報恩懷嶽禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0615b18">安國弘瑫禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0615c03">長生山皎然禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0615c15">越山師鼐禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_019.xml#p0615c21">太原孚上座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0617a07">撫州金峰從志禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0617b12">處州廣利容禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0617b19">洪州鳳棲山同安丕禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0617c02">杭州佛日本空禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0618a10">池州稽山章禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0618a14">朱溪謙禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0618a18">南康軍雲居道簡禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0618b23">護國守澄禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0618c13">黃檗山慧禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0619a01">伏龍山奉璘禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0619a03">襄州石門獻蘊禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0619a22">京兆府重雲智暉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0619b17">杭州瑞龍院幼璋禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0619c10">報慈藏嶼禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_020.xml#p0619c13">韶州雲門山光奉院文偃禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_021.xml#p0626c12">六祖下第八世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0626c13">吉州資福貞𨗉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0626c16">郢州芭蕉山繼徹禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0626c19">彭州承天院辭確禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0626c23">汝州風穴延沼禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0628c13">頴橋安禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0628c16">郢州興陽歸靜禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0628c19">鄂州黃龍山誨機超慧禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0629a12">婺州明招德謙禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0630a11">漳州羅漢院桂琛禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0631b07">安國慧球禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0631b18">福州大章山契如菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0631c04">天台國清寺師靜上座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0631c22">泉州招慶院道匡禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632a09">襄州鷲嶺明遠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632a13">太傅王延彬居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632b04">谷山行崇禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632b22">漳州報恩院道熙禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632c04">招慶省僜禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632c07">鼓山智嶽禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632c13">報國照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0632c17">衢州烏巨山儀宴開明禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0633b05">福州林陽瑞峰院志端禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0633c01">保福清豁禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0633c11">四祖山清皎禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0633c17">大龍時洪禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0633c23">同安志禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634a03">廬山佛手巖行因禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634a10">泉州龜洋慧忠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634a24">襄州廣德義禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634b05">襄州廣德周禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634b10">石門慧徹禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634b16">益州青城香林院澄遠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634c12">韶州白雲子祥禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0634c24">鼎州德山緣密禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0635b12">岳州巴陵新開院顥鑒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0635b24">隨州雙泉山師寬明教禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0635c09">襄州洞山守初宗慧禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0637a19">金陵奉先深禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0637b13">韶州雙峰竟欽禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0637b22">洞山清稟禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0637c16">北禪寂禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_021.xml#p0637c20">雲門山朗上座</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_022.xml#p0638a07">六祖下第九世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0638a08">汝州首山省念禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0639b24">廣慧真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0639c04">黑水和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0639c07">棗樹第二世和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0639c12">呂巖真人</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0640a01">襄州清溪山供進禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0640a14">昇州清凉院休復悟空禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0640a23">撫州龍濟紹修禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0640c08">酒仙遇賢禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641a05">鼎州梁山緣觀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641a21">懷安軍雲頂德敷禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641b01">隨州智門光祚禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641b14">韶州大歷和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641b16">連州寶華和尚</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641b22">蘄州五祖師戒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0641c10">荊南福昌惟善禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0642a03">蓮花峰祥菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0643b04">藍田縣真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_022.xml#p0643b12">金陵清涼院文益禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_023.xml#p0645c07">六祖下第十世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0645c08">汾州太子院善昭禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0647c12">并州承天院三交智嵩禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0649a02">汝州葉縣廣教院歸省禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0649b07">潭州神鼎洪諲禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0649c06">襄州谷隱山蘊聰慈照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0650b05">汝州廣慧院元璉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0650c24">鐵佛院智嵩禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0651a03">仁王院處評禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0651a06">智門罕迥禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0651a10">丞相王隨居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0651a13">廬州圓通緣德禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0651b05">郢州大陽山警玄禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0651c11">明州雪竇重顯禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0654a04">瑞州洞山曉聰禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0654b10">洞山自寶禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0654c03">潭州北禪智賢禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0654c13">南安巖自嚴尊者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0655a08">天台山德韶國師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0656a15">金陵清凉泰欽法燈禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0656b09">杭州靈隱清聳禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0656b20">洪州百丈道恒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0656c19">永明道潛禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0657a14">杭州報恩慧明禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0657b02">雲居清錫禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0657b05">漳州羅漢智依禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0657b15">金陵報慈文邃禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0657b19">金陵報恩院玄則禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0657c08">歸宗䇿真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0658a05">同安紹顯禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0658a07">觀音從顯禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0658a13">洛京興善棲倫禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_023.xml#p0658a17">古賢院謹禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_024.xml#p0658b13">六祖下第十一世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0658b14">潭州石霜楚圓慈明禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0660b09">滁州瑯邪山慧覺廣照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0660c02">瑞州大愚山守芝禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0661c12">舒州法華院全舉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0663a02">南嶽芭蕉菴大道谷泉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0663c04">安吉州天聖皓泰禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0663c10">舒州浮山法遠圓鑒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0665c21">潤州金山曇頴達觀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0666b18">唐州大乘山德遵禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0666b23">景清居素禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0666c01">駙馬李遵勗居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0666c22">東京華嚴道隆禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0667a18">文公楊億居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0667b21">舒州投子義青禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0667c23">郢州興陽清剖禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0668a14">惠州羅浮山顯如禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0668a21">越州天衣義懷禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0668c16">宗道者</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0668c24">修撰曾會居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0669a05">南康軍雲居曉舜禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0669b06">杭州佛日契嵩禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0669b21">太守許式</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0669c06">荊門軍玉泉承皓禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0670a01">明州育王山懷璉大覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0670b05">廬山圓通居訥禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0670b20">潭州興化紹銑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0670c01">洪州法昌倚遇禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0672a05">南康軍雲居山了元佛印禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0672b06">杭州慧日永明延壽智覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0673c22">杭州五雲山華嚴院志逢禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0674a19">杭州報恩永安禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0674b01">溫州瑞鹿寺上方遇安禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0674b13">溫州瑞鹿寺本先禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0675b05">溫州雁蕩願齊禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0675b08">杭州興教洪壽禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0675b15">洪州雲居道齊禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_024.xml#p0676a03">廬山棲賢澄湜禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_025.xml#p0676a16">六祖下第十二世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0676a17">隆興府黃龍慧南禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0678a24">袁州楊岐方會禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0679c15">洪州翠巖可真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0680b01">金陵蔣山贊元禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0680c12">洪州大寧道寬禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0680c23">潭州道吾悟真禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0681b05">蘇州定慧超信禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0681b09">越州姜山方禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0681b21">宣州興教院坦禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0681c07">江州歸宗可宣禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0681c19">秀州長水子璿講師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0682a06">南嶽雲峰文悅禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0682c02">安吉州西余端師子</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0682c21">東京天寧芙蓉道楷禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0683b24">隨州大洪山報恩禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0684b03">東京慧林宗本圓照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0684c15">東京法雲寺法秀禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0685b01">延恩法安禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0685b17">禮部楊傑居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0685c02">金陵蔣山法泉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0685c06">明州大梅法英禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0685c22">邢州開元法明上座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0686a04">簽判劉經臣居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_025.xml#p0686c05">杭州淨土院惟政禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_026.xml#p0686c20">六祖下第十三世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_026.xml#p0686c21">隆興府黃龍祖心晦堂寶覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_026.xml#p0688a08">隆興府寶峰克文雲菴真淨禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_026.xml#p0691b14">潭州雲盖守智禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_026.xml#p0691b22">吉州隆慶院慶閑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0693c01">隆與府泐潭洪英禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0694a21">袁州仰山行偉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0694c05">黃龍恭首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0694c14">安吉州報本慧元禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0694c24">景福順禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0695a05">黃檗積翠永菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0695a11">延慶洪準禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0695a19">舒州白雲守端禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0695c09">金陵保寧仁勇禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0695c20">比部孫居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696a01">潭州大溈慕喆真如禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696a11">福州聖泉紹燈禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696a22">鄧州丹霞子淳禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696b03">洪州寶峰闡提惟照禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696b20">襄州石門元易禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696c08">東京淨因自覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696c13">東京法雲善本大通禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0696c22">投子修顒禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_027.xml#p0697a05">清獻公趙抃</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_028.xml#p0697b09">六祖下第十四世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0697b10">隆興府黃龍死心悟新禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0698a19">隆興府黃龍靈源惟清禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0698c17">龍興府泐潭草堂善清禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0699a09">吉州青原惟信禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0699a14">漳州保福本權禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0699a23">太史山谷居士黃庭堅</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0699b14">祕書吳恂居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0699b20">隆興府兜率從悅禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0700a09">東京法雲佛照杲禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0700b12">隆興府泐潭湛堂文準禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0701b10">瑞州清凉慧洪覺範禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0704b01">南嶽石頭懷志菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0704b18">廬山羅漢院系南禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0704b21">信州永豐慧日菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0704c03">泉州尊勝有朋講師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0704c13">慶元府育王無竭淨曇禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0704c18">蘄州五祖法演禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0707c06">提刑郭祥正</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0708a23">安吉州上方日益禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0708b05">灨州顯首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0708b17">洪州泐潭景祥禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0708b24">和州光孝慧蘭禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0708c08">真州長蘆真歇清了禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0708c16">明州天童宏智正覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709a10">江州圓通德止禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709a20">衡州華藥智朋禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709b05">吉州青原齊禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709b13">天台山如菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709b17">平江府西竺寺尼法海禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709b21">東京慧林懷深慈受禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709c10">平江府萬壽如璝證悟禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709c13">越州天衣如哲禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0709c21">大覺法慶禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_028.xml#p0710a07">臨安府廣福院惟尚禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_029.xml#p0710a21">六祖下第十五世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0710a22">吉州禾山超宗慧方禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0710b04">嘉興府華亭性空妙普菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0710c09">空室道人智通</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711a04">潭州上封佛心才禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711a24">潭州法輪應端禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711b06">東京天寧長靈守卓禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711b12">隆興府黃龍山堂道震禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711b18">慶元府天童普交禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711c01">江州圓通道旻禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0711c11">慶元府二靈知和菴主</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0712a01">紹興府慈氏瑞仙禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0712a12">丞相張商英居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0712c09">西蜀鑾法師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0712c16">隆興府雲巖天游典牛禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0712c22">隆興府九仙法清祖鑑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0713a03">眉州中巖慧目蘊能禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0713a13">懷安軍雲頂寶覺宗印禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0713a17">成都府信相宗顯正覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0713b16">成都府昭覺寺克勤佛果禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0718c14">舒州太平慧懃佛鑑禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0719a21">舒州龍門清遠佛眼禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0720b12">彭州大隨南堂元靜禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0721b01">漢州無為宗泰禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0721b12">蘄州五祖表自禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0721c04">嘉州九頂清素禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0721c16">元禮首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0721c21">法閦上座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0722a04">金陵俞道婆</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0722a22">東京淨因繼成禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0722c10">建寧府開善道瓊首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0722c20">杭州淨慈慧暉禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0723a02">明州瑞巖法恭禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_029.xml#p0723a05">舒州投子道宣禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X83/X83n1578_030.xml#p0723a16">六祖下第十六世</cblink>
+	<ol>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0723a17">嘉興府報恩法常首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0723b01">左丞范冲居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0723c04">臨安府徑山塗毒智䇿禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0723c18">平江府虎丘紹隆禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0724a03">慶元府育王端𥙿禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0724a15">台州護國景元禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0724a21">平江府南峰雲辯禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0724b02">臨安府靈隱慧遠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0724c06">建康府華藏安民禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0725a05">成都府昭覺道元禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0725a14">潭州大溈佛性法泰禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0725b21">眉州象耳山袁覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0725c05">臨安府中天竺中仁禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0725c09">眉州中巖華嚴祖覺禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726a04">平江府明因曇玩禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726a07">成都府昭覺道祖首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726a12">樞密徐俯</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726b02">郡王趙令衿</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726b11">侍郎李彌遠普現居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726b19">成都范縣君</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726c03">常德府文殊心道禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0726c14">潭州龍牙智才禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0727a15">安吉州何山佛燈守珣禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0727c02">溫州龍翔士珪禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0727c07">南康軍雲居善悟禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0727c11">隆興府黃龍法忠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0728c10">衢州烏巨道行禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0728c14">南康軍雲居法如禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0728c21">南康軍歸宗正賢禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0729a01">安吉州道場明辨禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0729b04">世奇首座</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0729b14">給事馮楫濟川居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0729c13">台州釣魚臺石頭自回禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0729c23">常德府梁山師遠禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0730a22">莫將尚書</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0730b04">龍圖王蕭居士</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_030.xml#p0730b09">無為軍冶父道川禪師</cblink></li>
+		<li><cblink href="XML/X/X83/X83n1578_031.xml#p0730c13">臨安府徑山宗杲大慧普覺禪師語要上</cblink>
+		<ol>
+			<li><cblink href="XML/X/X83/X83n1578_031.xml#p0732c04">勘辨</cblink></li>
+			<li><cblink href="XML/X/X83/X83n1578_031.xml#p0734b02">酬答法要</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X83/X83n1578_032.xml#p0749b04">臨安府徑山宗杲大慧普覺禪師語要下</cblink>
+		<ol>
+			<li><cblink href="XML/X/X83/X83n1578_032.xml#p0749b05">酬答法要之餘</cblink></li>
+			<li><cblink href="XML/X/X83/X83n1578_032.xml#p0753a03">室中垂示</cblink></li>
+			<li><cblink href="XML/X/X83/X83n1578_032.xml#p0753c10">普說</cblink></li>
+			<li><cblink href="XML/X/X83/X83n1578_032.xml#p0764b10">被機</cblink></li>
+			<li><cblink href="XML/X/X83/X83n1578_032.xml#p0767b02">履略</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X83/X83n1578_001.xml#p0404c03">第一</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_002.xml#p0412c01">第二</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_003.xml#p0425a01">第三</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_004.xml#p0436a19">第四</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_005.xml#p0450c22">第五</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_006.xml#p0455a17">第六</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_007.xml#p0470c09">第七</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_008.xml#p0475b04">第八</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_009.xml#p0491b04">第九</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_010.xml#p0510a06">第十</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_011.xml#p0518c21">第十一</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_012.xml#p0532a04">第十二</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_013.xml#p0539c09">第十三</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_014.xml#p0549b18">第十四</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_015.xml#p0563b07">第十五</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_016.xml#p0570c04">第十六</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_017.xml#p0579b21">第十七</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_018.xml#p0592a20">第十八</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_019.xml#p0601b08">第十九</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_020.xml#p0617a04">第二十</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_021.xml#p0626c10">第二十一</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_022.xml#p0638a05">第二十二</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_023.xml#p0645c05">第二十三</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_024.xml#p0658b11">第二十四</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_025.xml#p0676a14">第二十五</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_026.xml#p0686c18">第二十六</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_027.xml#p0693b22">第二十七</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_028.xml#p0697b07">第二十八</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_029.xml#p0710a19">第二十九</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_030.xml#p0723a14">第三十</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_031.xml#p0730c10">第三十一</cblink></li>
+	<li><cblink href="XML/X/X83/X83n1578_032.xml#p0749b01">第三十二</cblink></li>
+</ol>
+</nav>
+</body></html>

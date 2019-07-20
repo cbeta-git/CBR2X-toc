@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB464_001.xml#p0811a01">敘</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB464_001.xml#p0812a01">行實</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813a03">住真州華嚴禪寺</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813a04">開堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813a07">據室</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813a11">披法衣</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813a14">陞座</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813b24">當晚小參</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813c09">謝同慶和尚芙蓉大師上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813c11">辭眾入楚掃祖塔小參</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813c16">溈山上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813c29">先老和尚像前上供</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814a03">到同慶請上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814a06">到芙蓉請上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814a16">溈山回小參</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814a29">佛成道日為力然剃度力修說優婆夷戒上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814b08">先老和尚忌上供</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814b14">除夕小參</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814b19">元旦示眾</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814b25">天中節示眾</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814b29">晒藏經示眾</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814c03">溈山天兄和尚訃至上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814c09">天童密祖上供</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814c13">大梅與老和尚訃至上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814c19">久雨不晴示眾</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0814c26">立秋示眾</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815a06">先老和尚十週忌上堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815a20">示眾</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815a24">天中節小參</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815a27">除夕小參</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815a30">掃五峰學祖塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815b04">掃養拙明祖塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB464_001.xml#p0815b09">掃慧山老和尚塔</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB464_002.xml#p0815c03">舉古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB464_002.xml#p0817a13">頌古</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB464_001.xml#p0813a01">第一</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB464_002.xml#p0815c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

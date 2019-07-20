@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0892_001.xml#p0587c10">1 金剛部序品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_001.xml#p0588b12">2 拏吉尼熾盛威儀真言品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_001.xml#p0590a07">3 一切如來身語心聖賢品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_001.xml#p0590c05">4 賢聖灌頂部品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_001.xml#p0590c14">5 大真實品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_002.xml#p0591b17">6 行品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_002.xml#p0592a05">7 說密印品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_002.xml#p0592b17">8 大相應輪品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_002.xml#p0593b18">9 清淨品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_002.xml#p0593c25">10 灌頂品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_003.xml#p0594b28">11 金剛藏菩薩現證儀軌王品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_003.xml#p0595a28">12 熾盛拏吉尼所說成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_003.xml#p0596a20">13 說方便品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_004.xml#p0597b17">14 集一切儀軌部品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_004.xml#p0598c18">15 金剛王出現品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_005.xml#p0600b08">16 金剛空智熾盛拏吉尼畫像儀式品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_005.xml#p0600b26">17 飲食品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_005.xml#p0600c13">18 教授品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_005.xml#p0601a18">19 持念品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_005.xml#p0601a27">20 俱生義品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0892_001.xml#p0587c05">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_002.xml#p0591b12">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_003.xml#p0594b23">第三</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_004.xml#p0596c22">第四</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0892_005.xml#p0599b20">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

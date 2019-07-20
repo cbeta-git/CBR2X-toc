@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0309a01">序一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0309c01">序二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0310a11">總目</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311a03">風</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311a04">春葵風</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311a16">玉樹風</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311b06">雅</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311b07">靖楊雅</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311b28">韓城雅</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311c11">詩一</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311c12">送以直愚禪師之雲間謁董太史乞黃檗和尚塔上之銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311c21">送元白可公出天童</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311c29">送鹽梅鼎禪師住南嶽</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a09">黃嵒山居即景十六絕</cblink>
+		<ol>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a10">黃巖寺</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a13">寨雲峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a16">行龜峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a19">犀牛峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a22">雙劍峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a25">鶴鳴峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312a28">香爐峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b01">紅石嵒</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b04">羅漢嵒</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b07">空生石</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b12">鷂子石</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b15">姊妹石</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b18">瀑布水</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b21">龍潭</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b24">清源池</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312b29">布水臺</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312c02">哭廣陵三我蔣先生</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312c06">初住黃巖松壑弟許為持缽乞浠上歲杪以兵荒見困寄次韻復之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312c17">壽匡山炤法師六秩(四首)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0312c30">同諸子度歲黃巖賦得通字</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313a03">歲朝喜雪</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313a06">歲朝雪後見晴柬曹源大中二公</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313a09">春宵雪霽步月</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313a13">春前五日寄懷唯一道兄</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313a17">春朝喜搴玉孫居士見訪出登廬山歌飄然有出塵之志別後復寄廬陵殘雪圖次韻速之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313a29">用前韻招搴玉孫陽江</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313b10">送愚拙二禪人之雲間</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313b16">秋日寄懷介子黃居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313b21">壽空林禪師五十</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313b25">毅宗烈皇帝哀詞</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313b29">袈裟吟十一首</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313c22">重陽前一日初度絕學銓商尊玄二上座以詩見壽次韻復之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0313c30">禪門四超方</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0314a13">送峻書記之大梅住山</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0314a17">又擬梅送之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0314a21">次答趙將軍玉韻(十四首附來韻)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_001.xml#p0314b22">丙戌孟秋送黃梅二司馬歸楚(諱日芳之熉)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c03">詩二</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c04">次金華宋學士靈峰留題詩</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c08">靈峰即景十八絕</cblink>
+		<ol>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c09">五磊山</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c12">象王峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c15">師子峰</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c18">石城岡</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c21">九曲嶺</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c24">峻水嵒</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c27">濯錦谿</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c30">清玉澗</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a03">羅漢潭</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a06">白龍潭</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a09">洗缽池</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a12">象眼泉</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a15">砥柱石</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a18">鷹窠石</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a21">眠牛石</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a24">望海亭</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a27">三石門</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315a30">梅華徑</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315b03">次畣同參見壽詩二首</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315b10">有以出家寒命題者次韻和之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315b14">又和茅屋雪</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315b18">和勝因靜拄杖歌</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315b28">靈峰山歌</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0315c13">和石頭回艸菴歌</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316a07">用前韻索諸禪賡和</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316a19">和靈澂禪師山居詩十一律</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316b23">哭竹林晦夫和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316b27">懷師子尊者</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316b30">懷天童開山義興禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c05">詠史二(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c13">二月十九為寶慶南禪師五旬賦此壽之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c17">山家十事</cblink>
+		<ol>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c18">春耕</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c21">采茶</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c24">割麥</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c27">插秧</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0316c30">夏耘</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a03">理蔬</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a06">灌園</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a09">刈薪</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a12">打稻</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a15">牧牛</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a18">插田漫賦</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317a22">哭雲門雪大師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317b06">贈董山人(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317b19">送濟書記緣化三吳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317c01">遭世亂離時艱目擊濡豪賦感以勛諸禪</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317c04">悼亡僧</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317c07">壽玉齊耿兵憲(先中秋一日為公初度之辰)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0317c17">輓介子黃居士(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0318b08">淨權相居士為孀母七旬乞言賦此以壽</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_002.xml#p0318b12">壽金剛菴主人五十</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_003.xml#p0318c03">詩三</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0318c04">贈緣幻法主(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0318c14">莖齏菴詠為聖月錢居士賦</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0318c18">過吳江宿艸菴留題壁間</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0318c21">雜詠</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0319a02">辛卯九月予與靈嵒儲姪禪師俱以弘法嬰難至明年春仲質獄東甌谿山險遠辛苦歸來即事賦感漫成三十韻</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0319c08">次畣樓霞浪禪師(附來韻)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0319c15">壬辰夏五賦壽聞聞上人六十</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0319c22">贈光福妙高臺法師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0319c25">贈賓化禪人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0319c28">九日過婁其章胡給諫以詩見訪次韻復之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320a08">癸巳三月十九之作</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320a24">題畫</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320a27">題入山圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320a30">題千仞岡姪水月居</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320b03">次答麗祖方居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320b08">癸巳年冬死心堂建叔則李寶應以詩見贈次韻復之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0320b15">別唐人韋蟾贈商山隱僧詩二十五絕(附原韻)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321a08">除夜慧光知浴六十詩以壽之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321a11">乙未春孟值止水明侍者四十初度念其相從最久賦而志喜亦志感也</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321a16">大威上人六十詩以壽之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321a21">壽吳爾世母貞淑胡孺人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321a28">丙申秋日壽經國王居士五十</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321b07">壽德輝何君六十</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321b11">晦中明上座曾親炙先師密老人于天童復為山僧監廣潤道峰二山院事今住台州未久頓興法輪古寺于埜田蔓艸之間嘉其有道行詩以贈之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321b17">伏枕吟</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321c09">贈天石施居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0321c13">丁酉眾為山僧卜壽藏于玲瓏嵒下作西嵒隱詩三十絕</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0322b15">壽法起嵩乳和尚七十</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_003.xml#p0322b19">寧宇居士與淮北嵩乳和尚同庚七十因隱書記為其乞言詩以壽之</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_004.xml#p0322c03">詩四</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0322c04">戊戌暮春十九之作</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0322c15">春杪送隱書記歸山陽省嵩乳和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0322c20">壽林谷禪師六十</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0322c24">中夏瀛侍者歸雲間慶母七十因其乞言書此以壽</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a02">永嘉以燮王山人過天童為眾禪寫予照三月因其東歸賦餞以詞</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a07">送楚源禪人還粵</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a10">贈南海實行上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a13">贈嶺南月千上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a16">哭循州若乾寧禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a25">太沖黎居士行年八十而集德存誠如衛之武公敬壽以詞用志企仰之思也</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323a30">赴召上京不及應曹谿之命寄復嶺南二王諸宰輔</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323b04">贈靜香周觀察(諱荃)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323b07">過淮河弔金龍四大王</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323b10">見聖謠三章</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323b17">上賜御畫山水圖(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323c07">上語及先師…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323c13">上命供奉王國彩…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323c18">上詢先師語錄…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323c22">上詰天童何義…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0323c26">上問祖山初見何人…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324a04">上所居孚齋門…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324a11">贈慶雲李欽差</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324a14">贈範宇張欽差</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324a17">贈春雨雷欽差</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324a20">為成茂成幹李大君少君製字孟祥仲謀賦贈</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324a25">上庶兄敬一主人…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b01">贈普濟上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b05">題別山普應禪師所畫白菜</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b09">上于庚子孟春…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b14">上于四月二十七日…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b18">上念忞將別去…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b23">上于乾清宮…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324b28">上亟稱內臣張斐然…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324c05">上再擇夏五既望…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324c10">上問忞幾時再來晤朕…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0324c18">奉　旨還山留別別山普應禪師(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325a06">次韻留別春平吳上谷(附原韻)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325a25">上于十五日凌晨…</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325a30">登舟南邁有感而作</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325b03">舟至臨清十月不雨矣水涸塗見長年束手無策時護送天使欲遂棄舟余示以九重德意關帝威靈果爾河水驟滿抵東昌大雨由是獲濟</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325b08">過分水龍王廟讀永樂朝開河宋尚書禮公碑碣</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325b11">由京國抵吳越水程四千有奇官舟所過瞻敬皈依者傾市井</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0325b15">和天封佛慈祥蜜蜂頌凡六十首</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_004.xml#p0326c16">送宗符華知藏歸嶺報己亥曹谿之命</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_005.xml#p0327a03">詩五</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0327a04">世祖章皇帝哀詞(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0327c10">雨不時</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0327c14">壽錢唐彥遠父胡老居士六十有五</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0327c25">世祖章皇帝御書佛字頌(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328b21">總頌</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328b24">題虞山顧伯永飯僧慎保籍</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c01">錢子纘曾哀詞</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c04">贈獄司俞文叔</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c08">寄懷東來堂敬一主人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c15">秋日接息齋金太傅過訪之音漫成寄復</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c19">仲秋登西徑山訪山幢禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c23">壽息齋金太傅七旬</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0328c27">次畣皇士陳太僕見壽之章</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329a01">寧遠地禪師以無妄罹災將有質獄上都之行書告同人共襄資斧</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329a09">金粟密雲彌布之扁為住僧繼起抹以塗雅賦感五章</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329a26">壬寅季冬重挂前扁以匾為子穀居士所書因詳述先師法道興起之由用旌其勞志不忘也</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329b01">讀靈嵒繼起告先師密老人文五章</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329b17">壬寅冬季月印上人同諸檀以金粟挽余因得清理叢社因其乞言書以贈之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329b22">悟禪耆德少參先師往來金栗天童老不忍去感而賦贈</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329b26">贈子穀蔡居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329b30">贈旦嵒日上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329c05">贈覲周徐居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329c08">贈稚升董居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329c13">子穀居士取因沙掩室之義界一僧寮為關偈以贈之</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329c21">壽濟慧曹道人七旬初度(子覲請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329c25">癸卯夏五上雪竇為同門奇和尚封塔賦感兼贈山夫正姪</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0329c29">壽休寧秀峰李居士七旬口占</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a02">壽萬善殿都監融通超上座五旬</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a05">贈翀宇張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a08">壽濟寰上人六旬加五</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a15">海嶽許居士乞題竹杖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a18">壽孫母朱道人七旬初度(子直庵浩維那請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a22">壽靜香周居士六旬初度</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330a29">過龍池埽幻祖塔</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330b09">題無錫胡節母秋紡圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330b13">過鹽官埽齊安國師塔</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330b17">次韻贈文白范居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330b21">贈文園范居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330b25">贈魯白張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330b28">贈師黃陳居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c03">恆止法師過訪龍池賦此以贈</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c07">壽湛淵清上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c11">壽曹母顧宜人(子茂氿請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c15">過中山永壽寺示石舸語山璉琳二法孫</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c20">為石舸璉孫作</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c24">為語山琳孫作</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0330c29">宿馬寅公齋頭賦贈</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331a02">為繩其蔡居士叔姪易字莘耒渭綸</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331a07">到白門埽東山海舟慈寶峰瑄二祖塔</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331a20">示東山翼善諸房眾</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331a24">喜華山見和尚惠顧東山賦謝</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331a28">宿純菴沈居士園亭賦贈</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331b02">贈恆文沈居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331b06">過祇陀林贈介石登姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331b10">登清涼臺為劍門謙姪禪師作</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331b14">過金陵寺晤隱明綸姪禪師兼懷融澄故友舊居</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331b18">過勝音禪院喜晤妙明律主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_005.xml#p0331b25">題胡半菴書經愈患冊(有序)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_006.xml#p0332a03">序一</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0332a04">戒闍黎示見錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0332b19">宗門寂徵錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0333a01">禪燈世譜序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0333a16">金剛般若波羅密經頌序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0333b12">準提增益法門定本序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0333c21">歷傳祖圖贊序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0334a16">鳴鼓錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0334b18">金粟反正錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_006.xml#p0334c06">鏡麟錄序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_007.xml#p0335a03">序二</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0335a04">四明雪竇山資聖寺志序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0335b10">高峰抱樸蓮和尚語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0335c06">顯聖三宣盂禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0336a12">南嶽山茨際禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0336b05">翠巖古雪禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0336c09">嵩乳禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0337a02">徹嵒歇禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0337a14">湛菴常禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0337b21">大梅法幢幟禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0337c07">大溈慧山海禪師語錄序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_007.xml#p0337c21">巢枸集序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_008.xml#p0338b03">序三</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0338b04">皇明歷科程墨徵序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0338c17">靖揚雅序(代)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0339a23">新蒲綠序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0339b06">三山艸序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0339c03">鄮山集序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0340a11">旅堂集序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0340b17">李寶應語塔序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0340c05">北都城南放生社序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0341a06">北都城西紫竹院放生社序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0341b14">韓媧石畫象贊序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_008.xml#p0341c01">恍然臺詩小序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_009.xml#p0342a03">序四</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0342a04">壽愚菴三和尚序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0342b15">壽龍池萬和尚六旬序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0342c16">壽古歙爾承吳君六秩序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0343a24">壽德輝何君六旬序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0343b23">壽賓梧程君六十序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0343c25">壽廣陵蔣母孺人序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_009.xml#p0344b02">壽毛伯華母七十序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_010.xml#p0345a03">碑銘</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_010.xml#p0345a04">敕建南苑德壽寺碑奉　敕撰文</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_010.xml#p0345b25">南海普陀山梵音菴釋迦文佛真身舍利碑</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_010.xml#p0346a15">四明雪竇山資聖禪寺中興碑</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_010.xml#p0346c29">西徑山雙林寺中興碑</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_010.xml#p0347c03">青州大覺院達法訣禪師道行碑</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_010.xml#p0349a06">金陵大報恩寺重建琉璃大殿碑記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_011.xml#p0350a03">記</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0350a04">重修城南海會寺記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0350b08">古齊安丘縣準提菴記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0350c09">泰興靈雲禪院記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0351a15">重修石霜慈明圜祖塔記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0351b11">重修笑巖祖塔記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0351c02">平江靈鷲寺十方僧田記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0352a10">吳興竹谿禪智寺長生田記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0352b06">九奇遊記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0352c11">涉園月室記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0353a08">五蓮紀勝</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_011.xml#p0353b19">天井灣遊記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_012.xml#p0354a03">傳</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0354a04">龍池禹門幻有傳和尚傳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0354c04">天寧幻也慧禪師傳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0355a16">聖壽印乾法師傳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0355c16">曇常集三禪人傳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0356a28">四明孝直錢先生傳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0356c23">廣陵三我先生傳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_012.xml#p0357b18">義僕傳</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_013.xml#p0358a03">塔銘一</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_013.xml#p0358a04">佛日石雨方禪師塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_013.xml#p0359c01">竹林林皋豫禪師塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_013.xml#p0360b18">天童林埜奇禪師塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_013.xml#p0361b03">靈隱嵩居如公塔銘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_014.xml#p0361c03">塔銘二</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_014.xml#p0361c04">南澗箬菴問禪師塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_014.xml#p0362b21">四明空林遠禪師塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_014.xml#p0363c21">揚州福國院大桑門德宗道公舍利塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_014.xml#p0364c03">淨明院思修惟公塔銘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_015.xml#p0365b03">塔銘三</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_015.xml#p0365b04">敕賜五蓮山護國光明寺心空開法師塔銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_015.xml#p0366b26">湖州禪定菴比丘尼大賢墓碣銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_015.xml#p0367a22">明中憲大夫分巡兗東兵備道王公墓銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_015.xml#p0368b02">敬山徐府君墓志銘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_016.xml#p0368c03">行狀</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_016.xml#p0368c04">明天童密雲悟和尚行狀</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_016.xml#p0370b30">開先若昧明和尚行狀</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_016.xml#p0371c07">故兄知廣西平南縣事文林郎亦采林公行狀</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0372c03">表</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0372c04">建海印道場啟佛表</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0373a08">奏疏</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0373a09">應詔陳情疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0373b11">進天童密雲悟禪師語錄奏章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0373c06">文疏</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0373c07">烈皇帝天壽聖節疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0373c18">烈皇帝薦嚴疏(甲申仲夏)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0374a07">告伽藍疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0374a24">募楞嚴方冊藏經疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0374b11">靈峰修造疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0374b27">道場山募建法堂疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0374c08">茅竹園菴募僧田疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0374c21">募建東山翼善禪寺大雄寶殿疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375a11">梁皇寺募修佛殿疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375a22">寶慶院募緣疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375b03">臨海新興法輪寺募緣疏</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375b11">施茶疏</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375b21">啟</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375b22">復平若陳侍御啟(諱朝輔)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375b29">壽寶慶南禪師五十啟</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375c15">請天目法師作羯磨啟</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375c24">銘</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0375c25">默齋銘(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376a09">慎獨居銘(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376a24">大鍋銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376a27">雲版銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376a30">硯銘</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376b08">右丞硯銘(為子和堅禪人作)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376b12">提詞</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376b13">宗門崇行錄提詞</cblink>
+		<ol>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376b14">序</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376b25">直心</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376c01">密保</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376c06">厲操</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376c11">晦養</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376c16">高風</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376c21">清節</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0376c26">雅量</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0377a01">厚德</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0377a06">慎微</cblink></li>
+			<li><cblink href="XML/J/J26/J26nB181_017.xml#p0377a11">無我</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J26/J26nB181_017.xml#p0377a16">蘭譜題辭為瑞先居士作</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b03">贊一</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b04">釋迦文佛</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b08">出山相</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b12">靈山分衛圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b17">顧氏繡佛</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b21">無量壽佛</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b30">孔雀明王佛</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377c04">藥師佛</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377c09">布袋和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377c14">三教圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377c19">三大士(同幀)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377c26">觀音大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378b03">平菴李居士命工手繪大士相立己於前稽首作禮願言攝受因其乞贊為之題曰</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378b09">魚籃觀音</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378b17">石崖倒挂觀音(立準王連州請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378b21">舍利塔觀音大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378b24">文殊大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378c01">血書曼殊大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378c05">普賢大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378c09">普賢洗象圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378c12">寒山拾得玩月圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378c17">十八應真大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0378c29">三羅漢贊(一尊者指端見塔傍二尊者坐而觀之)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379a04">菩提達磨大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379a14">折蘆渡江</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379a28">面壁達磨大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b02">千歲寶掌</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b06">濟顛羅漢</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b11">黃梅五祖忍大師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b14">天童開山義興禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b18">趙州八十行腳圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b22">天童宏智正覺禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379b26">雲棲蓮池宏大士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379c01">紫柏達觀可大師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379c05">憨山清大師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379c15">幻也佛慧老人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379c20">壽昌無明經禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0379c27">雲門湛然澄禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380a05">博山無異來禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380a11">天童密老人雲門湛和尚同幀子穀居士侍旁</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380a15">密老人語風信雪竇雲洎山僧同幀禪者繪而乞題</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380a23">雲門雪嶠信老人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380b08">受業開先若昧和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380b14">淨名抱樸蓮禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380b19">真寂聞谷大師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380b23">鼓山永覺賢禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380b30">佛日石雨方禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380c05">顯聖三宜盂禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380c11">竹林林皋豫禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380c16">南澗箬菴問禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0380c23">雪竇石奇雲禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0381a04">天童林野奇禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0381a08">陽山松際授禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0381a13">光相高原普禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0381a17">報國茂林律主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_018.xml#p0381a21">蓮居新伊真法師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_019.xml#p0381b03">贊二</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0381b04">天童四世祖源圖(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0381b18">天童三世祖源圖(隆安皙長老請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0381b28">敕賜天童密雲悟和尚真奉旨題贊(有序)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0381c24">諸禪人請贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0383c26">密老人車和尚并祇園剛三世圖(尼古鼎請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0383c30">屺山五世圖(諡一一隱請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0384a03">玄根小師畫天童密老人肖像坐予其旁乞贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_019.xml#p0384a07">山翁自贊</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_020.xml#p0386a03">贊三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a03">贊四</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a04">韋馱關聖同幀</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a11">義勇武安王</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a19">大覺開山達法禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a23">緣幻法主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a28">鹿門西禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b01">雙林山幢懷禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b04">慈築基法師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b07">海鹽朗印受法師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b11">清菴澄禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b16">別山慧善普應禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b20">澹然宙禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b23">自證現法師(孫古箬請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390b27">德宗道上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390c04">秀文璽上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390c13">護生菴洞如關主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390c17">如如上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390c21">悔菴上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390c27">處空昇上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390c30">永明一葦變上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391a04">日明上人(無趣老人之孫)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391a07">恆實上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391a10">明巖上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391a17">梅林戒先上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391a23">青獅文上人(父乏嗣因造曼殊大士相而得者)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391a27">茗柯忠清凌先生</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391b02">三我蔣先生</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391b08">仲含李居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391b13">同菴蔣孝廉</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391b20">尊素王居士(二)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391b29">霞標管居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391c03">靜涵張司農</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391c08">周臣王內史</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391c14">異公王居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391c22">紫嵒周居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0391c28">友醇周居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392a03">仲雍陳居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392a07">師黃陳居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392a17">媧石韓居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392a21">卓月朱漳南出師圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392a25">正喬崔將軍</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b02">慶雲李公(攝政王旗鼓)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b06">春雨雷金吾</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b10">平菴李居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b13">中符汪居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b17">南伯王文學</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b22">扶漢程居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b25">又乞題早歲行樂</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392b29">載甫戴烈士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392c04">錫康周居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392c08">虞卿鮑居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392c11">中仁陳居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392c14">崑石馮居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392c24">肖嵒范居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0392c28">子穀居士入山圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a02">雲間徐式澂</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a06">孝卿費居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a09">摶九張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a12">道耕田居士繪行樂為道耕圖請贊漫書于上</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a16">聖先朱居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a20">秋嵐朱居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a26">祖生顧居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393a30">永孝戴奇童</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b04">龔與參乞題二親肖像(臨終念佛而逝)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b07">徐指菴為父汝仁乞題肖像(諱允壽)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b11">祇園剛姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b15">泉首座為母希菴比丘尼乞題肖像(生緣鹿城)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b19">師黃居士為母陳孺人乞題肖像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b23">通睦馮道婆</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393b28">元清胡道人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393c04">超德殷道人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393c10">牧牛圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393c15">群漁會飲圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393c19">劉海釣蟾圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393c23">樂川馬居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0393c27">聖月錢居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0394a01">武君求居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0394a04">尤敦素居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0394a07">惟寰馬居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0394a10">蔡宗五世家慶圖(子穀居士請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_021.xml#p0394a14">子穀居士行樂圖</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_022.xml#p0394b03">書</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0394b04">復玉齊耿兵憲(諱應衡)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0394b26">與念尼王海憲(諱爾祿)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0394c19">復中柱張相國(附來書)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0395a21">復柴菴吳相國</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0395b13">柬牧齋錢虞山</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0396b01">復西遯超道人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0396b25">復靈嵒儲姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0397b17">復靜香周居士(附來書)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0398a12">再復靜香周居士(附來書)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_022.xml#p0398b30">柬敬一主人郭子公</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399a03">跋</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399a04">題血書法華經後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399a27">題潘天玉所書法華經後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399b18">書石衲道人家藏先司空所誦梵網經後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399c14">書重修梵筴大藏後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399c27">書憨山清大師語後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0400a06">書禪燈世譜後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0400b01">書天童悟和尚語後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0400b11">書謝氏一門五節傳後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0400b27">書李孝貞傳後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0400c19">書李梵君傳後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0401a18">書幼孺凌生詩後</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0401b11">制書後跋</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_023.xml#p0401b24">書鹿門西禪師語後</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402a03">說</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402a04">師蕘說</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402b06">原辯說</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402b22">景倩亭說</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402b30">翼孝說</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402c16">辯訛說</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402c29">法派說</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0403a27">杜逆說</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_024.xml#p0403b22">引</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0403b23">募裝釋迦佛像引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0403c22">重修皋亭中塔院引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0404a13">匡山蘆林精舍募修講堂引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0404b10">募建大能仁寺鐘樓引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0404c01">為序禪募修靜室養母引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0404c25">募住山資糧引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0405a23">募齋十萬八千僧伽引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0405b05">越州雲門寺興修引</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_024.xml#p0405b25">募修安國寺禪堂悟空國師塔院引</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_025.xml#p0406a03">祭文</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_025.xml#p0406a04">告以直禪師文(一千五百廿八字)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_025.xml#p0406c22">告寂音尊者文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_025.xml#p0407b15">見聞雜記</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410a03">警語</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410b06">規約一</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410b07">共住緣起</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410b16">一額定人數</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410c02">二限定住期</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410c17">三楷定住法</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0411a04">四潔清三業</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0411a22">五敬慎威儀</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_026.xml#p0411b06">規約二</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0411b07">序</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_026.xml#p0411b14">訓眾十二條</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_027.xml#p0413b03">尺牘一</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0413b04">復古南牧和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0414c04">與雪竇奇和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0415a18">與龍池萬和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0415b12">與竹林晦夫和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0415c06">與金粟費和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0415c17">復南澗箬菴和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0416a02">復天童浮和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0416b10">與通玄林和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0416c20">復翠嵒古雪和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_027.xml#p0417b07">復雲門徹崖禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_028.xml#p0417c03">尺牘二</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0417c04">與化山三宜和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0418a13">復天界覺浪和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0418c08">復華山見月和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0418c28">復靈嵒儲姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0419c06">復神鼎雲外澤姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0419c25">復寶掌白姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0420a06">與景星湛菴常姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0420a22">與大梅幟姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0420b28">復涼泉承關主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0420c13">復大中禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0420c24">復六輪座主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0421a07">與黃檗出谷上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0421a20">與基隆神英上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0421b01">復佛可式姪禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_028.xml#p0421b18">復報國舟姪禪師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_029.xml#p0422a03">尺牘三</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0422a04">與空林遠禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0422b05">復白雲鹿門西禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0422c22">與臺山梅菴宜禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423a04">與雙林山幢禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423b01">復淨遠禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423b10">與隆慶唯一禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423b21">與寶慶南源禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423c03">復寶壽遠門禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423c12">復東隱玉如法師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423c21">與石盂慈築法師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0423c28">復全一禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0424a16">與本愚禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0424a24">復鑒吾禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0424b16">與同參友人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0424c14">與秀崑道舊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0424c22">與聖阜上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0425a04">與澄霽上人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0425a10">復南山塔主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0425a26">與徑山古囊監院</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0425b05">復月章瑜侍者</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_029.xml#p0425b16">與泰雨徹上人</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_030.xml#p0425c03">尺牘四</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0425c04">與靈峰權長老</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0426a09">復道峰清長老</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0426a17">與廣潤融長老</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0426a26">與大覺昇長老</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0426b30">復神鼎僼長老</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0426c11">復幻楫濟書記</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0426c29">與冰菴張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0427a11">復大溈慧山海孫禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0427b05">復雲居顯孫禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0427b14">復季超祁居士(附來書)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_030.xml#p0429a16">復聖月錢居士</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_031.xml#p0429c03">尺牘五</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0429c04">復蠡源黃司馬(諱日芳)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0430a24">與惠連梅職方(諱之煥)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0430a29">與春曉紀海憲(諱騰蛟)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0430b18">與慈谿時邑侯</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0430b28">復清海魯太史</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0430c15">復玉齊耿兵憲(諱應衡)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0431a17">與子寅韋明州</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0431a25">復文載祁南平(諱熊佳)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0431b04">復皜菴費內史(諱景烷)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432a02">復靜香周觀察(諱荃)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432a21">復開來萬萊州(諱代尚)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432b01">復松交顧比部(諱子咸)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432b12">復爾濤汪進士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432b23">復明州眾護法宰官</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432c06">復常熟眾護法宰官</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432c11">復檇李諸護法宰官</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0432c21">復李灌谿姚文初吳止齋陳皇士諸護法宰官</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0433a08">與祈遠唐孝廉(諱元竤)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_031.xml#p0433a22">復予安王孝廉</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB181_032.xml#p0433c03">尺牘六</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0433c04">與同菴蔣孝廉</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0433c30">與安丘三如源思馬二孝廉(長諱長春次諱澄)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0434a08">與搴玉孫陽江(諱自修)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0434a27">與介子黃居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0434b28">復爾寧楊居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0434c08">與荊二哥</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0434c18">復爾保程居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0434c30">復仲英楊居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0435a14">復次牧馮居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0435b15">與開陽李居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0435c01">復天中沈居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0435c08">與虞尊高居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0435c17">復長卿姚居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0435c25">復奕遠祁居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436a07">復萬弢宗居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436a14">復彥遠胡居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436a23">復鄴嗣李居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436b08">復幃燈凌居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436b19">與荊谿諸護法書</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436c05">復獻吉沈居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436c12">復香城姚居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436c18">復尊素王居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0436c25">復默全張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0437a01">復明卿劉居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0437a09">復天石施居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0437a20">復包兄元孺林居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0437b08">復族弟含芳居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB181_032.xml#p0437b17">復妹八姑晃道人</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J26/J26nB181_001.xml#p0311a01">第一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_002.xml#p0314c01">第二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_003.xml#p0318c01">第三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_004.xml#p0322c01">第四</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_005.xml#p0327a01">第五</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_006.xml#p0332a01">第六</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_007.xml#p0335a01">第七</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_008.xml#p0338b01">第八</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_009.xml#p0342a01">第九</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_010.xml#p0345a01">第十</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_011.xml#p0350a01">第十一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_012.xml#p0354a01">第十二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_013.xml#p0358a01">第十三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_014.xml#p0361c01">第十四</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_015.xml#p0365b01">第十五</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_016.xml#p0368c01">第十六</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_017.xml#p0372c01">第十七</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_018.xml#p0377b01">第十八</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_019.xml#p0381b01">第十九</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_020.xml#p0386a01">第二十</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_021.xml#p0390a01">第二十一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_022.xml#p0394b01">第二十二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_023.xml#p0399a01">第二十三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_024.xml#p0402a01">第二十四</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_025.xml#p0406a01">第二十五</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_026.xml#p0410a01">第二十六</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_027.xml#p0413b01">第二十七</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_028.xml#p0417c01">第二十八</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_029.xml#p0422a01">第二十九</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_030.xml#p0425c01">第三十</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_031.xml#p0429c01">第三十一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB181_032.xml#p0433c01">第三十二</cblink></li>
+</ol>
+</nav>
+</body></html>

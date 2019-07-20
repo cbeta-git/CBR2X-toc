@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0275_001.xml#p0187b02">No. 275-A 大佛頂首楞嚴經正脉疏序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_001.xml#p0188b02">楞嚴經正脉疏</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_010.xml#p0481a06">No. 275-B 刊楞嚴正脉後䟦</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_010.xml#p0481b15">No. 275-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0275_001.xml#p0188b03">第一</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_002.xml#p0215b07">第二</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_003.xml#p0249b10">第三</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_004.xml#p0277a14">第四</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_005.xml#p0322a08">第五</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_006.xml#p0347b13">第六</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_007.xml#p0380b14">第七</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_008.xml#p0399a12">第八</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_009.xml#p0435a20">第九</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0275_010.xml#p0460c05">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

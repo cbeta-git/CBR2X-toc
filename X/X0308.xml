@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0308_001.xml#p0012a02">No. 308-A 續夢始末</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_001.xml#p0012c12">閱疏凡例</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_001.xml#p0013b14">九總釋名題</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_001.xml#p0017a02">十別解文義</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_010.xml#p0346a17">No. 308-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0308_001.xml#p0013b10">第一</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_002.xml#p0048b05">第二</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_003.xml#p0082c21">第三</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_004.xml#p0111b08">第四</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_005.xml#p0150b12">第五</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_006.xml#p0182b01">第六</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_007.xml#p0215c01">第七</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_008.xml#p0241b16">第八</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_009.xml#p0282a09">第九</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0308_010.xml#p0318b13">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

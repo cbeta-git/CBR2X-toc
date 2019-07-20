@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1550_001.xml#p0809a08">1 界品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_001.xml#p0810b16">2 行品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_001.xml#p0812b14">3 業品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_002.xml#p0815b14">4 使品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_002.xml#p0818a10">5 賢聖品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_003.xml#p0820b22">6 智品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_003.xml#p0823a27">7 定品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_004.xml#p0826b10">8 契經品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_004.xml#p0830b27">9 雜品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_004.xml#p0833a02">10 論品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1550_001.xml#p0809a03">第一</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_002.xml#p0815b09">第二</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_003.xml#p0820b17">第三</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1550_004.xml#p0826b05">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

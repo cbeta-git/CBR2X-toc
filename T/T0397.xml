@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0397_001.xml#p0001a06">1 瓔珞品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_001.xml#p0005b11">2 陀羅尼自在王菩薩品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_001.xml#p0005b11">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_001.xml#p0008b03">校正後序</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_002.xml#p0009a03">2</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_003.xml#p0014b23">3</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_004.xml#p0022b02">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_005.xml#p0028b28">3 寶女品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_005.xml#p0028b28">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_006.xml#p0033c23">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_007.xml#p0040b26">4 不眴菩薩品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_008.xml#p0046b25">5 海慧菩薩品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_008.xml#p0046b25">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_009.xml#p0052c02">2</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_010.xml#p0060b18">3</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_011.xml#p0067b04">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_012.xml#p0074c16">6 無言菩薩品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_013.xml#p0083c20">7 不可說菩薩品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_014.xml#p0093a06">8 虛空藏品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_014.xml#p0093a06">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_015.xml#p0100a23">2</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_016.xml#p0108a09">3</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_017.xml#p0114b06">4</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_018.xml#p0122a02">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_019.xml#p0129a05">9 寶幢分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_019.xml#p0129a05">1 魔苦品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_019.xml#p0131b16">2 往古品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_019.xml#p0134b04">3 魔調伏品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_020.xml#p0137b19">4 三昧神足品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_020.xml#p0140c28">5 相品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0143c19">6 陀羅尼品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0147c03">7 護品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0148a23">8 授記品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0149b16">9 悲品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0149c24">10 護法品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0150b26">11 四天王護法品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0152a01">12 曠野鬼品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_021.xml#p0152c21">13 還本品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_022.xml#p0154a15">10 虛空目分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_022.xml#p0154a15">1 聲聞品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_023.xml#p0162c05">2 世間目品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_023.xml#p0163c14">3 彌勒品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_023.xml#p0164c23">4 四無量心品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_023.xml#p0166a05">5 淨目品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_024.xml#p0169a18">6 聖目品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_024.xml#p0170c17">7 辟支佛乘品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_024.xml#p0171a09">8 聖無礙智品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_024.xml#p0171c25">9 護法品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_024.xml#p0173a23">10 大眾還品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_025.xml#p0173b28">11 寶髻菩薩品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_025.xml#p0173b28">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_026.xml#p0179a08">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_027.xml#p0184a19">12 無盡意菩薩品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_027.xml#p0184a19">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_028.xml#p0192a21">2</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_029.xml#p0199b18">3</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_030.xml#p0205c15">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_031.xml#p0213b28">13 日密分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_031.xml#p0213b28">1 護法品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_031.xml#p0216a29">2 四方菩薩集品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_032.xml#p0222a25">3 分別說欲品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_032.xml#p0222b21">4 分別品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T13/T13n0397_032.xml#p0222b21">1</cblink></li>
+			<li><cblink href="XML/T/T13/T13n0397_033.xml#p0225a12">2</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_034.xml#p0233a05">14 日藏分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_034.xml#p0233a05">1 護持正法品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_035.xml#p0239a08">2 陀羅尼品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T13/T13n0397_035.xml#p0239a08">1</cblink></li>
+			<li><cblink href="XML/T/T13/T13n0397_036.xml#p0244c17">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T13/T13n0397_037.xml#p0250a05">3 菩薩使品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_038.xml#p0254c06">4 定品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_039.xml#p0261c05">5 惡業集品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_040.xml#p0266c05">6 護持品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_040.xml#p0268c06">7 佛現神通品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_041.xml#p0270c13">8 星宿品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T13/T13n0397_041.xml#p0270c13">1</cblink></li>
+			<li><cblink href="XML/T/T13/T13n0397_042.xml#p0276a02">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T13/T13n0397_043.xml#p0282c05">9 送使品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_043.xml#p0284b22">10 念佛三昧品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_043.xml#p0286c15">11 昇須彌山頂品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_044.xml#p0289a22">12 三歸濟龍品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_045.xml#p0293b12">13 護塔品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_046.xml#p0298a05">15 月藏分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_046.xml#p0298a05">1 月幢神咒品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_047.xml#p0303c05">2 魔王波旬詣佛所品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_047.xml#p0305c17">3 諸阿修羅詣佛所品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_048.xml#p0311c05">4 本事品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_048.xml#p0313c24">5 第一義諦品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_049.xml#p0318c20">6 令魔得信樂品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_049.xml#p0321b03">7 一切鬼神集會品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_050.xml#p0324c05">8 諸惡鬼神得敬信品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_051.xml#p0341c13">9 諸天王護持品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_052.xml#p0344b05">10 諸魔得敬信品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_052.xml#p0346b18">11 提頭賴吒天王護持品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_052.xml#p0348b14">12 毘樓勒叉天王品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_052.xml#p0349b10">13 毘樓博叉天王品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_052.xml#p0350a21">14 毘沙門天王品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_053.xml#p0352a18">15 咒輪護持品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_053.xml#p0353a18">16 忍辱品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T13/T13n0397_053.xml#p0353a18">1</cblink></li>
+			<li><cblink href="XML/T/T13/T13n0397_054.xml#p0357b12">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T13/T13n0397_055.xml#p0362c05">17 分布閻浮提品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_056.xml#p0371a13">18 星宿攝受品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_056.xml#p0373c13">19 建立塔寺品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_056.xml#p0374c27">20 法滅盡品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_057.xml#p0381c18">16 須彌藏分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0397_057.xml#p0381c18">1 聲聞品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_057.xml#p0383b20">2 菩薩禪本業品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_057.xml#p0384c24">3 滅非時風雨品</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0397_058.xml#p0388a24">4 陀羅尼品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0397_059.xml#p0394b08">17 十方菩薩品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0397_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_002.xml#p0009a03">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_003.xml#p0014b23">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_004.xml#p0022b02">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_005.xml#p0028b25">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_006.xml#p0033c23">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_007.xml#p0040b23">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_008.xml#p0046b22">第八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_009.xml#p0052c02">第九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_010.xml#p0060b18">第十</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_011.xml#p0067b04">第十一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_012.xml#p0074c13">第十二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_013.xml#p0083c17">第十三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_014.xml#p0093a03">第十四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_015.xml#p0100a23">第十五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_016.xml#p0108a09">第十六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_017.xml#p0114b06">第十七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_018.xml#p0122a02">第十八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_019.xml#p0129a02">第十九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_020.xml#p0137b16">第二十</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_021.xml#p0143c16">第二十一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_022.xml#p0154a12">第二十二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_023.xml#p0162c02">第二十三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_024.xml#p0169a15">第二十四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_025.xml#p0173b25">第二十五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_026.xml#p0179a08">第二十六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_027.xml#p0184a16">第二十七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_028.xml#p0192a21">第二十八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_029.xml#p0199b18">第二十九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_030.xml#p0205c15">第三十</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_031.xml#p0213b25">第三十一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_032.xml#p0219b21">第三十二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_033.xml#p0225a12">第三十三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_034.xml#p0233a02">第三十四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_035.xml#p0239a05">第三十五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_036.xml#p0244c17">第三十六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_037.xml#p0250a02">第三十七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_038.xml#p0254c03">第三十八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_039.xml#p0261c02">第三十九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_040.xml#p0266c02">第四十</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_041.xml#p0270c10">第四十一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_042.xml#p0276a02">第四十二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_043.xml#p0282c02">第四十三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_044.xml#p0289a19">第四十四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_045.xml#p0293b09">第四十五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_046.xml#p0298a02">第四十六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_047.xml#p0303c02">第四十七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_048.xml#p0311c02">第四十八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_049.xml#p0318c17">第四十九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_050.xml#p0324c02">第五十</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_051.xml#p0337b19">第五十一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_052.xml#p0344b02">第五十二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_053.xml#p0352a15">第五十三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_054.xml#p0357b12">第五十四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_055.xml#p0362c02">第五十五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_056.xml#p0371a10">第五十六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_057.xml#p0381c15">第五十七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_058.xml#p0388a21">第五十八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_059.xml#p0394b05">第五十九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0397_060.xml#p0401a21">第六十</cblink></li>
+</ol>
+</nav>
+</body></html>

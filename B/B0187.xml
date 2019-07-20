@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0681a02">凡例</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0683a03">六門分別</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0683a06">一釋名義</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0683a08">煩惱鄣</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0683a12">所知鄣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0684a07">二出軆相</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0684a07">顯了門</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0695a14">隱密門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0696a11">三辨功能</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0696a13">能發業</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0698a06">能結生</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0703a12">四攝諸門</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0703a15">百二十八煩惱</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0705a14">百四惑</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0706a06">九十八使</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0707a09">八種妄想</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0709a12">三種煩惱</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0710a03">二種煩惱</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0713a11">五明治斷</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0713a13">簡能治</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0721a02">定所斷</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0724a03">明治斷差別</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0187_001.xml#p0726a10">辨治斷階位</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0734a01">六惣決擇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0187_001.xml#p0681a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

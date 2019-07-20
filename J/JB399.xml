@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0749a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0749a01">朱廷梅序</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0749c13">行珍序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0750c03">上堂</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0753b23">小參</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0754a23">示眾</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0755c16">頌古</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0756c10">佛事</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0756c11">古南先老和尚週忌上供</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0756c16">三週設供</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0756c22">送先老和尚舍利入塔</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0756c26">秀峰岫雲和尚計音至上供</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757a05">為受業師十週設供</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757a12">為慧朗師起龕</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757a17">舉火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757a21">為收供勤修禪德火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757a25">為汝風杲和尚火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757b08">除夕為野生上座火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757b12">了義禪人火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757b16">正知禪德起龕</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757b18">舉火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757b25">佛起法屬起龕</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757b30">舉火</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757c03">大司馬科公命代作先老和尚祭文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0757c16">行實</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0758c01">塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB399_001.xml#p0750c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

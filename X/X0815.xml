@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X49/X49n0815_001.xml#p0479b04">第之一本(論牒以前)</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_001.xml#p0486c17">第一本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_001.xml#p0498a14">第一末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_002.xml#p0515a01">第二本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_002.xml#p0526c03">第二末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_003.xml#p0540c10">第三本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_003.xml#p0569a15">第三末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_004.xml#p0585a15">第四</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_005.xml#p0608b01">第五</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_006.xml#p0621c16">第六本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_006.xml#p0637a21">第六末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_007.xml#p0661a01">第七本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_007.xml#p0668b01">第七末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_008.xml#p0686b07">第八本上</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_008.xml#p0708b07">第八本下</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_008.xml#p0723b01">第八末上</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_008.xml#p0736b14">第八末下</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_010.xml#p0748a19">第十本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_010.xml#p0776b07">第十末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_011.xml#p0799b16">第十一</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_012.xml#p0828c20">第十二本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_012.xml#p0852c01">第十二末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_013.xml#p0876a15">第十三本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0815_013.xml#p0885b15">第十三末</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T01/T01n0023_001.xml#p0277a06">1 閻浮利品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_001.xml#p0279c25">2 鬱單曰品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_001.xml#p0281a04">3 轉輪王品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_002.xml#p0283b11">4 泥犁品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_002.xml#p0287b14">5 阿須倫品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_003.xml#p0288a24">6 龍鳥品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_003.xml#p0290a10">7 高善士品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_003.xml#p0293b12">8 四天王品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_004.xml#p0294a27">9 忉利天品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_005.xml#p0300a26">10 戰鬥品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_005.xml#p0302a23">11 三小劫品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_005.xml#p0302c17">12 災變品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_006.xml#p0305b02">13 天地成品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T01/T01n0023_001.xml#p0277a03">第一</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_002.xml#p0282b06">第二</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_003.xml#p0288a21">第三</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_004.xml#p0294a24">第四</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_005.xml#p0300a23">第五</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0023_006.xml#p0305a27">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

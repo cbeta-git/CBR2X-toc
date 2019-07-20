@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1929_001.xml#p0721a03">第一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_002.xml#p0725b11">第二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_003.xml#p0729a07">第三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_004.xml#p0731c17">第四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_005.xml#p0735b24">第五</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_006.xml#p0739a13">第六</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_007.xml#p0743c14">第七</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_008.xml#p0747a22">第八</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_009.xml#p0751c20">第九</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_010.xml#p0755c04">第十</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_011.xml#p0760a16">第十一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1929_012.xml#p0764a23">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

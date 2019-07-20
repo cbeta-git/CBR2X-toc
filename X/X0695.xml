@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0695_001.xml#p0695a02">No. 695-A 梵網經略疏序</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_001.xml#p0696a01">No. 695-B 梵網經心地品下略疏科文</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_001.xml#p0697a01">佛說梵網經菩薩心地品下略疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0695_001.xml#p0697a03">第一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_002.xml#p0703c15">第二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_003.xml#p0710b01">第三</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_004.xml#p0719b04">第四</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_005.xml#p0731c03">第五</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_006.xml#p0741c03">第六</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_007.xml#p0751a21">第七</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0695_008.xml#p0761b03">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

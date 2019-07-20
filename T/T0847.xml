@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0936b27">第一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0938a03">第二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0939a01">第三</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0939c10">第四</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0940a13">第五</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0940c17">第六</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0942a11">第七</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0942b09">第八</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0942b23">第九</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0942c27">第十</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0944a01">第十一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0944c16">第十二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0949b26">第十三</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0950b16">第十四</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0950c02">第十五</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0950c13">第十六</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0951a06">第十七</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0951c14">第十八</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0952a27">第十九</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0952c09">第二十</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0953b04">第二十一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0953b25">第二十二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0954a16">第二十三</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0954a29">第二十四</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0954c22">第二十五</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0955a23">第二十六</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0955b19">第二十七</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0955c29">第二十八</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0956b15">第二十九</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0956c02">第三十</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0956c16">第三十一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0956c28">第三十二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0957a18">第三十三</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0957b04">第三十四</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0957b13">第三十五</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0957c18">第三十六</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0958a06">第三十七</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0958b26">第三十八</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0959a02">第三十九</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0959c22">第四十</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0960b04">第四十一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0961a25">第四十二</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T17/T17n0847_001.xml#p0935a14">第一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_002.xml#p0944c12">第二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0847_003.xml#p0953b21">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

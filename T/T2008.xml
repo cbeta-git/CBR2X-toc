@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0345b21">六祖大師法寶壇經目錄</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0345c05">六祖大師法寶壇經序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0346a10">六祖大師法寶壇經贊</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0347c23">1 行由</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0350a09">2 般若</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0351c19">3 疑問</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0352c12">4 定慧</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0353b07">5 坐禪</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0353b28">6 懺悔</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0355a11">7 機緣</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0358b04">8 頓漸</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0359c12">9 宣詔</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0360a23">10 付囑</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0362b22">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T48/T48n2008_001.xml#p0362b23">六祖大師緣起外紀</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2008_001.xml#p0363b10">歷朝崇奉事蹟</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2008_001.xml#p0363b18">賜諡大鑒禪師碑</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2008_001.xml#p0364a01">大鑒禪師碑</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2008_001.xml#p0364b01">佛衣銘</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2008_001.xml#p0364c08">跋</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2008_001.xml#p0347c19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

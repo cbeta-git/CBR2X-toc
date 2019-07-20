@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0377_001.xml#p0900a07">憍陳如品餘</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0377_001.xml#p0900c14">1 遺教品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0377_001.xml#p0904b06">2 應盡還源品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0377_002.xml#p0906c17">3 機感茶毘品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0377_002.xml#p0910a16">4 聖軀廓潤品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0377_001.xml#p0900a03">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0377_002.xml#p0906c13">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

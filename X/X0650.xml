@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0650_001.xml#p0193a02">No. 650-A 觀普賢菩薩行法經續疏序</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0650_001.xml#p0193a18">觀普賢菩薩行法經義疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0650_001.xml#p0193a20">第一</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0650_002.xml#p0204a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0410_001.xml#p0369b06">序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0410_001.xml#p0369c03">觀經扶新論</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0410_001.xml#p0378a04">No. 410-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0410_001.xml#p0369b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

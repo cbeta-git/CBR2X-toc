@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0001a01">佛頂尊勝陀羅尼</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0006a08">大灌頂光真言</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0008a01">大佛頂首楞嚴心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0009a06">廣大寶樓閣陀羅尼根本呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0010a07">心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0011a01">隨心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0011a05">七俱胝佛母準泥大明陀羅尼</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0012a04">禮拜滅罪呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0012a10">金剛壽命陀羅尼</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0013a03">末法中一字心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0013a12">無量壽如來心真言</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0014a04">無量壽佛說往生淨土呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0015a01">六字大陀羅尼</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0015a06">文殊師利根本一字呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0016a01">文殊五字呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0016a05">普賢菩[薩-產+(辛/工)]滅罪呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0016a12">觀自在菩[薩-產+(辛/工)]如意心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0017a06">大心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0017a07">隨心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0018a09">蓮華部心呪</cblink></li>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0019a12">跋</cblink>
+	<ol>
+		<li><cblink href="XML/D/D10/D10n8814_001.xml#p0020a01">德求跋</cblink></li>
+		<li><cblink href="XML/D/D10/D10n8814_001.xml#p0021a01">魏謙升跋</cblink></li>
+		<li><cblink href="XML/D/D10/D10n8814_001.xml#p0022a01">張爾田跋</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D10/D10n8814_001.xml#p0001a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

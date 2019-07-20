@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0176_001.xml#p0429a04">序</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0176_001.xml#p0429b05">淨土宗</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0176_001.xml#p0429b06">三經一論</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_001.xml#p0429b10">祖師</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_001.xml#p0429b26">要文</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_001.xml#p0441b01">附錄親鸞破</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442a05">禪宗</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442a05">依經</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442a12">祖師</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442a13">西天二十八祖</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442b05">東土六祖</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442b17">要文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0176_002.xml#p0450a06">律宗</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0450a06">四阿含經</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0450a16">總別六部</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0450a20">祖師</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_002.xml#p0450a25">要文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0176_003.xml#p0452c05">真言宗</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0176_003.xml#p0452c06">三經一論</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_003.xml#p0452c12">祖師</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0176_003.xml#p0452c30">要文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0176_003.xml#p0460a01">附言</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0176_001.xml#p0429a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0176_002.xml#p0442a01">第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0176_003.xml#p0452c01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

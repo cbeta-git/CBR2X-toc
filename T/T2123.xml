@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2123_001.xml#p0001a03">諸經要集序</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_001.xml#p0001b12">1 三寶部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_001.xml#p0001b13">1 敬佛篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_001.xml#p0001b17">1 普敬述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_001.xml#p0001c23">2 念十方佛緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_001.xml#p0002c23">3 念釋迦佛緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_001.xml#p0003c11">4 念彌陀佛緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_001.xml#p0005a04">5 念彌勒佛緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_001.xml#p0007a09">6 念佛三昧緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_002.xml#p0008c21">2 敬法篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0008c24">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0009a06">2 說法緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0010a21">3 聽法緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0011c11">4 漸頓緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0012a20">5 求法緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0013b05">6 感福緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0014b07">7 報恩緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0015b05">8 謗法緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_002.xml#p0016a27">3 敬僧篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0016a29">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0016b22">2 順益緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_002.xml#p0018a18">3 違損緣</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_003.xml#p0019c05">2 敬塔部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0019c08">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0019c16">2 引證緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0021a27">3 興造緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0021c28">4 感報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0022b21">5 旋遶緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0023a16">6 入寺緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0024a20">7 修故緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_003.xml#p0025c10">3 攝念部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0025c12">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0025c22">2 十念緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0026b20">3 六念緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_003.xml#p0027b25">4 發願緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_004.xml#p0028a16">4 入道部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0028a19">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0028b11">2 欣厭緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0029a28">3 出家緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0029c12">4 引證緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_004.xml#p0031b27">5 唄讚部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0031b29">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0031c26">2 引證緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0032b17">3 歎德緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_004.xml#p0033c08">6 香燈部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0033c10">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0033c23">2 華香緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0035c27">3 然燈緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_004.xml#p0038a05">4 懸幡緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_005.xml#p0038c22">7 受請部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0038c25">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0039a07">2 供養緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0040c08">3 簡偽緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0042a26">4 聖僧緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0043c04">5 施食緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0045a11">6 食時緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0045b10">7 食法緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_005.xml#p0046c05">8 食訖緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_006.xml#p0047b08">8 受齋部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0047b11">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0047b16">2 引證緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_006.xml#p0048c20">9 破齋部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0048c22">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0049a02">2 引證緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_006.xml#p0050b21">10 富貴部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0050b23">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0050c05">2 引證緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_006.xml#p0053c23">11 貧賤部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0053c26">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0054a11">2 引證緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0054c13">3 須達緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0055b29">4 貧兒緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_006.xml#p0056c19">5 貧女緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_007.xml#p0058a11">12 獎道部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0058a14">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0058a23">2 誡男緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0058c22">3 誡女緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0062a07">4 勸導緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0063b24">5 眷屬緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0065a28">6 離著緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_007.xml#p0066a03">7 教誡緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_008.xml#p0067c05">13 報恩部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0067c08">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0067c20">2 報恩緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0068c22">3 背恩緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_008.xml#p0070c21">14 放生部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0070c23">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0071a09">2 興害緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0071b10">3 放生緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0072c05">4 救厄緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_008.xml#p0074b07">15 興福部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0074b10">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0074c08">2 修福緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0075c05">3 應法緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0076c25">4 䞋施緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0077a12">5 洗僧緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_008.xml#p0078a18">6 雜福緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_009.xml#p0079a15">16 擇交部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0079a18">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0079b04">2 善友緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0080a17">3 惡友緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0081b20">4 債負緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0083a17">5 懲過緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_009.xml#p0084c09">17 思慎部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0084c12">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0084c22">2 慎過緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0086b14">3 慎禍緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0086c03">4 慎境緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_009.xml#p0087c16">5 慎用緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_010.xml#p0088a22">18 六度部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_010.xml#p0088a23">1 布施篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0088a26">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0088b13">2 慳偽緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0089b08">3 財施緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0090a11">4 法施緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0090c28">5 量施緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0091c20">6 福田緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0092b14">7 相對緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_010.xml#p0093c02">2 持戒篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0093c03">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0093c23">2 勸持緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_010.xml#p0096a21">3 忍辱篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0096a23">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0096b04">2 勸忍緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0096c24">3 忍益緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_010.xml#p0098a22">4 精進篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0098a24">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0098b27">2 懈惰緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0099a23">3 策修緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_010.xml#p0100a21">5 禪定篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0100a22">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0100b25">2 定相緣</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T54/T54n2123_010.xml#p0101a27">6 智慧篇</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0101a28">1 述意緣</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2123_010.xml#p0101b23">2 求法緣</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_011.xml#p0103a05">19 業因部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_011.xml#p0103a08">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_011.xml#p0103a15">2 發業緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_011.xml#p0105c01">3 罪行緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_011.xml#p0106a25">4 福行緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_011.xml#p0106c20">5 雜業緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_012.xml#p0108b18">20 欲蓋部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0108b20">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0108c13">2 五欲緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0111a21">3 五蓋緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_012.xml#p0112c01">21 四生部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0112c04">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0112c09">2 會名緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0113a03">3 相攝緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0114b11">4 五生緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0114c22">5 中陰緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_012.xml#p0118a21">6 受胎緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_013.xml#p0119a25">22 受報部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0119a29">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0119b11">2 報類緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0119b28">3 現報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0119c28">4 生報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0122a03">5 後報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0122b09">6 定報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0123a18">7 不定緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0123c09">8 善報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_013.xml#p0124b08">9 惡報緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_014.xml#p0128a23">23 十惡部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_014.xml#p0128a27">1 殺生緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_014.xml#p0129c14">2 偷盜緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_014.xml#p0132b25">3 邪婬緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_014.xml#p0135a16">4 妄語緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_014.xml#p0136b03">5 惡口緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_015.xml#p0138c05">6 兩舌緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_015.xml#p0139b24">7 綺語緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_015.xml#p0140a07">8 慳貪緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_015.xml#p0142b10">9 瞋恚緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_015.xml#p0145a29">10 邪見緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_016.xml#p0148a14">24 詐偽部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0148a17">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0148a24">2 詐親緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0148c06">3 詐毒緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0149a09">4 詐貴緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0149b29">5 詐怖緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0149c20">6 詐畜緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_016.xml#p0152c26">25 墮慢部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0152c28">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0153a12">2 引證緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_016.xml#p0154a08">3 立志緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_017.xml#p0155b22">26 酒肉部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_017.xml#p0155b24">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_017.xml#p0155c23">2 飲酒緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_017.xml#p0159b10">3 食肉緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_017.xml#p0162c11">27 占相部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_017.xml#p0162c13">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_017.xml#p0162c19">2 觀相緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_017.xml#p0165a07">3 歸信緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_018.xml#p0166a05">28 地獄部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0166a08">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0166a18">2 會名緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0166b21">3 受報緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0170a03">4 時量緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0170b11">5 典主緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0170c02">6 王都緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0171a15">7 業因緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_018.xml#p0174a29">8 誡勗緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_019.xml#p0175a11">29 送終部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0175a15">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0175b23">2 瞻病緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0176b10">3 醫療緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0176c10">4 安置緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0177a02">5 斂念緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0177b14">6 捨命緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0178b16">7 遣送緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0179c24">8 受生緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_019.xml#p0181b21">9 祭祠緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2123_020.xml#p0184a24">30 雜要部</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0184a29">1 述意緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0184b10">2 怨苦緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0185b22">3 八苦緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0186b15">4 蟲寓緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0189a22">5 五辛緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0189b16">6 啑氣緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0189c06">7 便利緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0191b10">8 護淨緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0191c25">9 鳴鍾緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0192a29">10 入眾緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0192b21">11 衰相緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0192c12">12 眠夢緣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2123_020.xml#p0193b03">13 雜行緣</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2123_001.xml#p0001b10">第一</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_002.xml#p0008c18">第二</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_003.xml#p0019c02">第三</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_004.xml#p0028a13">第四</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_005.xml#p0038c19">第五</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_006.xml#p0047b05">第六</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_007.xml#p0058a08">第七</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_008.xml#p0067c02">第八</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_009.xml#p0079a12">第九</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_010.xml#p0088a19">第十</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_011.xml#p0103a02">第十一</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_012.xml#p0108b15">第十二</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_013.xml#p0119a22">第十三</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_014.xml#p0128a20">第十四</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_015.xml#p0138c02">第十五</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_016.xml#p0148a11">第十六</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_017.xml#p0155b19">第十七</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_018.xml#p0166a02">第十八</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_019.xml#p0175a08">第十九</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2123_020.xml#p0184a21">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

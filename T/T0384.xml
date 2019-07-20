@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0384_001.xml#p1015a24">1 天宮品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_001.xml#p1018a24">2 遊步品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_001.xml#p1020b01">3 聖諦品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_002.xml#p1021a09">4 佛樹品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_002.xml#p1023a28">5 三世等品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_003.xml#p1026a15">6 想無想品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_003.xml#p1026c27">7 住不住品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_003.xml#p1027c06">8 八種身品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_003.xml#p1030a19">9 全身舍利品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_003.xml#p1031b07">10 常無常品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_004.xml#p1032b05">11 隨喜品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_004.xml#p1033b17">12 五道尋識品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_004.xml#p1034a20">13 諸佛行齊無差別品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_004.xml#p1035c20">14 行定不定品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_005.xml#p1037c09">15 入六道眾生品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_005.xml#p1038c09">16 轉法輪品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_005.xml#p1040b10">17 五神通品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_005.xml#p1041a18">18 識住處品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_005.xml#p1042a07">19 善權品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1042c27">20 無明品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1044a11">21 苦行品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1045a01">22 四道和合品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1045c05">23 意品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1046c02">24 定意品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1047b27">25 光影品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1048b15">26 破邪見品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1049b23">27 文殊身變化品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1050b20">28 八賢聖齋品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1051b02">29 五樂品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1052a23">30 緊陀羅品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1052c28">31 香音神品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1053c02">32 地神品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1054b13">33 人品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1055b07">34 行品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1057a09">35 法住品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1057b27">36 復本形品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1057c21">37 起塔品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1058a18">38 出經品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0384_001.xml#p1015a20">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_002.xml#p1021a06">第二</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_003.xml#p1026a12">第三</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_004.xml#p1032b02">第四</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_005.xml#p1037c06">第五</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_006.xml#p1042c24">第六</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0384_007.xml#p1048b12">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

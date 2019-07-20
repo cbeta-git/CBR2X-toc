@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2158_001.xml#p1048a23">序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2158_001.xml#p1049b01">大唐貞元錄藏經律論目錄等</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2158_001.xml#p1049b01">新編入目論</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2158_001.xml#p1049b16">大乘經及念誦法</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2158_001.xml#p1052b07">大乘律</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2158_001.xml#p1052b10">大乘論</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2158_001.xml#p1052b16">小乘律</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2158_001.xml#p1052c09">德宗朝貞元藏目等</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2158_001.xml#p1053a26">上表</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2158_001.xml#p1048a19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0519b23">新譯仁王般若經陀羅尼念誦軌儀序</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520a29">1 結佛部三昧耶印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520b09">2 結諸菩薩部三昧耶印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520b18">3 結金剛部三昧耶印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520b28">4 結護身印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520c04">5 結辟除印及金剛方隅寶界印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520c10">6 結請聖眾降壇印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520c14">7 獻閼伽香水印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520c22">8 獻寶座印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0521a01">9 結普供養印</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0521a16">10 結般若波羅蜜多根本印</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0995_001.xml#p0520a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0013a01">一　雙品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0015a12">二　不放逸品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0016a13">三　心品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0017a12">四　華品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0019a03">五　愚品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0020a10">六　賢品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0022a02">七　阿羅漢品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0023a07">八　千品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0025a02">九　惡品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0026a05">一〇　刀杖品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0028a02">一一　老品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0029a06">一二　自己品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0030a06">一三　世品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0031a06">一四　佛陀品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0033a06">一五　安樂品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0034a10">一六　愛好品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0035a10">一七　忿怒品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0037a02">一八　垢穢品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0038a13">一九　法住品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0041a02">二〇　道品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0042a13">二一　雜品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0044a12">二二　地獄品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0046a04">二三　象品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0047a07">二四　愛欲品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0050a02">二五　比丘品</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0009_001.xml#p0052a06">二六　婆羅門品</cblink></li>
+</ol>
+</nav>
+</body></html>

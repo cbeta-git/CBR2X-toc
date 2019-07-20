@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1832_001.xml#p0659a03">第一本(論本第一)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_001.xml#p0671c14">第一末(論本第一)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_002.xml#p0681b02">第二本(論本第一)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_002.xml#p0695c02">第二末(論本第一)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_003.xml#p0707c19">第三(論本第二)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_004.xml#p0726a14">第四本(論本第三-第四)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_004.xml#p0736b13">第四末(論本第四)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_005.xml#p0745a02">第五本(論本第五)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_005.xml#p0753c11">第五末(論本第六)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_006.xml#p0770a22">第六本(論本第七未盡)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_006.xml#p0775b02">第六末(論本第八)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_007.xml#p0790c02">第七本(論本第九)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1832_007.xml#p0804c22">第七末(論本第十)</cblink></li>
+</ol>
+</nav>
+</body></html>

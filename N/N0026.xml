@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N50/N50n0026_001.xml#p0187a01">界論</cblink>
+	<ol>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0187a07">論母設置分</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0188a07">第一　所攝與非攝</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0220a03">第二　所攝〔者之〕非攝</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0222a03">第三　非攝〔者之〕所攝</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0224a10">第四　所攝〔者之〕所攝</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0225a12">第五　非攝〔者之〕非攝</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0234a07">第六　相應與不相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0247a13">第七　相應〔者之〕不相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0250a06">第八　不相應〔者之〕相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0250a13">第九　相應〔者之〕相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0256a07">第十　不相應〔者之〕不相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0266a03">第十一　所攝〔者之〕相應與不相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0268a12">第十二　相應〔者之〕所攝與非攝</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0273a13">第十三　非攝〔者之〕相應與不相應</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_001.xml#p0277a08">第十四　不相應〔者之〕所攝與非攝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N50/N50n0026_002.xml#p0290a11">界論註</cblink>
+	<ol>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0291a03">論母之說明</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0293a12">一</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0299a02">二</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0303a04">三</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0306a04">四</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0308a06">五</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0311a05">六</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0316a02">七</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0318a10">八</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0319a08">九</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0321a02">十</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0322a02">十一</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0323a08">十二</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0324a06">十三</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0026_002.xml#p0325a11">十四</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

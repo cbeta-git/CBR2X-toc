@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0471c22">相宗八要目錄</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0472b05">No. 900-A 敘相宗八要解</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0472c03">No. 900-B 敘高原大師相宗八要解</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0473a04">相宗八要凡例</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0474a02">No. 900-4A 六釋法式通關冠註序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0476a06">六離合釋法式通關</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0900_001.xml#p0476a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

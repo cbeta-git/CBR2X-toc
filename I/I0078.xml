@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/I/I01/I01n0078_001.xml#p0213a00">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

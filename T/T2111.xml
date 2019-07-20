@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2111_001.xml#p0551a06">答大子文學權無二釋典稽疑</cblink>
+	<ol>
+		<li><cblink href="XML/T/T52/T52n2111_001.xml#p0551a07">序</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_001.xml#p0551a21">1 通力上感門(上)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_001.xml#p0551b19">2 應形俯化門(上)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_001.xml#p0552a03">3 淨穢土別門(上)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_001.xml#p0552b25">4 迷悟見殊門(上)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_001.xml#p0553a23">5 顯實得記門(上)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_002.xml#p0554a09">6 反經贊道門(中)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_002.xml#p0554c13">7 觀業救捨門(中)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_002.xml#p0556a02">8 隨教抑揚門(中)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_003.xml#p0556c20">9 化佛隱顯門(下)</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2111_003.xml#p0558a29">10 聖王興替門(下)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T52/T52n2111_003.xml#p0559b12">權文學答書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2111_001.xml#p0551a03">第一</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2111_002.xml#p0554a06">第二</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2111_003.xml#p0556c17">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

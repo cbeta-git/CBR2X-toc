@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0102a02">No. 1279-A 五宗原序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0102b10">臨濟宗</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0103c16">兩脉合宗其來有據</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0104a15">雲門宗</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0104b04">溈仰宗</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0104b11">法眼宗</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0104c23">曹洞宗</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0106c02">總結</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0107a10">傳衣法註</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0108a11">No. 1279-B 濟宗頌語(附)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1279_001.xml#p0102b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

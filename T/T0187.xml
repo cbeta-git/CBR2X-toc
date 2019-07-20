@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0187_001.xml#p0539a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_001.xml#p0540a14">2 兜率天宮品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_001.xml#p0541b23">3 勝族品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_001.xml#p0543c24">4 法門品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_002.xml#p0545c24">5 降生品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_002.xml#p0548c06">6 處胎品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_003.xml#p0551b28">7 誕生品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_004.xml#p0558a05">8 入天祠品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_004.xml#p0558c01">9 寶莊嚴具品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_004.xml#p0559a12">10 示書品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_004.xml#p0560b07">11 觀農務品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_004.xml#p0561a13">12 現藝品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_005.xml#p0565b08">13 音樂發悟品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_005.xml#p0569c03">14 感夢品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_006.xml#p0572a28">15 出家品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_007.xml#p0578c08">16 頻婆娑羅王勸受俗利品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_007.xml#p0580a22">17 苦行品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_007.xml#p0582b19">18 往尼連河品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_008.xml#p0584b05">19 詣菩提場品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_008.xml#p0588a15">20 嚴菩提場品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_009.xml#p0590b07">21 降魔品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_009.xml#p0595a20">22 成正覺品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_010.xml#p0597a14">23 讚歎品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_010.xml#p0599b07">24 商人蒙記品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_010.xml#p0602c28">25 大梵天王勸請品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_011.xml#p0605b08">26 轉法輪品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_012.xml#p0616a18">27 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0187_001.xml#p0539a03">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_002.xml#p0545c21">第二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_003.xml#p0551b25">第三</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_004.xml#p0558a02">第四</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_005.xml#p0565b05">第五</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_006.xml#p0572a25">第六</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_007.xml#p0578c05">第七</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_008.xml#p0584b02">第八</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_009.xml#p0590b04">第九</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_010.xml#p0597a11">第十</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_011.xml#p0605b05">第十一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0187_012.xml#p0611b14">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

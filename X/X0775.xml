@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X46/X46n0775_001.xml#p0110a02">No. 775-A 釋摩訶衍論通玄鈔引文</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0775_001.xml#p0110b04">目次</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0775_001.xml#p0110c04">釋摩訶衍論通玄鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X46/X46n0775_001.xml#p0110c06">第一</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0775_002.xml#p0125b03">第二</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0775_003.xml#p0138a17">第三</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0775_004.xml#p0150c17">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

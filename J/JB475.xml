@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0039a01">緣起</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0039c01">序</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0040c11">目次</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0041a03">住清湘南源洪聖寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0043b18">住壽佛菴</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0044a12">住理山聖明寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0044c01">住興隆菴</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0044c20">住嶷山祝聖寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0045a21">住曹源寶鏡寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0045c29">住臥雲山最勝寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0046a22">住別塵菴</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0046b08">住福壽堂</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0046c24">住千佛林</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0047a03">住貝葉林</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0047b03">小參</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0047b04">住白雲菴</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0047c01">住碧羅菴</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0047c10">住毘盧菴</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0048a03">住蓮池山</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0048a30">住青雲菴</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0048b16">住快樂菴</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0048c15">晚參</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0049c04">示眾</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0050c07">機緣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0051c27">佛事</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052a27">拈古</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c05">頌古</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c06">那吒太子</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c09">廬陵米價</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c12">國師塔樣</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c15">丹霞訪國師</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c18">百丈三訣</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c21">洞山寒暑</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c24">臺山婆子</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c27">德山托缽</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0052c30">德山棒</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a03">德山驗廓侍者</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a06">文遠禮佛</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a09">供養三世諸佛</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a12">洛浦家無白澤之圖</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a15">雲門示眾中有一寶</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a18">乾矢橛</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a21">五祖演屬牛人話</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a24">缽囉孃</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a27">慈明不動尊</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053a30">李駙馬問慈明</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b03">不汝還者非汝而誰</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b06">見不能及</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b09">一切賢聖皆以無為法而有差別</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b12">高僧像</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b15">青州布衫</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b18">臨濟三頓棒</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b21">無位真人</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b24">普化踢倒飯床</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053b27">五位正偏</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053c08">曹山三墮</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053c15">五位功勳</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0053c26">黃龍三關</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0054a05">平常無生句</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0054a08">玄玅無私句</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB475_002.xml#p0054a11">體明無盡句</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0054b01">塔銘</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0055b01">疑山握中符禪師塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB475_001.xml#p0041a01">第一</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB475_002.xml#p0047b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

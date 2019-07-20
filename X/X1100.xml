@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1100_001.xml#p0603c08">三衣賦</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1100_001.xml#p0603c21"> 䥫鉢賦</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1100_001.xml#p0604a07">坐具賦</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1100_001.xml#p0604a15">漉囊賦</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1100_001.xml#p0604a24">錫杖賦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1100_001.xml#p0603c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0585_001.xml#p0001a07">1 明網菩薩光品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_001.xml#p0003a11">2 四法品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_001.xml#p0003c27">3 分別法言品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_001.xml#p0006c04">4 解諸法品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_002.xml#p0010b05">5 難問品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_002.xml#p0012b16">6 問談品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_002.xml#p0015c25">7 談論品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0018b05">8 論寂品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0021b17">9 力行品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0022a10">10 志大乘品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0024a03">11 行道品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0024c02">12 歎品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0024c21">13 詠德品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0025b13">14 等行品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_004.xml#p0026a05">15 授現不退轉天子莂品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_004.xml#p0030a05">16 建立法品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_004.xml#p0031a08">17 諸天歎品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_004.xml#p0032b29">18 囑累品(四)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0585_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_002.xml#p0010b02">第二</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_003.xml#p0018b02">第三</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0585_004.xml#p0026a02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

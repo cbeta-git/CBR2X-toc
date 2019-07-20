@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0231_001.xml#p0687a06">1 通達品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_001.xml#p0690c26">2 顯相品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_002.xml#p0693c22">3 法界品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_002.xml#p0697b15">4 念處品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_003.xml#p0700c05">5 法性品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_004.xml#p0706b10">6 平等品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_004.xml#p0708b04">7 現相品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_005.xml#p0711b15">8 無所得品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_005.xml#p0714b05">9 證勸品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_006.xml#p0716c05">10 述德品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_006.xml#p0718b06">11 現化品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_006.xml#p0719b29">12 陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_007.xml#p0721a12">13 勸誡品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_007.xml#p0722b01">14 二行品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_007.xml#p0723c10">15 讚歎品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_007.xml#p0725a04">16 付囑品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_007.xml#p0725c22">附文</cblink>
+	<ol>
+		<li><cblink href="XML/T/T08/T08n0231_007.xml#p0725c22">經序</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0231_001.xml#p0687a03">第一</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_002.xml#p0693c19">第二</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_003.xml#p0700c02">第三</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_004.xml#p0706b07">第四</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_005.xml#p0711b12">第五</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_006.xml#p0716c02">第六</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0231_007.xml#p0721a09">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

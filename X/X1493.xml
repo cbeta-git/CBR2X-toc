@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637a09">前文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637b14">一淨水讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637b15">二誦呪灑淨壇場</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637b17">三表白</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637c05">四禮請三寶</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637c18">五奉請諸天</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0639b09">六誦呪</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0639b19">七伸供養</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0640a03">八念佛迴向發願</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0640b13">附諸天行儀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1493_001.xml#p0637a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

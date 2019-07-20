@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0664_001.xml#p0359b05">序</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_001.xml#p0359c13">1 序品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_001.xml#p0360a27">2 壽量品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_001.xml#p0362c10">3 三身分別品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_002.xml#p0365b19">4 懺悔品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_002.xml#p0368a15">5 業障滅品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_003.xml#p0372c06">6 陀羅尼最淨地品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_004.xml#p0378b06">7 讚歎品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_004.xml#p0379b06">8 空品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_004.xml#p0380a16">9 依空滿願品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_005.xml#p0382a08">10 四天王品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0386a08">11 銀主陀羅尼品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0386b22">12 大辯天品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0388a08">13 功德天品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0388c19">14 堅牢地神品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0389b20">15 散脂鬼神品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0389c28">16 正論品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_007.xml#p0391b10">17 善集品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_007.xml#p0392b11">18 鬼神品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_007.xml#p0394a11">19 授記品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_007.xml#p0394c05">20 除病品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_007.xml#p0395b18">21 流水長者子品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_008.xml#p0396c26">22 捨身品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_008.xml#p0399c22">23 讚佛品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_008.xml#p0401a03">24 付囑品(八)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0664_001.xml#p0359c13">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_002.xml#p0365b15">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_003.xml#p0372c02">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_004.xml#p0378b02">第四</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_005.xml#p0382a04">第五</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_006.xml#p0386a04">第六</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_007.xml#p0391b06">第七</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0664_008.xml#p0396c22">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

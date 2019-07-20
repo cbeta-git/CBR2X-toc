@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0353_001.xml#p0925a07">目次</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_001.xml#p0925b12">勝鬘經疏義私鈔</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_006.xml#p0975b21">No. 353-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0353_001.xml#p0925b14">第一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_002.xml#p0936c04">第二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_003.xml#p0945c19">第三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_004.xml#p0953a20">第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_005.xml#p0962b08">第五</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0353_006.xml#p0970a04">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

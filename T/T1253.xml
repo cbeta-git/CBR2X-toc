@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1253_001.xml#p0255a26">大吉祥天女十二契一百八名無垢大乘經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1253_001.xml#p0253b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

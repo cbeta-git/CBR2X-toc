@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0507a03">洞山大師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0507a29">洞山悟本禪師語錄</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0515a15">歌頌寶鏡三昧歌</cblink>
+	<ol>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0515a16">寶鏡三昧歌</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0515b11">玄中銘</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0515c10">新豐吟</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0515c26">綱要頌</cblink>
+		<ol>
+			<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0515c27">敲唱俱行</cblink></li>
+			<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a01">金鎖玄路</cblink></li>
+			<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a04">不墮凡聖</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a07">五位顯訣竝逐位頌</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a08">功勳五位頌</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a19">真讚</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a22">自誡</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516a27">規誡</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516b07">辭北堂書</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516b24">頌</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516c04">後寄北堂書</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516c13">頌</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0516c18">附孃回書</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0517a13">洞山悟本禪師語錄之餘</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0518a19">洞山悟本大師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0518b20">重集洞山悟本大師語要自序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0518c23">書洞山語錄尾</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1986A_001.xml#p0507a26">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

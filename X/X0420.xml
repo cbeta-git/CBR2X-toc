@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0420_001.xml#p0508c10">No. 420-A 佛說阿彌陀經義疏聞持記并序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0420_001.xml#p0508c24">義疏聞持記</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0420_003.xml#p0538a06">No. 420-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0420_001.xml#p0509a02">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0420_002.xml#p0520b16">第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0420_003.xml#p0529b01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

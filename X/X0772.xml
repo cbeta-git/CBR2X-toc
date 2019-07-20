@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0830a02">No. 772-A 釋摩訶衍論贊玄疏引文</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0830c01">目次</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0830c22">序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0831b09">十門分別</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0831b13">初發起因緣</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0831b18">二指陳門法</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0832c20">三控釋宏綱</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0837c05">四開修秘鍵</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0838a05">五勸持誡謗</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0838a18">六依義判教</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0838b13">七決擇論體</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0838b19">八顯示宗趣</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0839b10">九興傳時代</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0839c18">十剖析文義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0772_001.xml#p0830c18">第一</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_002.xml#p0846b03">第二</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_003.xml#p0865b01">第三</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_004.xml#p0885a18">第四</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0772_005.xml#p0904c20">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B08/B08n0027_001.xml#p0549b18">緒言</cblink></li>
+	<li><cblink href="XML/B/B08/B08n0027_001.xml#p0553a19">一、釋嗢柁南所攝</cblink></li>
+	<li><cblink href="XML/B/B08/B08n0027_001.xml#p0553b15">二、釋嗢柁南中事義</cblink>
+	<ol>
+		<li><cblink href="XML/B/B08/B08n0027_001.xml#p0553b15">一、略詮自性戒</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0027_001.xml#p0555a27">二、廣釋一切戒</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0027_002.xml#p0605a07">三、分釋一切戒中所分出戒</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0027_002.xml#p0609a25">四、釋戒勝利</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0027_002.xml#p0609b26">五、釋戒所攝</cblink></li>
+		<li><cblink href="XML/B/B08/B08n0027_002.xml#p0610a01">六、釋戒所作</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B08/B08n0027_001.xml#p0549b15">第一</cblink></li>
+	<li><cblink href="XML/B/B08/B08n0027_002.xml#p0577a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

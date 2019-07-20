@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0044_001.xml#p0621b20">釋第一勝義菩提心之一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_002.xml#p0627a19">釋第一勝義菩提心之二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_003.xml#p0633a19">釋第一勝義菩提心之三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_003.xml#p0635a06">釋第二勝義菩提心</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_003.xml#p0637a08">釋第三勝義菩提心之一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_004.xml#p0639b04">釋第三勝義菩提心之二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_004.xml#p0640b02">釋第四勝義菩提心</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_004.xml#p0641a02">釋第五勝義菩提心</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_004.xml#p0641b04">釋第六勝義菩提心之一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_005.xml#p0646a19">釋第六勝義菩提心之二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_006.xml#p0652a19">釋第六勝義菩提心之三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_007.xml#p0659a19">釋第六勝義菩提心之四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_008.xml#p0665b19">釋第六勝義菩提心之五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_009.xml#p0672b04">釋第六勝義菩提心之六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_010.xml#p0678b19">釋第六勝義菩提心之七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_011.xml#p0685a19">釋第六勝義菩提心之八</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_012.xml#p0692a19">釋第六勝義菩提心之九</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_013.xml#p0699a19">釋第六勝義菩提心之十</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_013.xml#p0703b13">釋第七勝義菩提心</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_013.xml#p0704a01">釋第八勝義菩提心</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_013.xml#p0704b19">釋第九勝義菩提心</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_013.xml#p0705a04">釋第十勝義菩提心</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0044_001.xml#p0621b01">第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_002.xml#p0627a16">第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_003.xml#p0633a16">第三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_004.xml#p0639b01">第四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_005.xml#p0646a16">第五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_006.xml#p0652a17">第六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_007.xml#p0659a17">第七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_008.xml#p0665b17">第八</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_009.xml#p0672b01">第九</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_010.xml#p0678b17">第十</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_011.xml#p0685a16">第十一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_012.xml#p0692a17">第十二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_013.xml#p0699a17">第十三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0044_014.xml#p0705b01">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>

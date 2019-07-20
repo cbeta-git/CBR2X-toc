@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0001a03">No. 288-A 鋟楞嚴緣起</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0001b14">No. 288-B 刻楞嚴經標指序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0002a11">No. 288-C 楞嚴摸象記引</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0002b15">姓氏</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0003a02">No. 288-D 科經</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0003b01">凡例</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0004a01">讚語</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0006a02">釋經題</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0006a11">一緣起分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0010a15">二方便分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_004.xml#p0100a12">三發心分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_005.xml#p0126a04">四說圓通分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_006.xml#p0154a08">五修證分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_008.xml#p0207a06">六助道分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_009.xml#p0229a05">七辨魔分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_010.xml#p0261a03">八結經分</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_010.xml#p0267a01">No. 288-E 題楞嚴疏解後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0288_001.xml#p0006a02">第一</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_002.xml#p0030a01">第二</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_003.xml#p0060a01">第三</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_004.xml#p0087a01">第四</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_005.xml#p0118a01">第五</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_006.xml#p0142a01">第六</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_007.xml#p0163a01">第七</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_008.xml#p0188a01">第八</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_009.xml#p0223a01">第九</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0288_010.xml#p0246a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

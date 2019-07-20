@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1582_001.xml#p0960a06">1 菩薩地</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1582_001.xml#p0960a06">1 序品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_001.xml#p0962b17">2 善行性品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_001.xml#p0964a25">3 發菩提心品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_001.xml#p0965c04">4 利益內外品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_002.xml#p0968a26">5 真實義品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_002.xml#p0971b13">6 不可思議品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_003.xml#p0974a08">7 調伏品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_003.xml#p0975c10">8 菩提品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_003.xml#p0976c04">9 菩提力性品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_004.xml#p0979c08">10 施品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_004.xml#p0982b05">11 戒品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_005.xml#p0985b05">12 忍品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_005.xml#p0986c28">13 精進品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_005.xml#p0988a08">14 禪品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_005.xml#p0988c15">15 慧品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_005.xml#p0989b05">16 軟語品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_006.xml#p0991a21">17 供養三寶品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_006.xml#p0993c05">18 三十七助道品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_007.xml#p0996b22">19 助菩提數法餘品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_007.xml#p0998a13">20 功德品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1582_007.xml#p1000b13">2 如法住</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1582_007.xml#p1000b13">1 菩薩相品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_007.xml#p1001a17">2 禪品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_008.xml#p1001c05">3 定心品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_008.xml#p1002b11">4 生菩提地品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1582_008.xml#p1007a27">3 畢竟地</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1582_008.xml#p1007a27">1 生品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_009.xml#p1007c13">2 攝取品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_009.xml#p1008b18">3 畢竟品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_009.xml#p1008c24">4 行品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_009.xml#p1009b17">5 三十二相八十種好品</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1582_009.xml#p1010c10">6 住品</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1582_001.xml#p0960a03">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_002.xml#p0968a23">第二</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_003.xml#p0974a05">第三</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_004.xml#p0979c05">第四</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_005.xml#p0985b02">第五</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_006.xml#p0991a18">第六</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_007.xml#p0996b19">第七</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_008.xml#p1001c02">第八</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1582_009.xml#p1007c10">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

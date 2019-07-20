@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0397c05">No. 1288-A 萬法歸心錄序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0398a09">No. 1288-B 序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0398b08">No. 1288-C 序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0398c15">No. 1288-D 序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0399a10">No. 1288-E 萬法歸心錄自敘</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0399b14">萬法歸心錄目次</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0399c11">警省俗迷</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0401c22">儒釋論理</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0406b23">釋道辨偽</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_002.xml#p0409b21">頓悟修證</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_002.xml#p0413c08">教乘差別</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_002.xml#p0416b02">惟心淨土</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0417b16">禪分五宗</cblink>
+	<ol>
+		<li><cblink href="XML/X/X65/X65n1288_003.xml#p0417b21">臨濟(鎮州慧照義玄禪師六祖下第五世)</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1288_003.xml#p0418c20">曹洞(瑞州洞山良价悟本禪師六祖下第五世撫州曹山元證本寂禪師六祖下第六世)</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1288_003.xml#p0419b13">雲門(詔州雲門山匡真文偃禪師六祖下第七世)</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1288_003.xml#p0419c03">溈仰(潭州溈山大圓靈祐禪師六祖下第四世袁州仰山智通慧寂禪師六祖下第五世)</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1288_003.xml#p0419c24">法眼(金陵清涼院文益禪師六祖下第九世諡號大法眼)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0420a16">十魔亂正</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0421b10">經語引證</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0422a03">七佛偈</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0422a18">佛經已明祖語述後</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0423a15">勸善印施</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0423c02">No. 1288-F 䟦</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0423c15">No. 1288-G 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1288_001.xml#p0399c06">第一</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_002.xml#p0409b19">第二</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1288_003.xml#p0417b14">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

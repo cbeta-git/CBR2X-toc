@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0506_001.xml#p0858b10">No. 506-A 金剛般若波羅蜜經注序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0506_001.xml#p0859b04">金剛般若波羅蜜經注</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0506_001.xml#p0859b06">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0506_002.xml#p0862c19">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

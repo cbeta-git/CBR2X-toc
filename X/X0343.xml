@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0343_001.xml#p0152c05">No. 343-A 維摩詰所說經疏敘例</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_001.xml#p0154a02">目次</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_001.xml#p0154b07">佛國品第一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_002.xml#p0167b03">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_002.xml#p0170b20">弟子品第三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_003.xml#p0186a03">菩薩品第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_003.xml#p0193a10">文殊師利問疾品第五</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_004.xml#p0207c03">不思議品第六</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_004.xml#p0212b20">觀眾生品第七</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_004.xml#p0221c15">佛道品第八</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0227a21">入不二法門品第九</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0231a09">香積佛品第十</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0236a13">菩薩行品第十一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0239b20">見阿閦佛品第十二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0242a18">法供養品第十三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0244a05">囑累品第十四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0343_001.xml#p0154b03">第一</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_002.xml#p0167b01">第二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_003.xml#p0186a01">第三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_004.xml#p0207c01">第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0343_005.xml#p0227a19">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

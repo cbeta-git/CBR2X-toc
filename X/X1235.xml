@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1235_001.xml#p0170b05">No. 1235-A 重刻智證傳引</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1235_001.xml#p0170c07">智證傳</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1235_001.xml#p0193b03">No. 1235-B 雲巖寶鏡三昧</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1235_001.xml#p0195b17">No. 1235-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1235_001.xml#p0170c08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

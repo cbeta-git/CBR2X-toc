@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1497_001.xml#p0784b12">行晨朝開啟法事</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_001.xml#p0787c23">行發符法事</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_002.xml#p0789b07">行上堂召請法事</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_003.xml#p0800a18">行下堂召請法事</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_006.xml#p0820a02">補</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_006.xml#p0823a03">No. 1497-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1497_001.xml#p0784b06">第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_002.xml#p0789b03">第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_003.xml#p0800a14">第三</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_004.xml#p0808b15">第四</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_005.xml#p0813a13">第五</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1497_006.xml#p0819b09">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

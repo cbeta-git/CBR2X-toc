@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0299a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0299a15">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0299a17">大方便佛偈語</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0299a21">大方便佛報恩經</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0300a18">佛因地修行捨身濟虎</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0301a08">釋迦因地割肉供父母</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0301a18">釋迦因地鸚鵡行孝</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0302a09">釋迦因地行孝剜睛出髓為藥</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0302a18">釋迦佛因行孝證三十二相</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0303a06">釋迦因地雁書報太子</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0303a19">釋迦因地剜肉</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0304a18">釋迦佛因地為睒子行孝</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0305a07">釋迦佛因地修行捨身求法</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0306a08">釋迦牟尼佛詣父王所看病</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0037_001.xml#p0306a22">釋迦牟尼佛為末世眾生設化故擔父王棺</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

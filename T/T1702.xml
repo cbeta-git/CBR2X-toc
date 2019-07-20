@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1702_001.xml#p0170a06">金剛經纂要刊定記并序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1702_001.xml#p0170a20">第一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1702_002.xml#p0179b08">第二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1702_003.xml#p0189a25">第三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1702_004.xml#p0198a26">第四</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1702_005.xml#p0208a13">第五</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1702_006.xml#p0218a22">第六</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1702_007.xml#p0222c02">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

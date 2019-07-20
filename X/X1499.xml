@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1499_001.xml#p0867a05">No. 1499-A 法輪寶懺緣起</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_001.xml#p0867b04">例言</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_001.xml#p0867c04">懺儀</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_010.xml#p1068c03">No. 1499-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1499_001.xml#p0867c02">第一之上</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_001.xml#p0895b21">第一之中</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_001.xml#p0922b19">第一之下</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_002.xml#p0948b19">第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_003.xml#p0981b14">第三</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_004.xml#p0984b08">第四</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_005.xml#p0986b01">第五</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_006.xml#p0991b10">第六</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_007.xml#p0997c01">第七</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_008.xml#p1002a05">第八</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_009.xml#p1006a11">第九</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1499_010.xml#p1054b04">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

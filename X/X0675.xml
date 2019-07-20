@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0675_001.xml#p0794a02">No. 675-A 佛祖三經指南序</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0675_001.xml#p0794a20">No. 675-B 自序</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0675_001.xml#p0794c05">凡例</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0675_001.xml#p0795a18">佛說四十二章經</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802a20">佛遺教經</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802a20">經題</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802b12">譯者</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802b18">一序分</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802c12">二脩習世間功德分</cblink>
+		<ol>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802c14">初誠邪業</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0803c07">二誡制根心</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0804b07">三誡多求</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0804b18">四誡睡眠</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0805a06">五誡瞋恚</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0805b12">六誡貢高</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0805c01">七誡諂曲</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0805c11">三成就出世間大人功德分</cblink>
+		<ol>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0805c13">初少欲功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0806a02">二知足功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0806a19">三遠離功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0806b15">四精進功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0806b22">五不忘念功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0806c12">六禪定功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0806c24">七智慧功德</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_002.xml#p0807a23">八究竟功德</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0807b08">四顯示畢竟甚深功德分</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0807c08">五顯示入證決定分</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0808a07">六分別未入上上證為斷疑分</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_002.xml#p0808b23">七離種種自性清淨無我分</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X37/X37n0675_003.xml#p0808c20">溈山大圓禪師警策</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0675_003.xml#p0808c20">經題</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0675_003.xml#p0809a19">一文</cblink>
+		<ol>
+			<li><cblink href="XML/X/X37/X37n0675_003.xml#p0809a22">一示色身大患</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_003.xml#p0809c09">二懲出家流弊</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_003.xml#p0811b15">三明出家正因</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_003.xml#p0812b02">四示入道由徑</cblink></li>
+			<li><cblink href="XML/X/X37/X37n0675_003.xml#p0813b21">五結勸叮嚀</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X37/X37n0675_003.xml#p0813c23">二銘</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0675_001.xml#p0795a14">第一</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0675_002.xml#p0802a16">第二</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0675_003.xml#p0808c16">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

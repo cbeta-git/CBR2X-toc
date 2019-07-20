@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0581a02">No. 1097-A 章服儀應法記會本序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0581b16">序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0581c08">題目　作者　前文　篇目</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0584b05">制意釋名篇第一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0586b03">立體拔俗篇第二</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0591c17">勝德經遠篇第三</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0592b11">法色光俗篇第四</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0593b10">裁製應法篇第五</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0594b08">方量幢相篇第六</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0595a24">單複有據篇第七</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0595c07">縫製裁成篇第八</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0597a09">補浣誠教篇第九</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0597b02">加法行護篇第十</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0598c19">No. 1097-B 會章服儀應法記因䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1097_001.xml#p0581b13">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

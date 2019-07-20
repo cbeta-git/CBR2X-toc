@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X48/X48n0803_001.xml#p0312b05">No. 803-A</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0803_001.xml#p0312c02">No. 803-B 大乘百法規矩纂釋序</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0803_001.xml#p0313a08">No. 803-C 題百法明門八識規矩纂釋後</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0803_001.xml#p0313b14">No. 803-D 百法規矩纂釋後敘</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0803_001.xml#p0313c16">大乘百法明門論纂</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X48/X48n0803_001.xml#p0313c18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

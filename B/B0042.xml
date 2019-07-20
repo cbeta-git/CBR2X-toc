@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0042_001.xml#p0481a03">敬禮</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0042_001.xml#p0481a10">一、現量品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0042_001.xml#p0482a08">二、自利比量品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0042_001.xml#p0484a16">三、利他比量品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0042_001.xml#p0493a03">譯者跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0042_001.xml#p0481a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

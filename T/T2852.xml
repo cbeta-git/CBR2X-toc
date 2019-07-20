@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a08">受水偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a11">浴籌說偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a14">受香湯說偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a17">唱行香說偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a20">受籌說偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a23">還籌偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a26">清淨妙偈文</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a29">布薩竟說偈文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2852_001.xml#p1301a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

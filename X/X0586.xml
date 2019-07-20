@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0586_001.xml#p0121a02">No. 586-A 天台三大部補注序</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_001.xml#p0121b16">條箇</cblink>
+	<ol>
+		<li><cblink href="XML/X/X28/X28n0586_001.xml#p0121b18">卷上</cblink>
+		<ol>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0121b19">第一卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0122a16">第二卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0122c10">第三卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0123a22">第四卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0123c18">第五卷</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X28/X28n0586_001.xml#p0124b20">卷下</cblink>
+		<ol>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0124b22">第六卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0125a14">第七卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0125c01">第八卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0126a04">第九卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0126b02">第十卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0126b19">第十一卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0127a03">第十二卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0127b03">第十三卷</cblink></li>
+			<li><cblink href="XML/X/X28/X28n0586_001.xml#p0127b23">第十四卷</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X28/X28n0586_001.xml#p0128a03">妙玄　釋籤</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_004.xml#p0187c01">妙經　文句　文句記</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_011.xml#p0333a14">止觀　輔行</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_014.xml#p0430b16">No. 586-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0586_001.xml#p0128a03">第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_002.xml#p0146c15">第二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_003.xml#p0167c01">第三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_004.xml#p0187c01">第四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_005.xml#p0209b21">第五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_006.xml#p0230b04">第六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_007.xml#p0251a21">第七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_008.xml#p0273b19">第八</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_009.xml#p0293a17">第九</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_010.xml#p0313c01">第十</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_011.xml#p0333a14">第十一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_012.xml#p0356b09">第十二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_013.xml#p0380a18">第十三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0586_014.xml#p0404a17">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>

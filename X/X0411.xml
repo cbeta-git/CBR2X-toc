@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0411_001.xml#p0379a03">No. 411-A 刻觀經義疏正觀記序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0411_001.xml#p0379b09">序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0411_001.xml#p0379b23">觀經義疏正觀記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0411_001.xml#p0379b07">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0411_002.xml#p0392b09">第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0411_003.xml#p0406b13">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

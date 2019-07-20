@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0367_001.xml#p0884a06">九總釋名題</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0367_001.xml#p0885a06">十別解文義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X20/X20n0367_001.xml#p0885a07">前文</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0367_001.xml#p0889a19">序品第一</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0367_002.xml#p0929b06">報恩品第二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X21/X21n0367_004.xml#p0001a06">十別解文義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X21/X21n0367_004.xml#p0001a06">厭捨品第三</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_005.xml#p0029c06">無垢性品第四</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_005.xml#p0047a18">阿蘭若品第五</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_006.xml#p0055c06">離世間品第六</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_006.xml#p0073a09">厭身品第七</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_007.xml#p0078c06">波羅蜜多品第八</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_007.xml#p0091b06">功德莊嚴品第九</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_008.xml#p0100c21">觀心品第十</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_008.xml#p0111c12">發菩提心品第十一</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_008.xml#p0116b21">成佛品第十二</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_008.xml#p0122a19">囑累品第十三</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0367_008.xml#p0127a05">祝願</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0367_001.xml#p0884a03">第一本</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0367_001.xml#p0908c09">第一末</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0367_002.xml#p0929b04">第二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0367_003.xml#p0956b19">第三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0367_004.xml#p0001a03">第四</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0367_005.xml#p0029c04">第五</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0367_006.xml#p0055c04">第六</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0367_007.xml#p0078c04">第七</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0367_008.xml#p0100c19">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

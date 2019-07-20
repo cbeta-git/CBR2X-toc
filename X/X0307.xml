@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0001a07">前文</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0003a02">一教起因緣</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0004a12">二藏乘分攝</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0005b16">三能被教義</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0006b08">四所被機宜</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0007a02">五體性淺深</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0008a02">六宗趣通別</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0008c05">七說時前後</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0009b02">八傳譯註釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X16/X16n0307_001.xml#p0009b02">前文</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0307_001.xml#p0009b10">唐</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0307_001.xml#p0009b18">宋</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0307_001.xml#p0009c22">元</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0307_001.xml#p0010a06">明</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0307_001.xml#p0010c12">清</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0307_001.xml#p0001a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

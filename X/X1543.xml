@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0110a01">蓮社十八賢圖</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0113a02">No. 1543-A 東林十八高賢傳序</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0113a20">東林十八高賢傳目次</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0113b13">慧遠法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0115b19">慧永法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0115c14">慧持法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0116a05">道生法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0116b14">曇順法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0116b20">僧叡法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0116c11">曇恒法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0116c16">道昞法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0116c22">曇詵法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0117a05">道敬法師</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0117a12">佛䭾邪舍尊者</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0117b13">佛䭾跋陀羅尊者</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0117c17">劉程之</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0118a18">張野</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0118b01">周續之</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0118b16">張詮</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0118b22">宗炳</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0118c16">雷次宗</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119a04">十八賢傳後記</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119a09">百二十三人傳</cblink>
+	<ol>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119a10">曇翼</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119b02">曇邕</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119b09">僧濟</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119b17">慧恭</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119c04">法安</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119c13"> 𨷂公則</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119c17">陸脩靜</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119c23">不入社諸賢傳</cblink>
+	<ol>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0119c24">陶潛</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0120a14">謝靈運</cblink></li>
+		<li><cblink href="XML/X/X78/X78n1543_001.xml#p0120a20">范𡩋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0120b02">蓮社十八賢圖說</cblink></li>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0121b02">No. 1543-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X78/X78n1543_001.xml#p0113b12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

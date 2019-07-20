@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0298c03">No. 618-A 大成科序</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0299a05">法華大成弘傳序科文</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0300a01">法華大成卷一科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0300a03">序品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0302a17">法華大成卷二科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0302a19">方便品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0305a41">法華大成卷三科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0305a43">譬喻品之一</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0309a43">法華大成卷四科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0309a44">譬喻品之二</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0310a13">信解品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0312a26">法華大成卷五科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0312a28">藥草喻品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0313a55">授記品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0314a52">化城喻品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0317a21">法華大成卷六科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0317a23">五百弟子受記品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0318a44">授學無學人記品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0319a08">法師品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0320a05">見寶塔品　提婆達多品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0321a47">持品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0322a18">法華大成卷七科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0322a20">安樂行品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0324a01">從地湧出品　壽量品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0326a44">分別功德品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0327a42">法華大成卷八科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0327a44">隨喜功德品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0328a26">法師功德品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0329a44">常不輕菩薩品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0330a09">如來神力品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0330a54">囑累品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0331a02">藥王菩薩本事品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0332a20">法華大成卷九科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0332a22">妙音菩薩品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0333a01">普門品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0334a31">陀羅尼品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0334a62">妙莊嚴王本事品</cblink></li>
+		<li><cblink href="XML/X/X32/X32n0618_001.xml#p0335a30">勸發品</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0618_001.xml#p0299a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0527a01">敘</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0527a21">目錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0527c03">住嘉定州龍驟禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0528b18">住資陽縣佛興禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0529a16">住順慶府香積禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0530a12">住順慶府觀音禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0530c13">復住香積禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0532c03">舉古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b01">頌古</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b02">世尊初生</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b05">世尊拈花</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b08">世尊陞座</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b11">德山托缽</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b16">女子入定</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b19">趙州洗缽盂</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b22">三頓棒</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b25">婆子燒庵</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534b30">三聖瞎驢</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c05">大顛擯首座</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c10">黃龍三關</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c17">牧牛頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c17">尋牛</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c20">見跡</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c23">得牛</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c26">貫鼻</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0534c29">調馴</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a02">騎牛歸家</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a05">忘牛存人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a08">人牛雙忘</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a11">反本還原</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a14">入廛垂手</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a17">印偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a18">欽山傳祖禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a21">恒知傳歷禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a24">恒燦傳明禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a27">佛生傳蓮禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535a30">天眼傳印禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b03">可默傳敏禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b06">念如傳佛禪人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b09">慈雲傳慧禪人</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b12">像讚</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b12">讚釋迦</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b16">彌勒</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b19">天童密雲祖翁和尚</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b22">湖山慧覺本師和尚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0535b28">示眾</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0536a09">機緣</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0536b10">入室</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0537a01">塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB352_001.xml#p0527c01">第一</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB352_002.xml#p0532c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

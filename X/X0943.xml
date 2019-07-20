@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0943_001.xml#p0698a09">前言</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0943_001.xml#p0698a17">一列文科釋簡略意者</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0943_001.xml#p0698b14">二約義引文銷會意者</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0943_001.xml#p0699c02">三徵釋傍通疑滯意者</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0943_001.xml#p0700c05">四示判教相談化意者</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0943_001.xml#p0698a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

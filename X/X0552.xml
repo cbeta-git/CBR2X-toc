@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0552_001.xml#p0864b01">No. 552-A 心經注題辭</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0552_001.xml#p0864c04">No. 552-B 般若際決題辭</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0552_001.xml#p0865a03">般若際決</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0552_001.xml#p0867c08">No. 552-C 北禪量公二注䟦尾</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0552_001.xml#p0868a03">No. 552-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0552_001.xml#p0865a05">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

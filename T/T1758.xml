@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1758_001.xml#p0329a10">阿彌陀經通贊疏序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1758_001.xml#p0331a11">第一</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1758_002.xml#p0337b26">第二</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1758_003.xml#p0343b10">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

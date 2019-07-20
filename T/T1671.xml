@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1671_001.xml#p0719a23">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_002.xml#p0721a20">第二</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_003.xml#p0723a03">第三</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_004.xml#p0724c13">第四</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_005.xml#p0727a13">第五</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_006.xml#p0729a21">第六</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_007.xml#p0731b09">第七</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_008.xml#p0733c18">第八</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_009.xml#p0736b02">第九</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_010.xml#p0738b11">第十</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_011.xml#p0740c06">第十一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1671_012.xml#p0742c11">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

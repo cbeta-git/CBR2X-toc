@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N45/N45n0022_001.xml#p0001a01">第一　欲經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_002.xml#p0027a09">第二　窟八偈經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_003.xml#p0074a04">第三　瞋怒八偈經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_004.xml#p0101a03">第四　淨八偈之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_005.xml#p0122a09">第五　第一八偈經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_006.xml#p0139a08">第六　老經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_007.xml#p0166a05">第七　帝須彌勒經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_008.xml#p0191a07">第八　波須羅經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_009.xml#p0214a12">第九　摩健地耶經之義釋</cblink></li>
+	<li><cblink href="XML/N/N45/N45n0022_010.xml#p0244a10">第十　死前經之義釋</cblink></li>
+	<li><cblink href="XML/N/N46/N46n0022_011.xml#p0001a01">第十一　鬥諍經之義釋</cblink></li>
+	<li><cblink href="XML/N/N46/N46n0022_012.xml#p0042a10">第十二　小集積經之義釋</cblink></li>
+	<li><cblink href="XML/N/N46/N46n0022_013.xml#p0068a11">第十三　大集積經之義釋</cblink></li>
+	<li><cblink href="XML/N/N46/N46n0022_014.xml#p0112a05">第十四　迅速經之義釋</cblink></li>
+	<li><cblink href="XML/N/N46/N46n0022_015.xml#p0184a07">第十五　執杖經之義釋</cblink></li>
+	<li><cblink href="XML/N/N46/N46n0022_016.xml#p0239a10">第十六　舍利弗經之義釋</cblink></li>
+</ol>
+</nav>
+</body></html>

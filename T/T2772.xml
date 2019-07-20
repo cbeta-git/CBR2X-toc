@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2772_003.xml#p0375c17">3 弟子品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2772_006.xml#p0398c28">10 香積佛品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2772_006.xml#p0406a06">11 菩薩行品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2772_006.xml#p0413b01">12 見阿閦佛品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2772_006.xml#p0417b28">13 法供養品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2772_006.xml#p0422b21">14 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2772_003.xml#p0375c15">第三</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2772_006.xml#p0398c26">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

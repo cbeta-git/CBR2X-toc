@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1309_001.xml#p0556a02">No. 1309-A 重刻正法眼藏序</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_001.xml#p0556b06">No. 1309-B 題刻大慧禪師正法眼藏</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_001.xml#p0556c09">No. 1309-C 答張子韶侍郎書</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_001.xml#p0557a18">正法眼藏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1309_001.xml#p0557a19">第一之上</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_001.xml#p0570a09">第一之下</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_002.xml#p0582c03">第二之上</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_002.xml#p0595b20">第二之下</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_003.xml#p0608a18">第三之上</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1309_003.xml#p0621a14">第三之下</cblink></li>
+</ol>
+</nav>
+</body></html>

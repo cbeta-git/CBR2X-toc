@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1079c09">前文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1080c04">至心懺悔</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1080c16">至心勸請</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1080c19">至心隨喜</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1080c22">至心迴向</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1081a01">至心發願</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1505_001.xml#p1079c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

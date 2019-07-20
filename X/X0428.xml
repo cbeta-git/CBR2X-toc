@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0796a02">No. 428-A 佛說阿彌陀經疏鈔擷敘</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0796b07">例言</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0796c06">目次</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0797a10">經題</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0797a14">法會眾證分第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0798c09">佛土依正分第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0799a24">寶樹池蓮分第三</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0800b21">天人供養分第四</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0801a24">禽樹演法分第五</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0802a15">佛德無量分第六</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0803a19">往生發願分第七</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0803c15">脩持正行分第八</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0805a21">同讚勸信分第九</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0807a10">聞法信願分第十</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0807c08">互讚感發分第十一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0808c08">流通普度分第十二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0809a22">彌陀經應驗</cblink>
+	<ol>
+		<li><cblink href="XML/X/X22/X22n0428_001.xml#p0809a23">誦經應驗</cblink></li>
+		<li><cblink href="XML/X/X22/X22n0428_001.xml#p0809c08">持名應驗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0810b09">No. 428-B 玉峯大師要語附</cblink>
+	<ol>
+		<li><cblink href="XML/X/X22/X22n0428_001.xml#p0810b12">刺血寫經</cblink></li>
+		<li><cblink href="XML/X/X22/X22n0428_001.xml#p0811a07">有佛土頌</cblink></li>
+		<li><cblink href="XML/X/X22/X22n0428_001.xml#p0811a15">稱名自慰</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0428_001.xml#p0797a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

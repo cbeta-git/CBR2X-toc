@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0938c13">1 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0938c18">2 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0938c22">3 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0938c27">4 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939a03">5 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939a08">6 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939a13">7 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939a18">8 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939a23">9 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939a28">10 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939b04">11 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939b09">12 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939b14">13 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939b19">14 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939b24">15 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939b29">16 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939c05">17 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939c10">18 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0939c15">19 梵讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1197_001.xml#p0938c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

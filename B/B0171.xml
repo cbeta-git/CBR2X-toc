@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0171_001.xml#p0003a01">凡例</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0171_001.xml#p0004a02">原書目次</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0171_001.xml#p0009a04">序論</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0171_001.xml#p0009a05">第一章　總說</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0009a06">第一節　法門大綱</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0010a03">第二節　教說統攝</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_001.xml#p0011a07">第二章　歷史</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0011a08">第一節　概說</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0012a07">第二節　印度</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0015a04">第三節　中國</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0016a06">第四節　日本</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_001.xml#p0018a04">第三章　八宗概說</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0171_001.xml#p0019a06">本論上</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0171_001.xml#p0019a07">第一章　俱舍宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0019a08">第一節　對法藏義</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0020a07">第二節　造論緣起</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0023a02">第三節　翻譯弘傳</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0023a10">第四節　本論宗旨</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0024a11">第五節　本論組織</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0025a10">第六節　五位七十五法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0027a03">第七節　三乘因果</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0027a10">第八節　我空法有</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_001.xml#p0028a04">第二章　成實宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0028a05">第一節　成實名義</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0028a09">第二節　造論譯傳</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0029a02">第三節　系譜宗義</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0030a03">第四節　賢聖階位</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0031a01">第五節　八十四法</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_001.xml#p0031a07">第三章　律宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0031a08">第一節　宗名諸律</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0032a04">第二節　翻譯弘傳</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0033a07">第三節　四分律傳統</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0034a09">第四節　律宗相承</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0035a08">第五節　律宗分流</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0037a07">第六節　止持作持</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0041a05">第七節　七眾建立</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_001.xml#p0043a08">第八節　判教宗致</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0171_002.xml#p0049a03">本論下</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0049a03">第四章　法相宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0049a04">第一節　宗名所依經論</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0050a02">第二節　三國相承</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0052a09">第三節　教判</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0054a06">第四節　三乘五性</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0057a07">第五節　五位百法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0059a07">第六節　五重唯識</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0059a13">第七節　四分</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0060a11">第八節　三性三無性</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0062a05">第九節　菩提涅槃</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0064a02">第五章　三論宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0064a03">第一節　宗名所依論</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0065a02">第二節　破邪顯正</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0066a09">第三節　真俗二諦</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0067a09">第四節　佛果行位</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0068a10">第五節　八不解釋</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0069a06">第六節　二藏三轉法輪</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0070a03">第七節　三國相承</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0072a07">第六章　天台宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0072a08">第一節　宗名所依經論</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0073a02">第二節　相承系譜</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0075a01">第三節　教判</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0082a02">第四節　觀門行法</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0082a10">第七章　華嚴宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0082a11">第一節　宗名所依經</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0083a09">第二節　三國相承</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0085a03">第三節　教判</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0089a13">第四節　五教行位</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0091a01">第五節　佛身佛土</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0092a04">第八章　真言宗</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0092a05">第一節　宗名所依經</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0092a08">第二節　三國相承</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0093a08">第三節　教判</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0094a07">第四節　依正二報</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0095a05">第五節　六大．四曼．三密</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0171_002.xml#p0096a02">第六節　佛身教主</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0171_002.xml#p0097a02">附說　禪宗<note place="inline">竝</note>淨土宗</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0097a04">第一章　禪宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0098a04">第二章　淨土宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0171_002.xml#p0100a01">八宗綱要鈔解說</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0100a02">一</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0100a17">二</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0171_002.xml#p0101a18">三</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0171_001.xml#p0003a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0171_002.xml#p0049a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

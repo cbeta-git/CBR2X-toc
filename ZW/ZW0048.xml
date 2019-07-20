@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0178a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0178a25">譯文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0178a26">弁言</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0179a15">觀身</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0179a15">念入出息</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0180a18">念身姿節</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0181a08">明覺節</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0181a26">厭想節</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0182a22">觀四大節</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0183a14">墓地觀一</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0184a02">墓地觀二</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0184a16">墓地觀三</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0185a04">墓地觀四</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0185a17">墓地觀五</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0186a05">墓地觀六</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0186a19">墓地觀七</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0187a07">墓地觀八</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0187a20">墓地觀九</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0188a10">觀受</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0189a10">觀心</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0190a10">觀法</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0190a10">五蓋</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0191a21">五取蘊</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0192a14">處節</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0194a02">覺支</cblink></li>
+			<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0195a16">四聖諦</cblink>
+			<ol>
+				<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0195a23">苦聖諦</cblink></li>
+				<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0197a18">集聖諦</cblink></li>
+				<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0198a26">滅聖諦</cblink></li>
+				<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0200a03">道聖諦</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0048_001.xml#p0201a18">結語</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

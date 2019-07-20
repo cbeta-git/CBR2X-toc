@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1268_001.xml#p0764b05">No. 1268-A 叢林公論敘</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1268_001.xml#p0764c05">叢林公論</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1268_001.xml#p0773a02">No. 1268-B 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1268_001.xml#p0764c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

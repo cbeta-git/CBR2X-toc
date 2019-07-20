@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0845_001.xml#p0591a02">No. 845-A 遺教經論科</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0845_001.xml#p0598a02">No. 845-B 遺教經論住法記(并序)</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0845_001.xml#p0598b01">遺教經論住法記</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0845_001.xml#p0628b16">No. 845-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0845_001.xml#p0598b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

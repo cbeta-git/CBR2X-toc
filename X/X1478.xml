@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1478_001.xml#p0521a07">前文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1478_001.xml#p0521a09">修懺須知</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1478_001.xml#p0521a21">上卷入懺啟白</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1478_001.xml#p0521c15">開懺偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1478_001.xml#p0522a06">上卷</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_001.xml#p0530a09">創建牟尼菴香火</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_002.xml#p0530a17">下卷</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_002.xml#p0537c04">下卷繳懺意</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_002.xml#p0538a16">修次依楞嚴了義究竟事懺䟦語</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_002.xml#p0538b09">懺終梵讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_002.xml#p0538b17">直音</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1478_001.xml#p0522a03">第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1478_002.xml#p0530a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

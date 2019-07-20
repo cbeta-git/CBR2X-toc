@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0271_001.xml#p0886b10">No. 271-A 箋首楞嚴經序</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_001.xml#p0887a14">釋經題</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_001.xml#p0888a04">序分</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_001.xml#p0893a14">正宗分</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_008.xml#p1066c21">流通分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0271_001.xml#p0887a06">第一上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_001.xml#p0901b19">第一下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_002.xml#p0915b14">第二上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_002.xml#p0929b13">第二下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_003.xml#p0947a06">第三上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_003.xml#p0960b21">第三下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_004.xml#p0970b06">第四上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_004.xml#p0987a07">第四下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_005.xml#p1001b11">第五上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_005.xml#p1011a01">第五下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_006.xml#p1020a13">第六上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_006.xml#p1028a01">第六下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_007.xml#p1039b12">第七上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_007.xml#p1045b14">第七下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_008.xml#p1055c13">第八上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_008.xml#p1069b12">第八下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_009.xml#p1081b18">第九上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_009.xml#p1092b07">第九下</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_010.xml#p1102c04">第十上</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0271_010.xml#p1112b01">第十下</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0339a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0339a01">超原序</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0339a21">藍理序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0339c03">住四川忠州慶雲禪寺</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340a30">小參</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c08">佛事</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c09">為慶雲老人安座</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c12">起龕</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c15">舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c18">收靈骨</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c21">起靈骨</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0340c24">入塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341a01">首九</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341a06">百期拈香</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341a11"><unclear/>治平鐵祖道影</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341a15">為治平鐵祖三九拈香</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341a24">為光明行者舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341a27">為寂現大德舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b01">為<unclear/>行大德入塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b05">為素白禪人起龕</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b08">入塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b12">為密行化主舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b18">為玅月耆舊舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b21">對靈</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b25">為國柱宗兄對靈</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341b30">為瑞雲禪宿對靈</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341c06">為玉印山鄧府淨德道人對靈</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341c13">為本容尼大德對真</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341c18">為梵行大德對靈</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341c22">入關</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341c25">出關</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0341c29">頌古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0342c06">題讚</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0342c07">讚觀音</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0342c10">讚渡江達磨</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0342c19">讚藥王</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB444_001.xml#p0342c23">讚彌勒</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0343a01">附塔銘</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0343b01">附水絃法禪師語錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB444_001.xml#p0339c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

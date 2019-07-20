@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0540_001.xml#p0816b01">No. 540-A 般若波羅蜜多心經略疏序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0540_001.xml#p0816c01">No. 540-B 般若波羅蜜多心經釋義序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0540_001.xml#p0817a16">般若波羅蜜多心經釋義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0540_001.xml#p0817a18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

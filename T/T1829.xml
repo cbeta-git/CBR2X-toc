@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1829_001.xml#p0001a06">瑜伽師地論略纂</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1829_001.xml#p0001a03">第一(論本一-二)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_002.xml#p0019a02">第二(論本三-五)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_003.xml#p0033a02">第三(論本六-八)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_004.xml#p0049c16">第四(論本九-十)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_005.xml#p0066c12">第五(論本十一-十二)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_006.xml#p0084c09">第六(論本十三-十五)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_007.xml#p0096a07">第七(論本十六-二十)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_008.xml#p0109b11">第八(論本二十一-三十)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_009.xml#p0119b23">第九(論本三十三-三十四)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_010.xml#p0128c02">第十(論本三十五-三十六)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_011.xml#p0138b12">第十一(論本三十七-四十四)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_012.xml#p0152a18">第十二(論本四十四-五十)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_013.xml#p0168b08">第十三(論本五十一-五十三)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_014.xml#p0189b07">第十四(論本五十四-五十五)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_015.xml#p0204a04">第十五(論本五十六-六十)</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1829_016.xml#p0219c17">第十六(論本六十一-六十六)</cblink></li>
+</ol>
+</nav>
+</body></html>

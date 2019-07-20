@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J33/J33nB293_001.xml#p0705a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J33/J33nB293_001.xml#p0705a01">唐守禮序</cblink></li>
+		<li><cblink href="XML/J/J33/J33nB293_001.xml#p0705b06">蔡善繼序</cblink></li>
+		<li><cblink href="XML/J/J33/J33nB293_001.xml#p0706b01">自敘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J33/J33nB293_001.xml#p0707a01">擬寒山詩</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J33/J33nB293_001.xml#p0707a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

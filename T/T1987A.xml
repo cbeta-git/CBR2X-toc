@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0526b27">曹山大師語錄序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0531b22">解釋洞山五位顯訣</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0532c27">逐位頌竝注別揀</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0533b18">五位旨訣</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0533c05">三種墮</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0534b16">四種異類</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0535c11">三然燈</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1987A_001.xml#p0526c19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

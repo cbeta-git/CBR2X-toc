@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852b07">前文</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852b10">一釋名題</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852c01">二能修人</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852c06">三明般若體</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852c11">四明般若用</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852c23">五正示三觀工夫</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0853a16">六承諸法本不生滅</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0853a24">七述空中本無諸法</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0853b17">八無得而得</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0853c13">九讚深般若</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0853c23">十密說般若</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0854a11"> 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0549_001.xml#p0852b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

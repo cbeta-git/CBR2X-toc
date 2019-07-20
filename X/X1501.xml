@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1070c06">前文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1071c10">至心懺悔</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1071c18">至心勸請</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1071c21">至心隨喜</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1071c24">至心迴向</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1072a03">至心發願</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1072a12">浴佛形像</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1072a19">浴佛偈</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1072a22">燒香偈</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1501_001.xml#p1070c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0565_001.xml#p0921c10">1 沙門法品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0565_001.xml#p0923a08">2 見諦品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0565_001.xml#p0924c07">3 分衛品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0565_002.xml#p0926a15">4 假號品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0565_001.xml#p0921c07">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0565_002.xml#p0926a12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

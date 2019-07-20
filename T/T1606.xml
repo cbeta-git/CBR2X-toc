@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1606_001.xml#p0694b18">1 本事分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1606_001.xml#p0694b18">1 三法品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1606_001.xml#p0694b18">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_002.xml#p0700a15">2</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_003.xml#p0704c18">3</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_004.xml#p0709b06">4</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_005.xml#p0714a09">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1606_005.xml#p0717b07">2 攝品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1606_005.xml#p0718a16">3 相應品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1606_005.xml#p0718c01">4 成就品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1606_006.xml#p0719a23">2 決擇分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1606_006.xml#p0719a23">1 諦品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1606_006.xml#p0719a23">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_007.xml#p0724b06">2</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_008.xml#p0730a06">3</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_009.xml#p0734c27">4</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_010.xml#p0738c21">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1606_011.xml#p0743b06">2 法品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1606_011.xml#p0743b06">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_012.xml#p0748b24">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1606_013.xml#p0753a06">3 得品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1606_013.xml#p0753a06">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_014.xml#p0759b10">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1606_015.xml#p0765b13">4 論品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1606_015.xml#p0765b13">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1606_016.xml#p0769b21">2</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1606_001.xml#p0694b14">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_002.xml#p0700a11">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_003.xml#p0704c14">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_004.xml#p0709b02">第四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_005.xml#p0714a05">第五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_006.xml#p0719a19">第六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_007.xml#p0724b02">第七</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_008.xml#p0730a02">第八</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_009.xml#p0734c23">第九</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_010.xml#p0738c17">第十</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_011.xml#p0743b02">第十一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_012.xml#p0748b20">第十二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_013.xml#p0753a02">第十三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_014.xml#p0759b06">第十四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_015.xml#p0765b09">第十五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1606_016.xml#p0769b17">第十六</cblink></li>
+</ol>
+</nav>
+</body></html>

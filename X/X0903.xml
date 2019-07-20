@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0496a04">隨自意三昧目次</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0496a22">行威儀品第一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0498b24">住威儀品第二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0499b12">坐威儀品第三</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0503b09">眠臥威儀品第四</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0504a02">食威儀中具足一切諸上味品第五</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0505a16">語威儀品第六</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0903_001.xml#p0496a19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

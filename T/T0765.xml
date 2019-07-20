@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T17/T17n0765_001.xml#p0662b14">1 一法品(一-二)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T17/T17n0765_001.xml#p0662b14">1</cblink></li>
+		<li><cblink href="XML/T/T17/T17n0765_002.xml#p0668a14">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T17/T17n0765_003.xml#p0673a26">2 二法品(三-五)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T17/T17n0765_003.xml#p0673a26">1</cblink></li>
+		<li><cblink href="XML/T/T17/T17n0765_003.xml#p0677c17">挍正後序</cblink></li>
+		<li><cblink href="XML/T/T17/T17n0765_004.xml#p0678c05">2</cblink></li>
+		<li><cblink href="XML/T/T17/T17n0765_005.xml#p0683c02">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T17/T17n0765_006.xml#p0689a05">3 三法品(六-七)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T17/T17n0765_006.xml#p0689a05">1</cblink></li>
+		<li><cblink href="XML/T/T17/T17n0765_007.xml#p0694a11">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T17/T17n0765_001.xml#p0662b11">第一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0765_002.xml#p0668a14">第二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0765_003.xml#p0673a23">第三</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0765_004.xml#p0678c05">第四</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0765_005.xml#p0683c02">第五</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0765_006.xml#p0689a02">第六</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0765_007.xml#p0694a11">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

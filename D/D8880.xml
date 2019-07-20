@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D24/D24n8880_001.xml#p0001b01">題辭</cblink></li>
+	<li><cblink href="XML/D/D24/D24n8880_001.xml#p0004b03">釋文</cblink></li>
+	<li><cblink href="XML/D/D24/D24n8880_001.xml#p0029b01">附</cblink>
+	<ol>
+		<li><cblink href="XML/D/D24/D24n8880_001.xml#p0029b02">支那日域相宗先德所撰成唯識論末章篇目</cblink></li>
+		<li><cblink href="XML/D/D24/D24n8880_001.xml#p0035a03">唯識論引證六經十一部論</cblink></li>
+		<li><cblink href="XML/D/D24/D24n8880_001.xml#p0040b03">瑜伽十攴論</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D24/D24n8880_001.xml#p0004b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

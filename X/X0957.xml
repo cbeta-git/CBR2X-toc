@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0083c05">No. 957-A 刻竹庵艸錄序</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0083c17">竹菴艸錄目次</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0084a13">金剛經義</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0085c15">自答散出十問</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0086c24">大教唯心</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0087a17">法華開權</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0087b17">止觀揀境</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0087c10">普賢觀十種境界</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0088a13">議十法界十如是</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0088b08">本立教意</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0088c08">三藏教名</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0089a07">小本彌陀經五章</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0089b17">勸修西方說</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0090a01">諸宗立祖</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0090c04">受菩薩大戒請師</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0091a18">續添</cblink>
+	<ol>
+		<li><cblink href="XML/X/X57/X57n0957_001.xml#p0091a19"> 䟦六即頌</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0957_001.xml#p0091b07">經體統要</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0957_001.xml#p0092a08">金剛經三果正名</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0957_001.xml#p0084a11">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

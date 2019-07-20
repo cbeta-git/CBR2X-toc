@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479a14">1 說法章</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479a17">2 教戒章</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479a21">3 會坐章</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479a25">4 供養章</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479b11">5 和眾章</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479b15">6 淨眾章</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T23/T23n1437_001.xml#p0479a10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

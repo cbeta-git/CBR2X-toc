@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0001b02">第一重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0011a07">第二重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0022a09">第三重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0025a04">第四重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0030b08">第五重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0040b04">第六重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0043a09">第七重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0048b08">第八重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0054b04">第九重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0060b02">第十重下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0074a07">三重玄義下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0076a04">法事讃下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0081a08">觀念法門下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0087b03">般舟讃下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0093b05">論註下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0097b05">安樂集下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0099b05">群疑論下</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0103b01">往生要集下</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D30/D30n8889_001.xml#p0001b01">第一</cblink></li>
+	<li><cblink href="XML/D/D30/D30n8889_002.xml#p0060b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

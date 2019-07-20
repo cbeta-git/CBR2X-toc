@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0312b04">梁武帝</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0312b25">唐中宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0312c18">唐玄宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0313b02">唐肅宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0313c05">唐代宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0313c10">唐順宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0313c26">唐憲宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0314a24">唐文宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0314b05">唐宣宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0314c19">後唐莊宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0314c25">宋太宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0315a11">宋仁宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0315b09">宋神宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0315b18">宋徽宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0315b30">宋高宗</cblink></li>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0315c09">宋孝宗</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J23/J23nB125_001.xml#p0312b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

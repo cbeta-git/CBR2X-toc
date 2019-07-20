@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB390_001.xml#p0531a01">序</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_001.xml#p0531b11">目錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_001.xml#p0531c03">住潭州南雲興化禪林語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_001.xml#p0533c21">住南雲光山毘盧禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_002.xml#p0536a04">住郢州潼泉山法興禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_003.xml#p0539a04">住郢州潼泉山法興禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_004.xml#p0542a03">住北京慈明寺一門語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_004.xml#p0543b21">住北京翊教寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_005.xml#p0545c03">頌古一</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_006.xml#p0549a03">頌古二</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB390_001.xml#p0531c01">第一</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_002.xml#p0536a01">第二</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_003.xml#p0539a01">第三</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_004.xml#p0542a01">第四</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_005.xml#p0545c01">第五</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB390_006.xml#p0549a01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

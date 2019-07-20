@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0342c08">入不二法門品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0344b25">香積佛品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0346c26">菩薩行品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0350c07">見阿閦佛品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0352c20">法供養品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0354b12">囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2769_004.xml#p0339c11">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

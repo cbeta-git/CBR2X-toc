@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0225_001.xml#p0478b22">1 行品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_002.xml#p0482b07">2 天帝釋問品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_002.xml#p0483b23">3 持品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_002.xml#p0485b07">4 功德品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_002.xml#p0486a19">5 變謀明慧品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_003.xml#p0487b22">6 地獄品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_003.xml#p0488b10">7 清淨品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_003.xml#p0489b18">8 悉持品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_003.xml#p0490b21">9 覺邪品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_003.xml#p0491b02">10 照明十方品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0492b09">11 不可計品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0492c24">12 譬喻品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0493a26">13 分別品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0493c25">14 本無品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0494b28">15 不退轉品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0495c25">16 竭清信女品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0497b14">17 守空品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0498a21">18 遠離品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0499b07">19 善友品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0500a18">20 天帝釋品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0500b10">21 貢高品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0500c08">22 學品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0501a18">23 守行品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0501c25">24 強弱品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0502c07">25 累教品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0503a17">26 不盡品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0503b13">27 隨品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_006.xml#p0503c19">28 普慈闓士品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_006.xml#p0505c24">29 法來闓士品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_006.xml#p0507c24">30 囑累阿難品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0225_001.xml#p0478b19">第一</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_002.xml#p0482b02">第二</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_003.xml#p0487b19">第三</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_004.xml#p0492b03">第四</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_005.xml#p0498a15">第五</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0225_006.xml#p0503c14">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

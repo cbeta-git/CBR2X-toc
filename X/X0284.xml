@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0284_001.xml#p0196a05">No. 284-A 重刻大佛頂經玄文序</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0284_001.xml#p0196c05">序</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0284_001.xml#p0197a07">第一釋名</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0284_001.xml#p0197a11">初彰存略</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_001.xml#p0197b06">次正解釋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X13/X13n0284_002.xml#p0208c09">第二顯體</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0208c12">初明須顯體</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0208c23">二釋體義</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0209a20">三正出體</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0209c10">四引證</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0210a02">五會通異名</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0210b20">六廣簡偽濫</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0213a06">七明入體之門</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0215b05">八明如來藏性徧為眾經體</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0215b17">九徧為諸行體</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0216a14">十明徧為一切法體</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X13/X13n0284_002.xml#p0216b09">第三明宗</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0216b11">一簡宗體</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0216b21">二正明宗</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0217a16">三諸教同異</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0217b03">四結成因果</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X13/X13n0284_002.xml#p0217c04">第四辨用</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0217c07">一簡宗用</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0217c12">二出舊解</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0217c23">三正明用</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X13/X13n0284_002.xml#p0218a21">第五明教相</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0218a24">言綱要</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0284_002.xml#p0219a01">次正判此經</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0284_001.xml#p0196c01">第一</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0284_002.xml#p0208c05">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B28/B28n0156_001.xml#p0365a01">序</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0156_001.xml#p0367a08">駁斥</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0156_002.xml#p0385b09">問答</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B28/B28n0156_001.xml#p0365a01">第一</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0156_002.xml#p0385b09">第二</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0156_003.xml#p0398a09">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

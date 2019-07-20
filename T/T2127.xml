@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2127_001.xml#p0257b16">釋氏要覽序</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2127_001.xml#p0258a03">篇目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0258a12">姓氏</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0258c24">稱謂</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0262b22">住處</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0264a14">出家</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0265b26">師資</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0267a06">剃髮</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0268a13">法衣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0270c26">戒法</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_001.xml#p0274a02">中食</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0277b09">禮數</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0278c20">道具</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0280b16">制聽</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0281c05">畏慎</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0283a09">勤懈</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0283b16">三寶</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0289b26">恩孝</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0290b12">界趣</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_002.xml#p0292c09">志學</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0294b26">說聽</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0296a14">躁靜</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0297b24">諍忍</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0298b10">入眾</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0300c21">擇友</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0301b07">住持</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0303c01">雜紀</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0306a21">贍病</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2127_003.xml#p0307b27">送終</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2127_001.xml#p0257c15">第一</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2127_002.xml#p0277b02">第二</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2127_003.xml#p0294b19">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

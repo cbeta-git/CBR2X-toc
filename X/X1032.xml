@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n1032_001.xml#p0738a05">No. 1032-A 華嚴原人論解序</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1032_001.xml#p0738c09">華嚴原人論解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n1032_001.xml#p0738c06">第一</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1032_002.xml#p0750a10">第二</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1032_003.xml#p0759b21">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

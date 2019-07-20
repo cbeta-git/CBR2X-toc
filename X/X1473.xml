@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0369c14">通敘緣起第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0370a03">嚴淨道場第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0370a18">淨身方法第三</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0370b06">啟請聖賢第四</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0370c14">觀行供養第五</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0371a16">稱讚如來第六</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0371b06">禮敬三寶第七</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0371c23">修行五悔第八</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1473_001.xml#p0372a05">一明懺悔法</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1473_001.xml#p0372b16">二明勸請法</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1473_001.xml#p0372c01">三明隨喜法</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1473_001.xml#p0372c08">四明迴向法</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1473_001.xml#p0372c15">五明發願法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0372c22">旋繞稱念第九</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0373a15">誦經規式第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1473_001.xml#p0369c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

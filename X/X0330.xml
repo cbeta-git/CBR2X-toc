@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0330_001.xml#p0602a02">No. 330-A 楞伽宗通緣起</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_001.xml#p0602b20">No. 330-B 楞伽宗通題辭</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_001.xml#p0603a07">經題</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_001.xml#p0603b19">勸請品</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_001.xml#p0606b19">一切佛語心品第一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_003.xml#p0664a13">一切佛語心品第二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_005.xml#p0710c20">一切佛語心品第三</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_007.xml#p0753a13">一切佛語心品第四</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_008.xml#p0799c05">No. 330-C 楞伽宗通後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0330_001.xml#p0603a05">第一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_002.xml#p0628b04">第二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_003.xml#p0655b07">第三</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_004.xml#p0684a13">第四</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_005.xml#p0710c19">第五</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_006.xml#p0734b05">第六</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_007.xml#p0753a12">第七</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0330_008.xml#p0781a01">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

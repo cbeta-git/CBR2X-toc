@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0003a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0003a01">重修普陀志叙</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0007a01">補陀山志序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0013a01">重鋟補陀志序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0021a01">目錄</cblink></li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0025a02">宸翰</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0025a03">敕諭</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0025a04">皇帝𠡠諭普陀山寶陀禪寺住持及僧眾人等</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0028a02"> 𠡠諭南海普陀山普陀寺住持及僧眾人等</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0031a01">皇帝𠡠諭南海普陀山普陀寺住持及僧眾人等</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0039a01">御製</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0039a02">御製聖母印施佛藏經序</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0046a04">御製新刊續入藏經序</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0053a01">御製重建普陀寺碑</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0067a01">普陀寺殿圖</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0071a06">圖考</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0071a07">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0073a01">普陀山圖</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0075a01">山圖十四幅</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0075a01">山圖一之一：香爐山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0076a01">山圖一之二：飛沙嶴</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0077a01">山圖二之一</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0078a01">山圖二之二：光熙峰</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0079a01">山圖三之一：茶山、菩薩頂</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0080a01">山圖三之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0081a01">山圖四之一</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0082a01">山圖四之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0083a01">山圖五之一</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0084a01">山圖五之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0085a01">山圖六之一</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0086a01">山圖六之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0087a01">山圖七之一：仙人井</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0088a01">山圖七之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0089a01">山圖八之一：東天門、金沙灘</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0090a01">山圖八之二：放生池、獅子岩</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0091a01">山圖九之一：龍湾、普同㙮</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0092a01">山圖九之二：司基湾、善財礁、達磨峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0093a01">山圖十之一：一葉扁舟、白華嶺、玉趣峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0094a01">山圖十之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0095a01">山圖十一之一：說法臺石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0096a01">山圖十一之二：磐陀石、二龜聽法石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0097a01">山圖十二之一：新螺礁</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0098a01">山圖十二之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0099a01">山圖十三之一</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0100a01">山圖十三之二</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0101a01">山圖十四：金鉢盂山、石牛港</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0103a01">山水</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0103a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0103a08">山</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0103a08">補陀洛伽山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a04">梵山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a06">金鉢盂山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a06">香爐花瓶山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a07">茶山</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a08">峯</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a08">金剛峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a08">玉趣峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0104a08">彌陀峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a01"> 㙮子峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a01">逹磨峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a02">靈鷲峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a02">妙應峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a03">白衣峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a03">觀音峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a04">菩薩頂</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a04">煉丹峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a05">白華峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a06">光熈峯</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a06">會仙峰</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a07">巖</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a07">獅子巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a07">鷹嘴巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a07">東方巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a08">象巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a08">佛手巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0105a08">虎巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a01">圓通巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a01">玲瓏巖</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a02">西方巖</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a03">洞</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a03">潮音洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a04">龍女洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a05">金剛窟</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a06">法華洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a06">摩尼洞</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a08">嶺</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a08">白華嶺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a08">栴檀嶺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0106a08">饑飽嶺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a01">圓通嶺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a01">青鼓嶺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a01">笑天獅</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a03">石</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a03">磐陀石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a06">無畏石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a07">天箆石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a07">疊子石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a07">毛跳石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a08">求現臺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0107a08">觀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a01">佛牙石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a01">香爐石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a02">不二石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a02">真歇石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a03">巫山石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a04">西天門石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a04">東天門</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a05">海天佛國石</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a06">礁</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a06">新螺礁</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a06">善財礁</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a08">嶴</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a08">搗飯嶴</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0108a08">飛沙嶴</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a01">沙</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a01">千步沙</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a02">金沙</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a03">地</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a03">三摩地</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a04">洋</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a04">蓮花洋</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a05">東大洋</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a06">港</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a06">石牛港</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a08">白沙港</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0109a08">箭港</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0110a01">池</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0110a01">蓮花池</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0110a03">放生池</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0110a05">光明池</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0110a06">道頭</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0110a06">短姑道頭</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a01">泉</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a01">菩薩泉</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a01">慧泉</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a02">靈一泉</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a03">潭</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a03">龍潭</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a03">龜潭</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a04">井</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a04">葛洪井</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a04">仙人井</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a05">金沙井</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a07">境</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a07">清淨境</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0111a07">空</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0112a01">西方境</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0112a02">藤蘿境</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0112a04">街</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0112a04">玉堂街</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0113a01">殿宇</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0113a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0113a06"> 𠡠建護國永壽普陀禪寺</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0115a06">御製藏經序碑亭</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0117a07"> 𠡠賜護國鎮海禪寺</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0120a01"> 𠡠賜祝延聖壽磐陀禪院</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a01">茶山靜室</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a02">朝陽庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a04">慧濟庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a05">圓覺庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a05">吉祥庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a06">方廣庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a06">琉璃庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a07">法喜庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a07">觀音庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a07">梵音庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a08">崇徳庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a08">湧泉庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0121a08">華</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a01">弘覺庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a01">智勝庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a02">圓應庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a02">靈瑞庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a02">雨華庵</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a03">千步沙靜室</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a04">禪那庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a05">慧日庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a05">金粟庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a07">楊枝庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a07">龍樹庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a08">智度庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0122a08">月印庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a01">圓信庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a01">摩尼庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a01">雙泉庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a02">雪浪庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a02">伴雲庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a03">甘露庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a03">栴檀庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a03">般若</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a04">資福庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a04"> 迴龍庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a05">大悲庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a05">盤龍庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a05">清凉庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a06">海曙庵</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a07">磐陀石靜室</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0123a08">圓通庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a02">真歇庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a03">海雲庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a03">總靜室</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a04">永勝</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a05">寶函室</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a05">脩竹</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a06">白雲庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a06">娑羅庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a07">蓮華庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a07">海印庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a07">慈雲</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a08">靈石庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0124a08">大覺庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a01">大慈庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a01">靈芝庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a02">清籟庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a02"> 法華庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a03">西資庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a03">金剛庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a04">育㤙院</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a05">白華庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0125a07">梅福庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a01">昐鶴庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a01">白象菴</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a02">凈土庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a03">積善庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a04">韋馱寶殿</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a06"> 𩔰聖庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a06">三元殿</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0126a07"> 𨼆秀庵</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0127a01">規制</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0127a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0127a07">寺基</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0128a01">山門</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0128a06">天王殿</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0129a04">圓通大殿</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0130a02">藏經寶殿</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0130a07">景命殿</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0131a04">伽藍、祖師、彌勒、地藏四配殿</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0131a08">配殿廊房</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0132a03">天王殿左右廊房</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0132a06">藏經殿左右廊房</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0133a01">景命殿左右廂房</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0133a04">景命殿左右羣房</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0133a07">儀門前左右廊房</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0134a02">儀門內露頂</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0134a05">鐘皷樓二座</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0135a01">建置</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0135a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0135a07">後梁</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0136a05">宋</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0138a01">元</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0138a07">明</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0143a01">靈異</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0143a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0143a07">唐文宗蛤蜊現觀音</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0144a04">潮音洞前燔指見觀音</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0144a06">菩薩像不肯去</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0145a06">王舜封使三韓遇濤致禱解危</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0146a01">劉逵使高麗遙叩寶陀解危</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0146a04">黃龜年禮洞見瑞相</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0146a06">史浩潮音洞見異僧</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0148a07">宋孝宗夢遊補陀得異兆</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0149a03">顏頥仲禱雨輙應</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0149a05">張蓬山洞中見大士相</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0150a03">曹立洞中見大士相</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0150a08">王貴、伯顏蓮花洋中見靈異</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0152a06">短姑道頭現靈異</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0153a07">明代大士現靈異</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0159a01">頒賜</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0159a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0160a01">宋</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0160a05">元</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0162a02">明</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a01">命使</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a06">宋</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a06">王貴</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a07">元</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a07">李英</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0169a08">孛羅</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a01">魏也先</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a02">太出</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a03">李鐡木兒不花</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a04">張蓬山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a05">法華奴</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a06">帖閭</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a07">曹立</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0170a08">明</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0171a01">張本</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0171a03">孟廷安</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0171a04">趙永</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0171a06">曹奉</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0171a07">張隨</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0173a05">王臣</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0173a06">党禮</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0173a08">張然</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0175a01">釋子</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0175a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0175a07">梁</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0175a07">惠鍔</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0175a08">宋</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0175a08">清了</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a01">徳韶</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a02">元</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a02">如智</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a02">如律</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a04">明</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a04">行丕</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a05">淡齋</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a06">道誠</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a08">圓錦</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0176a08">真智</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a01">明增</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a01">真松</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a02">真表</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a06">真語</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a07">真璧</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a08">真海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0177a08">真</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0178a01">如迥</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0178a08">真遇</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0179a01">真才</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0179a03">真經</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0179a04">如欽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0179a06">如讓</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0179a08">如曜</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a02">性能</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a04">性空</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a05">性海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a06">性寶</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a06">性樂</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a07">海鯨</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0180a08">海相</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a01">海筏</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a01">真聡</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a02">如弘</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a03">性徹</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a03">性璇</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a04">性嶽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a05">海先</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a06">性印</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a06">性懋</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a07">海福</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a07">海灝</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a07">性</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0181a08">海寶</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a01">鎮海寺真融</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a02">如壽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a03">如徳</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a04">如誠</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a04">如照</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a05">如光</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a07">如燈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0183a08">如碧</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a01">如珂</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a02">性賢</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a04">高道</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a05">秦　安期生</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a06">漢　梅福</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a07">晉　葛𠎣翁</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0184a08">元　王天助</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0185a01">物產</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0185a02">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0185a07">穀</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0185a08">菜</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0186a06">木</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0187a01">果</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0187a03">竹</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0187a05">花</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0188a03">藥</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0188a06">鳥</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0189a02">獸</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0189a03">魚</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0189a05">龜</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0189a06">蛇</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0191a03">藝文</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0191a03">序</cblink></li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0192a01">雜著</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0192a02">觀音大士讃</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0197a04">留題寶陀禪寺碑偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0201a06">觀世音菩薩補陀巖示現偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0205a08">磐陀石觀日賦</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0212a03">清淨境亭銘</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0221a08">補陀山觀音偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0225a05">吳郡康時萬等捐貲造印《妙法蓮華經》二十四部送南海補陀山寶陀禪寺供奉</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0226a07">應制</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0226a08">聖母印施藏經讃</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0232a03">印《法華經》歌</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0237a03">恭遇皇上奉聖母𠡠命賜南海寶陀寺藏經頌</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0242a03">補陀觀音大士頌</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0248a01">普陀寺募緣䟽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0255a05">普陀山太子㙮下藏零牙志</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0257a06">禮普陀大士偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0261a04">禮普陀大士偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0263a08">補陀海潮寺開山大智禪師碑</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0268a02">二大士傳</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0271a03">事畧</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0271a04">補陀洛迦山考</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0271a06">序</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0274a05">自在功徳品</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0282a01">洞宇封域品</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0287a03">感應祥異品</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0297a04">興建沿革品</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0309a01">跋</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0312a07">舊志序（四篇）</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0312a08">屠隆序</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0323a03">劉尚志序</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0328a05">汪應泰序</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0333a03">侯繼高序</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0338a05">甬東山水古蹟記</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0346a08">昌國州寳陀寺記</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0354a05">補陀山碑記</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0358a05">重修補陀山寳陀禪寺記</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0368a05">補陀洛伽山記</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0377a06">渡海記事</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0381a02">普陀寺碑記</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0389a03">詩𩔗一</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0389a04">洛伽題咏</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0389a08">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0390a05">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0391a02">夕泛海東尋梅岑山觀音洞遂登磐陀石望日出處（三首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0393a02">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0393a08">洛伽山望海（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0395a02">寳陀禪寺漫興</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0395a07">補陀山（四首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0397a03">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0397a08">禮洛伽山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0398a05">題補陀（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0399a05">禮洛伽山（四首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0402a01">遊寳陀寺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0402a06">夢遊補陀山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0403a01">遊補陀山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0403a06">登補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0404a03">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0404a08">寄題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0405a03">禮補陀大士八韻</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0406a01">沈家門阻雨</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0406a06">喜晴</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0407a01">望補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0408a07">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0409a04">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0410a01">寄題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0410a05">龍女善財洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0411a02">寳陀寺禮大士（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0414a04">遊補陀（八首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0419a04">補陀十二景</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0419a05">梅灣春曉</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0419a08">茶山夙霧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0420a03">古洞潮音</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0420a06">龜潭寒碧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0421a01">天門清梵</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0421a04">磐陀曉日</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0421a07">千步金沙</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0422a02">蓮洋午渡</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0422a05">香爐翠靄</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0422a08">鉢盂鴻灝</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0423a03">洛伽燈火</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0423a06">靜室茶烟</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0424a01">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0425a03">夢遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0425a08">潮音洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0426a04">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0427a01">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0427a06">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0428a03">禮補陀山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0429a07">題潮音洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0430a04">寳陀寺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0430a07">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0431a03">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0431a07">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0432a03">題補陀（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0433a03">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0433a08">再遊普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0434a05">洛伽山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0435a05">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0436a02">潮音洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0436a07">磐陀石</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0437a02">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0437a07">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0438a04">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0439a01">海門望補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0439a06">和家兄寄題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0440a03">潮音洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0440a07">遊靜室</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0441a03">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0441a08">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0444a04">寄題普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0445a01">寄題補陀洛伽（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0446a01">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0446a05">禮洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0447a02">登補陀山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0447a07">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0448a04">題鎮海寺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0449a01">遊補陀山寺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0449a06">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0450a03">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0450a08">遊補陀山寺（十四首）</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0450a08">遊補陀山寺</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0451a01">其一</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0451a05">梅灣春曉</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0451a08">茶山夙霧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0452a03">古洞潮音</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0452a06">龜潭寒碧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0453a01">天門清梵</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0453a04">磐陀旭日</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0453a07">千步金沙</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0454a02">蓮洋午渡</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0454a05">洛伽燈火</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0454a08">香爐翠靄</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0455a03">鉢盂鴻灝</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0455a06">靜室茶烟</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0456a01">遊補陀山寺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0456a06">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0457a03">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0457a08">題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0458a05">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0459a02">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0459a07">遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0460a04">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0461a01">再守茲土重登普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0461a07">渡蓮華洋</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0462a03">題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0462a06">春日㳺補陀洛伽山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0463a04">逰補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0464a06">逰補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0465a03">寄題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0465a08">逰補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0466a04">今上敕賜護國鎮海禪寺奉題一首</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0467a02">題補陀（四首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0469a07">題普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0471a01">逰普陀長律八韻</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0472a03">題補陀洛伽山（一首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0473a01">咏洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0473a06">謁補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0474a04">渡海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0475a01">禮洛伽山大士遍閱大海諸勝（八首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0480a02">登白華山曲徑靜憩</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0480a07">初至普陀即景（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0482a02">遊磐陀歸遇雨</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0482a06">雨中尋普陀諸勝</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0483a03">朝陽庵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0483a07">晚晴見月偶述</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0484a04">望海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0485a06">潮音洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0486a01">育恩院山石竒勝當為普陀諸靜室之冠</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0487a04">題普陀（三首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0489a03">無邉禪師避靜磐陀石下以詩為贈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0490a01">過禮補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0490a06">舟過補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0491a03">補陀十二詠</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0491a04">梅灣春暁</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0491a07">茶山宿霧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0492a02">古洞潮音</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0492a05">龜潭寒碧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0492a08">天門清梵</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0493a03">磐陀暁日</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0493a06">千步金沙</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0494a01">蓮洋午渡</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0494a04">香爐晴靄</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0494a07">鉢盂鴻灝</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0495a02">洛伽燈火</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0495a05">淨室茶烟</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0495a08">逰磐陀菴登點頭石之作</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0497a03">詩𩔗二</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0497a04">送僧禮普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0497a07">贈補陀僧</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0498a04">贈一乗上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0498a07">贈大智師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0499a03">贈大智師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0499a07">贈南海翠崖師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0500a02">補陀僧真語應詔入京受賜還山謁予鄂渚兼致緯真儀部書賦此為贈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0501a01">送無用法師禮五臺歌</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0506a03">過海潮贈大智禪師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0507a01">竹菴師住持補陀賦贈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0507a07">寂菴上人歸補陀以二詩送之</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0509a02">寂菴法師新膺常住寄贈（一首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0509a08">送廓哉上人歸普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0510a06">贈竹菴師住補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0511a02">送烱侍者禮普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0511a05">竹菴上人自　闕還山賦贈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0512a02">贈敏菴上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0512a05">江夏逢竹菴上人還補陀贈以四偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0514a02">送忠公自楚禮普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0514a07">贈遜吾上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0515a03">贈遜吾上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0515a06">禮南海過無用師靜室</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0516a08">贈翠崖上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0517a05">贈僧遜吾詣闕還</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0518a01">秋日送昱光上人還歸南海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0518a06">贈守拙上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0519a03">贈遜吾上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0519a06">贈寂菴法師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0520a02">一瓢行贈海潮玉田上人行脚</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0521a03">廓哉上人陪遊補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0521a07">送了然上人歸補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0522a03">補陀潤渠昱光二上人行脚之燕訪余邸舍遂禮五臺賦此送之</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0523a02">贈萬容上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0523a05">贈三藏上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0523a08">送補陀潤渠師自長安禮五臺</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0525a02">贈守拙上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0525a07">昱光道兄禮五臺還南海為歌贈之</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0527a01">贈無邊上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0527a04">贈大乘上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0527a07">本行上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0528a02">寄萬容上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0528a05">三藏上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0528a08">贈昱光上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0529a03">無邊上人讃</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0529a06">贈大乘上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0530a01">送千如法師之補陀山</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0530a06">過普陀晤潤田諸兄作</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0531a03">潤渠法友禮五臺歸南海賦此贈之</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0532a05">春日歸普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0533a02">同秘藏、休遠、慧舟禮南海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0533a08">昱光上人自南海來清凉將圖南別賦此送之</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0534a06">贈玉峯上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0535a01">贈勝林法侣</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0535a04">補陀歌為勝林上人賦</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0536a04">同充菴師禮南海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0536a08">贈大智師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0537a05">贈守拙師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0538a04"> 㳺補陀贈素明上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0539a01">贈補陀元初上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0539a05">禮補陀訪守拙師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0540a02">贈法界上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0540a05">守拙上人兼董補陀志成率爾為贈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0541a02">題補陀并贈守拙上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0543a07">贈普光上人（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0544a05">贈守拙師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0545a06">無窮上人索贈言示㕥二偈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0546a04">贈竒峰上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0547a01">贈補陀山無邉上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0547a07">贈太空上人募塑諸大士像</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0548a05">初到普陀偕奇峰素明上人閱慈雲石次周君衡韻</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0549a02">遊白華山菴精舍為昱光上人題</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0549a06">將歸仍赴昱光精舍偕竒峰素明大願諸上人一齋而別</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0550a04">贈玉峰上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0550a08">題白華菴贈昱光禪師（一首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0552a03">贈白華菴昱光禪師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0552a08">逰白華庵贈朗徹禪兄（二首）</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0554a02">別白華菴朗公後阻風蓮花洋却寄</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0554a07">寄題洛伽</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0555a05">寄贈昱光禪師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0556a01">白華庵方丈落成贈朗徹上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0557a01">白華菴贈朗徹上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0557a07">題洛伽山（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0559a01">宿白華菴訪贈朗徹禪師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0559a07"> 㳺法華洞</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0560a03">題十二景</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0560a04">梅湾春暁</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0560a08">茶山夙霧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0561a03">古洞潮音</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0561a06">龜潭寒碧</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0562a01">天門清梵</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0562a04">磐陀暁日</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0562a07">千步金沙</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0563a02">蓮洋午渡</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0563a05">香爐翠靄</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0563a08">鉢盂鴻灝</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0564a03">洛伽燈火</cblink></li>
+				<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0564a06">靜室茶烟</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0565a01">梅灣春暁</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0565a04">茶山夙霧</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0565a07">古洞潮音</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0566a02">龜潭寒碧</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0566a05">天門清梵</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0566a08">磐陀暁日</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0567a03">千步金沙</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0567a06">蓮洋午渡</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0568a01">香鑪翠靄</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0568a04">鉢盂鴻灝</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0568a07">洛伽燈火</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0569a02">靜室茶烟</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0569a05">題補陀（四首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0572a01">寄題補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0572a06">禮普陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0573a03">禮補陀</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0573a08">贈守拙上人（二首）</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0574a06">贈守拙師</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0575a08">送昱光上人歸南海</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0576a05">普陀山寺鼎新住持迥公爰拜左善世之命　　賦此為贈</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0577a04">贈寂菴上人</cblink></li>
+			<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0578a02">妙用禪師西竺庵重題賦贈</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/GA/GA009/GA009n0008_001.xml#p0003a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_002.xml#p0071a01">第二</cblink></li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_003.xml#p0191a01">第三</cblink></li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_004.xml#p0271a01">第四</cblink></li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_005.xml#p0389a01">第五</cblink></li>
+	<li><cblink href="XML/GA/GA009/GA009n0008_006.xml#p0497a01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

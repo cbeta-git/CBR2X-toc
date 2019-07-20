@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0621b02">No. 1490-A 舍利靈應序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0621c07">No. 1490-B 舍利懺緣起序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0622a19">No. 1490-C</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0622c01">舍利懺法目次</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0622c20">第一嚴潔道場</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0623a15">第二預行方便</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0623b04">第三正明修意</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0623c19">第四燒香散華</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0624a13">第五端申禮請</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0624c21">第六至心讚歎</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0625a18">第七投誠禮佛</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0625c13">第八具通懺悔</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0626a10">第九恭持呪心</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0626b02">第十發願回向</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1490_001.xml#p0622c15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

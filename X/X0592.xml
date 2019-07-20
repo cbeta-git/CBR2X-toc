@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0592_001.xml#p0557a02">No. 592-A 重刻玄籤證釋引</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_001.xml#p0557b08">玄籤證釋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0592_001.xml#p0557b10">第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_002.xml#p0574c09">第二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_003.xml#p0586c15">第三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_004.xml#p0592a15">第四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_005.xml#p0601c06">第五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_006.xml#p0609c08">第六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_007.xml#p0615b12">第七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_008.xml#p0619a01">第八</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_009.xml#p0623c01">第九</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0592_010.xml#p0627b01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

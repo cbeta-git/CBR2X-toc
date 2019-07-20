@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2017_001.xml#p0957b20">萬善同歸集序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2017_001.xml#p0958a23">萬善同歸集</cblink>
+	<ol>
+		<li><cblink href="XML/T/T48/T48n2017_001.xml#p0958a23">1</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2017_002.xml#p0969a16">2</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2017_003.xml#p0983a02">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T48/T48n2017_003.xml#p0993a12">精嚴講寺</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2017_003.xml#p0993b06">附永明壽禪師垂誡</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2017_001.xml#p0958a20">第一</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2017_002.xml#p0969a16">第二</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2017_003.xml#p0983a02">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

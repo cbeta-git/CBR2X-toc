@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0230c11">1 散種章</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0231b22">2 知五陰慧章</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0231c11">3 隨應相具章</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0231c24">4 五陰分別現止章</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0232a17">5 五種成敗章</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0235b23">6 神足行章</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0236a14">7 五十五觀章</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0607_001.xml#p0230c07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB243_001.xml#p0685a01">序</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB243_001.xml#p0685b03">語錄</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687a24">雜著</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687a24">頌古</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687b04">徵古</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687b16">別古</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687b24">評古</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687b29">代古</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c04">法身偈</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c07">華嚴偈</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c11">五宗頌</cblink>
+		<ol>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c12">標題 圖一</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c16">標題 圖二</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c20">標題 圖三</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c24">標題 圖四</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0687c28">標題 圖五</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688a02">頌棒</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688a06">頌喝</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688a10">浪子禪說</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688a23">坐禪箴</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688a28">陋室銘</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688b03">自在吟</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688b11">遊子歌</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688b22">四威儀</cblink>
+		<ol>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688b23">行</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688b27">住</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688c02">坐</cblink></li>
+			<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688c06">臥</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688c11">誡眾</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688c22">示達本大德</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688c25">示如心禪人</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0688c28">復寒雪法師</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0689a03">勉太還勤舊</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0689a06">訪王靜主</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0689a10">示學人居山</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0689a13">示眾善士</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB243_001.xml#p0689a16">示中知禪人</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J29/J29nB243_001.xml#p0689b01">附記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB243_001.xml#p0685b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

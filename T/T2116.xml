@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0751a05">辯偽錄序</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0751c14">辯偽錄序</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0753a19">1 妄立天尊偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0753c25">2 創立劫運年號偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0754b05">3 開分三界偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0755a02">4 隨代為帝王師偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0755c28">5 老子出靈寶三洞偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0756b29">6 遊化九天偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0757a10">7 偷佛經教偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0757b17">8 老君結氣成字偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0757c25">9 周文王時為柱下史偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0758b17">10 前後老君降生不同偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0759a28">11 三番作佛偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0759c23">12 冐名僭聖偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0760c07">13 合氣為道偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0761b16">14 偷佛神化偽</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0763c23">後記</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0764b03">欽奉聖旨禁斷道藏偽經</cblink>
+	<ol>
+		<li><cblink href="XML/T/T52/T52n2116_002.xml#p0764b03">1</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2116_003.xml#p0765c02">2</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2116_004.xml#p0771a24">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T52/T52n2116_005.xml#p0776a14">聖旨焚毀諸路偽道藏經之碑</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_005.xml#p0778b09">虛鍾受扣集</cblink>
+	<ol>
+		<li><cblink href="XML/T/T52/T52n2116_005.xml#p0778b11">如意答石介怪記</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2116_005.xml#p0779b06">聖旨特建釋迦舍利靈通之塔碑文</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2116_001.xml#p0752b02">第一</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_002.xml#p0757a06">第二</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_003.xml#p0765c02">第三</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_004.xml#p0771a24">第四</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2116_005.xml#p0776a10">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

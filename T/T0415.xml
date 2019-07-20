@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0415_001.xml#p0830a07">1 序品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_001.xml#p0832b28">2 不空見本事品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0415_001.xml#p0832b28">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0415_002.xml#p0834a18">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0415_003.xml#p0838a11">3 神變品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_004.xml#p0843b12">4 彌勒神通品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_004.xml#p0844c12">5 歎佛妙音勝辯品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_005.xml#p0848a25">6 讚如來功德品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_006.xml#p0851a11">7 佛作神通品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_006.xml#p0852b09">8 見無邊佛廣請問品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_007.xml#p0855b09">9 讚三昧相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_007.xml#p0856c17">10 正觀品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_007.xml#p0858b11">11 思惟三昧品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_008.xml#p0860b16">12 示現微笑品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_008.xml#p0861a19">13 神通品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_009.xml#p0865c12">14 說修習三昧品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_010.xml#p0870a07">15 諸菩薩本行品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0415_001.xml#p0830a03">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_002.xml#p0834a18">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_003.xml#p0838a07">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_004.xml#p0842c02">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_005.xml#p0846c24">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_006.xml#p0851a07">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_007.xml#p0855b05">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_008.xml#p0859c09">第八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_009.xml#p0863b08">第九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0415_010.xml#p0868a02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

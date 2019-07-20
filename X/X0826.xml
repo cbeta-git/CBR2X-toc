@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0826_001.xml#p0516a06">第一</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_002.xml#p0541b01">第二</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_003.xml#p0569a03">第三</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_004.xml#p0590a06">第四</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_005.xml#p0614a08">第五</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_006.xml#p0636c14">第六</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_007.xml#p0658c17">第七</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_008.xml#p0688c20">第八</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_009.xml#p0717c18">第九</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0826_010.xml#p0743a06">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

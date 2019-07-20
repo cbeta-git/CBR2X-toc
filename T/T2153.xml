@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2153_001.xml#p0372c13">大周刊定眾經目錄序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_001.xml#p0373b09">大乘單譯經目</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_002.xml#p0380b05">大乘重譯經目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2153_002.xml#p0380b06">卷之一</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_003.xml#p0386a05">卷之二</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_004.xml#p0392a06">卷之三</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_005.xml#p0397c20">卷之四</cblink>
+		<ol>
+			<li><cblink href="XML/T/T55/T55n2153_005.xml#p0402c15">附文</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2153_006.xml#p0403c08">大乘律大乘論目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2153_006.xml#p0403c11">大乘律</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_006.xml#p0405b12">大乘論</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2153_007.xml#p0408b17">小乘單譯經目</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_008.xml#p0416a14">小乘重譯經目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2153_008.xml#p0416a14">卷之一</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_009.xml#p0425a18">卷之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2153_010.xml#p0432a10">小乘律</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_010.xml#p0434b21">小乘論</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_010.xml#p0436a22">賢聖集傳</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_011.xml#p0437a21">大小乘失譯經目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2153_011.xml#p0437a24">大乘失譯經</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_011.xml#p0440b04">小乘失譯經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2153_012.xml#p0442b17">大小乘闕本經目</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_012.xml#p0448a19">大小乘闕本經目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2153_012.xml#p0448a23">大乘闕本經</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_012.xml#p0451c24">小乘闕本經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2153_013.xml#p0458b12">見定入藏流行錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2153_013.xml#p0458b29">大乘修多羅藏</cblink>
+		<ol>
+			<li><cblink href="XML/T/T55/T55n2153_013.xml#p0458c02">單譯經</cblink></li>
+			<li><cblink href="XML/T/T55/T55n2153_013.xml#p0460b24">重譯經</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T55/T55n2153_013.xml#p0465b21">大乘毘尼藏</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_013.xml#p0465c19">大乘阿毘達磨藏</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_014.xml#p0467a26">小乘修多羅藏</cblink>
+		<ol>
+			<li><cblink href="XML/T/T55/T55n2153_014.xml#p0467a27">單譯經</cblink></li>
+			<li><cblink href="XML/T/T55/T55n2153_014.xml#p0468a21">重譯經</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T55/T55n2153_014.xml#p0470b04">小乘毘尼藏</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_014.xml#p0470c15">小乘阿毘達摩藏</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_014.xml#p0471b05">賢聖集傳</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2153_014.xml#p0471c07">賢聖集傳</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2153_015.xml#p0472a23">偽經目錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2153_001.xml#p0373b07">第一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_002.xml#p0380b02">第二</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_003.xml#p0386a02">第三</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_004.xml#p0392a03">第四</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_005.xml#p0397c17">第五</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_006.xml#p0403c05">第六</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_007.xml#p0408b14">第七</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_008.xml#p0416a11">第八</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_009.xml#p0425a15">第九</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_010.xml#p0432a06">第十</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_011.xml#p0437a18">第十一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_012.xml#p0442b14">第十二</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_013.xml#p0458b08">第十三</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_014.xml#p0467a22">第十四</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2153_015.xml#p0472a19">第十五</cblink></li>
+</ol>
+</nav>
+</body></html>

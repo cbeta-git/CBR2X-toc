@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0860a03">第一卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0864a52">第二卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0868a24">第三卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0871a24">第四卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0873a39">第五卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0876a28">第六卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0878a42">第七卷</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0880a32">第八卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0366_001.xml#p0860a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

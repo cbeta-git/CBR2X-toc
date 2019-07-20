@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0216b09">前言</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0216c02">寶鏡三昧圖說</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0217a04">正偏回互圖說</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0217b06">三疊分卦圖說</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0217c09">五變成位圖說</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0218b01">二喻顯法圖說</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0219d02">六爻攝義圖說</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1237_001.xml#p0216b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

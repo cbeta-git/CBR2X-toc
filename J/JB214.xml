@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J28/J28nB214_001.xml#p0554c02">性學開蒙</cblink></li>
+	<li><cblink href="XML/J/J28/J28nB214_002.xml#p0558c03">梵室偶談</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J28/J28nB214_001.xml#p0554c01">第一</cblink></li>
+	<li><cblink href="XML/J/J28/J28nB214_002.xml#p0558c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

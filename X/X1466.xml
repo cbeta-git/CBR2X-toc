@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1466_001.xml#p0072b05">No. 1466-A 無量壽佛讚註(并引)</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1466_001.xml#p0072b24">無量壽佛讚註</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1466_001.xml#p0075a18">No. 1466-B</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1466_001.xml#p0075b06">No. 1466-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1466_001.xml#p0072b21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0916b20">序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0917a02">原起</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0917b18">讀法</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0918a13">凡例</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0918b13">全經大旨</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0919a07">註解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0566_001.xml#p0916b18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

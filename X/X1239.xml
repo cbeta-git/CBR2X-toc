@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1239_001.xml#p0224b05">No. 1239-A 注溈山警策序</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1239_001.xml#p0224c01">溈山警策註</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1239_001.xml#p0231a02">No. 1239-B</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1239_001.xml#p0231b07">No. 1239-C</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1239_001.xml#p0231b18">No. 1239-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1239_001.xml#p0224c02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

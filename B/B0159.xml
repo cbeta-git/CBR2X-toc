@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0801a10">序</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0803b11">舊序</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0805b01">原書目次</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0805b07">袁了凡與陳穎亭書</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0805b15">立命之學</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0809b18">改過之法</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0812a06">積善之方</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0818b16">謙德之效</cblink></li>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0820a10">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/B/B28/B28n0159_001.xml#p0820a10">俞淨意公遇竈神記</cblink></li>
+		<li><cblink href="XML/B/B28/B28n0159_001.xml#p0822b04">袁了凡居士傳</cblink></li>
+		<li><cblink href="XML/B/B28/B28n0159_001.xml#p0823a16">雲谷大師傳</cblink></li>
+		<li><cblink href="XML/B/B28/B28n0159_001.xml#p0826b06">重刻跋</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B28/B28n0159_001.xml#p0801a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a06">通敘緣起第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a07">勸脩利益第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a08">揀擇根器第三</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a11">呵棄欲盖第四</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a17">決志進脩第五</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a18">嚴淨道場第六</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a20">啟請聖賢第七</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0365b19">正修十行第八</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0365b20">一者禮敬諸佛</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0366b12">二者稱讚如來</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0366c05">三者廣修供養</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0367a06">四者懺悔業障</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0367c20">五者隨喜功德</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368a01">六者請轉法輪</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368a07">七者請佛住世</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368a13">八者常隨佛學</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368a21">九者恒順眾生</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368b03">十者普皆回向</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368b09">旋遶誦經第九</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0368c08">端坐思惟第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1472_001.xml#p0364a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0010_001.xml#p0353a01">No. 10-A 大明仁孝皇后夢感佛說第一希有大功德經序</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0010_001.xml#p0354a06">大明仁孝皇后夢感佛說第一希有大功德經</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0010_002.xml#p0359b01">No. 10-B 大明仁孝皇后夢感佛說第一希有大功德經後序</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0010_002.xml#p0359c06">No. 10-C 大明仁孝皇后夢感佛說第一希有大功德經後序</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0010_002.xml#p0360b01">No. 10-D 大明仁孝皇后夢感佛說第一希有大功德經後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0010_001.xml#p0354a08">第一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0010_002.xml#p0356a12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

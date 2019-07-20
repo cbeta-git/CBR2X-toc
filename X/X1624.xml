@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1624_001.xml#p0245a05">No. 1624-A 洪覺範林間錄序</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1624_001.xml#p0245b13">石門洪覺範林間錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1624_001.xml#p0245b12">第一</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1624_002.xml#p0260a09">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

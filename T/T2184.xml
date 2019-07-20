@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2184_001.xml#p1165b20">新編教藏總錄流衍序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2184_001.xml#p1165c13">新編諸宗教藏總錄序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2184_001.xml#p1166a09">海東有本見行錄上</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2184_002.xml#p1173a17">海東有本見行錄中</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2184_003.xml#p1174c27">海東有本見行錄下</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2184_001.xml#p1166a06">第一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2184_002.xml#p1173a14">第二</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2184_003.xml#p1174c24">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

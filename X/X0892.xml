@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0892_001.xml#p0416c09">前五識</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0892_001.xml#p0417c03">第六識</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0892_001.xml#p0418a24">第七識</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0892_001.xml#p0418c19">第八識</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0892_001.xml#p0419b04">唯識略解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0892_001.xml#p0416c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

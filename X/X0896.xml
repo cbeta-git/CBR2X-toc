@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0896_001.xml#p0438c06">No. 896-A 虗舟禪師註八識規矩頌小序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0896_001.xml#p0439a02">No. 896-B 八識頌註自敘</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0896_001.xml#p0439b09">八識規矩淺說</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0896_001.xml#p0439b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

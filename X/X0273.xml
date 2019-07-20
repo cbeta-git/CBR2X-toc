@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0273_001.xml#p0097a04">大佛頂首楞嚴正脉科</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_010.xml#p0162a01">No. 273-A 大佛頂首楞嚴經正脉科判翻刻緣起</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0273_001.xml#p0097a02">第一</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_002.xml#p0103a48">第二</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_003.xml#p0113a01">第三</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_004.xml#p0121a01">第四</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_005.xml#p0130a01">第五</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_006.xml#p0137a01">第六</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_007.xml#p0144a01">第七</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_008.xml#p0149a01">第八</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_009.xml#p0154a45">第九</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0273_010.xml#p0158a61">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

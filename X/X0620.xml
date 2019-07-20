@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0539a02">No. 620-A 大成音義序</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0539c09">音義卷首</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0544b03">音義卷第一</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0549a24">音義卷第二</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0551a19">音義卷第三</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0552b20">音義卷第四</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0554c14">音義卷第五</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0556a09">音義卷第六</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0558b11">音義卷第七</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0560a23">音義卷第八</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0561b17">音義卷第九</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0563a07">No. 620-B 後附</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0620_001.xml#p0539c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

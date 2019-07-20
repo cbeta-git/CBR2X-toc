@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0701a09">序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0701b09">目錄</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0701c04">請勑額奏文</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0701c19">省牒</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0702a03">勑黃</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0702a15">使帖</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0702b08">四明圖經紀院事跡</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0702b16">台州螺溪淨光法師傳</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0703a13">鉅宋明州寶雲通公法師石塔記</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0703c02">寶雲通法師移塔記</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0703c23">草菴紀通法師舍利事</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0704a17">紀通法師著述遺跡</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0704b07">寶雲通公法師真贊</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0704b16">詩寄贈　四明寶雲通法師</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0704c12">明州寶雲四祖師贊</cblink>
+	<ol>
+		<li><cblink href="XML/X/X56/X56n0944_001.xml#p0704c14">天台智者禪師</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705a01">寶雲通公法師</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705a11">四明法智尊者</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705a18">天竺慈雲法師</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705b14">寶雲通公教主真贊</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705b21">寶雲始祖通公法師真贊</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705c01">寶雲開山通法師忌疏</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0705c17">南湖師祖寶雲尊者齋忌疏</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0706a05">四明法師稟學寶雲尊者</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0706a15">慈雲懺主稟學寶雲住持</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0706b18">明智法師寶雲住持</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0706c05">史太師請瑩講師住寶雲疏</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0706c12">寶雲院利益長生庫記</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0707a08">建法堂慶筵致語</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0707a24">法雨堂題名</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0944_001.xml#p0701a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109a07">大乘錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109b13">1 大乘修多羅有譯</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0112a27">2 大乘修多羅失譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114b12">3 大乘毘尼有譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114c01">4 大乘毘尼失譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114c12">5 大乘阿毘曇有譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0115a17">6 大乘阿毘曇失譯錄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115a25">小乘錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115c06">1 小乘修多羅有譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0116c04">2 小乘修多羅失譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119a27">3 小乘毘尼有譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119b28">4 小乘毘尼失譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119c20">5 小乘阿毘曇有譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0120a08">6 小乘阿毘曇失譯錄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0120a19">上開皇三寶錄表</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0120b09">開皇三寶錄總目序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T49/T49n2034_001.xml#p0022c26">第一</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_002.xml#p0029b02">第二</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_003.xml#p0034b02">第三</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_004.xml#p0049b02">第四</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_005.xml#p0055c21">第五</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_006.xml#p0061b14">第六</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_007.xml#p0068b08">第七</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_008.xml#p0074c23">第八</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_009.xml#p0082b07">第九</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_010.xml#p0088c04">第十</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_011.xml#p0094b03">第十一</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_012.xml#p0101c16">第十二</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109a04">第十三</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115a22">第十四</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0120a17">第十五</cblink></li>
+</ol>
+</nav>
+</body></html>

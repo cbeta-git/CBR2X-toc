@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2098_001.xml#p1092c03">古清涼傳序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2098_001.xml#p1092c26">1 立名標化</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093b12">2 封域里數</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093b13">山</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093b21">中臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093c01">東臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093c10">西臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093c13">南臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093c17">北臺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093c25">3 古今勝跡</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1093c26">序</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1094a10">中臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1095b15">東臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1095b29">西臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_001.xml#p1095c11">南臺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2098_002.xml#p1096b23">4 遊禮感通</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1096b24">序</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1097a06">周沙門</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1097a27">隋并州人高守節</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1097c01">釋普明</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1098a06">唐沙門釋曇韻</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1098a17">釋昭隱</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1098a26">釋明曜</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1098b10">代州有信士</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1098b22">頻勅西京會昌寺沙門會𦣱</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1098c18">西域梵僧釋迦蜜多羅</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1099c14">荊州覆舟山玉泉寺沙門弘景</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1100a06">洛陽白馬寺沙門惠藏</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2098_002.xml#p1100a27">5 支流雜述</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1100a28">恒州刺史呼延慶</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1100b11">齊隱士王</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1100b22">代州郭下</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2098_002.xml#p1100c08">繁峙縣王相兒</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2098_001.xml#p1092c22">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2098_002.xml#p1096b19">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

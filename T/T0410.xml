@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0410_001.xml#p0681a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_002.xml#p0686a08">2 諸天女問四大品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_002.xml#p0687a11">3 發問本業斷結品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_003.xml#p0690b27">4 灌頂喻品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_003.xml#p0692c25">5 相輪品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_004.xml#p0696b25">6 剎利旃陀羅現智相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_005.xml#p0702a23">7 眾善相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_006.xml#p0706a05">8 剎利依止輪相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_007.xml#p0711a05">9 遠離譏嫌品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_007.xml#p0714a27">10 布施品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_007.xml#p0715a22">11 戒相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_007.xml#p0715b22">12 忍辱品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_008.xml#p0716a05">13 精進相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_008.xml#p0716b08">14 禪相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_008.xml#p0716c12">15 智相品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0410_001.xml#p0681a03">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_002.xml#p0686a05">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_003.xml#p0690b24">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_004.xml#p0696b22">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_005.xml#p0702a20">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_006.xml#p0706a02">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_007.xml#p0711a02">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0410_008.xml#p0716a02">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

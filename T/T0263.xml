@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0263_001.xml#p0063a06">1 光瑞品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_001.xml#p0067c29">2 善權品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_002.xml#p0073b05">3 應時品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_003.xml#p0080a07">4 信樂品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_003.xml#p0083b01">5 藥草品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_003.xml#p0086b18">6 授聲聞決品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_004.xml#p0088b22">7 往古品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_005.xml#p0094b26">8 授五百弟子決品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_005.xml#p0097c27">9 授阿難羅云決品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_006.xml#p0099a27">10 藥王如來品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_006.xml#p0102b21">11 七寶塔品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_006.xml#p0106a26">12 勸說品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_007.xml#p0107b15">13 安行品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_007.xml#p0110b16">14 菩薩從地踊出品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_007.xml#p0113a22">15 如來現壽品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_008.xml#p0115b15">16 御福事品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_008.xml#p0118a01">17 勸助品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_008.xml#p0119a17">18 歎法師品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_009.xml#p0122b28">19 輕慢品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_009.xml#p0124a03">20 如來神足行品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_009.xml#p0125a08">21 藥王菩薩品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_009.xml#p0127a17">22 妙吼菩薩品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_010.xml#p0128c21">23 光世音普門品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_010.xml#p0129c26">24 總持品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_010.xml#p0130c29">25 淨復淨王品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_010.xml#p0132c19">26 樂普賢品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_010.xml#p0134a19">27 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0263_001.xml#p0063a03">第一</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_002.xml#p0073b02">第二</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_003.xml#p0080a04">第三</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_004.xml#p0088b19">第四</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_005.xml#p0094b23">第五</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_006.xml#p0099a24">第六</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_007.xml#p0107b12">第七</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_008.xml#p0115b12">第八</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_009.xml#p0122b25">第九</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0263_010.xml#p0128c18">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

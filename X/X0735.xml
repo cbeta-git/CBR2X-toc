@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X42/X42n0735_001.xml#p0333a04">目次</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_001.xml#p0333c03">四分律開宗記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X42/X42n0735_001.xml#p0333c05">第一本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_001.xml#p0346c13">第一末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_002.xml#p0360a11">第二本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_002.xml#p0372c09">第二末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_003.xml#p0387a04">第三本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_003.xml#p0401a04">第三末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_004.xml#p0414a04">第四本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_004.xml#p0426b04">第四末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_005.xml#p0440c11">第五本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_005.xml#p0454c04">第五末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_006.xml#p0468b13">第六本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_006.xml#p0479c18">第六末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_007.xml#p0495a20">第七本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_007.xml#p0509b04">第七末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_008.xml#p0522a05">第八本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_008.xml#p0535a04">第八末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_009.xml#p0549a20">第九本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_009.xml#p0562c04">第九末</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_010.xml#p0576a19">第十本</cblink></li>
+	<li><cblink href="XML/X/X42/X42n0735_010.xml#p0588c13">第十末</cblink></li>
+</ol>
+</nav>
+</body></html>

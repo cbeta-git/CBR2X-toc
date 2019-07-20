@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0359a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0360a21">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0360a23">日光經</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0362a03">太陽經</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0363a19">月光經</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0364a08">太陰經</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0069_001.xml#p0368a21">金剛般若波羅蜜經纂</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

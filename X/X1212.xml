@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835a09">前文</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835a17">修撰蔣超虎臣</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835b03">學士曹本榮木欣</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835b13">少詹事耿介介石</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835b24">推官竇可權雲明</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835c10">督捕徐越山琢</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835c20">尚書湯斌孔伯</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836a06">知縣許定升升年</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836a15">左都御史沈近思位山</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836a22">尚書孫嘉淦錫仁</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836b08">總督于成龍北溟</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836b19">光祿少卿楊馝靜山</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836c02">光祿卿沈起元子大</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836c08">徵士孫奇逢啟泰</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836c16">徵士李顒中孚</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0836c23">處士謝文洊秋水</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0837a06">處士汪渢魏美</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0837a15">處士徐枋昭法</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0837a22">處士張光緯次民</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0837b06">處士畢奇紫嵐</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0837b13">處士鄧元昌慕濂</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0837b20">No. 1212-A 測海集敘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1212_001.xml#p0835a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

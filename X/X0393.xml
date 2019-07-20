@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0393_001.xml#p0858c02">No. 393-A 書寫上生經瑞應科文引</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0393_001.xml#p0859a01">上生經瑞應科文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0393_001.xml#p0859a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

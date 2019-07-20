@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B11/B11n0071_001.xml#p0075a01">目次</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_001.xml#p0077a05">一、大師本迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_002.xml#p0078a06">二、大師成就阿彌陀佛</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_003.xml#p0078a09">三、為度人類示迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_004.xml#p0080a02">四、普度六趣示迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_005.xml#p0084a05">五、密法出生之濫觴</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_006.xml#p0085a08">六、馬張噶汝渣之來由</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_007.xml#p0092a08">七、調伏馬張噶汝渣之因緣</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_008.xml#p0095a04">八、賢劫千佛出世之緣起</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_009.xml#p0097a05">九、佛法歷劫住世之程序</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_010.xml#p0103a06">十、釋迦佛應化世界法教遞變之概况</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_011.xml#p0106a05">十一、大師降生西印度之事迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_012.xml#p0111a11">十二、大師為王太子前後之事迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_013.xml#p0115a02">十三、大師度化印度各地之事迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_014.xml#p0142a10">十四、大師西藏應化之事迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_015.xml#p0164a12">十五、大師垂訓示後之概略</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_015.xml#p0172a01">發願回向</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_015.xml#p0173a12">附誌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B11/B11n0071_001.xml#p0075a01">第一</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_002.xml#p0078a06">第二</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_003.xml#p0078a09">第三</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_004.xml#p0080a02">第四</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_005.xml#p0084a05">第五</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_006.xml#p0085a08">第六</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_007.xml#p0092a08">第七</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_008.xml#p0095a04">第八</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_009.xml#p0097a05">第九</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_010.xml#p0103a06">第十</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_011.xml#p0106a05">第十一</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_012.xml#p0111a11">第十二</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_013.xml#p0115a02">第十三</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_014.xml#p0142a10">第十四</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0071_015.xml#p0164a12">第十五</cblink></li>
+</ol>
+</nav>
+</body></html>

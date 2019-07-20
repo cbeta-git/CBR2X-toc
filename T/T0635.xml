@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0635_001.xml#p0488b19">1 得普智心品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_001.xml#p0491a06">2 清淨道品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_001.xml#p0492b17">3 道無習品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_002.xml#p0494a05">4 請如來品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_002.xml#p0495b05">5 無欲行品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_003.xml#p0498c16">6 信值法品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_003.xml#p0500b17">7 轉法輪品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_003.xml#p0501b28">8 決諸疑難品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_004.xml#p0503b05">9 不起法忍品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_004.xml#p0504b03">10 眾要法品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_004.xml#p0505a05">11 受封拜品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_004.xml#p0506b01">12 囑累法藏品(四)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0635_001.xml#p0488b15">第一</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_002.xml#p0494a02">第二</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_003.xml#p0498c13">第三</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0635_004.xml#p0503b02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

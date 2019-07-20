@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0080a02">No. 728-A 新刻入註排科羯磨疏序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0080c06">No. 728-B 會刻羯磨疏記序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0081b06">序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0081c04">曇無德部四分律刪補隨機羯磨序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0082a12">條目</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0083b21">釋疏序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0087a13">前文</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0105b06">集法緣成篇第一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0148b11">諸界結解篇第二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0181b23">諸戒受法篇第三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0286a03">衣藥受淨篇第四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0302c13">諸說戒法篇第五</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0308b14">諸眾安居法篇第六</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0325a10">諸眾自恣法篇第七</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0328a22">諸分衣法篇第八</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0330c06">懺六聚法篇第九</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0343c05">雜法住持篇第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0081b03">一之一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0093c01">一之二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0105b04">一之三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0115c09">一之四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0127c12">一之五</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_001.xml#p0138b15">一之六</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0148a01">二之一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0158b04">二之二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0170b07">二之三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0181b21">二之四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_002.xml#p0196a01">二之五</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_003.xml#p0208b21">三之一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_003.xml#p0220c14">三之二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_003.xml#p0230b13">三之三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_003.xml#p0241b19">三之四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_003.xml#p0254c08">三之五</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_003.xml#p0270a01">三之六</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0286a01">四之一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0297c05">四之二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0308b12">四之三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0320c08">四之四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0728_004.xml#p0330c04">四之五</cblink></li>
+</ol>
+</nav>
+</body></html>

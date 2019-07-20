@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0671a02">No. 980-A 天台四教儀註彙輔宏記原序</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0671b02">No. 980-B 輔宏記補訂序</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0671c20">No. 980-C 輔宏記補訂自敘</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0672b18">輔宏記補訂凡例</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0673a05">No. 980-D 新刻天台四教儀註彙補輔宏記緣起</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0673b17">新刻輔宏記凡例</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0674b03">No. 980-E 天台四教儀註彙補輔宏記卷首</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0677a13">天台四教儀註彙補輔宏記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0677a06">一之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_001.xml#p0688a01">一之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_002.xml#p0710a01">二之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_002.xml#p0725a01">二之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_003.xml#p0734a10">三之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_003.xml#p0749c01">三之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_004.xml#p0762b14">四之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_004.xml#p0779b10">四之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_005.xml#p0789e02">五之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_005.xml#p0801a10">五之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_006.xml#p0815b11">六之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_006.xml#p0832a03">六之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_007.xml#p0855a14">七之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_007.xml#p0871a14">七之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_008.xml#p0891b07">八之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_008.xml#p0903b12">八之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_009.xml#p0916b12">九之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_009.xml#p0931c03">九之下</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_010.xml#p0950c01">十之上</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0980_010.xml#p0960c12">十之下</cblink></li>
+</ol>
+</nav>
+</body></html>

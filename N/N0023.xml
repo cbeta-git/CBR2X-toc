@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N47/N47n0023_001.xml#p0001a01">序偈</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_002.xml#p0010a07">第一　阿耆多學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_003.xml#p0035a04">第二　帝須彌勒學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_004.xml#p0044a02">第三　富那迦學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_005.xml#p0069a13">第四　彌多求學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_006.xml#p0110a09">第五　度多迦學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_007.xml#p0128a12">第六　優波私婆學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_008.xml#p0145a02">第七　難陀學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_009.xml#p0165a07">第八　醯摩迦學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_010.xml#p0173a10">第九　刀提耶學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_011.xml#p0180a11">第十　劫波學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_012.xml#p0191a08">第十一　闇都乾耳學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_013.xml#p0202a02">第十二　跋陀羅浮陀學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_014.xml#p0211a10">第十三　優陀耶學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_015.xml#p0225a09">第十四　布沙羅學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_016.xml#p0238a13">第十五　莫伽羅闍學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_017.xml#p0259a10">第十六　賓祗耶學童所問之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_018.xml#p0268a06">十六學童所問結語之義釋</cblink></li>
+	<li><cblink href="XML/N/N47/N47n0023_019.xml#p0317a11">犀角經之義釋</cblink></li>
+</ol>
+</nav>
+</body></html>

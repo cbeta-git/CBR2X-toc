@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1166_001.xml#p0819a05">No. 1166-A</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1166_001.xml#p0819b02">No. 1166-B 永覺師傳</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1166_001.xml#p0819b19">No. 1166-C 淨慈要語序</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1166_001.xml#p0820a09">淨慈要語目次</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1166_001.xml#p0820b06">淨門</cblink>
+	<ol>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0820b06">淨土教源</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0820c24">念佛正信</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0821b03">念佛正行</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0821b22">兼修眾福</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0821c16">念佛正願</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0822a05">臨終正念</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0822b08">兩土難易</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_001.xml#p0822c07">淨土辨疑</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X61/X61n1166_002.xml#p0826a13">慈門</cblink>
+	<ol>
+		<li><cblink href="XML/X/X61/X61n1166_002.xml#p0826a13">戒殺生</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_002.xml#p0826c12">戒溺女</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_002.xml#p0827a23">勸放生</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_002.xml#p0827b23">戒殺辨疑</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1166_002.xml#p0830b17">殺生烱戒</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X61/X61n1166_002.xml#p0832a05">No. 1166-D 淨慈要語䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1166_001.xml#p0820b03">第一</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1166_002.xml#p0826a10">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

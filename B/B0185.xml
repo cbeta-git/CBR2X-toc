@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0185_001.xml#p0595a05">序</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_001.xml#p0595a24">三國緣起</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_001.xml#p0603a20">淨家題名</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0610a04">華嚴宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0612b02">天台宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0614c20">三論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0617a08">法相宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0623b05">地論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0623c09">攝論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0624a04">大乘律宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0625b25">真言宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0628a16">成實宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0628c06">俱舍宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0634c04">四分律</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0639a02">題額集別紙</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0185_001.xml#p0595a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_002.xml#p0610a01">第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0185_003.xml#p0624a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

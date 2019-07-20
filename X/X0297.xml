@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0297_001.xml#p0684c09">敘緣起</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0297_001.xml#p0684c24">敘承稟</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0297_001.xml#p0685a13">會異同</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0297_001.xml#p0686b01">明科判</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0297_001.xml#p0686b18">雪疑謗</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0297_002.xml#p0705a15">一百八問</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0297_001.xml#p0684c06">第一</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0297_002.xml#p0696a22">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0285_001.xml#p0220b12">經題</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_001.xml#p0220b21">科分</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_001.xml#p0220c01">初序分</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_001.xml#p0227c17">二正宗分</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_010.xml#p0380c11">三流通分</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_010.xml#p0381b21">No. 285-A 後序</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_010.xml#p0382a12">No. 285-B 䟦語</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_010.xml#p0382b06">No. 285-C 定刻大佛頂經玄義文句䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0285_001.xml#p0220b06">第一</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_002.xml#p0241b13">第二</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_003.xml#p0260b07">第三</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_004.xml#p0279a07">第四</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_005.xml#p0297b05">第五</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_006.xml#p0311a07">第六</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_007.xml#p0326a07">第七</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_008.xml#p0340b17">第八</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_009.xml#p0357a07">第九</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0285_010.xml#p0371a07">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

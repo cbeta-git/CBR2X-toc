@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T22/T22n1433_001.xml#p1051b26">比丘羯磨</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1051b26">1 結界法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1053a01">2 受戒法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1054b13">3 除罪法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1056b07">4 說戒法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1057a22">5 安居法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1057c09">6 自恣法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1058b09">7 分衣法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1059a11">8 衣藥淨法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1059b17">9 房舍雜法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T22/T22n1433_001.xml#p1060a07">比丘尼羯磨</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1060a07">1 結界法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1060a08">2 受戒法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1062c20">3 除罪法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1063b09">4 說戒法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1063c04">5 安居法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1063c05">6 自恣法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1064a01">7 分衣法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1064a02">8 衣食淨法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1433_001.xml#p1064a03">9 雜法</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T22/T22n1433_001.xml#p1051b23">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

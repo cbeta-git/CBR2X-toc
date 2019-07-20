@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0373_001.xml#p0483a03">No. 373-A 蘭盆經疏會古通今記序</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0373_001.xml#p0483b05">蘭盆經疏會古通今記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0373_001.xml#p0483b07">第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0373_002.xml#p0494c07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

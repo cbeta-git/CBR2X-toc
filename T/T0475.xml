@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0475_001.xml#p0537a06">1 佛國品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_001.xml#p0539a07">2 方便品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_001.xml#p0539c14">3 弟子品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_001.xml#p0542a26">4 菩薩品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_002.xml#p0544a25">5 文殊師利問疾品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_002.xml#p0546a03">6 不思議品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_002.xml#p0547a28">7 觀眾生品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_002.xml#p0548c28">8 佛道品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_002.xml#p0550b28">9 入不二法門品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_003.xml#p0552a05">10 香積佛品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_003.xml#p0553b11">11 菩薩行品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_003.xml#p0554c27">12 見阿閦佛品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_003.xml#p0556a01">13 法供養品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_003.xml#p0557a06">14 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0475_001.xml#p0537a03">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_002.xml#p0544a22">第二</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0475_003.xml#p0552a03">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

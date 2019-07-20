@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1808_001.xml#p0492a03">曇無德部四分律刪補隨機羯磨序</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_001.xml#p0492b21">1 集法緣成篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_001.xml#p0494a19">2 諸界結解篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_001.xml#p0495c05">3 諸戒受法篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0501c09">4 衣藥受淨篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0503a09">5 諸說戒法篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0503c20">6 諸眾安居法篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0504c04">7 諸眾自恣法篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0505b06">8 諸分衣法篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0506c01">9 懺六聚法篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0508c01">10 雜法住持篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0510b25">老病比丘畜杖絡囊乞羯磨文</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0510b29">僧與老病比丘畜杖絡囊羯磨法</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0510c14">十誦律受三十九夜羯磨文</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0510c25">十誦律受殘夜法</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0510c27">僧祇律二十七事訖羯磨文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1808_001.xml#p0492b14">第一</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1808_002.xml#p0501c05">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

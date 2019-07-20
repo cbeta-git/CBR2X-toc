@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0070c13">大明太宗文皇帝御製觀音讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071a25">1 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071b01">2 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071b06">3 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071b11">4 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071b16">5 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071b21">6 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071b26">7 梵讚</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071c02">8 梵讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1055_001.xml#p0071a19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

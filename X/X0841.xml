@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0841_001.xml#p0376a04">目次</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_001.xml#p0377a09">釋序文</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_001.xml#p0385c20">分別界品第一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_003.xml#p0407c03">分別根品第二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_008.xml#p0432b22">分別世間品第三</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_013.xml#p0449c21">分別業品第四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_019.xml#p0475a15">分別隨眠品第五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_022.xml#p0489c03">分別賢聖品第六</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_026.xml#p0504b03">分別智品第七</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_028.xml#p0515a11">分別定品第八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0841_001.xml#p0377a06">第一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_002.xml#p0400a16">第二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_003.xml#p0407c01">第三</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_004.xml#p0412c09">第四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_005.xml#p0420a17">第五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_006.xml#p0424b01">第六</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_007.xml#p0429c09">第七</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_008.xml#p0432b20">第八</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_009.xml#p0436c13">第九</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_010.xml#p0439c12">第十</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_011.xml#p0443c01">第十一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_012.xml#p0447a04">第十二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_013.xml#p0449c19">第十三</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_014.xml#p0453c07">第十四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_015.xml#p0458c14">第十五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_016.xml#p0463c04">第十六</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_017.xml#p0466b06">第十七</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_018.xml#p0470c20">第十八</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_019.xml#p0475a13">第十九</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_020.xml#p0480b08">第二十</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_021.xml#p0484b21">第二十一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_022.xml#p0489c01">第二十二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_023.xml#p0493a07">第二十三</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_024.xml#p0497a01">第二十四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_025.xml#p0500c01">第二十五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_026.xml#p0504b01">第二十六</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_027.xml#p0510a11">第二十七</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_028.xml#p0515a09">第二十八</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0841_029.xml#p0519a09">第二十九</cblink></li>
+</ol>
+</nav>
+</body></html>

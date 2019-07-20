@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0038_001.xml#p0308a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0038_001.xml#p0308a17">錄文</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0038_001.xml#p0308a21">太宗至仁應道神功聖德文武睿烈大明廣孝皇帝頌</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0038_001.xml#p0309a03">真宗膺符稽古成功讓德文明武定章聖元孝皇帝偈</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0038_001.xml#p0309a09">仁宗體天法道極功全德神文聖武睿哲明孝皇帝讚</cblink></li>
+</ol>
+</nav>
+</body></html>

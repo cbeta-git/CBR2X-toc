@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1097_001.xml#p0421b28">1 成就尊者說不空神咒功德分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_001.xml#p0421c27">2 成就受持供養神咒法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_001.xml#p0422a26">3 成就親見聖觀自在菩薩法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_001.xml#p0422b15">4 成就畫像幀法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_001.xml#p0423b23">5 成就使者能辦事法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0424a06">6 成就驅策僮僕使者分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0424b18">7 成就吉祥瓶法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0425a28">8 成就策使羅剎童子分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0425b22">9 成就使死屍取伏藏分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0425c24">10 成就入婇女室分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0426b02">11 成就眼藥分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0426c02">12 成就除鬼著病法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_003.xml#p0427b20">13 成就入壇法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_003.xml#p0429c04">14 成就調伏諸龍得自在分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_003.xml#p0430b28">15 成就見不空罥索王法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_003.xml#p0431a17">16 成就見如來法分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1097_001.xml#p0421b15">第一</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_002.xml#p0424a02">第二</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1097_003.xml#p0427b16">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

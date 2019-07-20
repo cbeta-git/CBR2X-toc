@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0001a02">No. 624-A 新刻法華演義序</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0001b17">No. 624-B 新刻法華演義序</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0002c01">目次</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0004a05">序品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0007a19">方便品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0012a24">譬喻品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0015a23">信解品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0018a07">藥草喻品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0019a44">授記品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0021a01">化城喻品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0024a01">五百弟子受記品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0025a28">授學無學人記品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0025a49">法師品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0027a05">見寶塔品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0028a22">提婆達多品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0029a16">持品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0030a20">安樂行品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0032a29">從地湧出品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0034a01">如來壽量品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0035a35">分別功德品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0037a01">隨喜功德品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0037a33">法師功德品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0039a19">常不輕菩薩品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0040a01">如來神力品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0040a42">囑累品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0041a06">藥王菩薩本事品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0042a35">妙音菩薩品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0043a41">觀世音菩薩普門品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0045a14">陀羅尼品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0045a51">妙莊嚴王本事品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0046a40">普賢菩薩勸發品科</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0047a43">弘傳序科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0624_001.xml#p0004a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

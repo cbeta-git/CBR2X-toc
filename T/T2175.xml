@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1112a14">請來錄外</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1112b05">常曉錄外</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1112b16">惠運錄外</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1112c07">禪林錄外</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1113a16">目錄外</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1113a20">他宗三家</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2175_001.xml#p1113a21">最澄錄外（缺）</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2175_001.xml#p1113a23">圓仁錄外</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2175_001.xml#p1113b02">圓珍錄外</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2175_001.xml#p1112a12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

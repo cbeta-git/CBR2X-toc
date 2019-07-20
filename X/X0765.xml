@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0765_001.xml#p0443b04">No. 765-A 起信論疏略序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0765_001.xml#p0444a08">大乘起信論疏略</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0765_001.xml#p0444a10">第一</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0765_002.xml#p0459c10">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0589_001.xml#p0508a04">妙玄節要標條</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0589_001.xml#p0508b05">前文</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0589_001.xml#p0508c12">初通釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0508c12">一標章</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0510a22">二引證</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0510b18">三生起</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0510b24">四開合</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0510c14">五料簡</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0511a14">六觀心</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0511c06">七會異</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X28/X28n0589_001.xml#p0511c15">二別釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X28/X28n0589_001.xml#p0511c15">第一釋名</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_002.xml#p0537c03">第二辨體</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_002.xml#p0539a15">第三明宗</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_002.xml#p0539c07">第四論用</cblink></li>
+		<li><cblink href="XML/X/X28/X28n0589_002.xml#p0540a16">第五判教</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X28/X28n0589_002.xml#p0542b08">No. 589-A 妙玄節要䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0589_001.xml#p0508b01">第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0589_002.xml#p0526c15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

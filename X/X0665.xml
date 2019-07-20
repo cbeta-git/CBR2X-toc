@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0665_001.xml#p0631b02">No. 665-A 唐太宗文皇帝施行遺教經勑</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0665_001.xml#p0631b15">No. 665-B 宋真宗皇帝刊遺教經</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0665_001.xml#p0631c04">No. 665-C 重刊遺教經註解序</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0665_001.xml#p0632a08">佛遺教經註</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0665_001.xml#p0638a22">No. 665-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0665_001.xml#p0632a10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

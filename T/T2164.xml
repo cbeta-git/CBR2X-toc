@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1071c06">上表</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1072a16">入唐沙門圓行承和六年請來經佛道具目錄</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1072a27">新請來真言經法</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1072c10">梵字</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1072c16">顯教經論疏章等</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1073b09">佛舍利三千餘粒</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1073b13">付屬物</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1073b17">佛像曼荼羅圖樣</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1073c03">道具</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2164_001.xml#p1071c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

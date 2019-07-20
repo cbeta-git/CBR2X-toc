@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0716_002.xml#p0837a26">緣生經并論序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0716_001.xml#p0830b16">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0716_002.xml#p0833c18">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

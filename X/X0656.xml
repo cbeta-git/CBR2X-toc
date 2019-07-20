@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X36/X36n0656_001.xml#p0010b05">No. 656-A 大般涅槃經玄義文句會本序</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0656_001.xml#p0010c17">凡例</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0656_001.xml#p0011b02">大涅槃經玄義文句會本</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X36/X36n0656_001.xml#p0011b04">第一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0656_002.xml#p0025c07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T11/T11n0312_001.xml#p0704b19">1 菩薩身密品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0312_001.xml#p0704b19">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0312_002.xml#p0707a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0312_003.xml#p0709b21">2 菩薩語密品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_003.xml#p0711a16">3 菩薩心密品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_004.xml#p0712b14">4 震吼音聲菩薩來會品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_004.xml#p0712c08">5 持國輪王先行品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0312_004.xml#p0712c08">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0312_005.xml#p0714a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0312_006.xml#p0716a24">6 菩提道品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_006.xml#p0716c05">7 如來身密不思議品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_007.xml#p0719b19">8 如來語密不思議品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0312_007.xml#p0719b19">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0312_008.xml#p0721b09">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0312_009.xml#p0724c07">9 如來心密不思議品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_009.xml#p0725b05">10 稱讚金剛手菩薩大祕密主功德品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_009.xml#p0725c07">11 菩薩苦行超勝以受食緣成熟眾生品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_010.xml#p0726b20">12 菩薩詣菩提場品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_011.xml#p0729a11">13 降魔品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_011.xml#p0730a13">14 轉法輪品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_012.xml#p0732a19">15 所緣品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_013.xml#p0734c17">16 金剛手菩薩大祕密主授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_014.xml#p0736a29">17 無二無說品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_014.xml#p0737a11">18 入曠野大城受食品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0312_014.xml#p0737a11">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0312_015.xml#p0737c12">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0312_016.xml#p0739b18">19 護世品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_017.xml#p0742a06">20 去來品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_018.xml#p0743b20">21 勇力菩薩先行品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_018.xml#p0744c17">22 阿闍世王問答品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_019.xml#p0746c06">23 賢王天子品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_019.xml#p0747b25">24 總持功德讚說譬喻無盡品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_020.xml#p0749a22">25 囑累正法品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T11/T11n0312_001.xml#p0704b13">第一</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_002.xml#p0707a02">第二</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_003.xml#p0709b15">第三</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_004.xml#p0711c17">第四</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_005.xml#p0714a02">第五</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_006.xml#p0716a18">第六</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_007.xml#p0718c12">第七</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_008.xml#p0721b09">第八</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_009.xml#p0724b02">第九</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_010.xml#p0726b15">第十</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_011.xml#p0729a05">第十一</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_012.xml#p0731b02">第十二</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_013.xml#p0733b19">第十三</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_014.xml#p0735c15">第十四</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_015.xml#p0737c12">第十五</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_016.xml#p0739b12">第十六</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_017.xml#p0741b04">第十七</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_018.xml#p0743b14">第十八</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_019.xml#p0745c21">第十九</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0312_020.xml#p0748b06">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0836_001.xml#p0001a04">目次</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_001.xml#p0001b09">分別界品第一之一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_002.xml#p0020c11">分別界品第一之二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_004.xml#p0033a23">分別根品第二之二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_005.xml#p0046c22">分別根品第二之三</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_006.xml#p0067b06">分別根品第二之四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_007.xml#p0085b17">分別根品第二之五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_017.xml#p0094b03">分別賢聖品第六之三</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0836_001.xml#p0001b06">第一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_002.xml#p0020c09">第二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_004.xml#p0033a21">第四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_005.xml#p0046c20">第五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_006.xml#p0067b04">第六</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_007.xml#p0085b15">第七</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0836_017.xml#p0094b01">第十七</cblink></li>
+</ol>
+</nav>
+</body></html>

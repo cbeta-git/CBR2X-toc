@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X50/X50n0819_001.xml#p0127a03">第一</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_002.xml#p0159a19">第二</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_003.xml#p0171a15">第三</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_004.xml#p0178c03">第四</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_005.xml#p0210b03">第五</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_006.xml#p0237b17">第六</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_007.xml#p0256b04">第七</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_008.xml#p0279a03">第八</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_009.xml#p0287b05">第九</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_010.xml#p0304c16">第十本</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_010.xml#p0310a22">第十末</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_011.xml#p0323b07">第十一</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_012.xml#p0346a11">第十二</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_013.xml#p0381a06">第十三</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_014.xml#p0406c09">第十四本</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_014.xml#p0430b11">第十四末</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_016.xml#p0448a18">第十六</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0819_018.xml#p0482b07">第十八</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1302_001.xml#p0255a02">No. 1302-A 焭絕老人頌古直注序</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1302_001.xml#p0255c02">No. 1302-B 焭絕直註四家頌古敘</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1302_001.xml#p0256a12">雪竇頌古直註</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1302_001.xml#p0256a13">第一</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1302_002.xml#p0261c03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

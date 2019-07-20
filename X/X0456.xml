@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X24/X24n0456_001.xml#p0448a05">No. 456-A 金剛般若經註序</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0456_001.xml#p0448b09">金剛經註疏</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0456_003.xml#p0467a23">No. 456-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X24/X24n0456_001.xml#p0448b11">第一</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0456_002.xml#p0455c21">第二</cblink></li>
+	<li><cblink href="XML/X/X24/X24n0456_003.xml#p0461b09">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

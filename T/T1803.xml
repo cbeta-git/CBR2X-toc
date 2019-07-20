@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1803_001.xml#p1012a02">鋟尊勝陀羅尼經疏敘</cblink>
+	<ol>
+		<li><cblink href="XML/T/T39/T39n1803_001.xml#p1012a20">令天下僧尼誦尊勝真言宣</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1803_001.xml#p1012a27">沙門乘如等狀並勅批</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1803_001.xml#p1012b14">沙門慧朗等狀並勅批</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1028a15">1 歸敬尊德門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1028c27">2 章表法身門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1029b29">3 淨除惡趣門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1030a12">4 善明灌頂門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1030b24">5 神力加持門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1031a17">6 壽命增長門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1031b26">7 定慧相應門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1032a05">8 金剛供養門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1032b04">9 普證清淨門</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1032c23">10 成就涅槃門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1803_001.xml#p1012c04">第一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1803_002.xml#p1027c09">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

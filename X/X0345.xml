@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0345_004.xml#p0386b09">第十二</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_004.xml#p0389a12">第十三</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_004.xml#p0390c23">第十四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_005.xml#p0392b15">第十五</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_005.xml#p0394a14">第十六</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_005.xml#p0395c20">第十七</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_005.xml#p0397a16">第十八</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_005.xml#p0398c23">第十九</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X19/X19n0345_004.xml#p0386b06">第四</cblink></li>
+	<li><cblink href="XML/X/X19/X19n0345_005.xml#p0392b13">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

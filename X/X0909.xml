@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0909_001.xml#p0668c05">No. 909-A 新刻三觀義序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0909_001.xml#p0669a06">三觀義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0909_001.xml#p0669a03">第一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0909_002.xml#p0675b07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

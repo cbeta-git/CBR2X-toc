@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0456b18">歎佛呪願</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0457a28">一切普誦</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0457b20">一切普誦</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0457b26">歎佛呪願</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458a02">至心懺悔</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458a08">至心勸請</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458a12">至心隨喜</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458a16">至心迴向</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458a19">至心發願</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458b05">大集經呪</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0458b24">施粥偈天帝釋說</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0459a22">一心敬禮常住三寶</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0459a29">至心懺悔</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0459b09">文殊師利禮法身佛文</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0463c24">阿彌陀佛呪</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0464a01">合香之法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0465a11">一切普誦</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0465a22">梵唄</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0465a25">說偈呪願</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0465b10">晝夜六時發願文</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0465c14">三厨經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1982_001.xml#p0456b03">上</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1982_002.xml#p0466a02">下</cblink></li>
+</ol>
+</nav>
+</body></html>

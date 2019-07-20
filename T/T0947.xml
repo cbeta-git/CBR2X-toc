@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0180a09">1 大威德最勝金輪三昧咒品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0185b20">2 諸菩薩萬行品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0186a19">3 諸金剛品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0186c24">4 諸天品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0187b28">5 信印召一切小天咒印法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0188a20">6 口印召一切藥叉將軍品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0947_001.xml#p0180a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

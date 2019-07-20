@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1310_001.xml#p0634a02">No. 1310-A 拈八方珠玉集序</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1310_001.xml#p0634b05">No. 1310-B 閱鍾阜二禪師拈古集</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1310_001.xml#p0634b18">No. 1310-C</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1310_001.xml#p0634c08">拈八方珠玉集</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X67/X67n1310_001.xml#p0634c09">第一</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1310_002.xml#p0653c17">第二</cblink></li>
+	<li><cblink href="XML/X/X67/X67n1310_003.xml#p0673a22">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

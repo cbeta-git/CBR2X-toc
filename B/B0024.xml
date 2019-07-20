@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0745a11">序</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0745b11">例言</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0746a11">佛說阿彌陀經</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0749a14">註釋會要</cblink>
+	<ol>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0749a14">總釋名題</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0753b18">法會眾證分第一</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0760a10">佛土依正分第二</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0762a06">寶樹池蓮分第三</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0765b13">天人供養分第四</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0767a22">禽樹演法分第五</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0771a13">佛德無量分第六</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0776a01">往生發願分第七</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0779a01">修持正行分第八</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0786a11">同讚勸信分第九</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0790b02">聞法信願分第十</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0792a10">互讚感發分第十一</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0024_001.xml#p0795a04">流通普度分第十二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0796a14">拔一切業障根本得生淨土陀羅尼</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0798b09">無量壽如來根本真言</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0798b24">阿彌陀佛心咒</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0024_001.xml#p0745a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

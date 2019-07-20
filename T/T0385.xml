@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0385_001.xml#p1058c06">1 如來五弘誓入中陰教化品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_001.xml#p1060b14">2 妙覺如來將諸菩薩入中陰教化品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_001.xml#p1061c15">3 身品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_001.xml#p1063a26">4 賢護菩薩問事品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_001.xml#p1063b29">5 道樹品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1064b05">6 神足品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1065a19">7 破愛網品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1066a10">8 三世平等品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1068a13">9 無生滅品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1069a11">10 空無形教化品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1069c12">11 有色無色品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1070a24">12 歡喜品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0385_001.xml#p1058c03">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0385_002.xml#p1064b02">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

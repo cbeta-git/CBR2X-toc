@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X41/X41n0732_001.xml#p0833a02">No. 732-A 終南山四分律鈔搜玄錄序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0732_001.xml#p0833b01">搜玄錄解四分律刪繁補闕行事鈔錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X41/X41n0732_001.xml#p0833b03">第一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0732_002.xml#p0859b03">第二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0732_003.xml#p0885c07">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

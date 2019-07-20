@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1604_001.xml#p0589b21">大乘莊嚴經論序</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_001.xml#p0590b05">1 緣起品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_001.xml#p0591a02">2 成宗品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_001.xml#p0593a03">3 歸依品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_001.xml#p0594a26">4 種性品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_002.xml#p0595b22">5 發心品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_002.xml#p0597b17">6 二利品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_002.xml#p0598b18">7 真實品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_002.xml#p0599b14">8 神通品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_002.xml#p0600a27">9 成熟品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_003.xml#p0602a06">10 菩提品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_004.xml#p0608b11">11 明信品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_004.xml#p0609b27">12 述求品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1604_004.xml#p0609b27">之一</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1604_005.xml#p0613b10">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1604_006.xml#p0618c06">13 弘法品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_006.xml#p0621b18">14 隨修品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_007.xml#p0623c17">15 教授品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_007.xml#p0626c27">16 業伴品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_007.xml#p0627b07">17 度攝品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1604_007.xml#p0627b07">之一</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1604_008.xml#p0629b06">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1604_009.xml#p0634b08">18 供養品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_009.xml#p0635a07">19 親近品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_009.xml#p0635c16">20 梵住品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_010.xml#p0640a08">21 覺分品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1604_010.xml#p0640a08">之一</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1604_011.xml#p0644c21">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1604_012.xml#p0650a14">22 功德品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_013.xml#p0656c17">23 行住品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_013.xml#p0659c28">24 敬佛品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1604_001.xml#p0590b01">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_002.xml#p0595b18">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_003.xml#p0602a02">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_004.xml#p0608b07">第四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_005.xml#p0613b06">第五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_006.xml#p0618c02">第六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_007.xml#p0623c13">第七</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_008.xml#p0629b02">第八</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_009.xml#p0634b04">第九</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_010.xml#p0640a04">第十</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_011.xml#p0644c17">第十一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_012.xml#p0650a10">第十二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1604_013.xml#p0656c13">第十三</cblink></li>
+</ol>
+</nav>
+</body></html>

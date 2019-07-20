@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0181c12">序</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0182a05">1 集散品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0182c21">2 五陰本品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0183a14">3 五陰相品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0183b07">4 分別五陰品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0183b27">5 五陰成敗品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_002.xml#p0189b17">6 慈品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_002.xml#p0190b16">7 除恐怖品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_002.xml#p0190c21">8 分別相品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0196a24">9 勸意品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0198b16">10 離顛倒品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0198c28">11 曉了食品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0199c21">12 伏勝諸根品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0200a07">13 忍辱品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0200a16">14 棄加惡品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0200a26">15 天眼見終始品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0200b28">16 天耳品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0200c23">17 念往世品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0201a10">18 知人心念品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0201c17">19 地獄品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_004.xml#p0205a05">20 勸悅品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_004.xml#p0205b05">21 行空品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_005.xml#p0211c10">22 神足品(五)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_005.xml#p0213a20">23 數息品(五)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_006.xml#p0219a09">24 觀品(六)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_006.xml#p0220c15">25 學地品(六)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_006.xml#p0222c28">26 無學地品(六)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_006.xml#p0223b05">27 無學品(六)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_007.xml#p0224a05">28 弟子三品修行品(七)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_007.xml#p0226b12">29 緣覺品(七)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_007.xml#p0227b04">30 菩薩品(七)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0606_001.xml#p0182a02">第一</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_002.xml#p0189b14">第二</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_003.xml#p0196a21">第三</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_004.xml#p0205a02">第四</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_005.xml#p0211c07">第五</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_006.xml#p0219a06">第六</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0606_007.xml#p0224a02">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0162a02">No. 1116-A 序</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0162b02">No. 1116-B 序</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0163a02">No. 1116-C 序</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0163b04">毗尼日用切要香乳記　凡例</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0163c10">箋記綱目</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a06">前文</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a09">初教興因緣</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a16">二藏乘教攝</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a16">先藏攝者</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a16">一三藏</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a21">二四藏</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a22">三二藏</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b01">次乘攝者</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b01">一顯教</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b03">二密教</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b07">後教攝者</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b07">一十二分教</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b18">二賢首五教</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b18">一小乘教</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b20">二大乘始教</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165b22">三終教</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165c01">四頓教</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165c03">五圓教</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165c15">三所詮宗趣</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165c24">四總釋名題</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1116_001.xml#p0166a01">初釋法題</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1116_001.xml#p0166c08">次釋人題</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0167c10">五別解偈文</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_002.xml#p0208a02">No. 1116-D 緣起</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1116_001.xml#p0165a03">第一</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1116_002.xml#p0185b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

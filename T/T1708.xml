@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1708_001.xml#p0359a22">1 序品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_001.xml#p0379c02">2 觀空品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_002.xml#p0386a21">3 教化品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_002.xml#p0402c05">4 二諦品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_003.xml#p0407c05">5 護國品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_003.xml#p0412c23">6 散華品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_003.xml#p0414b05">7 受持品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_003.xml#p0425b01">8 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1708_001.xml#p0359a19">上本</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_001.xml#p0371b02">上末</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_002.xml#p0386a18">中本</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_002.xml#p0402c02">中末</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_003.xml#p0407c02">下本</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1708_003.xml#p0414b02">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

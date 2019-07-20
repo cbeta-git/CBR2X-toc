@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1806_001.xml#p0429a03">四分律比丘含注戒本序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1806_001.xml#p0429b19">上</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1806_002.xml#p0442b12">中</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1806_003.xml#p0455c10">下</cblink></li>
+</ol>
+</nav>
+</body></html>

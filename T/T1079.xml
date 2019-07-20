@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0187b04">1 壇法</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0187b11">2 念誦法</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0187b22">3 成驗法</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0187c17">4 廣明自在法</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0188a02">5 天得大神足</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0188a09">準提別法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1079_001.xml#p0187a21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

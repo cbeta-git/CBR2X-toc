@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1782_001.xml#p0993a06">1 序品(一本-二末)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1782_001.xml#p0993a06">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1782_002.xml#p1010a07">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1782_003.xml#p1033b07">2 顯不思議方便善巧品(三本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_003.xml#p1040c27">3 聲聞品(三本-四本)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1782_003.xml#p1040c27">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1782_004.xml#p1054b02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1782_004.xml#p1057b02">4 菩薩品(四本-四末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_004.xml#p1068a07">5 問疾品(四末-五本)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1782_004.xml#p1068a07">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1782_005.xml#p1074b13">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1782_005.xml#p1077a26">6 不思議品(五本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_005.xml#p1081a27">7 觀有情品(五本-五末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_005.xml#p1086b15">8 菩提分品(五末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_005.xml#p1091a12">9 不二法門品(五末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1093c18">10 香臺品(六本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1098b25">11 菩薩行品(六本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1104c13">12 觀如來品(六末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1108c07">13 法供養品(六末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1112b26">14 囑累品(六末)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1782_001.xml#p0993a03">第一本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_001.xml#p1003a16">第一末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_002.xml#p1010a07">第二本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_002.xml#p1023b13">第二末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_003.xml#p1033b04">第三本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_003.xml#p1044b18">第三末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_004.xml#p1054b02">第四本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_004.xml#p1066a21">第四末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_005.xml#p1074b13">第五本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_005.xml#p1083c06">第五末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1093c15">第六本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1782_006.xml#p1104c11">第六末</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1911_001.xml#p0001a03">第一(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_001.xml#p0006b11">第一(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_002.xml#p0011a17">第二(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_002.xml#p0016b05">第二(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_003.xml#p0021b12">第三(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_003.xml#p0028b08">第三(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_004.xml#p0035c02">第四(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_004.xml#p0042b19">第四(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_005.xml#p0048c24">第五(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_005.xml#p0059b10">第五(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_006.xml#p0070a02">第六(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_006.xml#p0078b13">第六(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_007.xml#p0086a13">第七(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_007.xml#p0094a12">第七(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_008.xml#p0102a02">第八(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_008.xml#p0110a02">第八(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_009.xml#p0117a23">第九(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_009.xml#p0124b09">第九(下)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_010.xml#p0131c24">第十(上)</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1911_010.xml#p0136a24">第十(下)</cblink></li>
+</ol>
+</nav>
+</body></html>

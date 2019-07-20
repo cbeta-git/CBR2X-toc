@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0924_001.xml#p0206c05">No. 924-A 摩訶止觀貫義科序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0924_001.xml#p0207a06">摩訶止觀貫義科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0924_001.xml#p0207a02">第一</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0924_002.xml#p0248a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

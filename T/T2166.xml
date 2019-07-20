@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2166_001.xml#p1076b13">天台法華宗請益圓仁法師且求所送法門曼荼羅并外書等目錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2166_001.xml#p1076b25">大乘經律論</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2166_001.xml#p1076c11">梵漢兩字真言儀軌讚</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2166_001.xml#p1077a24">章疏傳記</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2166_001.xml#p1077c24">曼荼羅壇樣并傳法和上等影</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2166_001.xml#p1078a20">外書</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2166_001.xml#p1078b08">別物</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2166_001.xml#p1076b11">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

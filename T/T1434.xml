@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1065b17">1 結界法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1065b18">2 受戒法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1068b13">3 除罪法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1069a03">4 說戒法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1069a28">5 安居法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1069a29">6 自恣法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1069b25">7 分衣法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1069b26">8 衣食淨法</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1069b27">9 雜法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T22/T22n1434_001.xml#p1065b14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

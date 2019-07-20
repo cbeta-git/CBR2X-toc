@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X29/X29n0598_001.xml#p0577a06">文句第一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_001.xml#p0583b04">文句第二</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_001.xml#p0586a15">文句第三</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_002.xml#p0592c12">文句第四</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_002.xml#p0596c23">文句第五</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_002.xml#p0600a11">文句第六</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_002.xml#p0602c07">文句第七</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_003.xml#p0606a10">文句第八</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_003.xml#p0609a14">文句第九</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_003.xml#p0613c12">文句第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X29/X29n0598_001.xml#p0577a03">第一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_002.xml#p0592c11">第二</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0598_003.xml#p0606a09">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

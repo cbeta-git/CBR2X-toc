@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1594_001.xml#p0132c22">1 總摽綱要分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_001.xml#p0133b11">2 所知依分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_002.xml#p0137c26">3 所知相分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_002.xml#p0142b05">4 入所知相分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_002.xml#p0143c21">5 本彼入因果分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0145b19">6 彼修差別分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0146b05">7 增上戒學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0146c10">8 增上心學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0147b19">9 增上慧學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0148c12">10 果斷分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0149a17">11 彼果智分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1594_001.xml#p0132c18">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_002.xml#p0137c22">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1594_003.xml#p0145b15">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

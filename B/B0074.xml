@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B11/B11n0074_001.xml#p0465a02">第一章　顯密諸經之記莂</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0074_002.xml#p0467a01">第二章　略述過去事迹</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0074_003.xml#p0467a02">第三章　別明現世事迹</cblink>
+	<ol>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0467a03">第一節　大師之誕生</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0471a03">第二節　大師之出家</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0473a08">第三節　大師入藏學法</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0484a12">第四節　受具及遍學密法</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0486a14">第五節　講學宏法</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0489a10">第六節　獲得龍樹甚深正見</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0495a11">第七節　專學密法</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0497a12">第八節　專事修持</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0500a13">第九節　作諸佛事</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0505a06">第十節　壽難與建立律儀</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0507a06">第十一節廣弘聖教</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0513a14">第十二節　得大弟子</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0515a03">第十三節　明朝迎請</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0516a15">第十四節　作大佛事</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0518a07">第十五節　廣大供養</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0521a07">第十六節　根本道塲</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0523a07">第十七節　消災延壽</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_003.xml#p0525a07">第十八節　再事宏修</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B11/B11n0074_004.xml#p0528a01">第四章　化機圓滿示現涅槃</cblink>
+	<ol>
+		<li><cblink href="XML/B/B11/B11n0074_004.xml#p0528a02">第一節　度最後有緣</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_004.xml#p0530a12">第二節　示現寂滅</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_004.xml#p0533a02">第三節　達瑪仁勤繼承法位</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_004.xml#p0533a11">第四節　供養遺身</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_004.xml#p0535a01">第五節　再現化身</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B11/B11n0074_005.xml#p0540a01">第五章　大師之弟子</cblink>
+	<ol>
+		<li><cblink href="XML/B/B11/B11n0074_005.xml#p0540a02">第一節　名聞弟子</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_005.xml#p0543a02">第二節　正法傳承</cblink></li>
+		<li><cblink href="XML/B/B11/B11n0074_005.xml#p0550a03">第三節　密法傳承</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B11/B11n0074_001.xml#p0465a01">第一</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0074_002.xml#p0467a01">第二</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0074_003.xml#p0467a02">第三</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0074_004.xml#p0528a01">第四</cblink></li>
+	<li><cblink href="XML/B/B11/B11n0074_005.xml#p0540a01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0217b11">1 相貌品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0217b27">2 大心密言品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0217c20">3 根本密言品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0218b18">4 小心密言品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T20/T20n1089_001.xml#p0218c21">第二根本真言印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1089_001.xml#p0218c25">第三小心真言印</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0219a04">5 成就世間出世間除災護摩念誦品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0219a24">6 增益福德品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0219c06">7 隨心憶念品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0219c23">8 阿毘遮嚕迦品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1089_001.xml#p0217b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

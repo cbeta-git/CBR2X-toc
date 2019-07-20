@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0085a03">第一章</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0093a09">第二章</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0098a08">第三章</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0106a12">第四章</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0116a01">第五章</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0124a17">第六章</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0018_001.xml#p0085a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

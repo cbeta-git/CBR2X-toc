@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0853_001.xml#p0798a02">No. 853-A 刻因明入正理論疏前後二記序</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0853_001.xml#p0798b04">因明入正理論疏前記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0853_001.xml#p0798b06">卷上本</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0853_001.xml#p0808c07">卷上末</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0853_002.xml#p0815b04">卷中</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0853_003.xml#p0826c04">卷下</cblink></li>
+</ol>
+</nav>
+</body></html>

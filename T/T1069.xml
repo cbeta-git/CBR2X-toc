@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1069_003.xml#p0146b21">護摩儀軌品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1069_001.xml#p0139c17">第一</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1069_002.xml#p0142b11">第二</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1069_003.xml#p0146a17">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

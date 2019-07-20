@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0031_001.xml#p0015a01">序</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_001.xml#p0016a04">序品第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_001.xml#p0021a05">一切相智品第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_002.xml#p0034a02">道相智品第三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_002.xml#p0041a08">一切智品第四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_002.xml#p0046a06">圓滿一切相現觀品第五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_003.xml#p0065a03">頂現觀品第六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_004.xml#p0076a17">漸次現觀品第七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_004.xml#p0077a09">剎那證大菩提品第八</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_004.xml#p0078a10">法身品第九</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_004.xml#p0086a08">攝品第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0031_001.xml#p0015a01">第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_002.xml#p0034a01">第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_003.xml#p0051a01">第三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0031_004.xml#p0071a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0418_001.xml#p0902c26">1 問事品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_001.xml#p0904b23">2 行品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_001.xml#p0906a12">3 四事品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_001.xml#p0907a06">4 譬喻品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_002.xml#p0908b19">5 無著品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_002.xml#p0909b12">6 四輩品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_002.xml#p0911a01">7 授決品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_002.xml#p0912b18">8 擁護品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_002.xml#p0913b28">9 羼羅耶佛品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0914b27">10 請佛品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0916b20">11 無想品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0917a05">12 十八不共十種力品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0917b06">13 勸助品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0917c19">14 師子意佛品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0918c16">15 至誠佛品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0919b06">16 佛印品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0418_001.xml#p0902c23">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_002.xml#p0908b16">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0418_003.xml#p0914b24">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/L/L141/L141n1600_001.xml#p0084b04">序</cblink></li>
+	<li><cblink href="XML/L/L141/L141n1600_001.xml#p0085a08">疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/L/L141/L141n1600_001.xml#p0084b01">第一</cblink></li>
+	<li><cblink href="XML/L/L141/L141n1600_002.xml#p0100a01">第二</cblink></li>
+	<li><cblink href="XML/L/L141/L141n1600_003.xml#p0118b01">第三</cblink></li>
+	<li><cblink href="XML/L/L141/L141n1600_004.xml#p0132a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

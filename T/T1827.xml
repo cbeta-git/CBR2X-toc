@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1827_001.xml#p0232a03">百論序疏</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_001.xml#p0238a27">1 捨罪福品(上之上-上之下)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0260a22">2 破神品(中之上)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0270c23">3 破一品(中之中)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0276b07">4 破異品(中之中)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0280b26">5 破情品(中之下)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0282c25">6 破塵品(中之下)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0287b05">7 破因中有果品(下之上)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0290b21">8 破因中無果品(下之上)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0294a26">9 破常品(下之中)</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0301c05">10 破空品(下之下)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1827_001.xml#p0238a24">上</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_001.xml#p0240a02">上之餘</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_001.xml#p0249c02">上之餘</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0260a19">中</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0270c20">中之餘</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_002.xml#p0280b23">中之餘</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0287b02">下</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0294a23">下之餘</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1827_003.xml#p0301c02">下之餘</cblink></li>
+</ol>
+</nav>
+</body></html>

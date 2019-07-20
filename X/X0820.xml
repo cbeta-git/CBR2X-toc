@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0502a02">No. 820-A 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0502b10">No. 820-B 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0502c09">No. 820-C 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0503a07">No. 820-D 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0503c10">No. 820-E 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0504a11">No. 820-F 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0504b17">No. 820-G 成唯識論俗詮序</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0504c10">No. 820-H 成唯識論俗詮䟦</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0505a07">No. 820-I 法因</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0505b11">No. 820-J 成唯識論俗詮敘</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0506a01">No. 820-K 成唯識論俗詮科</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0516a04">成唯識論俗詮</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X50/X50n0820_001.xml#p0516a06">第一</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_002.xml#p0534c03">第二</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_003.xml#p0548b18">第三</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_004.xml#p0560b09">第四</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_005.xml#p0573c03">第五</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_006.xml#p0586b03">第六</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_007.xml#p0600a03">第七</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_008.xml#p0615b03">第八</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_009.xml#p0630b12">第九</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0820_010.xml#p0645c03">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

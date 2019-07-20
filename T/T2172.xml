@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2172_001.xml#p1097b15">毘盧遮那宗教法并圖像道具等</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2172_001.xml#p1098c29">天台智者大師所傳法華宗教迹并碑銘等</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2172_001.xml#p1101c05">梵來法物等</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2172_001.xml#p1097b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

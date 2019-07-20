@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b09">五門分別</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b12">第一彰數定聲</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b14">第二依聲定訓</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b16">第三聲訓次第</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b21">第四就經分數</cblink>
+	<ol>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b22">序品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718c06">方便品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718c17">譬喻品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719a13">信解品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719a21">藥草喻品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719b03">授記品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719b08">化城喻品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719b21">五百弟子品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719c05">人記品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719c11">法師品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0719c20">寶塔品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720a07">提婆品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720a15">勸持品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720a20">安樂行品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720b09">涌出品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720b14">壽量品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720b22">分別功德品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720c04">隨喜功德品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720c09">法師功德品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720c13">不輕品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720c18">神力品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0720c22">囑累品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721a01">藥王品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721a10">妙音品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721a16">觀世音品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721a22">陀羅尼品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721b01">嚴王品</cblink></li>
+		<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721b05">普賢品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0721b11">第五通申作意</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0633_001.xml#p0718b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

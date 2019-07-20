@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0665_001.xml#p0403a06">1 序品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_001.xml#p0404b27">2 如來壽量品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_002.xml#p0408b05">3 分別三身品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_002.xml#p0411a17">4 夢見金鼓懺悔品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_003.xml#p0413c12">5 滅業障品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_004.xml#p0417c22">6 最淨地陀羅尼品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_005.xml#p0422b27">7 蓮華喻讚品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_005.xml#p0423b23">8 金勝陀羅尼品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_005.xml#p0424a19">9 重顯空性品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_005.xml#p0425a06">10 依空滿願品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_005.xml#p0426c25">11 四天王觀察人天品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_006.xml#p0427b19">12 四天王護國品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_007.xml#p0432c16">13 無染著陀羅尼品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_007.xml#p0433b05">14 如意寶珠品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_007.xml#p0434b25">15 大辯才天女品(七-八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_008.xml#p0438c24">16 大吉祥天女品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_008.xml#p0439b03">17 大吉祥天女增長財物品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_008.xml#p0440a17">18 堅牢地神品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_008.xml#p0441a25">19 僧慎爾耶藥叉大將品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_008.xml#p0442a14">20 王法正論品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_009.xml#p0444a15">21 善生王品(九)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_009.xml#p0444c27">22 諸天藥叉護持品(九)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_009.xml#p0447a02">23 授記品(九)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_009.xml#p0447b21">24 除病品(九)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_009.xml#p0448c22">25 長者子流水品(九)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0450c21">26 捨身品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0454b26">27 十方菩薩讚歎品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0454c28">28 妙幢菩薩讚歎品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0455a21">29 菩提樹神讚歎品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0455b21">30 大辯才天女讚歎品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0455c14">31 付囑品(一〇)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0665_001.xml#p0403a03">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_002.xml#p0408b02">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_003.xml#p0413c09">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_004.xml#p0417c19">第四</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_005.xml#p0422b24">第五</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_006.xml#p0427b16">第六</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_007.xml#p0432c13">第七</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_008.xml#p0437c16">第八</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_009.xml#p0444a12">第九</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0665_010.xml#p0450c18">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

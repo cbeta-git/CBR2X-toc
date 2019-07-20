@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0690b05">No. 915-A 重刊刪定止觀序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0690b19">止觀十大章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0691a02">No. 915-B 天台止觀統例</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0692b10">敘緣起</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0693b22">大意第一</cblink>
+	<ol>
+		<li><cblink href="XML/X/X55/X55n0915_001.xml#p0693b24">發大心</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_001.xml#p0696c06">修大行</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_001.xml#p0699b16">感大果</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_001.xml#p0699b18">裂大網</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_001.xml#p0699b22">歸大處</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0699c20">釋名第二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0700b23">釋體第三</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0703a07">攝法第四</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0703c22">偏圓第五</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0704c22">方便第六</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_002.xml#p0707c20">正觀第七</cblink>
+	<ol>
+		<li><cblink href="XML/X/X55/X55n0915_002.xml#p0708c03">第一觀陰入界境</cblink>
+		<ol>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0709a01">觀心為不思議境者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0711a21">起慈悲發真正菩提心者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0711b23">善巧安心者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0712b21">破法徧者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0721b02">識通塞者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0721c10">道品調適者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0722a15">助道對治者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0722a24">知次位者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0722b04">安忍者</cblink></li>
+			<li><cblink href="XML/X/X55/X55n0915_002.xml#p0722b10">無法愛者</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0723a15">第二觀煩惱境</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0724a11">第三觀病患境</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0726a08">第四觀業相境</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0727b05">第五觀魔境</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0728a08">第六觀禪定境</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0731c06">第七觀諸見境</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b13">第八上慢境(闕)</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b13">第九二乘境(闕)</cblink></li>
+		<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b13">第十菩薩境(闕)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b15">果報第八</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b16">起教第九</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b17">指歸第十</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_003.xml#p0734b18">結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0915_001.xml#p0692b07">第一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_002.xml#p0707c17">第二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0915_003.xml#p0723a11">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0173_001.xml#p0169a02">原書目錄</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_001.xml#p0172b02">表</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_001.xml#p0173a05">傳智一之一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0173a05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0173a11">菩提達磨</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0173b09">釋慧灌</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0173b13">釋智藏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0173c04">釋道昭</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0174a16">釋善無畏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0174b21">釋慈訓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0174c06">釋鑑真</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0175a24">釋最澄</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_001.xml#p0177a06">釋空海</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_002.xml#p0178c05">傳智一之二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0178c05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0178c17">釋榮西</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_002.xml#p0180c26">慧解二之一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0181a01">釋義淵</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0181a13">釋道慈</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0181b05">釋智光</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0181c02">釋良辨</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182a09">釋善珠姓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182a14">釋明詮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182a23">釋明一</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182a26">釋慈寶</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182b10">釋善謝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182b13">釋慈雲</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182b16">釋勝悟</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182b20">釋善議</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182b23">釋安澄</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c01">釋光意</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c05">釋常樓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c08">釋常騰</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c11">釋品慧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c14">釋道證</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c17">釋奉實</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0182c24">釋勤操</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0183b12">釋護命</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0183b20">釋道雄</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0183b26">釋安慧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0183c13">釋義真</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_002.xml#p0183c26">釋圓澄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_003.xml#p0184c05">慧解二之二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0184c05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0184c12">釋守印</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0184c17">釋實慧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0184c23">釋明福</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0185a02">釋延祥</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0185a08">釋長訓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0185a12">釋實敏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0185a20">釋源仁</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0185b17">釋真濟</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0185c12">釋圓仁</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0187b20">釋常曉</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0187c03">釋宗睿</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0188a06">釋道昌</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0188a21">釋真雅</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0188b03">釋隆海</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0188b15">釋遍昭</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_003.xml#p0188b25">釋圓珍</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_004.xml#p0190c05">慧解二之三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0190c05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0190c15">釋益信</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0190c22">釋聖寶</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191a19">釋寬朝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191a25">釋仁海</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191b09">釋德一</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191b12">釋藥智</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191b25">釋安然</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191c10">釋玄昭</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0191c18">釋增利</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0192a01">釋延敒</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0192a07">釋壹和</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0192a23">釋禪喜</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0192b09">釋良源</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0193a03">釋仲算</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0193a13">釋法藏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0193b26">釋千觀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0193c18">釋真義</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0193c24">釋勸修</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0194b07">釋源信</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0194c10">釋覺運</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0194c15">釋覺超</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0195a06">釋慶祚</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0195b01">釋實因</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0195b08">釋院源</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0195b15">釋明尊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0195b26">釋明算</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_004.xml#p0195c06">釋慶耀</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196a05">慧解二之四</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196a05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196a12">釋安海</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196a26">釋主恩</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196b04">釋桓舜</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196b21">釋永觀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196c10">釋寬印</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0197a01">釋皇慶</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0197b19">釋延殷</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0197c01">釋大圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0197c17">釋宗範</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0197c24">釋延義</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0198a06">釋永緣</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0198a21">釋覺鋄</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0198c22">釋源空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0199b21">釋明遍</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0200a26">釋貞慶</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_005.xml#p0200b16">釋高辨</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_006.xml#p0201b05">淨禪三之一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0201b05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0201b10">釋義空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0201c09">釋覺阿</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0202a02">釋道元</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0202a12">釋榮朝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0202a18">釋法心</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0202b01">釋覺心</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0203a06">釋道隆</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0203c15">釋普寧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0204b26">釋了然</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0204c14">釋普門</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_006.xml#p0205a05">釋德儉</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_007.xml#p0205b05">淨禪三之二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_007.xml#p0205b05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_007.xml#p0205b07">釋辯圓</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_008.xml#p0210b05">淨禪三之三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0210b05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0210b10">釋祖元</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0211c24">釋正念</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0212b16">釋一寧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0212c23">釋湛照</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0213a07">釋道海</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0213a12">釋昭元</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0213b14">釋慧曉</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0213c16">釋順空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_008.xml#p0214b10">釋祖圓</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215a05">感進四之一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215a05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215a20">釋義覺</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215b01">釋道寧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215b03">釋道藏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215b09">釋定慧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215c01">釋祚蓮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215c08">釋實忠</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0216a11">釋報恩</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0216a25">釋玄賓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0216b16">釋慧勝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0216b26">釋道公</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0216c18">釋法勢</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0216c26">釋貞崇</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0217a05">釋寬忠</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0217a09">釋證如</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0217b14">釋智泉</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0217c01">釋延鎮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0217c12">釋成尊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0217c17">釋源心</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0218a13">釋滿米</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0218b08">釋日藏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0218c25">釋峰延</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219a10">釋藏緣</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219a16">釋成意</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219b01">釋安願</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219b06">釋長圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219b14">釋心譽</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219b18">釋覺助</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219b23">釋平願</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219c05">釋真遠</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219c13">釋光空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0219c25">釋妙尊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220a07">釋珍蓮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220a11">釋雲淨</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220a20">釋信誓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220b04">釋恩融</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220b15">釋靜安</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220b18">釋慧達</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220b23">釋延昌</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220c04">釋尋禪</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220c11">釋源泉</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_009.xml#p0220c15">釋見佛</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_010.xml#p0221a05">感進四之二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0221a05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0221a14">釋相應</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0222a14">釋行教</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0222a23">釋教圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0222b03">釋義照</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0222b19">釋行巡</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0222c10">釋觀賢</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0222c22">釋成典</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0223a08">釋增命</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0223c04">釋尊意</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0224a18">釋泰舜</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0224a23">釋明達</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0224b11">釋淨藏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0225b03">釋修入</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0225b10">釋圓賀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0225b16">釋公伊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0225c04">釋濟源</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0225c09">釋陽生</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0225c18">釋增賀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0226b04">釋寬空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0226b10">釋範俊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0226b25">釋信覺</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_010.xml#p0226c02">釋勝覺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227a05">感進四之三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227a05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227a19">釋理滿</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227b18">釋真興</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227b26">釋慶圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227c08">釋餘慶</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0228a02">釋睿實</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0228a22">釋定照</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0228b12">釋性空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0228c20">釋平忍</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0228c26">釋蓮防</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0229a05">釋寂源</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0229a12">釋勝算</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0229b16">釋行圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0229c03">釋良忍</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230a01">釋寂禪</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230a10">釋行空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230a16">釋蓮長</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230a22">釋以圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230b02">釋教真</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230b05">釋經源</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230b14">釋慶日</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230b24">釋覺勝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230c04">釋佛蓮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230c10">釋維範</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230c16">釋暹覺</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0230c24">釋琳賀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231a05">釋戒深</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231a11">釋圓久</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231a16">釋行仙</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231b03">釋性信</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231b22">釋覺法</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231c14">釋基燈</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231c17">釋叡好</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0231c25">釋仁鏡</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0232a08">釋良算</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0232a20">釋玄常</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0232b01">釋清海</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_011.xml#p0232b06">釋重怡</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_012.xml#p0232c05">感進四之四</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0232c05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0232c16">釋行尊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0233a15">釋延朗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0234a16">釋慶圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0234c11">釋常觀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0234c26">釋性蓮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0235a13">釋齊遠</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0235a22">釋廣恩</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0235b14">釋蓮藏</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0235b25">釋持法</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0235c19">釋法蓮</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236a23">忍行五</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236a24">釋賢憬</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236b03">釋仁耀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236b06">釋慧亮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236b16">釋證空</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236c05">釋長明</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236c09">釋文豪</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236c11">釋延救</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236c19">釋仙命</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0236c25">釋信敬</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0237a04">釋蓮照</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0237a12">釋應照</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0237a23">釋春朝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0237b12">釋永助</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_012.xml#p0237b14">釋叡効</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a07">明戒六</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a07">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a12">釋普照</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a17">釋法進</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a20">釋如寶</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a22">釋道忠</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238b02">釋豐安</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238b03">釋明祐</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238b10">釋實範</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238c03">釋俊芿</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0241a01">釋叡尊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_013.xml#p0241a20">釋忍性</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_014.xml#p0241c07">擅興七</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0241c07">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0241c15">釋行基</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242a26">釋慶俊</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242b03">釋真紹</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242b05">釋觀喜</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242b09">釋最仙</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242b16">釋勝道</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242c03">釋恒寂</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242c18">釋真然</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0242c24">釋祈親</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0243a12">釋蓮入</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0243a22">釋道寂</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0243b08">釋豐然</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0243b14">釋壹演</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0243c01">釋慈信</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0243c12">釋行圓</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0244a08"><unclear/>源算</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0244b04">釋光勝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0244c17">釋文覺</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_014.xml#p0245a20">釋重源</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_015.xml#p0245c07">方應八</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0245c07">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0245c11">聖德太子</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0247b16">役小角</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0248a06">釋泰澄</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0249b14">釋菩提</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0249b26">釋佛哲</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0249c09">伏見翁</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0249c23">釋善仲</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0250a17">釋開成</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_015.xml#p0250c03">釋教待</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251a07">力遊九</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251a07">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251a26">釋曇慧</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b01">釋慧便</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b06">釋慧聰</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b08">釋慧慈</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b11">釋觀勒</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b17">釋僧隆</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b18">釋慧彌</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251b21">釋曇微</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251c02">釋福亮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251c04">釋神睿</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251c07">釋道璿</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251c20">釋道榮</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251c24">釋慧濟</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a01">釋僧旻</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a07">釋慧隱</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a09">釋智通</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a11">釋智鳳</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a12">釋淨達</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a14">釋行善</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252a26">釋玄昉</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252b13">釋行賀</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252b23">釋永忠</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252c02">釋圓行</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252c05">釋慧運</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252c10">釋慧萼</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0252c23">釋真如</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0253a16">釋奝然</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0253a25">釋寂昭</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0253b13">釋成尋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_016.xml#p0253c24">願雜十之一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_016.xml#p0253c25">古德一</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a04">釋豐國</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a07">釋德齊</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a09">釋德積</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a10">釋慧妙</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a12">釋道顯</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a22">釋道信</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254a25">釋法員</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b01">釋弘曜</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b02">釋慧忠</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b04">釋行表</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b06">釋仁秀</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b08">釋澄睿</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b09">釋慈恒</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b11">釋壽遠</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b13">釋守寵</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b15">釋道詮</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b17">釋承俊</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_016.xml#p0254b18">釋良真</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255a06">願雜十之二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255a06">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255a23">王臣二</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255b04">聖武皇帝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255b11">貞觀皇帝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255b22">寬平皇帝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255c19">寬和皇帝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256a10">蘇稻目</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256a14">蘇馬子</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256a18">司馬達</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256a26">大織冠鎌足</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256b07">尚書右丞和真綱</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256b16">右僕射藤良相</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256c04">讚州刺史高公輔</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256c11">羽林次將藤義孝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256c16">殿中監高良臣</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0256c20">黃門侍郎源顯基</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257a02">鎮守府將軍平維茂</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257a10">別駕射水親元</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257a18">中散大夫橘守輔</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257b06">房州刺史源親元</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257b15">尚書右丞平時範</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257b22">左僕射源俊房</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257c03">算學博士善為康</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257c17">吏部侍郎藤敦光</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0257c22">諫議大夫平實親</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0258a02">羽林中郎源雅通</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0258a17">越中太守藤仲遠</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0258a23">越後州刺史紀躬高</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0258b23">高元帥平時賴</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0173_017.xml#p0259c15">士庶三</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0259c18">藥延</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260a01">感世</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260a13">睿嶽有攝圓法師</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260a24">乘蓮</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260b04">惟高</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260b14">藤井久任</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260b25">野敦末</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260c05">秦武元</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0260c15">興福寺莊嚴院實覺法師</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0261a05">源傳</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0261a14">清信俊</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0261a21">江親通</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0261b11">西音</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0261b18">壬良門</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_017.xml#p0261c02">修覺</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262a05">願雜十之三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262a05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262a18">尼女四</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262a23">善信尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262b07">法明尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262b14">都藍尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262b21">皇太后光明子</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262c24">舍利尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0263a13">如意尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264a18">如藏尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264b03">皇太后歡子</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264b18">野州刺史高敦遠之妻藤氏</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264b26">女藤氏</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264c10">特進藤經實妻</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264c16">釋妙尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264c20">願西尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0264c24">妙法尼</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0265a04">藤兼澄女</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0173_018.xml#p0265a16">神仙五</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0265a22">皇太神宮</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0266a04">白山明神</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0266b16">丹生明神</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0266b26">新羅明神</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0266c15">天滿大自在天神</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0267b08">法道仙人</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0267c11">久米</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0267c18">釋陽勝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0268a21">釋窺仙</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0268a23">都良香</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0268b01">藤太主</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0268b06">生馬仙</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_018.xml#p0268b13">釋法空</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_019.xml#p0268c05">願雜十之四</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_019.xml#p0268c05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_019.xml#p0268c18">靈恠六</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0268c18">釋轉乘</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269a04">釋海蓮</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269a11">釋慧增</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269a24">釋賴真</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269b07">釋春命</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269b13">釋蓮尊</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269b23">釋明蓮</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269c19">釋妙達</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0269c26">釋道命</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0270a25">釋源尊</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0270b07">釋常照</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0270b16">釋阿清</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0270b25">釋藏滿</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0270c10">釋圓能</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0271a20">釋道乘</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0271b05">釋圓善</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0271b16">釋安珍</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0271c17">釋無空</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_019.xml#p0271c26">釋講仙</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0173_019.xml#p0272a12">度摠論</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_020.xml#p0273b05">資治表一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0273b07">前文</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0273b16">欽明皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0274b12">敏達皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0275a12">用明皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0275b17">崇峻皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0275c22">推古皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0278a01">舒明皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_020.xml#p0278b09">皇極皇帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_021.xml#p0279a05">資治表二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0279a07">孝德皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0279c11">齊明皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0280a15">天智皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0281a04">天武皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0282a23">持統皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0283a20">文武皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_021.xml#p0283c19">元明皇帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_022.xml#p0284b07">資治表三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_022.xml#p0284b09">元正皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_022.xml#p0285b03">聖武皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_022.xml#p0288a10">孝謙皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_022.xml#p0288c12">廢帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_023.xml#p0289c05">資治表四</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0289c07">高野皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0290b25">光仁皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0291b12">桓武皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0293c03">大同皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0293c11">弘仁皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0294b26">天長皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_023.xml#p0294c24">承和皇帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_024.xml#p0296a05">資治表五</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0296a07">仁壽皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0296b03">貞觀皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0297b11">元慶皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0297c15">仁和皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0298b06">寬平皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0298c16">昌泰皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_024.xml#p0300b02">承平皇帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_025.xml#p0301a05">資治表六</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0301a07">天曆皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0302a01">安和皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0302a10">天祿皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0302c09">寬和皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0302c22">永延皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0303c14">長和皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0304a04">寬仁皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0304c13">長曆皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0305a16">永承皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0306a12">延久皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_025.xml#p0306b12">承保皇帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_026.xml#p0307c06">資治表七</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0307c08">寬治皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0308c14">天仁皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0309b01">天治皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0310a19">康治皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0310c11">保元皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0310c21">平治皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0311a18">仁安皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0311b01">嘉應皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0312a08">養和皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0312a17">元曆皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0312b21">正治皇帝</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_026.xml#p0312c21">建曆皇帝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_027.xml#p0313b05">志一</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_027.xml#p0313b05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_027.xml#p0313b08">學修志一</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_027.xml#p0313c16">度受志二</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_027.xml#p0314c25">諸宗志三</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_027.xml#p0317a05">會儀志四</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_027.xml#p0317b22">封職志五</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_028.xml#p0318c07">志二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_028.xml#p0318c07">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_028.xml#p0318c19">寺像志六</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0318c20">前文</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0319a13">向原寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0319a18">四天王寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0319b01">元興寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0319b05">大安寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0319b14">頂法寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0319c02">和州禪林寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0320a06">播州犬寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0320b05">崇福寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0320b12">興福寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0320b22">若州神願寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0320c02">長谷寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0320c20">東大寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321a11">石山寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321a23">和州葛木尼寺彌勒銅像者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321a26">遠州鵜田寺藥師像者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321b03">招提寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321b11">西大寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321b17">粉河寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0321c19">高尾神護寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322a07">紀州那賀郡慈氏寺大殿中像已成</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322a13">和州村崗寺三像者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322a17">勝尾寺講堂觀自在像者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322b09">鞍馬寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322b23">清水寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322c09">睿山山王院千手觀音像者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0322c15">園城寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0323a08">貞觀寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0323a15">感應寺者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0323a26">書寫山圓教寺如意輪像者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_028.xml#p0323b06">蟹滿寺者</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_029.xml#p0323c07">志三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_029.xml#p0323c07">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_029.xml#p0323c19">音藝志七</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0323c20">前文</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324a07">經師者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324b07">聲明者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324b20">唱道者</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324c11">念佛者</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324c19">拾異志八</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324c20">前文</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0324c23">山背大兄王</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325a08">榮常</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325a12">諦鏡</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325a19">大傅藤永手</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325a26">大君氏</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325b15">飛鳥貞成</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325b25">賀陽良藤</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0325c23">粟田錄事</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0326c04">諾樂京女</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0326c10">大安寺側女</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0326c17">賈盤嶋</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327a06">蓼原村盲女</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327a10">熊野村比邱</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327a19">總州太守藤時重</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327b02">江諸世</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327b09">慧勝</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327b17">藤常行</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327c05">仲算童</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0327c14">役夫賀能</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0328a02">德滿</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0173_029.xml#p0328a07">大峯比丘</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_030.xml#p0328c05">志四</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_030.xml#p0328c05">目次</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_030.xml#p0328c10">黜爭志九</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_030.xml#p0329c21">序說志十</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_030.xml#p0331b21">附</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0173_030.xml#p0331b21">略例</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_030.xml#p0331c09">智通論</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0173_030.xml#p0332c02">化䟽</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0173_030.xml#p0333b02">人名索引</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0173_001.xml#p0169a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_002.xml#p0178c01">第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_003.xml#p0184c01">第三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_004.xml#p0190c01">第四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_005.xml#p0196a01">第五</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_006.xml#p0201b01">第六</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_007.xml#p0205b01">第七</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_008.xml#p0210b01">第八</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_009.xml#p0215a01">第九</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_010.xml#p0221a01">第十</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_011.xml#p0227a01">第十一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_012.xml#p0232c01">第十二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_013.xml#p0238a01">第十三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_014.xml#p0241c01">第十四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_015.xml#p0245c01">第十五</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_016.xml#p0251a01">第十六</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_017.xml#p0255a01">第十七</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_018.xml#p0262a01">第十八</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_019.xml#p0268c01">第十九</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_020.xml#p0273b01">第二十</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_021.xml#p0279a01">第二十一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_022.xml#p0284b05">第二十二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_023.xml#p0289c01">第二十三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_024.xml#p0296a01">第二十四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_025.xml#p0301a01">第二十五</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_026.xml#p0307c01">第二十六</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_027.xml#p0313b01">第二十七</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_028.xml#p0318c01">第二十八</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_029.xml#p0323c01">第二十九</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0173_030.xml#p0328c01">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

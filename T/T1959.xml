@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1959_001.xml#p0022b29">依觀經明觀佛三昧法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1959_001.xml#p0023b15">般舟三昧經請問品明七日七夜入道場念佛三昧法</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1959_001.xml#p0024c05">依經明五種增上緣義一卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1959_001.xml#p0022b21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

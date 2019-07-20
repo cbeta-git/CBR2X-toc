@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T01/T01n0001_001.xml#p0001a02">序</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_001.xml#p0001b11">1 分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T01/T01n0001_001.xml#p0001b11">1 大本經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_002.xml#p0011a07">2 遊行經</cblink>
+		<ol>
+			<li><cblink href="XML/T/T01/T01n0001_002.xml#p0011a07">1</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_003.xml#p0016b14">2</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_004.xml#p0023c04">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T01/T01n0001_005.xml#p0030b10">3 典尊經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_005.xml#p0034b04">4 闍尼沙經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T01/T01n0001_006.xml#p0036b28">2 分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T01/T01n0001_006.xml#p0036b28">5 小緣經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_006.xml#p0039a21">6 轉輪聖王修行經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_007.xml#p0042b24">7 弊宿經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_008.xml#p0047a17">8 散陀那經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_008.xml#p0049b26">9 眾集經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_009.xml#p0052c17">10 十上經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_009.xml#p0057b25">11 增一經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_010.xml#p0059b14">12 三聚經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_010.xml#p0060a28">13 大緣方便經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_010.xml#p0062b28">14 釋提桓因問經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_011.xml#p0066a09">15 阿㝹夷經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_011.xml#p0070a19">16 善生經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_012.xml#p0072c12">17 清淨經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_012.xml#p0076b23">18 自歡喜經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_012.xml#p0079b01">19 大會經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T01/T01n0001_013.xml#p0082a06">3 分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T01/T01n0001_013.xml#p0082a06">20 阿摩晝經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_014.xml#p0088b12">21 梵動經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_015.xml#p0094a18">22 種德經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_015.xml#p0096c16">23 究羅檀頭經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_016.xml#p0101b14">24 堅固經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_016.xml#p0102c24">25 倮形梵志經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_016.xml#p0104c16">26 三明經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_017.xml#p0107a20">27 沙門果經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_017.xml#p0109c22">28 布吒婆樓經</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0001_017.xml#p0112c20">29 露遮經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T01/T01n0001_018.xml#p0114b07">4 分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T01/T01n0001_018.xml#p0114b07">30 世記經</cblink>
+		<ol>
+			<li><cblink href="XML/T/T01/T01n0001_018.xml#p0114b07">1 閻浮提州品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_018.xml#p0117c13">2 鬱單曰品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_018.xml#p0119b24">3 轉輪聖王品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_019.xml#p0121b28">4 地獄品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_019.xml#p0127a27">5 龍鳥品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_020.xml#p0129b01">6 阿須倫品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_020.xml#p0130b01">7 四天王品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_020.xml#p0131a03">8 忉利天品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_021.xml#p0137b01">9 三災品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_021.xml#p0141a21">10 戰鬥品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_022.xml#p0144a18">11 三中劫品</cblink></li>
+			<li><cblink href="XML/T/T01/T01n0001_022.xml#p0145a04">12 世本緣品</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T01/T01n0001_001.xml#p0001b08">第一</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_002.xml#p0011a04">第二</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_003.xml#p0016b14">第三</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_004.xml#p0023c04">第四</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_005.xml#p0030b07">第五</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_006.xml#p0036b25">第六</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_007.xml#p0042b22">第七</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_008.xml#p0047a15">第八</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_009.xml#p0052c14">第九</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_010.xml#p0059b11">第十</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_011.xml#p0066a06">第十一</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_012.xml#p0072c09">第十二</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_013.xml#p0082a03">第十三</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_014.xml#p0088b10">第十四</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_015.xml#p0094a16">第十五</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_016.xml#p0101b11">第十六</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_017.xml#p0107a17">第十七</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_018.xml#p0114b04">第十八</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_019.xml#p0121b26">第十九</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_020.xml#p0129a27">第二十</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_021.xml#p0137a27">第二十一</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0001_022.xml#p0144a15">第二十二</cblink></li>
+</ol>
+</nav>
+</body></html>

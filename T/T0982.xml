@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0982_001.xml#p0415a03">佛母大金曜孔雀明王經序</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0982_001.xml#p0415b15">讀誦佛母大孔雀明王經前啟請法</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0982_001.xml#p0416a21">佛母大孔雀明王經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0982_001.xml#p0416a19">第一</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0982_002.xml#p0422c03">第二</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0982_003.xml#p0433b13">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

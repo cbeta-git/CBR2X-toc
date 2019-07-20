@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0406_001.xml#p0254a03">No. 406-A 御製觀無量壽佛經序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0406_001.xml#p0254b15">No. 406-B 重刻觀經疏鈔序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0406_001.xml#p0255a02">科文</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0406_001.xml#p0268a43">音釋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0406_001.xml#p0255a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

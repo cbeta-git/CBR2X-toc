@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0643a12">初祖馬鳴尊者</cblink></li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0643b17">二祖龍樹尊者</cblink></li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0643c07">三祖帝心法順法師</cblink></li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0643c19">四祖雲華智儼法師</cblink></li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0643c22">五祖賢首法師</cblink></li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0644a11">六祖清涼國師澄觀</cblink>
+	<ol>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0644a11">清涼國師疏鈔緣起</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0644b04">詔清涼講華嚴經題</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0644b30">詔清涼講華嚴宗旨</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0645a04">上問華嚴法界</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0645a16">御讚清涼國師碑銘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0645b25">七祖圭峰宗密禪師</cblink></li>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646a18">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646a18">九會主名</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646a21">九會八十一卷經數</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646a24">會品分周總要</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646b01">九會三十九品數</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646b03">六相</cblink></li>
+		<li><cblink href="XML/J/J15/J15nB005_001.xml#p0646b09">十玄門</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J15/J15nB005_001.xml#p0643a11">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

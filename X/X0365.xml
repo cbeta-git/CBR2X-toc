@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0852b05">No. 365-A 序</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0852c06">No. 365-B 序</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0853b05">No. 365-C 心地觀經淺註本序</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0854a07">大乘本生心地觀經淺註目次</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0854c09">十門通判</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0855a03">一教起因緣</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0855c12">二藏教所攝</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0858c01">三義理分齊</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0858c13">四教所被機</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0859a01">五能詮教體</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0859b11">六宗趣通局</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0859b21">七品類次第</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0859c12">八傳譯朝代</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0365_001.xml#p0854c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

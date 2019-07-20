@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X49/X49n0814_001.xml#p0381a03">第一</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0814_002.xml#p0403a17">第二本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0814_002.xml#p0412c14">第二末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0814_003.xml#p0421a11">第三</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0814_004.xml#p0433b08">第四本</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0814_004.xml#p0453b05">第四末</cblink></li>
+	<li><cblink href="XML/X/X49/X49n0814_005.xml#p0463c01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

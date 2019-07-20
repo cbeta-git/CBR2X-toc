@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775b24">頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775b24">普明詠未牧</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c03">雲菴和未牧</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c06">普明詠初調</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c09">雲菴和初調</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c12">普明詠受制</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c15">雲菴和受制</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c18">普明詠迴首</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c21">雲菴和迴首</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775c24">普明詠馴伏</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a03">雲菴和馴伏</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a06">普明詠無礙</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a09">雲菴和無礙</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a12">普明詠任運</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a15">雲菴和任運</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a18">普明詠相忘</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a21">雲菴和相忘</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776a24">普明詠獨照</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776b03">雲菴和獨照</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776b06">普明詠雙泯</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776b09">雲菴和雙泯</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776b12">問答</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1270_001.xml#p0776c14">總題</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1270_001.xml#p0775b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B21/B21n0116_001.xml#p0769a01">出版說明</cblink></li>
+	<li><cblink href="XML/B/B21/B21n0116_001.xml#p0773a01">說法圖</cblink></li>
+	<li><cblink href="XML/B/B21/B21n0116_001.xml#p0775a01">御製序</cblink></li>
+	<li><cblink href="XML/B/B21/B21n0116_001.xml#p0781a01">本文</cblink></li>
+	<li><cblink href="XML/B/B21/B21n0116_001.xml#p1066a04">護法圖</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B21/B21n0116_001.xml#p0769a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

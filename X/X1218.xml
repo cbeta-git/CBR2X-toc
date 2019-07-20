@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1218_001.xml#p0002a02">No. 1218-A 達磨血脉論序</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1218_001.xml#p0002a21">達磨大師血脉論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1218_001.xml#p0002a22">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

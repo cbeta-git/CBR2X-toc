@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0182a25">1 破常品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0182c18">2 破我品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0183b11">3 破時品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0184a04">4 破見品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0184b26">5 破根境品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0185a19">6 破邊執品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0185c12">7 破有為相品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0186b05">8 教誡弟子品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1570_001.xml#p0182a21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

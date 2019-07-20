@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X77/X77n1535_001.xml#p0655a08">智者大師別傳註</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1535_002.xml#p0675c02">No. 1535-1 天台智者大師傳論</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1535_002.xml#p0676b19">No. 1535-2 (附)天台智者大師畵讚</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1535_002.xml#p0677b02">No. 1535-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X77/X77n1535_001.xml#p0655a05">第一</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1535_002.xml#p0669c10">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0673a10">1-3 （缺）</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0673a11">4 布薩品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0673c04">5 安居品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0674b18">6 自恣品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0674c26">7 明結淨地品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0675c09">8 出僧殘罪品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0676c09">9 雜事品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0678a21">10 亡比丘衣物品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0679a20">11 明四方僧物品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0679c03">12 明衣物品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0680b02">13 教戒比丘尼品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0680c24">14 月半月盡懺悔品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0681b04">15 輕重不同會通品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0682a19">16 事七滅諍品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2793_001.xml#p0672b25">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0450a02">No. 1095-A 夾註釋門歸敬儀序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0450b05">No. 1095-B 新刻夾註釋門歸敬儀序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0450c19">序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0451a11">題目　作者　篇目</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0452a23">敬本教興篇第一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0456c24">濟時護法篇第二</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_002.xml#p0470b10">隨機立教篇第三</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_002.xml#p0473a12">乘心行事篇第四</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_002.xml#p0476b23">寄緣真俗篇第五</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_002.xml#p0484b04">引教徵事篇第六</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_002.xml#p0490c08">約時科節篇第七</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_003.xml#p0493a06">威容有儀篇第八</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_003.xml#p0506c21">功用顯迹篇第九</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_003.xml#p0516c24">程器陳迹篇第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1095_001.xml#p0450c16">第一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_002.xml#p0470b07">第二</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1095_003.xml#p0493a03">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

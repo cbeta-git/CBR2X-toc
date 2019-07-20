@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0090_001.xml#p0397a04">貝編</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_002.xml#p0410a02">怪術</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_003.xml#p0417a04">藝絕</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_004.xml#p0419a04">寺塔記上</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_005.xml#p0430a04">寺塔記下</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_006.xml#p0439a04">金剛經鳩異</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_006.xml#p0448a01">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0090_006.xml#p0448a02">《四庫全書總目》</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0090_006.xml#p0449a02">余嘉錫《四庫提要辨證》</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0090_001.xml#p0397a01">第一</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_002.xml#p0410a01">第二</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_003.xml#p0417a01">第三</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_004.xml#p0419a01">第四</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_005.xml#p0430a01">第五</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0090_006.xml#p0439a01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

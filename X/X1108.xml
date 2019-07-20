@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1108_001.xml#p0707c09">南山三觀問</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0713c13">第一本宗五義分通疑有五</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0714b06">第二疑增受菩薩戒</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0714c04">第三疑白四發圓體</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0715c21">第四圓宗所依疑</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0716a17">第五一心三觀疑</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0716b10">第六唯識通四位疑</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0716b19">第七唯識修相疑</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0716c02">第八相空分別空疑</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0716c12">第九南山立宗違師疑</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0716c21">第十鈔十門攝屬諸篇疑</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1108_001.xml#p0707c06">第一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1108_002.xml#p0713c09">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

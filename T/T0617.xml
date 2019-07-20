@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0298a15">四無量觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0298b18">不淨觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0298c19">白骨觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0299a03">觀佛三昧法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0299a29">生身觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0299b09">法身觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0299c03">十方諸佛觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0299c19">觀無量壽佛法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0300a11">諸法實相觀法</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0300b24">法華三昧觀法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0617_001.xml#p0297c17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

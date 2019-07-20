@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0048_001.xml#p0001a01">科判</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_001.xml#p0002a03">序文</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_001.xml#p0002a20">依止《解深密經》</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_003.xml#p0029a03">依止《無盡慧經》</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_005.xml#p0073a06">結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0048_001.xml#p0001a01">第一</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_002.xml#p0015a01">第二</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_003.xml#p0029a01">第三</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_004.xml#p0043a01">第四</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0048_005.xml#p0057a01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

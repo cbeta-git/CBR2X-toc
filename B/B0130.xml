@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B23/B23n0130_001.xml#p0425a16">蕅益大師年譜</cblink></li>
+	<li><cblink href="XML/B/B23/B23n0130_001.xml#p0844b11">書重刻靈峰宗論後</cblink></li>
+	<li><cblink href="XML/B/B23/B23n0130_001.xml#p0845b11">刻闢邪集序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B23/B23n0130_001.xml#p0425a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0813a01">No. 505-A 金剛般若波羅蜜經心印科</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0817a06">前文</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0817a10">一教起因緣</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0817b02">二藏教分攝</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0817b17">三義理分齊</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0817c18">四教所被機</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0818a07">五教體淺深</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0818a16">六顯示宗趣</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0818a23">七部類處會</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0818b10">八傳譯時代</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0818b20">九總釋名題</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0819a11">十別解經文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0505_001.xml#p0817a03">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0505_002.xml#p0843a14">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

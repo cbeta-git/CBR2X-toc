@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0824_010.xml#p0453b12">No. 824-A 跋語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0824_001.xml#p0297a06">第一</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_002.xml#p0314c13">第二</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_003.xml#p0328c11">第三</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_004.xml#p0342a11">第四</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_005.xml#p0355c03">第五</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_006.xml#p0370a10">第六</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_007.xml#p0385a21">第七</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_008.xml#p0404a04">第八</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_009.xml#p0420b10">第九</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0824_010.xml#p0436c21">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

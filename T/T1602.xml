@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1602_001.xml#p0480b15">1 攝事品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1602_001.xml#p0480b15">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_002.xml#p0485c09">2</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_003.xml#p0491b06">3</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_004.xml#p0497a10">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1602_005.xml#p0502a06">2 攝淨義品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1602_005.xml#p0502a06">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_006.xml#p0507a12">2</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_007.xml#p0511c26">3</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_008.xml#p0516c12">4</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_009.xml#p0521b10">5</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_010.xml#p0526a23">6</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_011.xml#p0531a13">7</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_012.xml#p0535c06">8</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_013.xml#p0540a25">9</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1602_014.xml#p0545a08">3 成善巧品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_014.xml#p0547c28">4 成無常品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_015.xml#p0551a16">5 成苦品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_015.xml#p0553b17">6 成空品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1602_015.xml#p0553b17">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_016.xml#p0556b18">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1602_016.xml#p0557b04">7 成無性品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_016.xml#p0560b02">8 成現觀品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1602_016.xml#p0560b02">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_017.xml#p0562a22">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1602_017.xml#p0563b04">9 成瑜伽品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_017.xml#p0563c13">10 成不思議品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_017.xml#p0564c17">11 攝勝決擇品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1602_017.xml#p0564c17">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_018.xml#p0568a10">2</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_019.xml#p0572c23">3</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1602_020.xml#p0578b12">4</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1602_001.xml#p0480b11">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_002.xml#p0485c05">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_003.xml#p0491b02">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_004.xml#p0497a06">第四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_005.xml#p0502a02">第五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_006.xml#p0507a08">第六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_007.xml#p0511c22">第七</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_008.xml#p0516c08">第八</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_009.xml#p0521b06">第九</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_010.xml#p0526a19">第十</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_011.xml#p0531a09">第十一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_012.xml#p0535c02">第十二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_013.xml#p0540a21">第十三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_014.xml#p0545a04">第十四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_015.xml#p0551a12">第十五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_016.xml#p0556b14">第十六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_017.xml#p0562a18">第十七</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_018.xml#p0568a06">第十八</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_019.xml#p0572c19">第十九</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1602_020.xml#p0578b08">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

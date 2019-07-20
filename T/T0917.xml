@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0942c13">1 發心門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0942c17">2 供養門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0942c23">3 懺悔門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943a06">4 歸依門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943a11">5 發菩提心門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943a21">6 問遮難門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943b13">7 請師門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943b23">8 羯磨門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943c02">9 結戒門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943c06">10 修四攝門</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0943c15">11 十重戒門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0917_001.xml#p0942b27">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

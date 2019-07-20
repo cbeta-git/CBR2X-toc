@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0975a22">1 徃五天竺國傳</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0979b24">2 悟空入竺記</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0981b26">3 繼業西域行程</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0982c08">4 梵僧指空禪師傳考</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2089_001.xml#p0982c12">1 西天提納薄陀尊者浮圖銘并序</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2089_001.xml#p0985a22">2 檜巖寺重剏記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0985c19">5 西域僧鎖喃嚷結傳</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0987a17">6 南天竺婆羅門僧正碑</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0988a12">7 唐大和上東征傳</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0994b20">初謁大和上二首并序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0994c11">五言傷大和上傳燈逝</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0994c17">五言傷大和上</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0994c24">五言傷大和上</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0995a02">五言因使日本願謁鑑真大和上已滅度不覲尊顏嗟而述懷</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0995a11">七言傷大和上</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0995a23">8 唐王玄策中天竺行記并唐百官撰西域志逸文</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0995c14">9 唐常愍遊天竺記逸文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2089_001.xml#p0975a09">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

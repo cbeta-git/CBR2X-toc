@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X27/X27n0584_001.xml#p0550c16">目次</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_001.xml#p0551a01">天台法華玄義科文</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_006.xml#p0686a01">妙法蓮華經文句科文</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_012.xml#p0835a01">摩訶止觀科文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X27/X27n0584_001.xml#p0551a02">第一</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_002.xml#p0575a01">第二</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_003.xml#p0602a01">第三</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_004.xml#p0631a01">第四</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_005.xml#p0659a01">第五</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_006.xml#p0686a02">第六</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_007.xml#p0708a01">第七</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_008.xml#p0729a01">第八</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_009.xml#p0753a01">第九</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_010.xml#p0779a01">第十</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_011.xml#p0804a01">第十一</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_012.xml#p0835a02">第十二</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_013.xml#p0854a01">第十三</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_014.xml#p0876a01">第十四</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_015.xml#p0911a01">第十五</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0584_016.xml#p0936a01">第十六</cblink></li>
+</ol>
+</nav>
+</body></html>

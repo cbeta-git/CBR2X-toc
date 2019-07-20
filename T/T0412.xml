@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0777c11">1 忉利天宮神通品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0779a29">2 分身集會品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0779c14">3 觀眾生業緣品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0780b16">4 閻浮眾生業感品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0781c26">5 地獄名號品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0782b20">6 如來讚歎品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0783c27">7 利益存亡品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0784c02">8 閻羅王眾讚歎品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0785c22">9 稱佛名號品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0786b11">10 校量布施功德緣品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0787a15">11 地神護法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0787b21">12 見聞利益品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0789a24">13 囑累人天品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0412_001.xml#p0777c08">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0412_002.xml#p0783c24">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

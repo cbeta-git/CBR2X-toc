@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB383_001.xml#p0199a01">圖像</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_001.xml#p0199a11">像讚</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_001.xml#p0199a21">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB383_001.xml#p0199a21">何瑞徵序</cblink></li>
+		<li><cblink href="XML/J/J37/J37nB383_001.xml#p0199b11">張恂序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J37/J37nB383_001.xml#p0199c21">目錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_001.xml#p0200b03">住陝西西安府涇陽縣興福禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_002.xml#p0203c03">住西安府咸陽縣廣教禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_003.xml#p0206b03">住涇陽清福禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_004.xml#p0209a03">住長安青門燉煌禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_005.xml#p0212b03">住河南汝寧府新蔡縣金粟禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_006.xml#p0215b03">住新蔡金粟禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_007.xml#p0218a03">住長安大興善寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_008.xml#p0222a03">住汝州風穴白雲禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_009.xml#p0225a03">小參</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_010.xml#p0229b03">示眾</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_010.xml#p0231b01">機緣</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_010.xml#p0233a26">垂問</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_011.xml#p0233c03">拈頌古上</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_012.xml#p0237b03">拈頌古下</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_012.xml#p0241c01">附文</cblink>
+	<ol>
+		<li><cblink href="XML/J/J37/J37nB383_012.xml#p0241c01">後跋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J37/J37nB383_012.xml#p0241c21">功刻題名</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J37/J37nB383_001.xml#p0200b01">第一</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_002.xml#p0203c01">第二</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_003.xml#p0206b01">第三</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_004.xml#p0209a01">第四</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_005.xml#p0212b01">第五</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_006.xml#p0215b01">第六</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_007.xml#p0218a01">第七</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_008.xml#p0222a01">第八</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_009.xml#p0225a01">第九</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_010.xml#p0229b01">第十</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_011.xml#p0233c01">第十一</cblink></li>
+	<li><cblink href="XML/J/J37/J37nB383_012.xml#p0237b01">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1480_001.xml#p0542c11">懺法</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1480_001.xml#p0545b16">西天目山沙門明本再拜併題于卷之尾云</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1480_001.xml#p0546a02">徑山住持比丘希陵說偈讚云</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1480_001.xml#p0546a22">敬書畫像大悲心陀羅尼後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1480_001.xml#p0542c07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

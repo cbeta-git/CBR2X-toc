@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0802a01">南傳阿毗達摩攝義論目錄</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0803a03">分別攝心品第一</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0806a05">分別攝心所品第二</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0810a01">分別攝類別品第三</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0813a03">分別攝毗提品第四</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0817a01">分別攝離毘提品第五</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0821a06">分別色品第六</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0824a09">分別攝集法品第七</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0827a08">分別攝緣品第八</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0830a17">分別攝行境品第九</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0025_001.xml#p0802a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0247a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0247a01">超原序</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0247a21">藍理序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0247c03">上堂</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0248b25">小參</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0248c12">示眾</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0249c22">法語</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250a24">機緣</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250b04">問答</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250b19">佛事</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250b20">為聚雲萬祖忌日拈香</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250b27">禮聚雲萬祖真</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250b30">為蘇茂宇居士對靈</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c07">為思修禪人舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c10">為心池維那舉火</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c14">為崑山行者舉火</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c18">題讚</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c19">讚吹萬師翁</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c26">達磨渡江</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0250c30">隻履西歸</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a03">瑞林畫達磨請題</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a06">自讚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a11">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a12">頌臺山公案</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a15">頌末後句</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a18">頌國師三喚侍者</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a21">頌國師問紫璘童子全章</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a23">頌曹源一滴水</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a25">別峰上座係忠郡孝廉…</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251a29">示竹庵靜主</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251b02">書問</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251b03">上慶忠老人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251b08">寄映曹勤舊</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251b24">復汾陽覺師弟</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251c10">復友人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251c15">答慈庵靜主</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB438_001.xml#p0251c22">寄寶善居士</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0252c01">附塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB438_001.xml#p0247c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0966a07">1 布施持戒品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0966c03">2 界道品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0967b17">3 住食生品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0967c11">4 業品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0968c21">5 陰持入品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0970a04">6 行品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0970c24">7 因緣種品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0971b22">8 淨根品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0972a08">9 結使禪智品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0972c21">10 三十七無漏人品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0974a07">11 智品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0974c24">12 禪定品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0975c01">13 雜定品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0977a22">14 三十七品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0977c27">15 四諦品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0979a08">16 雜品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1553_001.xml#p0966a03">第一</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1553_002.xml#p0974a03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1631_001.xml#p0013b10">序迴諍論翻譯之記</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1631_001.xml#p0013b23">1 偈初分</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1631_001.xml#p0014a12">2 偈上分</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1631_001.xml#p0015a28">3 釋初分</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1631_001.xml#p0017c15">4 釋上分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1631_001.xml#p0013b23">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

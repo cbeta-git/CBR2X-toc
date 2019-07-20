@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0699a01">序</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0699b03">住蘄州紫雲山白雲禪寺</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0701c05">拈頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0701c06">世尊初生</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0701c11">女子出定</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0701c17">世尊拈花</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0701c22">殃崛救產難</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0701c28">德山托缽</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a03">百丈野狐</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a08">南泉斬貓</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a13">靈雲見桃花悟道因緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a18">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a19">與洗心水西堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a22">贈秋浦和尚之李峰</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a25">訪雲衲明和尚</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702a28">喜自覺和尚見訪</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b01">寄懷此藥和尚</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b04">示佛月照禪人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b07">示竹菴趙居士</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b10">贈含空和尚之東明</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b13">示惟一張文學</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b16">贈雄山賀鎮臺任江浙</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b19">住金陵祈澤禪寺募田頤靈監院乞</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b22">發棹歸楚</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b25">遷居白雲</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702b28">山居</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702c03">贊</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702c07">機緣</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702c25">佛事</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702c26">禮萬師翁塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0702c29">禮銕老和尚塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0703a04">禮虎丘隆祖塔</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB457_001.xml#p0703a07">禮三昧光和尚塔</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0703a10">行實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB457_001.xml#p0699b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

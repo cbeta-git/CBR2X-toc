@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660a10">初釋經題目</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660b01">二譯經人時</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660c03">三註述名號</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660c11">四釋經本文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660c11">初經家標序</cblink>
+		<ol>
+			<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660c11">初序始成正覺</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X37/X37n0669_001.xml#p0661a13">二金口親宣</cblink>
+		<ol>
+			<li><cblink href="XML/X/X37/X37n0669_001.xml#p0661a13">初出家證果</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0669_001.xml#p0660a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

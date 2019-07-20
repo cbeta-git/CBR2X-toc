@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0394a13">結界法第一</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0394a13">受𢦶法第二</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0397a16">除罪法第三</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0398a07">說𢦶法第四</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0398a14">安居法第五</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0398a15">自恣法第六</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0398a22">衣食淨法第八</cblink></li>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0398a22">雜法第九</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/F/F02/F02n0041_001.xml#p0394a13">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1878_001.xml#p0650c20">凡例</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1878_001.xml#p0651a15">1 發心</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1878_001.xml#p0651b28">2 簡教</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1878_001.xml#p0652a05">3 顯過</cblink>
+	<ol>
+		<li><cblink href="XML/T/T45/T45n1878_001.xml#p0652b12">1 真空觀</cblink></li>
+		<li><cblink href="XML/T/T45/T45n1878_001.xml#p0652c28">2 理事無礙觀</cblink></li>
+		<li><cblink href="XML/T/T45/T45n1878_001.xml#p0653c16">3 周遍含容觀</cblink></li>
+		<li><cblink href="XML/T/T45/T45n1878_001.xml#p0654a29">4 色空章十門止觀</cblink></li>
+		<li><cblink href="XML/T/T45/T45n1878_001.xml#p0654c01">5 理事圓融義</cblink>
+		<ol>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0654c01">1 理事俱融門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0654c10">2 理法隱顯門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0654c20">3 事法存泯門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655a01">4 事事相在門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655a15">5 一事隱現門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655a27">6 多事隱現門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655b08">7 事事相是門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655b23">8 一多存泯門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655c04">9 多事存泯門</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1878_001.xml#p0655c17">10 圓融具德門</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1878_001.xml#p0651a10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

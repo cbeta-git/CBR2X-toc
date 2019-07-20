@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0674b05">No. 1441-A 法會錄序</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0674c09">為霖禪師說</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0680b18">答程墨庵居士三問</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0681b02">五位宗旨</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0681b22">誡捕黃蛤文</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0681c21">李偉吾居士五十慶九文</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0682a19">遠公詠</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0682b04">黃宇珍十二影詩序</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0682b12">等韻指月序</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0682c05">五經宗趣序</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0682c24">重刻月上女經序</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0683b06">復弁山且拙和尚書</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0683c05">答檀園大師書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X72/X72n1441_001.xml#p0674c07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

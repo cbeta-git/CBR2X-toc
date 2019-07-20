@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T49/T49n2036_001.xml#p0477a03">佛祖歷代通載序</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_001.xml#p0477b22">華亭梅屋常禪師本傳通載序</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_001.xml#p0478a08">佛祖歷代通載凡例</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_001.xml#p0478b07">佛祖歷代通載目錄</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_001.xml#p0483b06">佛祖歷代通載</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T49/T49n2036_001.xml#p0483b02">第一</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_002.xml#p0490b18">第二</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_003.xml#p0495a11">第三</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_004.xml#p0501b23">第四</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_005.xml#p0508c03">第五</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_006.xml#p0517b11">第六</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_007.xml#p0525a11">第七</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_008.xml#p0535a17">第八</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_009.xml#p0544b03">第九</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_010.xml#p0554c16">第十</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_011.xml#p0563b20">第十一</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_012.xml#p0575c21">第十二</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_013.xml#p0588b13">第十三</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_014.xml#p0600a02">第十四</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_015.xml#p0614a14">第十五</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_016.xml#p0628c13">第十六</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_017.xml#p0642c04">第十七</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_018.xml#p0656b03">第十八</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_019.xml#p0668b05">第十九</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_020.xml#p0685a21">第二十</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_021.xml#p0701a02">第二十一</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2036_022.xml#p0715c03">第二十二</cblink></li>
+</ol>
+</nav>
+</body></html>

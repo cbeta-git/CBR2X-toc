@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0485a02">No. 720-A 序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0485b19">目次</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0486a21">釋本題目</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0488a01">釋初讚頌</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0492c08">釋前方便</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0494a05">釋白羯磨</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0494b04">釋戒經序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_002.xml#p0496b06">釋四波羅夷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_004.xml#p0512c01">釋十三僧伽婆尸沙法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_005.xml#p0528c22">釋二不定法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_006.xml#p0530b10">釋三十尼薩耆波逸提法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_009.xml#p0553c21">釋九十波逸提法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_014.xml#p0614a03">釋四悔過法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_015.xml#p0616c11">釋眾學法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_016.xml#p0631a12">釋七滅諍法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_016.xml#p0636b15">釋總結名目</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_016.xml#p0636b22">釋勸學餘法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_016.xml#p0636c18">釋七佛戒經</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_016.xml#p0639b05">釋結勸迴向</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0720_001.xml#p0486a18">第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_002.xml#p0496b03">第二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_003.xml#p0505a11">第三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_004.xml#p0512b19">第四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_005.xml#p0521b04">第五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_006.xml#p0530b07">第六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_007.xml#p0537a22">第七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_008.xml#p0545b19">第八</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_009.xml#p0553c18">第九</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_010.xml#p0563c15">第十</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_011.xml#p0574b22">第十一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_012.xml#p0584c19">第十二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_013.xml#p0595c12">第十三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_014.xml#p0607a10">第十四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_015.xml#p0616c08">第十五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0720_016.xml#p0631a09">第十六</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0757_001.xml#p0200a02">No. 757-A 起信論海東疏刊行序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0757_001.xml#p0200b01">大乘起信論疏記會本</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0757_001.xml#p0200b03">第一</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0757_002.xml#p0207b12">第二</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0757_003.xml#p0215a01">第三</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0757_004.xml#p0221b20">第四</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0757_005.xml#p0228a16">第五</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0757_006.xml#p0234b11">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1791_001.xml#p0434b28">1 羅婆那王勸請品(一)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_001.xml#p0438a14">2 問答品(一-二)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T39/T39n1791_001.xml#p0438a14">1</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_002.xml#p0441a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T39/T39n1791_002.xml#p0443a19">3 集一切法品(二-五)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T39/T39n1791_002.xml#p0443a19">1</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_003.xml#p0449b13">2</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_004.xml#p0457a11">3</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_005.xml#p0464b17">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T39/T39n1791_005.xml#p0470c25">4 佛心品(五-七)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T39/T39n1791_005.xml#p0470c25">1</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_006.xml#p0472b08">2</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_007.xml#p0480b22">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T39/T39n1791_007.xml#p0480c18">5 盧迦耶陀品(七)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_007.xml#p0482b06">6 涅槃品(七)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_007.xml#p0483b29">7 法身品(七)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0487c16">8 無常品(八)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0489a18">9 現證品(八)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0490a12">10 如來常無常品(八)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0490b23">11 如來藏性品(八)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0491b17">12 五法門品(八)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0492b11">13 恒河沙品(八)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0493a14">14 剎那品(八-九)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T39/T39n1791_008.xml#p0493a14">1</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_009.xml#p0495a17">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T39/T39n1791_009.xml#p0495b23">15 變化品(九)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_009.xml#p0496c24">16 斷食肉品(九)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_009.xml#p0498a10">17 陀羅尼品(九)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_009.xml#p0498b21">18 偈頌品(九-一〇)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T39/T39n1791_009.xml#p0498b21">1</cblink></li>
+		<li><cblink href="XML/T/T39/T39n1791_010.xml#p0501a06">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1791_001.xml#p0433b25">第一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_002.xml#p0441a02">第二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_003.xml#p0449b13">第三</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_004.xml#p0457a11">第四</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_005.xml#p0464b17">第五</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_006.xml#p0472b08">第六</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_007.xml#p0480b22">第七</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_008.xml#p0487c14">第八</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_009.xml#p0495a17">第九</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1791_010.xml#p0501a06">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

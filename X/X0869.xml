@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0869_001.xml#p0136a07">通序</cblink>
+	<ol>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0136a11">第一標舉論名</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0136b18">第二稱美人法</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0138a08">第三慶幸遭逢</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0138a21">第四排斥譏嫌</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0138b14">第五申述元情</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0138c05">第六宣明序意</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X54/X54n0869_001.xml#p0138c18">別序</cblink>
+	<ol>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0138c20">第一序次第</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0139a20">第二遣相</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0139b17">第三稱歎</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0869_001.xml#p0140a05">第四簡別是論非論</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0869_001.xml#p0136a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

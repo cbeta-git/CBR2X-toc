@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0037_001.xml#p0181a02">集量論本科段</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0184a03">現量品第一</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0191a01">為自比量品第二</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0199a01">為他比量品第三</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0212a01">觀喻似喻品第四</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0219a02">觀遮詮品第五</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0220a01">觀過類品第六</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B09/B09n0037_001.xml#p0234a02">附錄集量所破義</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0234a11">一成質難論之說</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0237a09">二正理論者之說</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0241a03">三勝論者之說</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0244a07">四數論者之說</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0037_001.xml#p0246a05">五彌曼薩論者之說</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0037_001.xml#p0179a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

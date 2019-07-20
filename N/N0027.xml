@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0329a01">論母</cblink>
+	<ol>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0329a09">一　〔一人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0334a04">二　〔二人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0336a04">三　〔三人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0337a13">四　〔四人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0341a07">五　〔五人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0343a02">六　〔六人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0343a11">七　〔七人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0344a03">八　〔八人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0344a06">九　〔九人〕</cblink></li>
+		<li><cblink href="XML/N/N50/N50n0027_001.xml#p0344a09">十　〔十心〕</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0344a13">第一章　一人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0352a10">第二章　二人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0362a09">第三章　三人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0376a12">第四章　四人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0408a02">第五章　五人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0415a08">第六章　六人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0416a09">第七章　七人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0418a13">第八章　八人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0419a05">第九章　九人</cblink></li>
+	<li><cblink href="XML/N/N50/N50n0027_001.xml#p0420a13">第十章　十人</cblink></li>
+</ol>
+</nav>
+</body></html>

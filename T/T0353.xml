@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0217a06">1 如來真實義功德章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0217b23">2 十受章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0218a04">3 三願章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0218a13">4 攝受章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0219b04">5 一乘章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0221a19">6 無邊聖諦章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0221b08">7 如來藏章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0221b16">8 法身章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0221c12">9 空義隱覆真實章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0221c24">10 一諦章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0221c29">11 一依章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0222a04">12 顛倒真實章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0222b04">13 自性清淨章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0222c08">14 真子章</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0222c27">15 勝鬘章</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0353_001.xml#p0217a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

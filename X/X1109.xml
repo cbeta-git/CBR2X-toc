@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1109_001.xml#p0717b07">終南家業目錄</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_001.xml#p0717c06">教觀撮要</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_001.xml#p0718b20">三觀塵露</cblink>
+	<ol>
+		<li><cblink href="XML/X/X59/X59n1109_001.xml#p0718b21">前文</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_001.xml#p0718c10">第一引本文</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_001.xml#p0718c22">第二敘釋</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_001.xml#p0721a24">第三示立意</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_001.xml#p0721c13">第四決異傳</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X59/X59n1109_001.xml#p0727b10">答日本芿法師教觀諸問</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0736a06">重受戒父</cblink>
+	<ol>
+		<li><cblink href="XML/X/X59/X59n1109_002.xml#p0736a10">初引據</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_002.xml#p0736b13">二立義</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_002.xml#p0736c06">三釋疑</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0737c24">戒體正義直言</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0742c24">四諍要論</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0745b17">衣制格言</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0747a16">論分部</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0748b04">論僧體</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0749a01">科釋雜心論出三有對文</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0750c10">受緣重關</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0752c06">論心用雙持犯結制罪</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0753c24">辨二止并八九名義</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0755b23">重釋事鈔持犯篇通塞文</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0756c09">重答欽師境想問</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0760b16"> 㭊然夢庵持犯四難</cblink>
+	<ol>
+		<li><cblink href="XML/X/X59/X59n1109_003.xml#p0760b17">前文</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_003.xml#p0760c08">雙單難辨</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_003.xml#p0763a11">止作難明</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1109_003.xml#p0764c18">事法難顯</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0765a09">徵顯定道二戒</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0766b06">略辨正用相從</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0766c03">略議第七非體</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0767b01">辨略教結犯</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1109_001.xml#p0717c04">上本</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_001.xml#p0727b08">上末</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0736a04">中本</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_002.xml#p0745b15">中末</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0752c04">下本</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1109_003.xml#p0760c06">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

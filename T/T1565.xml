@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1565_001.xml#p0039c05">初品法門翻譯之記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1565_001.xml#p0039c19">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1565_002.xml#p0044c18">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0424b09">第一篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0425b04">第二篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0425b13">第三篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0425c20">第四篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0426a14">第五篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0426b04">第六篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0426b17">第七篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0426c02">第八篇</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0426c10">結語．刊行記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1289_001.xml#p0424b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

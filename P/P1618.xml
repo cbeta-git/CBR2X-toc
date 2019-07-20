@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/P/P185/P185n1618_001.xml#p0163a01">會解敘</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_001.xml#p0167b10">會解所引教禪諸師名目</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_001.xml#p0168a07">開經偈</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_001.xml#p0168b01">首楞嚴經會解</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_020.xml#p0688b01">勸持敘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/P/P185/P185n1618_001.xml#p0168b01">第一</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_002.xml#p0183a01">第二</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_003.xml#p0213a01">第三</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_004.xml#p0241a01">第四</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_005.xml#p0267a01">第五</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_006.xml#p0289a01">第六</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_007.xml#p0315a01">第七</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_008.xml#p0349a01">第八</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_009.xml#p0381a01">第九</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_010.xml#p0403a01">第十</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_011.xml#p0427a01">第十一</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_012.xml#p0449a01">第十二</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_013.xml#p0479a01">第十三</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_014.xml#p0501a01">第十四</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_015.xml#p0525a01">第十五</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_016.xml#p0553a01">第十六</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_017.xml#p0591a01">第十七</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_018.xml#p0617a01">第十八</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_019.xml#p0645a01">第十九</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1618_020.xml#p0665a01">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

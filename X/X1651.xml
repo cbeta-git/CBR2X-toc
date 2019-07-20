@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1651_001.xml#p0368a04">玄弉三藏師資傳叢書目次</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_001.xml#p0368b07">No. 1651-1 大唐故三藏玄弉法師行狀一卷</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_001.xml#p0375a17">No. 1651-2 大唐三藏大遍覺法師塔銘(并序)</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_001.xml#p0377b11">No. 1651-3 大唐三藏玄奘法師表啟一卷</cblink>
+	<ol>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0377b14">進經論等表</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0377c19">進西域記表</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0378a21">請　大宗文皇帝作經序并題經表</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0378b08">大宗文皇帝報請作經序　勅書</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0378b16">大宗文皇帝勅書表</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0378c10">謝納袈裟剃刀表一首</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0379a08">謝大宗文皇帝製三藏聖教序表</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0379a24">大宗文皇帝報玄奘法師謝表　勅書</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0379b06">謝述聖記啟</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0379b20">皇帝在春宮日報玄奘法師謝啟書</cblink>
+		<ol>
+			<li><cblink href="XML/X/X88/X88n1651_001.xml#p0379c01">大宗文皇帝與長命婆羅門書</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0379c11">玄奘師玄法師請經流行表一首</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0380a16">玄奘法師謝東宮書述聖記啟</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0380b06">請經出流行啟</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0380c01">皇帝在春宮日所寫六門陀羅尼經及題菩薩藏經等謝啟</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1651_001.xml#p0380c16">玄奘法師請附訊物及書往西域表</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0381a15">No. 1651-4 大慈恩寺大法師基公塔銘(并序)</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0381c08">No. 1651-5 大唐大慈恩寺法師基公碑</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0382b10">No. 1651-6</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0382c01">No. 1651-7 大唐大慈恩寺大師𦘕讚</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0383a17">No. 1651-8 心經幽贊序</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0383b19">No. 1651-9 唐故白馬寺主翻譯惠沼神塔碑(并序)</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0384b08">No. 1651-10 大周西明寺故大德圓測法師佛舍利塔銘(并序)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1651_001.xml#p0368b04">第一</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1651_002.xml#p0381a12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

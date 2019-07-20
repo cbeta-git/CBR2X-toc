@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1634_001.xml#p0036a24">1 義品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1634_002.xml#p0042c11">2 譏論空品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1634_002.xml#p0046a24">3 順修諸行品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1634_001.xml#p0036a20">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1634_002.xml#p0042c07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

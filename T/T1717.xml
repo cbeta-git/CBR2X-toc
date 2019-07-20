@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1717_001.xml#p0815a03">釋籤緣起序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1717_001.xml#p0815b02">第一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_002.xml#p0822c08">第二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_003.xml#p0830b02">第三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_004.xml#p0838b20">第四</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_005.xml#p0846b21">第五</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_006.xml#p0854a02">第六</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_007.xml#p0861b10">第七</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_008.xml#p0869a04">第八</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_009.xml#p0876a22">第九</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_010.xml#p0883b20">第十</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_011.xml#p0891a02">第十一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_012.xml#p0897c10">第十二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_013.xml#p0904c06">第十三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_014.xml#p0913b06">第十四</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_015.xml#p0920a12">第十五</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_016.xml#p0927b24">第十六</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_017.xml#p0934b16">第十七</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_018.xml#p0941c15">第十八</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_019.xml#p0948b12">第十九</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1717_020.xml#p0955c12">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0317_001.xml#p0635a02">No. 317-A 序</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_001.xml#p0635c03">No. 317-B 募疏</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_001.xml#p0636b04">楞嚴經正見</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_010.xml#p0746c15">No. 317-C 首楞嚴經正見後序</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_010.xml#p0747a19">No. 317-D 後序</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_010.xml#p0747c03">No. 317-E 無名正見禪人後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0317_001.xml#p0636b06">第一</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_002.xml#p0643c13">第二</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_003.xml#p0656b22">第三</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_004.xml#p0668b21">第四</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_005.xml#p0682c21">第五</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_006.xml#p0692c23">第六</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_007.xml#p0704c04">第七</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_008.xml#p0712c15">第八</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_009.xml#p0729b19">第九</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0317_010.xml#p0738b08">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

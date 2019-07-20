@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1375_001.xml#p0034b09">語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b07">讚頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b08">讚密庵禪師</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b11">題廬山楞伽院</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b14">題廬山圓通</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b16">題烈山</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b19">題長干塔</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038b22">送雪峰化主</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038c01">送聞兄持鉢</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038c05">送觀禪客</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038c08">送道者幹瀾溪橋</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1375_001.xml#p0038c10">贈不欺信公監總餘杭建接待</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1375_001.xml#p0034b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

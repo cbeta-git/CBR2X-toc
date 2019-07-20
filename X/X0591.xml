@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0591_001.xml#p0552c03">釋籤緣起序指明</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0591_001.xml#p0556a16">No. 591-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0591_001.xml#p0552c05">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

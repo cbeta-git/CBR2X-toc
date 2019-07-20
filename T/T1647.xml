@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1647_001.xml#p0375a07">1 思擇品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_001.xml#p0379b27">2 略說品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_001.xml#p0380b28">3 分別苦諦品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_002.xml#p0386b16">4 思量集諦品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_003.xml#p0389a27">5 分別滅諦品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_004.xml#p0392a25">6 分別道諦品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1647_001.xml#p0375a03">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_002.xml#p0383b02">第二</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_003.xml#p0389a23">第三</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1647_004.xml#p0392a21">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

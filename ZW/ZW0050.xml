@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0397a04">前言</cblink></li>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0397a16">一、隋代入藏考辨</cblink></li>
+	<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0401a19">二、天聖入藏考辨</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0401a20">１、入藏時間</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0402a21">２、所繫帙號</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0403a11">３、從《天聖釋教總錄》看天台教典的入藏及帙號</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0405a20">４、問題的提出</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0407a17">５、《開寶藏》的流通形態</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0409a13">６、問題的癥結</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0412a07">７、結論</cblink></li>
+		<li><cblink href="XML/ZW/ZW05/ZW05n0050_001.xml#p0412a22">８、餘論</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

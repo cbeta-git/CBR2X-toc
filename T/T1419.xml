@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0936a03">造像量度經序</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0936b06">造像量度經序</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0936c12">佛說造像量度經序</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0937c04">佛像量度經序</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0938a24">佛像量度經序</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0938b26">造像量度經引</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0941b06">佛說造像量度經解</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0945c16">造像量度經續補</cblink>
+	<ol>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0945c19">一菩薩像</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0947b11">二九搩度</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0947c21">三八搩度</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0948b01">四護法像</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0948c18">五威儀式</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0950a05">六妄造誡</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0950b22">七徙靈略</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0951a04">八裝藏略</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1419_001.xml#p0953a13">九造像福</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1419_001.xml#p0941b02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

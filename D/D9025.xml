@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D61/D61n9025_001.xml#p0001b01">手書題記</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_001.xml#p0003b03">序</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_001.xml#p0005b01">無量壽經上</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_002.xml#p0066b03">無量壽經卷下</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_003.xml#p0125b03">観無量壽經</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_004.xml#p0157b03">阿弥陀經</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_004.xml#p0179a02">後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D61/D61n9025_001.xml#p0003b01">第一</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_002.xml#p0066b01">第二</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_003.xml#p0125b01">第三</cblink></li>
+	<li><cblink href="XML/D/D61/D61n9025_004.xml#p0157b01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

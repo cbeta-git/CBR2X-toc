@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0243a02">No. 1078-A 刻準提心要序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0243a22">準提心要序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0243c09">寶像記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244a11">集提印法</cblink>
+	<ol>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244a12">大三昧印</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244a16">金剛拳印</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244a21">準提印</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244b05">响聲訣</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244b13">准提印外式</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244b19">准提印內式</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244c01">金剛拳</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244c08">大三昧印</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0244c18">持誦儀軌</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0245c21">准提呪說</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1078_001.xml#p0243a21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

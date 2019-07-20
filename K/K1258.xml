@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/K/K35/K35n1258_001.xml#p0729a03">序</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_001.xml#p0730a10">輪迴文</cblink>
+	<ol>
+		<li><cblink href="XML/K/K35/K35n1258_001.xml#p0730a10">心字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_001.xml#p0731c10">心字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_001.xml#p0733c08">侵字正迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_002.xml#p0735a02">侵字正迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_002.xml#p0735c17">侵字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_002.xml#p0737b14">好字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_003.xml#p0739b02">好字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_003.xml#p0740c12">述字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_003.xml#p0742b06">述字倒迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_004.xml#p0743b02">述字倒迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_004.xml#p0744a08">吟字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_004.xml#p0745c01">吟字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_005.xml#p0747b02">心字拘就觀字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_005.xml#p0748c10">心字拘就苦字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_005.xml#p0750b06">心字拘就聞字正迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_006.xml#p0751b02">心字拘就聞字正迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_006.xml#p0752a08">心字拘就譽字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_006.xml#p0753c05">心字拘就最字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_007.xml#p0755b02">心字拘就依字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_007.xml#p0757a02">心字拘就外字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_007.xml#p0758b14">心字拘就機字倒迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_008.xml#p0759b02">心字拘就機字倒迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_008.xml#p0760a10">吟字拘就會字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_008.xml#p0761c02">吟字拘就歸字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_009.xml#p0763b02">吟字拘就觀字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_009.xml#p0765a08">吟字拘就苦字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_009.xml#p0766c18">吟字拘就聞字正迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_010.xml#p0768a02">吟字拘就聞字正迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_010.xml#p0768c12">吟字拘就譽字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_010.xml#p0770b11">吟字拘就最字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_011.xml#p0772b02">吟字拘就依字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_011.xml#p0773c14">侵字拘就聞字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_011.xml#p0775b07">侵字拘就譽字倒迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_012.xml#p0776b02">侵字拘就譽字倒迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_012.xml#p0777a08">侵字拘就最字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_012.xml#p0778b17">侵字拘就依字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_013.xml#p0780b02">侵字拘就外字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_013.xml#p0782a01">侵字拘就機字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_013.xml#p0783b18">侵字拘就會字正迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_014.xml#p0784c02">侵字拘就會字正迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_014.xml#p0785b10">侵字拘就歸字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_014.xml#p0787a13">述字拘就聞字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_015.xml#p0789a02">述字拘就譽字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_015.xml#p0790b18">述字拘就觀字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_015.xml#p0792a18">述字拘就苦字倒迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_016.xml#p0793b02">述字拘就苦字倒迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_016.xml#p0794a09">述字拘就會字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_016.xml#p0795c04">述字拘就歸字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_017.xml#p0797b02">述字拘就外字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_017.xml#p0799a03">述字拘就機字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_017.xml#p0800c05">好字拘就觀字正迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_018.xml#p0801c02">好字拘就觀字正迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_018.xml#p0802b09">好字拘就苦字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_018.xml#p0804a14">好字拘就會字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_019.xml#p0806a02">好字拘就歸字倒迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_019.xml#p0807b12">好字拘就最字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_019.xml#p0809a04">好字拘就依字倒迴文一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_020.xml#p0810a02">好字拘就依字倒迴文二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_020.xml#p0810c08">好字拘就外字正迴文</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_020.xml#p0812a17">好字拘就機字倒迴文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/K/K35/K35n1258_021.xml#p0814a01">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/K/K35/K35n1258_021.xml#p0814a02">偈頌一</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_022.xml#p0815b02">偈頌二</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_023.xml#p0816b02">偈頌三</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_024.xml#p0818a02">偈頌四</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1258_025.xml#p0819a02">偈頌五</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/K/K35/K35n1258_001.xml#p0729a02">第一</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_002.xml#p0735a01">第二</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_003.xml#p0739b01">第三</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_004.xml#p0743b01">第四</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_005.xml#p0747b01">第五</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_006.xml#p0751b01">第六</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_007.xml#p0755b01">第七</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_008.xml#p0759b01">第八</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_009.xml#p0763b01">第九</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_010.xml#p0768a01">第十</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_011.xml#p0772b01">第十一</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_012.xml#p0776b01">第十二</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_013.xml#p0780b01">第十三</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_014.xml#p0784c01">第十四</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_015.xml#p0789a01">第十五</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_016.xml#p0793b01">第十六</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_017.xml#p0797b01">第十七</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_018.xml#p0801c01">第十八</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_019.xml#p0806a01">第十九</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_020.xml#p0810a01">第二十</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_021.xml#p0814a01">第二十一</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_022.xml#p0815b01">第二十二</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_023.xml#p0816b01">第二十三</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_024.xml#p0818a01">第二十四</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1258_025.xml#p0819a01">第二十五</cblink></li>
+</ol>
+</nav>
+</body></html>

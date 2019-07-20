@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB428_001.xml#p0903a01">序</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_001.xml#p0903b08">目錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_001.xml#p0904a04">上堂一</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_002.xml#p0907a04">上堂二</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_002.xml#p0908c02">機緣</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_002.xml#p0909a22">法語</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0909a23">示求戒諸禪者</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0909b11">示禪者</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0909c13">示鑿池諸禪者</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0909c20">示映天飯頭</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0909c25">示憨岳李居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0910a01">職事榜</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_002.xml#p0910a11">安禪榜</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b04">頌古</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b05">拈花微笑</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b07">打車打牛</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b10">德山托缽</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b13">百丈野狐</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b16">文殊問菴提遮女</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b19">南泉斬貓</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b21">詩偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b22">送雲麓洪居士進京</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b25">示石鼓山秀柏座主</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b28">示雪文上座</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c01">與休休王居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c04">示知客</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c07">與含焰璽上人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c10">與含輝成明居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c13">示旲彰禪人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c16">與麟趾禪人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c19">與心拙禪人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c22">贈一門禪人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c25">與另別禪人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910c28">與旵拙禪人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a01">示碧徵監寺</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a04">示吼一茶頭</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a07">示山海淨能道人</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a10">示省呆監寺</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a13">示萬德侍者</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a16">示幻如直歲</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a19">示晟修蔡居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a21">示安南僧</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a23">示西域僧</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a27">寄文周大德</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911a30">送不昧長老歸天龍</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b04">寄五羊實行老上座</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b07">至滇</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b09">衡陽春發</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b12">過洞庭</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b14">廬山臥龍菴</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b16">佛手巖</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b18">憶滇</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b21">雲居懷古</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b23">示明廣侍者</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b26">懷出拙禪者</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911b29">示堪嗣監寺</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c02">師離雲南雲臺含拙偕諸耆宿懇求垂訓乃口占一偈示之曰</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c05">真贊</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c06">慈雲常住請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c10">含拙上座請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c13">旵拙上座請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c17">碧天禪人請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c21">含輝居士請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c24">古樵上座請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0911c28">妙融王居士請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a02">道能石居士請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a06">李二道人請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a09">大幢上座請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a14">不昧上座請</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a19">尼山海道人請</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a23">書問</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912a24">復九蓮大幢長老</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912b04">復天龍不昧長老</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912b11">佛事</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0912b22">行實</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0913b13">法派</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0913c01">附嗣燈胤禪師語錄</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0913c01">序</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0914a11">上堂</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0916a23">機緣</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB428_003.xml#p0916c06">行實</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB428_001.xml#p0904a01">第一</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_002.xml#p0907a01">第二</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB428_003.xml#p0910b01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

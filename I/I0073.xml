@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0191a00">之一　南面第一層</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0193a00">之九　東面上層上</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0192a00">之二　南面第二層</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0193b00">之三　西南面第二層</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0194a00">之四　西北面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0194c00">之五　東面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0195a00">之六　東南面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0195d00">之七　北面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0196a00">之八　南面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0196b00">之九　西南面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0197a00">之十　西面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0197b00">之十一　西北面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0198a00">之十二　北面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0198b00">之十三　東北面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0199a00">之十四　東面</cblink></li>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0199b00">之十五　東南面</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/I/I01/I01n0073_001.xml#p0191a00">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

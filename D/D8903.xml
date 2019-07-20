@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D40/D40n8903_001.xml#p0001b01">序</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_001.xml#p0003b01">鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D40/D40n8903_001.xml#p0003b01">卷一上</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_001.xml#p0075b01">卷一下</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_002.xml#p0135b01">卷二上</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_002.xml#p0208b01">卷二下</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_003.xml#p0273b01">卷三上</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_003.xml#p0359b01">卷三下</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_004.xml#p0434b01">卷四上</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_004.xml#p0517b01">卷四下</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_005.xml#p0587b01">卷五上</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_005.xml#p0635b01">卷五下</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_006.xml#p0694b01">卷六上</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_006.xml#p0749b01">卷六下</cblink></li>
+	<li><cblink href="XML/D/D40/D40n8903_007.xml#p0800b01">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

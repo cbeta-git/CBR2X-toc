@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0310a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0310a14">錄文一：大藏《佛說觀無量壽佛經》</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0310a17">三福</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0311a05">九品</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0311a16">上品中生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0312a06">上品下生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0312a15">中品上生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0313a01">中品中生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0313a10">中品下生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0313a17">下品上生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0314a04">下品中生</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0314a14">下品下生</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0314a24">十六觀</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0314a25">日觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a03">水觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a06">地觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a09">樹觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a12">池觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a15">總觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a18">寶像觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a21">華座觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0315a23">法身觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a01">觀世音觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a04">大勢至觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a07">普觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a10">丈六金身觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a13">上品觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a16">中品觀</cblink></li>
+			<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0316a19">下品觀</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0317a01">錄文二：普勸持念阿彌陀佛</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0039_001.xml#p0318a17">錄文三：再三相勸念彌陀</cblink></li>
+</ol>
+</nav>
+</body></html>

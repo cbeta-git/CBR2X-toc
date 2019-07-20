@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0325a01">明方序</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0325a21">黃承昊序</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0325c04">示眾</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0326b01">頌古</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a08">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a09">示禪人</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a12">示妙觀念佛是誰</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a15">荅雪庭信禪師(附來偈)</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a20">示自聞</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a23">示靜周</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a26">示寄緣</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328a28">示江渡</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b01">示葦渡</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b04">示萬如</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b07">示芥菴</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b10">雲棲六景</cblink>
+		<ol>
+			<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b11">回耀峰</cblink></li>
+			<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b14">壁觀峰</cblink></li>
+			<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b17">寶刀隴</cblink></li>
+			<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b20">青龍泉</cblink></li>
+			<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b23">聖義泉</cblink></li>
+			<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b26">金液泉</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328b29">詠雪</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328c02">風車</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328c05">牧牛圖</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328c09">四威儀</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0328c14">十二時歌</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0329a09">十究竟</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0329a30">清泉</cblink></li>
+		<li><cblink href="XML/J/J32/J32nB275_001.xml#p0329b02">巡香板銘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0329b11">行狀</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0329c12">跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J32/J32nB275_001.xml#p0325c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

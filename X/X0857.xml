@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0857_001.xml#p0917c06">No. 857-A 因明入正理論集解自序</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0857_001.xml#p0918b08">因明入正理論集解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0857_001.xml#p0918b10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

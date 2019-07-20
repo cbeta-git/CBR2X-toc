@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0401b09">No. 931-A 重刻十不二門指要鈔詳解引</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0401c01">重刻十不二門指要鈔詳解凡例(九條)</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0402a05">No. 931-B 合刻十不二門指要鈔詳解序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0402b05">No. 931-C 十不二門指要鈔詳解總序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0403a01">No. 931-D 十不二門指要鈔科</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0407a01">十不二門</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0407a13">本迹二十重玅</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0408a06">十不二門指要鈔序詳解</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0411c12">十不二門指要鈔詳解</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_002.xml#p0489c02">No. 931-E 合刻十不二門指要鈔詳解䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0411c06">上本</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_001.xml#p0432b18">上末</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_002.xml#p0450c11">下本</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0931_002.xml#p0472c03">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0491b05">No. 1157-A 淨土決前引</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0491c04">淨土決目次</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0491c23">天台智者淨土十疑論</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0491c24">宋無為居士楊傑淨土十疑論序</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0492a01">一心三觀</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0492a23">壽禪師勸修淨業</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0493c13">行脚求師</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0494c10">宗本答問</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0495b03">三大聖人現身勸修淨土</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0495c23">經論指歸淨土</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0497a21">祖師指歸西方</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0501c06">西方偈贊</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0502a22">西方五請</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0504a08">念佛八偈</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1157_001.xml#p0491c20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

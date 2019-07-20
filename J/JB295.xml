@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB295_001.xml#p0001a01">序</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_001.xml#p0001b04">梵述</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_002.xml#p0004a04">燈餘</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_003.xml#p0008b04">華雨</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_004.xml#p0010b04">蓮宗</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_005.xml#p0012a04">慈航</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_006.xml#p0014a04">世辟</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_007.xml#p0016c04">儒流</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_008.xml#p0019c04">慧業</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_009.xml#p0021c04">玉卮</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_010.xml#p0024a04">稗乘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB295_001.xml#p0001b01">第一</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_002.xml#p0004a01">第二</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_003.xml#p0008b01">第三</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_004.xml#p0010b01">第四</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_005.xml#p0012a01">第五</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_006.xml#p0014a01">第六</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_007.xml#p0016c01">第七</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_008.xml#p0019c01">第八</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_009.xml#p0021c01">第九</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB295_010.xml#p0024a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

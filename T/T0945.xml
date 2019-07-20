@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0945_001.xml#p0105b25">新印大佛頂首楞嚴經序</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_001.xml#p0105c21">大佛頂如來萬行首楞嚴經序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0945_001.xml#p0106b02">第一</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_002.xml#p0110a11">第二</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_003.xml#p0114c16">第三</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_004.xml#p0119c02">第四</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_005.xml#p0124b09">第五</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_006.xml#p0128b10">第六</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_007.xml#p0133a02">第七</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_008.xml#p0141b17">第八</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_009.xml#p0146a07">第九</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0945_010.xml#p0151b19">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0426_001.xml#p0695a06">前文</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0426_001.xml#p0695a09">問答</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0426_001.xml#p0700c13">續問答</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0426_001.xml#p0702b06">答問</cblink>
+	<ol>
+		<li><cblink href="XML/X/X22/X22n0426_001.xml#p0702b07">答虞德園</cblink></li>
+		<li><cblink href="XML/X/X22/X22n0426_001.xml#p0702b12">共命鳥</cblink></li>
+		<li><cblink href="XML/X/X22/X22n0426_001.xml#p0702c10">白鶴</cblink></li>
+		<li><cblink href="XML/X/X22/X22n0426_001.xml#p0702c19">耳所未聞目所未見</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0426_001.xml#p0695a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

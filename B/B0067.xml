@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0621a13">序</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0622a13">本書譯例</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0622b16">歸敬頌</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0623a12">造者殊勝</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0624b20">教授殊勝</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0626b15">聞說軌理</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0629a02">親近善士</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_002.xml#p0633b16">修習軌理</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_002.xml#p0638b07">暇滿</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_003.xml#p0640b04">道次引導</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_003.xml#p0642b15">念死無常</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_003.xml#p0646a04">三惡趣苦</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_004.xml#p0649a22">歸依三寶</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_004.xml#p0654b11">深信業果</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_006.xml#p0665a02">希求解脫</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_006.xml#p0665b02">思惟苦諦</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_006.xml#p0670a01">思惟集諦</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_007.xml#p0673a02">十二緣起</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_007.xml#p0674b20">除邪分別</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_007.xml#p0675a23">解脫正道</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_008.xml#p0678b14">入大乘門</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_008.xml#p0679a11">菩提心次第</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_009.xml#p0686a15">儀軌受法</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_009.xml#p0690a11">學菩薩行</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_010.xml#p0695b03">布施波羅蜜多</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_011.xml#p0700b01">持戒波羅蜜多</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_011.xml#p0701b13">忍辱波羅蜜多</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_012.xml#p0706b20">精進波羅蜜多</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_013.xml#p0711b05">靜慮波羅蜜多</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_013.xml#p0711b20">般若波羅蜜多</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_013.xml#p0714a06">四攝法</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_014.xml#p0715a14">奢摩他</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_016.xml#p0732a12">毗缽舍那</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_024.xml#p0775a01">特學金剛乘法</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_024.xml#p0775b24">後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0067_001.xml#p0621a01">第一</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_002.xml#p0631b13">第二</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_003.xml#p0640b01">第三</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_004.xml#p0648a13">第四</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_005.xml#p0657a13">第五</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_006.xml#p0665a01">第六</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_007.xml#p0673a01">第七</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_008.xml#p0678b13">第八</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_009.xml#p0684b13">第九</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_010.xml#p0691a13">第十</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_011.xml#p0698a13">第十一</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_012.xml#p0705a13">第十二</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_013.xml#p0710b01">第十三</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_014.xml#p0715a13">第十四</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_015.xml#p0720b13">第十五</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_016.xml#p0726a01">第十六</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_017.xml#p0732a13">第十七</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_018.xml#p0737b13">第十八</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_019.xml#p0742b01">第十九</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_020.xml#p0747b13">第二十</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_021.xml#p0753b13">第二十一</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_022.xml#p0759b13">第二十二</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_023.xml#p0765b01">第二十三</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0067_024.xml#p0770b01">第二十四</cblink></li>
+</ol>
+</nav>
+</body></html>

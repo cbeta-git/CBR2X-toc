@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0417c07">大梵天王問佛決疑經凡例</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0418a11">目錄</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0418b22">法付囑品第一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0418c22">梵王決疑品第二</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0419b05">梵王□悟密意□第三</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0419c05">比丘得道品第四</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0420b05">諸王得益品第五</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0420c02">諸國安靜品第六</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0420c24">佛告般涅槃品第七</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0421a18">正像末法品第八</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0421c13">略說邪正戒品第九</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0422a01">辨邪正□品第十</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0423a22">諸法實相品第十一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0423c09">禪定品第十二</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0424a03">涅槃品第十三</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0424b03">如來病現品第十四</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0425b02">生死品第十五</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0426b23">梵王請益外道品第十六</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0431b15">劫末說法真偽品第十七</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0432a11">略說三寶品第十八</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0432a23">真如□□品第十九</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0433a08">佛名義品第二十</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0436a22">降魔品第二十一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0436c01">業識品第二十二</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0439c12">囑累品第二十三</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0440a11">四眾誓願品第二十四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0026_001.xml#p0418b20">第一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0026_002.xml#p0431b13">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

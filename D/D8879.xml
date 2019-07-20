@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D23/D23n8879_001.xml#p0001b01">序</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_001.xml#p0005b01">題辭</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_001.xml#p0008b01">訂正</cblink>
+	<ol>
+		<li><cblink href="XML/D/D23/D23n8879_001.xml#p0008b05">初題目</cblink></li>
+		<li><cblink href="XML/D/D23/D23n8879_001.xml#p0010a07">二論主</cblink></li>
+		<li><cblink href="XML/D/D23/D23n8879_001.xml#p0010b10">三譯師</cblink></li>
+		<li><cblink href="XML/D/D23/D23n8879_001.xml#p0011b04">四正文</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D23/D23n8879_001.xml#p0008b01">第一</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_002.xml#p0131b01">第二</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_003.xml#p0242b01">第三</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_004.xml#p0339b01">第四</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_005.xml#p0433b01">第五</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_006.xml#p0522b01">第六</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_007.xml#p0618b01">第七</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_008.xml#p0722b01">第八</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_009.xml#p0832b01">第九</cblink></li>
+	<li><cblink href="XML/D/D23/D23n8879_010.xml#p0936b01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1175_001.xml#p0139c09">事例</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1175_001.xml#p0141a17">罰例</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1175_001.xml#p0142a21">疏文</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1175_001.xml#p0142c08">No. 1175-A 普仁七日念佛記(附錄)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1175_001.xml#p0139c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

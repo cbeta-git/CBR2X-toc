@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X80/X80n1564_001.xml#p0001a02">No. 1564-A 重刊五燈會元敘</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1564_001.xml#p0001b08">No. 1564-B 重刊五燈會元序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X80/X80n1564_001.xml#p0002a19">第一</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1564_002.xml#p0012b09">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

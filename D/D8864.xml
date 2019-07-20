@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D19/D19n8864_001.xml#p0001b01">序</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_001.xml#p0007b03">三劫義第一</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_001.xml#p0013b01">十住心義第二</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_001.xml#p0028a03">住心因由義第三</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_001.xml#p0040b02">菩提心心相義第四</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_002.xml#p0050b03">湛寂寂然界義第五</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_002.xml#p0061a08">寂然界體法空義第六</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_002.xml#p0081b03">湛寂寂然界章段義第七</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_002.xml#p0084b02">兩種外道義第八</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_002.xml#p0088b03">寂然界攝屬義第九</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_003.xml#p0096b03">真言門脩行菩薩義第十</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_003.xml#p0112a04">警覺八九住心分別義第十一</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_003.xml#p0123b01">警覺初地八地同異義第十二</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_003.xml#p0131a01">一乘圓教不經劫義第十三</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D19/D19n8864_001.xml#p0007b01">第一</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_002.xml#p0050b01">第二</cblink></li>
+	<li><cblink href="XML/D/D19/D19n8864_003.xml#p0096b01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

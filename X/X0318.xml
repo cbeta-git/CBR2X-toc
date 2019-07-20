@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0318_001.xml#p0749a02">No. 318-A 楞嚴宗通緣起</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_001.xml#p0749c04">楞嚴經宗通</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_010.xml#p0952b07">No. 318-B 書楞嚴宗通後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0318_001.xml#p0749c06">第一</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_002.xml#p0767b06">第二</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_003.xml#p0787c01">第三</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_004.xml#p0806c19">第四</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_005.xml#p0827c06">第五</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_006.xml#p0848a09">第六</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_007.xml#p0877a11">第七</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_008.xml#p0889a04">第八</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_009.xml#p0921a01">第九</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0318_010.xml#p0932c16">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

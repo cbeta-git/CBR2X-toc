@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0323a02">No. 243-A 大方廣圓覺經疏序</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0323c13">No. 243-B 大方廣圓覺經大疏(本序)</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0324b15">大方廣圓覺經大疏目錄</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0325a08">前文</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0325a18">一教起因緣</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0325c21">二藏乘分攝</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0327b02">三權實對辨</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0331c11">四分齊幽深</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0332b24">五所被機宜</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0333a03">六能詮體性</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0333c08">七宗趣通別</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0334b20">八修證階差</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0335a02">九敘昔翻傳</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0335a18">十隨文解釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X09/X09n0243_001.xml#p0335a21">初解題目</cblink></li>
+		<li><cblink href="XML/X/X09/X09n0243_001.xml#p0337a06">後釋本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X09/X09n0243_003.xml#p0418b13">No. 243-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0325a05">上卷之一</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0331c09">上卷之二</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0339c04">上卷之三</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_001.xml#p0347c01">上卷之四</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_002.xml#p0356a16">中卷之一</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_002.xml#p0364a16">中卷之二</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_002.xml#p0370c21">中卷之三</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_002.xml#p0380a07">中卷之四</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_003.xml#p0389b23">下卷之一</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_003.xml#p0398b10">下卷之二</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_003.xml#p0405c08">下卷之三</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0243_003.xml#p0410c20">下卷之四</cblink></li>
+</ol>
+</nav>
+</body></html>

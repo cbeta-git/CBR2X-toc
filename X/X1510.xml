@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X75/X75n1510_001.xml#p0020a03">No. 1510-A 釋迦如來行蹟頌序</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1510_001.xml#p0020b03">自序</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1510_001.xml#p0020c21">釋迦如來行蹟頌</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1510_002.xml#p0057c12">No. 1510-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X75/X75n1510_001.xml#p0020c21">第一</cblink></li>
+	<li><cblink href="XML/X/X75/X75n1510_002.xml#p0038a16">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

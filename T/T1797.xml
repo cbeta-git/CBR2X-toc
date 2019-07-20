@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1797_001.xml#p0790a09">1 供養次第法真言行學處品(上)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1797_001.xml#p0793c01">2 增益守護清淨行品(上)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1797_002.xml#p0798c21">3 供養儀式品(下)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1797_002.xml#p0803b27">4 持誦法則品(下)</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1797_002.xml#p0806a21">5 真言事業品(下)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1797_001.xml#p0790a03">上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1797_002.xml#p0798c17">下</cblink></li>
+</ol>
+</nav>
+</body></html>

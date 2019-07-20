@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/K/K35/K35n1260_001.xml#p0959a02">序</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_001.xml#p0960a08">逍遙詠一</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_002.xml#p0963b02">逍遙詠二</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_003.xml#p0966b02">逍遙詠三</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_004.xml#p0969b02">逍遙詠四</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_005.xml#p0972b02">逍遙詠五</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_006.xml#p0975b02">逍遙詠六</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_007.xml#p0979a02">逍遙詠七</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_008.xml#p0982c02">逍遙詠八</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_009.xml#p0986b02">逍遙詠九</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_010.xml#p0990a02">逍遙詠十</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_011.xml#p0993c02">歌賦</cblink>
+	<ol>
+		<li><cblink href="XML/K/K35/K35n1260_011.xml#p0993c05">逍遙謌一首</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1260_011.xml#p0995b01">逍遙賦一首</cblink></li>
+		<li><cblink href="XML/K/K35/K35n1260_011.xml#p0996c01">周穆王宴瑤池賦</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/K/K35/K35n1260_001.xml#p0960a07">第一</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_002.xml#p0963b01">第二</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_003.xml#p0966b01">第三</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_004.xml#p0969b01">第四</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_005.xml#p0972b01">第五</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_006.xml#p0975b01">第六</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_007.xml#p0979a01">第七</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_008.xml#p0982c01">第八</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_009.xml#p0986b01">第九</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_010.xml#p0990a01">第十</cblink></li>
+	<li><cblink href="XML/K/K35/K35n1260_011.xml#p0993c01">第十一</cblink></li>
+</ol>
+</nav>
+</body></html>

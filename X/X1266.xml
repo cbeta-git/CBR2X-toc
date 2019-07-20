@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1266_001.xml#p0618c05">No. 1266-A 禪林寶訓筆說序</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1266_001.xml#p0619a11">禪林寶訓筆說</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1266_003.xml#p0725a03">No. 1266-B 左都御史張照得天居士 心賦(并序)</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1266_003.xml#p0726c17">No. 1266-C 上諭</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1266_001.xml#p0620b10">第一</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1266_002.xml#p0650c20">第二</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1266_003.xml#p0686c12">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

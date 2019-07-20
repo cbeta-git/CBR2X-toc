@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0272_001.xml#p0317a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_001.xml#p0318c06">2 問疑品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_001.xml#p0319c20">3 一乘品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T09/T09n0272_001.xml#p0319c20">之一</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_002.xml#p0322b21">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T09/T09n0272_002.xml#p0327c20">4 詣嚴熾王品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_003.xml#p0329b14">5 王論品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T09/T09n0272_003.xml#p0329b14">之一</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_004.xml#p0332c27">之二</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_005.xml#p0337a27">之三</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T09/T09n0272_005.xml#p0338c26">6 請食品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_005.xml#p0339c14">7 問罪過品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_006.xml#p0342a25">8 如來無過功德品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T09/T09n0272_006.xml#p0342a25">之一</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_007.xml#p0348a24">之二</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_008.xml#p0352b17">之三</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_009.xml#p0356c15">之四</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T09/T09n0272_009.xml#p0359c16">9 詣如來品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_009.xml#p0360a14">10 說法品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T09/T09n0272_009.xml#p0360a14">之一</cblink></li>
+		<li><cblink href="XML/T/T09/T09n0272_010.xml#p0361b09">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T09/T09n0272_010.xml#p0361c27">11 授記品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_010.xml#p0364b28">12 信功德品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0272_001.xml#p0317a03">第一</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_002.xml#p0322b18">第二</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_003.xml#p0329b11">第三</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_004.xml#p0332c24">第四</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_005.xml#p0337a24">第五</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_006.xml#p0342a22">第六</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_007.xml#p0348a21">第七</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_008.xml#p0352b14">第八</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_009.xml#p0356c12">第九</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0272_010.xml#p0361b06">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

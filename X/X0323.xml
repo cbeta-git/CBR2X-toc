@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0323_001.xml#p0135a02">No. 323-A 楞伽經序</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_001.xml#p0135c07">No. 323-B 書楞伽經後</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_001.xml#p0136a12">No. 323-C 楞伽通義序</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_001.xml#p0136b19">一切佛語心品第一之一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_002.xml#p0160a21">一切佛語心品第一之二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_004.xml#p0183c10">一切佛語心品第一之三</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_005.xml#p0204a06">一切佛語心品第一之四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0323_001.xml#p0136b16">第一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_002.xml#p0153c07">第二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_003.xml#p0168c20">第三</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_004.xml#p0183c09">第四</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_005.xml#p0198b08">第五</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0323_006.xml#p0213c12">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

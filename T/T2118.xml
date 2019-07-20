@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2118_001.xml#p0794b19">折疑論敘</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_001.xml#p0794c25">1 敘問(一)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_001.xml#p0795c14">2 聖生(一)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_001.xml#p0798a12">3 問佛(一)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_002.xml#p0800c25">4 喻舉(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_002.xml#p0801c16">5 宗師(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_002.xml#p0802c25">6 通相(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_002.xml#p0803a25">7 論孝(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_002.xml#p0805b14">8 拒毀(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_003.xml#p0806b13">9 評議(三)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_003.xml#p0807c07">10 舉問(三)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_003.xml#p0808b26">11 解域(三)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_003.xml#p0809c05">12 釋謗(三)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_003.xml#p0810b21">13 辯施(三)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_004.xml#p0811c06">14 殊見(四)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_004.xml#p0812b09">15 隨宜(五)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_004.xml#p0812c15">16 優劣(四)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_004.xml#p0814a16">17 先知(四)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_004.xml#p0814c28">18 尊釋(四)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_005.xml#p0815b24">19 言符(五)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_005.xml#p0816a05">20 會名(五)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2118_001.xml#p0794c20">第一</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_002.xml#p0800c22">第二</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_003.xml#p0806b10">第三</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_004.xml#p0811c03">第四</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2118_005.xml#p0815b21">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0167a02">篇目</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0167b01">藏經讚</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0169b06">如來正宗大覺妙經序</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0171b01">四部經序</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0172b06">聖妙吉祥真實名經序</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0175a01">喜金剛本續序</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0176a06">般若論中道論對論律論比量論序</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0177b01">經牌讚</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0178a01">釋迦如來金像讚</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0178b06">尊勝佛母讚</cblink></li>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0180b01">藏經跋尾</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/P/P178/P178n1610_001.xml#p0167a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

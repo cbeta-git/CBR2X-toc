@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0598_001.xml#p0131c11">1 行品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_001.xml#p0135a17">2 分別品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_001.xml#p0135b15">3 六度品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_001.xml#p0136a21">4 無盡藏品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_002.xml#p0137c24">5 總持品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_002.xml#p0139a16">6 總持身品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_002.xml#p0140a16">7 總持門品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_002.xml#p0142c20">8 分別名品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_002.xml#p0143a11">9 授決品(二)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0144b05">10 請佛品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0146a19">11 十德六度品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0148a17">12 燕居阿須倫受決品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0149a05">13 無焚龍王受決品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0149b21">14 女寶錦受決品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0150c06">15 天帝釋品(三)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_004.xml#p0151a05">16 金翅鳥品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_004.xml#p0151c16">17 舍利品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_004.xml#p0152b10">18 法供養品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_004.xml#p0154c18">19 空淨品(四)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_004.xml#p0155c20">20 囑累受持品(四)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0598_001.xml#p0131c08">第一</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_002.xml#p0137c21">第二</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_003.xml#p0144b02">第三</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0598_004.xml#p0151a02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

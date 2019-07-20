@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0051_001.xml#p0098a03">菩提道次恆常修法</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0051_001.xml#p0099a02">菩提道次第恆修補足</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0051_001.xml#p0101a05">修止記錄至極須要</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0051_001.xml#p0102a05">恆常相續修止記錄極不宜離</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0051_001.xml#p0098a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1567_001.xml#p0136a10">1 觀緣品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1567_001.xml#p0136a10">1</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1567_002.xml#p0138b12">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1567_002.xml#p0139b25">2 觀去來品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1567_002.xml#p0139b25">1</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1567_003.xml#p0141a19">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1567_003.xml#p0142b28">3 觀六根品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_004.xml#p0143c08">4 觀五蘊品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_004.xml#p0144c12">5 觀六界品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_005.xml#p0146a08">6 觀染法染者品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_005.xml#p0147a24">7 觀有為品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1567_005.xml#p0147a24">1</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1567_006.xml#p0148b08">2</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1567_007.xml#p0150c23">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1567_007.xml#p0151c17">8 觀作者作業品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_008.xml#p0153b27">9 觀先分位品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_008.xml#p0154c06">10 觀薪火品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_009.xml#p0156b28">11 觀生死品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_009.xml#p0157b02">12 觀苦品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_009.xml#p0158a11">13 觀行品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1567_001.xml#p0136a05">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_002.xml#p0138b07">第二</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_003.xml#p0141a14">第三</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_004.xml#p0143c03">第四</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_005.xml#p0146a03">第五</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_006.xml#p0148b03">第六</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_007.xml#p0150c18">第七</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_008.xml#p0153b22">第八</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1567_009.xml#p0156a17">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

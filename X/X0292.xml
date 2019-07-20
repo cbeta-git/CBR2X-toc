@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0292_001.xml#p0603a02">No. 292-A 楞嚴經擊節自序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0292_001.xml#p0603c04">楞嚴經擊節</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0292_001.xml#p0603c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

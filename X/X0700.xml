@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0700_001.xml#p0069a02">No. 700-A 佛說梵網經菩薩戒初津敘</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_001.xml#p0069b04">凡例</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_001.xml#p0070a01">佛說梵網經初津</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_008.xml#p0174b08">No. 700-B 跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0700_001.xml#p0070a03">第一</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_002.xml#p0080c05">第二</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_003.xml#p0093a15">第三</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_004.xml#p0105b01">第四</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_005.xml#p0117b01">第五</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_006.xml#p0131c19">第六</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_007.xml#p0146a06">第七</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0700_008.xml#p0160c09">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

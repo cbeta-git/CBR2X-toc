@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0374_001.xml#p0508a03">No. 374-A</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0374_001.xml#p0508b03">No. 374-B</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0374_001.xml#p0509a01">佛說盂蘭盆經疏科文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0374_001.xml#p0509a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

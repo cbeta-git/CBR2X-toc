@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0663c09">1 明緣起</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0663c19">2 辨色空</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0664a05">3 約三性</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0664a21">4 顯無相</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0664a29">5 說無生</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0664b13">6 論五教</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0665a18">7 勒十玄</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0666b06">8 括六相</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0666b17">9 成菩提</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0666c15">10 入涅槃</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1880_001.xml#p0663a05">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

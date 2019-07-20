@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0578a04">序品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0580a54">方便品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0584a48">譬喻品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0588a34">信解品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0589a34">藥草喻品</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0590a32">授記品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0591a46">化城喻品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0593a33">五百弟子品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0594a34">授學無學人記品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0595a01">法師品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0595a54">見寶塔品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0596a38">達多品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0597a36">持品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0597a61">安樂行品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0599a37">從地湧出品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0600a40">壽量品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0601a48">分別功德品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0602a37">隨喜功德品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0603a01">法師功德品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0603a17">常不輕品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0603a41">神力品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0604a40">囑累品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0604a49">藥王本事品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0605a51">妙音品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0606a26">普門品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0608a09">陀羅尼品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0608a36">妙莊嚴王品科</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0609a14">普賢勸發品科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0622_001.xml#p0578a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

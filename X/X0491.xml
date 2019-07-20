@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0491_001.xml#p0373a03">No. 491-A</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_001.xml#p0373a16">No. 491-B</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_001.xml#p0373c01">金剛經疏記科會</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0491_001.xml#p0373c03">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_002.xml#p0392a19">第二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_003.xml#p0406b05">第三</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_004.xml#p0414b21">第四</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_005.xml#p0423c04">第五</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_006.xml#p0433c16">第六</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_007.xml#p0447a20">第七</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_008.xml#p0455a15">第八</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_009.xml#p0464c15">第九</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0491_010.xml#p0474a04">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

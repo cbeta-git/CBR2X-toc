@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/A/A097/A097n1267_003.xml#p0777b01">大乘經律論</cblink>
+	<ol>
+		<li><cblink href="XML/A/A097/A097n1267_003.xml#p0777b05">大乘經重單合譯一</cblink></li>
+		<li><cblink href="XML/A/A097/A097n1267_004.xml#p0803b04">大乘經重單合譯二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/A/A098/A098n1267_005.xml#p0001b01">大乘經律論</cblink>
+	<ol>
+		<li><cblink href="XML/A/A098/A098n1267_005.xml#p0001b04">大乘經重單合譯三</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_006.xml#p0035b01">大乘經重單合譯四</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_007.xml#p0061b04">大乘經重單合譯五</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_008.xml#p0085b05">大乘經重單合譯六</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_009.xml#p0115b05">大乘經重單合譯七</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_010.xml#p0143b01">大乘經重單合譯八</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_012.xml#p0181b03">大乘經重單合譯九</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_013.xml#p0207b04">大乘經單譯一</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_014.xml#p0237b04">大乘經單譯二</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_015.xml#p0271b02">大乘律</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_015.xml#p0273a02">大乘釋經論</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_016.xml#p0307b01">大乘集義論一</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_017.xml#p0335b04">大乘集義論二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/A/A098/A098n1267_018.xml#p0367b01">小乘經律論</cblink>
+	<ol>
+		<li><cblink href="XML/A/A098/A098n1267_018.xml#p0367b06">小乘經重單合譯一</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_019.xml#p0399b01">小乘經重單合譯二</cblink></li>
+		<li><cblink href="XML/A/A098/A098n1267_020.xml#p0435b04">小乘經單譯</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/A/A097/A097n1267_003.xml#p0777b03">第三</cblink></li>
+	<li><cblink href="XML/A/A097/A097n1267_004.xml#p0803b02">第四</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_005.xml#p0001b03">第五</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_006.xml#p0035b01">第六</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_007.xml#p0061b02">第七</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_008.xml#p0085b02">第八</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_009.xml#p0115b02">第九</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_010.xml#p0143b01">第十</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_012.xml#p0181b01">第十二</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_013.xml#p0207b02">第十三</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_014.xml#p0237b02">第十四</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_015.xml#p0271b01">第十五</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_016.xml#p0307b01">第十六</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_017.xml#p0335b02">第十七</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_018.xml#p0367b02">第十八</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_019.xml#p0399b01">第十九</cblink></li>
+	<li><cblink href="XML/A/A098/A098n1267_020.xml#p0435b02">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

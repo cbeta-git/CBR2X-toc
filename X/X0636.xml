@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X34/X34n0636_001.xml#p0018a04">目次</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_001.xml#p0018b12">自敘</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_001.xml#p0018b23">序品第一</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_002.xml#p0054a14">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_003.xml#p0075c06">譬喻品第三</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_003.xml#p0088c12">信解品第四</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_003.xml#p0092a12">藥草喻品第五</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_003.xml#p0094c23">授記品第六</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0095c07">化城喻品第七</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0104c14">五百弟子品第八</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0106c10">人記品第九</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0106c16">法師品第十</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0107b22">寶塔品第十一</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0108c14">提婆達多品第十二</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0109a11">持品第十三</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0109c15">安樂行品第十四</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0114a13">涌出品第十五</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0114c15">壽量品第十六</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0117b01">分別功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0118a17">隨喜功德品第十八</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0118c09">法師功德品第十九</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0120b16">不輕品第二十</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0120c05">神力品第二十一</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0120c13">屬累品第二十二</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0120c17">藥王品第二十三</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0122a01">妙音品第二十四</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0122a06">普門品第二十五</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0123c16">陀羅尼品第二十六</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0124b12">妙莊嚴王品第二十七</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0125a20">勸發品第二十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X34/X34n0636_001.xml#p0018b09">第一</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_002.xml#p0039b16">第二</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_003.xml#p0065a06">第三</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0636_004.xml#p0095c04">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

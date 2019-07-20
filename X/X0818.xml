@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X50/X50n0818_001.xml#p0027a03">第一本</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_001.xml#p0039c05">第一末</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_002.xml#p0054c12">第二</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_003.xml#p0066a04">第三</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_004.xml#p0077b04">第四</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_005.xml#p0089b17">第五</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_006.xml#p0101b18">第六</cblink></li>
+	<li><cblink href="XML/X/X50/X50n0818_007.xml#p0114a04">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

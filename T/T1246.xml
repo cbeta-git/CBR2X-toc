@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0219b19">1 畫像品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0219c03">2 作壇場品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0219c21">3 結界品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220a13">4 手印品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220a14">1 藥叉立身印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220a21">2 喚羅剎身印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220a24">3 藥叉鉤印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220a28">4 藥叉火輪印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220b03">5 藥叉身印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220b08">6 大歡喜王印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220b13">7 縛大鬼印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220b17">8 食印</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220b20">9 牙印</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220b24">5 護身品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220c04">6 廣大啟請品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0220c25">6 求使者品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0221c06">7 說天王真言品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0222c05">8 求一切利益品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1246_001.xml#p0219b15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1474_001.xml#p0374a07">香讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1474_001.xml#p0374a21">開經偈</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1474_001.xml#p0374b03">總回向文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1474_001.xml#p0374b13">隨州大洪山遂禪師禮華嚴經文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1474_001.xml#p0374a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

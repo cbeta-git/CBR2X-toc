@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121b07">不可剎那無此君</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121c01">No. 962-A</cblink>
+	<ol>
+		<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121c02">前文</cblink></li>
+		<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121c20">朴翁詩七首</cblink>
+		<ol>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121c20">郊原避暑曰</cblink></li>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121c24">夏日曰</cblink></li>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0122a04">湖提晚步曰</cblink></li>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0122a08">訪端叔提幹曰</cblink></li>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0122a12">雪夜曰</cblink></li>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0122a16">宿裴菴曰</cblink></li>
+			<li><cblink href="XML/X/X57/X57n0962_001.xml#p0122a20">小亭曰</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0962_001.xml#p0121b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0001a05">No. 332-A 楞伽經參訂疏序</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0001b20">No. 332-B 楞伽阿䟦多羅寶經叅訂疏敘</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0002a09">No. 332-C 楞伽經參訂疏序</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0002b21">No. 332-D 楞伽參訂疏敘</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0003b20">疏經凡例</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0003c21">所引經論目錄</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0004b22">經題</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0004c14">一切佛語心品第一之一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_003.xml#p0022a09">一切佛語心品第一之二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_005.xml#p0037c19">一切佛語心品第一之三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_007.xml#p0051a09">一切佛語心品第一之四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_008.xml#p0067b19">閣筆偈</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_008.xml#p0067c02">No. 332-E 楞伽經參訂疏後䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0332_001.xml#p0004b21">第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_002.xml#p0014a04">第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_003.xml#p0022a05">第三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_004.xml#p0030a18">第四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_005.xml#p0037c15">第五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_006.xml#p0044a19">第六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_007.xml#p0051a05">第七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0332_008.xml#p0059c18">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

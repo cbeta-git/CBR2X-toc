@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441b12">上篇</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441b13">戒律門</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441b14">前文</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441c09">第一殺戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441c18">第二盜戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441c23">第三婬戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442a06">第四妄語戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442a12">第五不飲酒戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442a19">第六不著香花瓔珞戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442b02">第七不坐高廣大牀戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442b08">第八不歌舞音樂戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442b14">第九不捉持金寶戒</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442b19">第十不非時食戒</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442c02">下篇</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442c03">威儀門</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442c04">前文</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0442c15">敬三寶第一</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0443a02">敬大沙門第二</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0443a13">事師第三</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0443c05">隨師出行第四</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0443c18">入眾第五</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0444a14">隨眾食第六</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0444b13">禮拜第七</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0444c01">習學經典第八</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0444c13">聽法第九</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0444c19">入寺院第十</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445a03">入禪堂隨眾第十一</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445a14">執作第十二</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445a24">入浴第十三</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445b08">入廁第十四</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445b18">眠臥第十五</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445c03">圍爐第十六</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445c06">在房中住第十七</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0445c15">止檀越家第十八</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0446a08">乞食第十九</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0446a16">入聚落第二十</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0446b03">市物第二十一</cblink></li>
+			<li><cblink href="XML/X/X60/X60n1122_001.xml#p0446b07">凡所施行不得自用第二十二</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X60/X60n1122_001.xml#p0446b21">說戒法儀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1122_001.xml#p0441b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1707_001.xml#p0314b06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_001.xml#p0323a09">2 觀空品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_002.xml#p0328c05">3 菩薩教化品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_002.xml#p0339a17">4 二諦品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_003.xml#p0343c22">5 護國品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_003.xml#p0346c19">6 散華品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_003.xml#p0347c27">7 受持品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_003.xml#p0357b26">8 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1707_001.xml#p0314b03">上一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_001.xml#p0321c19">上二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_002.xml#p0328c02">中三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_002.xml#p0335c14">中四</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_003.xml#p0343c19">下五</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1707_003.xml#p0351b23">下六</cblink></li>
+</ol>
+</nav>
+</body></html>

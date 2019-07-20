@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0939_001.xml#p0600a05">No. 939-A 重刻五百問論序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_001.xml#p0600c15">凡例</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_001.xml#p0601a15">釋序品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_001.xml#p0613c13">釋方便品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_002.xml#p0624c13">譬喻品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_002.xml#p0634a07">釋信解品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_002.xml#p0637b18">藥艸喻品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_002.xml#p0640b03">授記品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_002.xml#p0641b09">化城喻品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0646a03">五百弟子受記品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0647a05">授學無學人記品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0647b04">法師品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0650b01">見寶塔品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0652b02">提婆達多品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0653c08">持品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0654a05">安樂行品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0655c11">踊出品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0657b06">壽量品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0662b14">分別品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0663c24">隨喜功德品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0664a21">法師功德品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0664c04">常不輕品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0666a11">如來神力品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0666b20">囑累品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0666c19">藥王品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0667a11">妙音品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0667a20">觀音品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0668b08">嚴王品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0668b12">勸發品</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0668c06">No. 939-B</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0669a02">No. 939-C 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0939_001.xml#p0601a12">第一</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_002.xml#p0624c10">第二</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0939_003.xml#p0646a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

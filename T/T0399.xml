@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0399_001.xml#p0452a24">1 問慧品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0458a05">2 發意三十二寶品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0458c26">3 聰明品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0459a25">4 問寶女品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0460c13">5 八力品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0461a13">6 十種力品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0462a03">7 四無所畏品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_003.xml#p0462b25">8 十八不共法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_004.xml#p0468c23">9 三十二相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_004.xml#p0469c18">10 法行品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_004.xml#p0470c27">11 不退轉品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_004.xml#p0472a03">12 大乘品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_004.xml#p0473a24">13 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0399_001.xml#p0452a21">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_002.xml#p0458a02">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_003.xml#p0462b22">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0399_004.xml#p0468c20">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0156_001.xml#p0124a21">1 序品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_001.xml#p0127b23">2 孝養品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_002.xml#p0130b10">3 對治品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_002.xml#p0135b02">4 發菩提心品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_003.xml#p0136b16">5 論議品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_004.xml#p0142b22">6 惡友品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_005.xml#p0148c11">7 慈品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_006.xml#p0154b19">8 優波離品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_007.xml#p0161b12">9 親近品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0156_001.xml#p0124a18">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_002.xml#p0130b07">第二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_003.xml#p0136b13">第三</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_004.xml#p0142b19">第四</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_005.xml#p0148c08">第五</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_006.xml#p0154b16">第六</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0156_007.xml#p0161b09">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

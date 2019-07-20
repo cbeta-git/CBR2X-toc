@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0628a03">義記緣起</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630a01">總相</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630a10">別相</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630a15">白蓮藏</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630a18">赤蓮藏</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630b05">青蓮藏</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630b09">黃蓮藏</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630b12">黑蓮藏</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0630b23">緣起法界</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0631a09">緣起陀羅尼一</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0631a16">緣起陀羅尼二</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0631b25">五教始終</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0633a01">十八錢輪</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0633a26">正證法界印</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/F/F28/F28n1084_001.xml#p0628a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

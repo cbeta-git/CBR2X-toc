@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n1005A_001.xml#p0619a03">大寶廣博樓閣善住祕密陀羅尼輪</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_001.xml#p0619b22">1 序品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_001.xml#p0624a18">2 根本陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_001.xml#p0624b25">3 心及隨心陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0625b17">4 成就心陀羅尼法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0626a04">5 成就隨心陀羅尼法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0626a24">6 諸儀軌陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0627b21">7 建立曼荼羅品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0628a29">8 畫像品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0628c26">9 護摩品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n1005A_001.xml#p0619b15">第一</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_002.xml#p0625b10">第二</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1005A_003.xml#p0630a02">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0197b26">1 除破一切惡業陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0198b06">2 一切愛樂法品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0198c11">3 和阿伽陀藥法令人愛樂品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0198c28">4 如意輪含藥品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0199a18">5 心輪眼藥品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0199c03">6 火唵陀羅尼藥品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1082_001.xml#p0197b22">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

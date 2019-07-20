@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1776_001.xml#p0421a04">刊維摩經義記序</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_001.xml#p0422b12">1 佛國品(一本-一末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_001.xml#p0439c01">2 方便品(一末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_002.xml#p0444c21">3 弟子品(二本-二末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_002.xml#p0460a09">4 菩薩品(二末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_002.xml#p0469a14">5 文殊師利問疾品(二末-三本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_003.xml#p0476c26">6 不思議品(三本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_003.xml#p0480a10">7 觀眾生品(三本-三末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_003.xml#p0486b04">8 佛道品(三末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_003.xml#p0491b18">9 入不二法門品(三末-四本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0498c28">10 香積品(四本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0503a15">11 菩薩行品(四本)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0508b06">12 見阿閦品(四末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0513a28">13 法供品(四末)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0517b17">14 囑累品(四末)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1776_001.xml#p0421a20">第一本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_001.xml#p0433a11">第一末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_002.xml#p0444c18">第二本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_002.xml#p0457c02">第二末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_003.xml#p0470c02">第三本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_003.xml#p0483a25">第三末</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0495c21">第四本</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1776_004.xml#p0508b04">第四末</cblink></li>
+</ol>
+</nav>
+</body></html>

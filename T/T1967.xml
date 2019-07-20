@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0134a06">序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0134a18">1 念未來佛速成三昧門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0134c09">2 嬖女群盜皆不可輕門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0135b20">3 持戒破戒但生佛想門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0135c16">4 現處湯獄不妨受記門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0136c08">5 觀空無我擇善而從門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0136c25">6 無善可擇無惡可棄門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0137b02">7 一切眾生肉不可食門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0138a05">8 念現在佛專注一境門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0138b14">9 此生他生一念十念門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0139a04">10 是心是佛是心作佛門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0139c13">11 高聲念佛面向西方門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0140c06">12 夢覺一心以明三昧門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0140c23">13 念三身佛破三種障門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0141b05">14 念過去佛因果相同門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0141c03">15 無心念佛理事雙修門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0142b25">16 了心境界妄想不生門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0143a03">17 諸佛解脫心行中求門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0143b13">18 三業供養真實表敬門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0143c13">19 無相獻華信毀交報門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0144a15">20 萬善同歸皆成三昧門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0144c02">跋寶王論後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1967_001.xml#p0134a03">上</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_002.xml#p0138a02">中</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1967_003.xml#p0141b02">下</cblink></li>
+</ol>
+</nav>
+</body></html>

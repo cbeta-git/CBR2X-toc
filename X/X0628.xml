@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0628_001.xml#p0338a08">序品第一</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_001.xml#p0350a21">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_002.xml#p0359b05">譬喻品第三</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_002.xml#p0368a22">信解品第四</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_003.xml#p0374a14">藥草喻品第五</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_003.xml#p0377c09">授記品第六</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_003.xml#p0378b11">化城喻品第七</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0384b19">五百弟子受記品第八</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0387a23">授學無學人記品第九</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0388a17">法師品第十</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0391b11">見寶塔品第十一</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0394a16">提婆達多品第十二</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0395c18">持品第十三</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_005.xml#p0396b23">安樂行品第十四</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_005.xml#p0401a24">從地湧出品第十五</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_005.xml#p0404a09">如來壽量品第十六</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_005.xml#p0408b19">分別功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0412a14">隨喜功德品第十八</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0413b19">法師功德品第十九</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0415a09">常不輕菩薩品第二十</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0416a09">如來神力品第二十一</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0417a20">囑累品第二十二</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0418a05">藥王菩薩本事品第二十三</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0421a21">妙音菩薩來往品第二十四</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0423c16">觀世音菩薩普門品第二十五</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0428a05">陀羅尼品第二十六</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0428c21">妙莊嚴王本事品第二十七</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0430a18">普賢菩薩勸發品第二十八</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0432b10">No. 628-A 跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0628_001.xml#p0338a03">第一之上</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_001.xml#p0350a16">第一之下</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_002.xml#p0359b01">第二</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_003.xml#p0374a09">第三</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_004.xml#p0384b14">第四</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_005.xml#p0396b18">第五</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_006.xml#p0412a09">第六</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0628_007.xml#p0421a16">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

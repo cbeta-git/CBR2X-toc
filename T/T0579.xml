@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0579_001.xml#p0951b23">1 修行品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0579_001.xml#p0954a20">2 修學品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0579_002.xml#p0960c14">3 瑞應品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0579_001.xml#p0951b20">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0579_002.xml#p0957a03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

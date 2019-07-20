@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB226_001.xml#p0175a04">頌古</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB226_001.xml#p0183a25">附文</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB226_001.xml#p0183a25">自跋</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB226_001.xml#p0175a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

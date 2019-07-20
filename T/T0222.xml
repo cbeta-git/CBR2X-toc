@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0222_001.xml#p0147a06">1 光讚品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_001.xml#p0151c08">2 順空品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_001.xml#p0152b03">3 行空品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_002.xml#p0161a12">4 歎等品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_002.xml#p0161c02">5 授決品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_002.xml#p0162a25">6 分別空品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_003.xml#p0165a19">7 了空品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_003.xml#p0167a01">8 假號品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_004.xml#p0171a24">9 行品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_004.xml#p0174b11">10 幻品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_005.xml#p0178a15">11 摩訶薩品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_005.xml#p0181b12">12 等無等品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_005.xml#p0182b14">13 大乘品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_006.xml#p0184c26">14 乘大乘品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_006.xml#p0185b20">15 無縛品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_006.xml#p0188c21">16 三昧品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_007.xml#p0193a17">17 觀品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_007.xml#p0196b07">18 蜜十住品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_008.xml#p0199a12">19 所因出衍品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_008.xml#p0200c03">20 無去來品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_008.xml#p0201c27">21 衍與空等品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_009.xml#p0204b05">22 分曼陀尼弗品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_009.xml#p0204c12">23 等三世品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_009.xml#p0207c23">24 觀行品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_010.xml#p0210b11">25 問品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_010.xml#p0212c26">26 法師如幻品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_010.xml#p0213c17">27 雨法寶品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0222_001.xml#p0147a03">第一</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_002.xml#p0156a02">第二</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_003.xml#p0165a16">第三</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_004.xml#p0171a21">第四</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_005.xml#p0178a12">第五</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_006.xml#p0184c23">第六</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_007.xml#p0193a14">第七</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_008.xml#p0199a09">第八</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_009.xml#p0204b02">第九</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0222_010.xml#p0210b08">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

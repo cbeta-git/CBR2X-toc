@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0034_001.xml#p0289a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0034_001.xml#p0289a15">錄文</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0034_001.xml#p0290a08">附錄</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0365c24">1 序品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0366b01">2 無相法品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0367b20">3 無生行品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0368b02">4 本覺利品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0369a29">5 入實際品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0370c17">6 真性空品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0371c10">7 如來藏品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0372c18">8 總持品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0273_001.xml#p0365c24">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1182_001.xml#p0331b05">No. 1182-A 徹悟禪師語錄序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1182_001.xml#p0331c09">No. 1182-B 自序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1182_001.xml#p0332a07">No. 1182-C 念佛伽陀序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1182_001.xml#p0332a21">徹悟禪師語錄目次</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1182_001.xml#p0332c09">示眾</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1182_001.xml#p0332c10">普說</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X62/X62n1182_002.xml#p0343a07">雜著</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0343a08">般若淨土兩門大義</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0343b05">西有解</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0343c12">華嚴經節略要旨</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0344b18">楞嚴二決定義</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0344c09">楞嚴頓歇漸修說</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0344c24">金剛經實有法發菩提心說</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0345a10">楞嚴經知見無見說</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0345b04">一乘決疑論說</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0345b19">相相離相心心印心略解</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X62/X62n1182_002.xml#p0345b24"> 䟦</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0345c01">淨土津梁䟦</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0346a01"> 䟦德全禪人血書蓮華經</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0346a16"> 䟦明初禪人血書蓮華經</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0346b10">書蓮華經普門品後</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0346b19">二有室䟦</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0346c03"> 䟦禪人勇建血書楞嚴經莊嚴淨土</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X62/X62n1182_002.xml#p0347a07">書問</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0347a08">覆香嚴居士書</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0347b06">答江南彭二林居士書</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0347b18">與瑞一李居士書</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X62/X62n1182_002.xml#p0347c12">No. 1182-D 念佛伽陀(附)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0347c16">教義百偈</cblink></li>
+		<li><cblink href="XML/X/X62/X62n1182_002.xml#p0349a21">宗乘百偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X62/X62n1182_002.xml#p0350c17">No. 1182-E 徹悟禪師行略</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1182_001.xml#p0332c06">第一</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1182_002.xml#p0343a04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

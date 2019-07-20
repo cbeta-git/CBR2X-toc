@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T25/T25n1505_001.xml#p0001a03">序</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_001.xml#p0001b07">第一</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_001.xml#p0004a14">第二</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_001.xml#p0005c23">第三</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_001.xml#p0007a13">第四</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_002.xml#p0008c06">第五</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_002.xml#p0009c13">第六</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_002.xml#p0010c19">第七</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_002.xml#p0012a08">第八</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_002.xml#p0014b14">第九</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T25/T25n1505_001.xml#p0001b02">第一</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1505_002.xml#p0008c02">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

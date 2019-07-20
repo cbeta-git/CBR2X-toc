@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X46/X46n0784_002.xml#p0556a04">目次</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_002.xml#p0556c10">無依無得大乘四論玄義記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X46/X46n0784_002.xml#p0556c12">第二</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_005.xml#p0573b19">第五</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_006.xml#p0585b22">第六</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_007.xml#p0598c13">第七</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_008.xml#p0611a01">第八</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_009.xml#p0623b12">第九</cblink></li>
+	<li><cblink href="XML/X/X46/X46n0784_010.xml#p0641c07">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

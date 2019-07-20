@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0329_001.xml#p0487a07">一切佛語心品之一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_002.xml#p0524c12">一切佛語心品之二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_003.xml#p0551b17">一切佛語心品之三</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_004.xml#p0572b21">一切佛語心品之四</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_004.xml#p0600b14">No. 329-A 閣筆後序</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_004.xml#p0600c13">No. 329-B 䟦語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0329_001.xml#p0487a03">第一義疏上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_001.xml#p0500a08">第一義疏中</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_001.xml#p0511b11">第一義疏下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_002.xml#p0524c09">第二義疏上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_002.xml#p0537b01">第二義疏下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_003.xml#p0551b14">第三義疏上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_003.xml#p0561c11">第三義疏下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_004.xml#p0572b18">第四義疏上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0329_004.xml#p0585a07">第四義疏下</cblink></li>
+</ol>
+</nav>
+</body></html>

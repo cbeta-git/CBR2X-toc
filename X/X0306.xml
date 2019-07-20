@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0306_001.xml#p0602a07">科分</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_001.xml#p0602a14">一序分</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_001.xml#p0608a08">二正宗分</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_010.xml#p0853c10">三流通分</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_010.xml#p0855b04">楞嚴經問答</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0306_001.xml#p0602a03">第一</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_002.xml#p0631b14">第二</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_003.xml#p0657a05">第三</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_004.xml#p0689c01">第四</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_005.xml#p0727a16">第五</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_006.xml#p0746b12">第六</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_007.xml#p0766b09">第七</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_008.xml#p0783a04">第八</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_009.xml#p0813a08">第九</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0306_010.xml#p0836a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

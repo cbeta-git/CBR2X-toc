@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0931a03">上堂</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932a23">小參</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932b27">機緣</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932c20">頌古</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932c21">悟睹明星</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932c24">世尊拈花</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932c27">靈雲見桃花</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0932c30">子胡狗</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a02">萬法歸一</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a05">參禪偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a06">其一</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a08">其二</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a10">其三</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a12">其四</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a14">示偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a15">示恒白禪人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a18">示智海禪人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a21">示慧友侍者</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a24">示悉有禪者</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a27">示指月禪人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933a30">示元吉龍檀越</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b03">示聖聞張居士</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b06">示聖亮蕭居士</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b09">示聖潔陶居士</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b12">示聖才羅居士</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b15">示聖越陶善人</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b18">示溪友侍者</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b21">聯芳</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933b25">行實</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0933c22">塔銘</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0934a11">佛事</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB470_001.xml#p0931a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370a03">No. 310-A 勢至圓通章科解序</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370a22">初釋名</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370b24">二正釋經文</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370c07">三陳請敬儀</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370c11">四明所師二</cblink>
+	<ol>
+		<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370c11">先時節</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370c23">二明師號</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371a13">五喻顯三</cblink>
+	<ol>
+		<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371a13">初喻不念之失</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371a19">二喻雖逢無益</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371b07">三喻念佛之得</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371b17">六以法合喻</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371c06">七提喻帖合</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0371c19">八以法合喻</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0372a06">九生佛不隔</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0372a19">十喻不假方便</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0372b02">十一結自利</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0372b10">十二證後化他</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0372b15">十三結答</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0310_001.xml#p0370a20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

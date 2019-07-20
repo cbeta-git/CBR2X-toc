@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J35/J35nB338_001.xml#p0715a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J35/J35nB338_001.xml#p0715a01">李模序</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB338_001.xml#p0715b11">行際序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J35/J35nB338_001.xml#p0715c03">住秀州玅湛園語一</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_002.xml#p0720b03">住秀州玅湛園語二</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_003.xml#p0723c03">住秀州玅湛園語三</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_004.xml#p0727b03">拈古</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_005.xml#p0733b03">頌古</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J35/J35nB338_001.xml#p0715c01">第一</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_002.xml#p0720b01">第二</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_003.xml#p0723c01">第三</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_004.xml#p0727b01">第四</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB338_005.xml#p0733b01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

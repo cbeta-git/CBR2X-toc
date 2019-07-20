@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0395c05">No. 890-A 八識規矩補註證義序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0396a11">前言</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0396c01">前五識頌</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0401a04">第六識頌</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0404b05">第七識頌</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0405c03">第八識頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0890_001.xml#p0396a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

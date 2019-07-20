@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0305a02">No. 718-A 四分戒本約義序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0305b06">目錄</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0305c06">戒經序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0307a21">四波羅夷法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0308c04">十三僧伽婆尸沙法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0312a04">二不定法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_002.xml#p0312b15">三十尼薩耆波逸提法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_002.xml#p0317b10">九十波逸提法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_003.xml#p0331a06">四波羅提提舍尼法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_004.xml#p0332a06">眾學法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_004.xml#p0336a08">七滅諍法</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_004.xml#p0337b05">總結</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_004.xml#p0337b18">七佛偈</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_004.xml#p0339c15">迴向頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0718_001.xml#p0305c03">第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_002.xml#p0312b12">第二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_003.xml#p0322a08">第三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0718_004.xml#p0332a03">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

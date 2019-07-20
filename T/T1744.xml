@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1744_001.xml#p0001a03">雕勝鬘寶窟敘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1744_001.xml#p0001c02">上之本</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1744_001.xml#p0014b02">上之末</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1744_002.xml#p0027b02">中之本</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1744_002.xml#p0043a02">中之末</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1744_003.xml#p0058c11">下之本</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1744_003.xml#p0075a02">下之末</cblink></li>
+</ol>
+</nav>
+</body></html>

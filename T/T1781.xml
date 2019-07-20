@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1781_001.xml#p0908c06">1 定淺深</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_001.xml#p0910a03">2 釋名</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_001.xml#p0916b24">3 辨宗旨</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_001.xml#p0917a24">4 釋會處</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_001.xml#p0918b12">1 佛國品(一-二)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_002.xml#p0931b15">2 方便品(二)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_003.xml#p0935b22">3 弟子品(三)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_004.xml#p0949a05">4 菩薩品(四)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_004.xml#p0954c22">5 文殊師利問疾品(四)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_004.xml#p0961c08">6 不思議品(四)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_005.xml#p0965a05">7 觀眾生品(五)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_005.xml#p0970c21">8 佛道品(五)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_005.xml#p0975a24">9 入不二法門品(五)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_006.xml#p0978b13">10 香積品(六)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_006.xml#p0982a19">11 菩薩行品(六)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_006.xml#p0985c23">12 見阿閦佛品(六)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_006.xml#p0988c18">13 法供養品(六)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_006.xml#p0990b29">14 囑累品(六)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1781_001.xml#p0908c03">第一</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_002.xml#p0924a05">第二</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_003.xml#p0935b19">第三</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_004.xml#p0949a02">第四</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_005.xml#p0965a02">第五</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1781_006.xml#p0978b10">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0184_001.xml#p0461a06">1 現變品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0184_001.xml#p0463b11">2 菩薩降身品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0184_001.xml#p0465b08">3 試藝品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0184_002.xml#p0466b13">3 遊觀品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0184_002.xml#p0467c04">5 出家品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0184_001.xml#p0461a03">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0184_002.xml#p0466b10">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T01/T01n0025_001.xml#p0365a14">1 閻浮洲品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_001.xml#p0369a22">2 鬱多羅究留洲品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_002.xml#p0372b07">3 轉輪王品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_002.xml#p0375c13">4 地獄品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T01/T01n0025_002.xml#p0375c13">1</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0025_003.xml#p0377a14">2</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0025_004.xml#p0382b21">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T01/T01n0025_005.xml#p0387b12">5 諸龍金翅鳥品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_005.xml#p0390c28">6 阿修羅品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_006.xml#p0394c15">7 四天王品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_006.xml#p0396a07">8 三十三天品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T01/T01n0025_006.xml#p0396a07">1</cblink></li>
+		<li><cblink href="XML/T/T01/T01n0025_007.xml#p0397b15">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T01/T01n0025_008.xml#p0404c23">9 鬥戰品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_009.xml#p0408b24">10 劫住品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_009.xml#p0409b15">11 住世品</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_009.xml#p0413a28">12 最勝品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T01/T01n0025_001.xml#p0365a11">第一</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_002.xml#p0371b12">第二</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_003.xml#p0377a14">第三</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_004.xml#p0382b21">第四</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_005.xml#p0387b09">第五</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_006.xml#p0392b02">第六</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_007.xml#p0397b15">第七</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_008.xml#p0402c04">第八</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_009.xml#p0408b21">第九</cblink></li>
+	<li><cblink href="XML/T/T01/T01n0025_010.xml#p0413c20">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

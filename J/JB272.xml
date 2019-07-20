@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J32/J32nB272_001.xml#p0181a01">序</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_001.xml#p0181a21">目次</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_001.xml#p0181c03">上堂</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_001.xml#p0183b15">晚參</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_001.xml#p0185a02">示眾</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_002.xml#p0185b03">拈古</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_003.xml#p0190b03">頌古</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0198a03">機緣</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0198b09">四轉靈機</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0198c01">崇先真歇了禪師塔銘</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0199c11">大用庵銘</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0199c28">題衛寺湛六堂</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0200a02">治塗田</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0200a06">示眾</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0200a10">僧堂記</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0200c01">行實</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0201a11">塔銘(有序)</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0202a01">祭文</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0202a25">大慧杲禪師題師像讚</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0202b02">陸游題師像讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J32/J32nB272_001.xml#p0181c01">第一</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_002.xml#p0185b01">第二</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_003.xml#p0190b01">第三</cblink></li>
+	<li><cblink href="XML/J/J32/J32nB272_004.xml#p0198a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

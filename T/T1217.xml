@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1217_001.xml#p0081a24">1 焰鬘得迦忿怒明王成就儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_001.xml#p0081c11">2 焰鬘得迦必隸睹得羯吒曼拏羅成就儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_001.xml#p0082c02">3 忿怒明王必隸睹得羯吒曼拏羅大明成就儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_001.xml#p0083b19">4 忿怒明王必隸睹得羯吒寶杖印曼拏羅祕密供養儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_001.xml#p0084a24">5 忿怒明王必隸多曩毘寶杖印曼拏羅祕密供養儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_002.xml#p0085a07">6 吠多梨印成就句召儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_002.xml#p0088a11">7 焰鬘得迦吠多梨印修行儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_003.xml#p0089a27">8 焰鬘得迦明王本法儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_003.xml#p0091c20">9 焰鬘得迦明王最上儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_003.xml#p0093a20">10 妙吉祥化身焰鬘得迦明王儀軌略出分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1217_001.xml#p0081a19">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_002.xml#p0085a02">第二</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1217_003.xml#p0089a22">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1789_001.xml#p0343a04">欽錄</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_001.xml#p0343c25">一切佛語心品</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_001.xml#p0343c25">第一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_002.xml#p0366b08">第二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_003.xml#p0385c25">第三</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_004.xml#p0403c15">第四</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_004.xml#p0425a23">新刻楞伽經後題</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1789_001.xml#p0343b23">第一上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_001.xml#p0356a04">第一下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_002.xml#p0366b02">第二上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_002.xml#p0376b06">第二下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_003.xml#p0385c19">第三上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_003.xml#p0395b13">第三下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_004.xml#p0403c09">第四上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1789_004.xml#p0415a11">第四下</cblink></li>
+</ol>
+</nav>
+</body></html>

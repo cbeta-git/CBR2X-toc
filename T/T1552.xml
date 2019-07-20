@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1552_001.xml#p0869c07">序品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_001.xml#p0870b09">1 界品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_002.xml#p0880c19">2 行品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_003.xml#p0888a12">3 業品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_004.xml#p0899c13">4 使品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_005.xml#p0907c23">5 賢聖品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_006.xml#p0916c07">6 智品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_007.xml#p0923c26">7 定品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_008.xml#p0931b21">8 修多羅品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_009.xml#p0942b23">9 雜品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_010.xml#p0950b06">10 擇品</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_011.xml#p0963c23">11 論品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1552_001.xml#p0869c03">第一</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_002.xml#p0880c15">第二</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_003.xml#p0888a08">第三</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_004.xml#p0899c09">第四</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_005.xml#p0907c19">第五</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_006.xml#p0916c03">第六</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_007.xml#p0923c22">第七</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_008.xml#p0931b17">第八</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_009.xml#p0942b19">第九</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_010.xml#p0950b02">第十</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1552_011.xml#p0959b02">第十一</cblink></li>
+</ol>
+</nav>
+</body></html>

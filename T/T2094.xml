@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024a19">小莊嚴寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024a27">同泰寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b02">興國禪寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b07">昇元寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b11">大愛敬寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b13">法寶寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b17">法光寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b20">寶林寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024b23">長于寺</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2094_001.xml#p1024a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

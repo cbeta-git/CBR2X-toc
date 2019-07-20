@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0522c05">1</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0522c21">2</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0523a07">3</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0523a28">4</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0523b07">5</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0523b25">6</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0523c13">7</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0523c29">8</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0524a21">9</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0525a16">10</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0525b09">11</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0525b20">12</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0525b24">13</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0525b29">14</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0525c10">15</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0526a13">16</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0526b20">17</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0526c11">18</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0526c21">19</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0527a05">20</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0527a25">21</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0527b29">22</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0527c09">23</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0527c21">24</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0528a04">25</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0528a12">26</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0528a24">27</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0528b10">28</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0528c11">29</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0528c29">30</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0529a18">31</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0529b09">32</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0529b20">33</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0529c01">34</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0529c22">35</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0530a13">36</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0530c13">37</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0530c20">38</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0531a03">39</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0207_001.xml#p0522b16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

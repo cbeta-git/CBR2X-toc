@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0713_001.xml#p0590a03">一之上</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_001.xml#p0602a02">一之下</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_002.xml#p0614a02">二之上</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_002.xml#p0629a02">二之下</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_003.xml#p0643a02">三之上</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_003.xml#p0658a02">三之下</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_004.xml#p0674a02">四之上</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0713_004.xml#p0689a02">四之下</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1924_001.xml#p0641a03">南嶽大乘止觀序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1924_001.xml#p0641b01">南嶽禪師止觀序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1924_001.xml#p0641c18">大乘止觀法門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1924_001.xml#p0641c15">第一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1924_002.xml#p0647a18">第二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1924_003.xml#p0653b02">第三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1924_004.xml#p0659a17">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

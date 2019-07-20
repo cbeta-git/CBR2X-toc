@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0062_001.xml#p0114a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0062_001.xml#p0115a08">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_001.xml#p0115a09">藥師道場解經頌文灌頂章句教誡儀文</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_002.xml#p0133a01">佛說消災延壽藥師灌頂章句一時儀文</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_003.xml#p0151a01">佛說藥師二時科儀文</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_004.xml#p0166a01">佛說藥師三時儀文</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_005.xml#p0199a01">藥師灌頂章句拔苦過罪生死得度綱目</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_006.xml#p0210a01">佛說藥師三時密咒</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0062_006.xml#p0221a22">附：放生儀文</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

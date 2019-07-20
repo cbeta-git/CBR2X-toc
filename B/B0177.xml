@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0177_001.xml#p0463a03">序</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0177_001.xml#p0463c04">前文</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464a26">四事</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464a26">天竺論師興起事</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464b14">天竺佛法漢土來事</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464c01">佛法來日本事</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464c08">諸宗不同事</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464c25">華嚴部</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0177_001.xml#p0464c25">華嚴宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_001.xml#p0467b02">禪宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0177_002.xml#p0470b04">阿含部</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0177_002.xml#p0470b04">俱舍宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_002.xml#p0470c03">成實宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_002.xml#p0471a24">律宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0177_003.xml#p0474c04">方等部</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0177_003.xml#p0474c04">真言宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_003.xml#p0476c10">行者宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_003.xml#p0478a14">法相宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0177_004.xml#p0483b03">般若部</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0177_004.xml#p0483b04">淨土宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_004.xml#p0486a03">遊行宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_004.xml#p0488a15">一向宗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0177_005.xml#p0490c03">法華部</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0177_005.xml#p0490c04">三論宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_005.xml#p0491c21">日蓮宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_005.xml#p0493a19">大念佛宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_005.xml#p0494a02">天台宗</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0177_005.xml#p0496c25">涅槃宗</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0177_001.xml#p0463a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0177_002.xml#p0470a01">第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0177_003.xml#p0474b01">第三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0177_004.xml#p0483a01">第四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0177_005.xml#p0490b01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

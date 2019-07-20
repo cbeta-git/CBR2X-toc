@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0823_001.xml#p0145a02">No. 823-A 重刻成唯識論自攷錄序</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_001.xml#p0145c16">No. 823-B 成唯識論自攷錄序</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_001.xml#p0146b05">No. 823-C 成唯識論自攷錄序</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_001.xml#p0147a16">No. 823-D 成唯識論自攷錄緣起</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_001.xml#p0148a01">成唯識論自攷</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_010.xml#p0296b15">No. 823-E 唯識自攷後䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X51/X51n0823_001.xml#p0148a03">第一</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_002.xml#p0164b04">第二</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_003.xml#p0178b16">第三</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_004.xml#p0192c01">第四</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_005.xml#p0207a03">第五</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_006.xml#p0222c06">第六</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_007.xml#p0237c21">第七</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_008.xml#p0253c22">第八</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_009.xml#p0270c03">第九</cblink></li>
+	<li><cblink href="XML/X/X51/X51n0823_010.xml#p0284b05">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1005a01">序</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1005b11">目次</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1005c03">住黃陵禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1006b17">小參</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1006c08">示眾</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007a22">頌古</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b04">牧頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b05">未牧</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b08">初調</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b11">受制</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b14">回首</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b17">馴伏</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b20">無礙</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b23">任運</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b26">相忘</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007b29">獨照</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c02">雙眠</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c05">聯芳</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c09">偈讚</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c10">示勝還屈居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c13">示美才李居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c16">示士弘王居士</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c19">山堂夜坐</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c22">中秋夜月</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c25">眾居士傳師六秩像請讚</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1007c30">山居</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1008a09">雪</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1008a14">樂道歌</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1008a25">四威儀</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1008b08">十二時歌</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB434_001.xml#p1008b21">秋夜</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB434_001.xml#p1005c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

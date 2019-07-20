@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0764_001.xml#p0402a02">No. 764-A 大乘起信論續疏自序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0764_001.xml#p0402b19">No. 764-B 大乘起信論主馬鳴菩薩略傳</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0764_001.xml#p0403a01">大乘起信論續疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0764_001.xml#p0403a03">第一</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0764_002.xml#p0421a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

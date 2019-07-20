@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0693a06">1</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0693b14">2</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0695a05">3</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0695b08">4</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0696b01">5</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0697a01">6</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0697b07">7</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0698b01">8</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0699a05">9</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0699a15">10</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0700b05">11</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0700b14">12</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0701b01">13</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0702b07">14</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0704a05">15</cblink></li>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0705b11">其他</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B18/B18n0101_001.xml#p0691a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

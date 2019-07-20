@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0163c11">序</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0164b20">1 佛說孫陀利宿緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0166a02">2 佛說奢彌跋宿緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0166c07">3 佛說頭痛宿緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0167a23">4 佛說骨節煩疼因緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0167c01">5 佛說背痛宿緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0168a13">6 佛說木槍刺腳因緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_002.xml#p0170b11">7 佛說地婆達兜擲石緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_002.xml#p0170c21">8 佛說婆羅門女栴沙謗佛緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_002.xml#p0172a10">9 佛說食馬麥宿緣經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_002.xml#p0172c05">10 佛說苦行宿緣經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0197_001.xml#p0164a02">第一</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0197_002.xml#p0170b08">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

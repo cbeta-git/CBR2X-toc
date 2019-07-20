@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0368_002.xml#p0127c05">大乘密嚴經疏目次</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_002.xml#p0128a06">釋妙身生品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_003.xml#p0147b16">胎生品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_003.xml#p0148b16">顯示自作品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_003.xml#p0155a04">分別觀行品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_003.xml#p0156b24">賴耶立品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_004.xml#p0159b11">自識境界品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_004.xml#p0160a18">阿賴耶微密品</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_004.xml#p0170a24">結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0368_002.xml#p0128a04">第二</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_003.xml#p0141b08">第三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0368_004.xml#p0159b09">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

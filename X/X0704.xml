@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0704_003.xml#p0195a07">目次</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0704_003.xml#p0195b16">論本第五</cblink>
+	<ol>
+		<li><cblink href="XML/X/X39/X39n0704_003.xml#p0195b16">戒品第十之餘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X39/X39n0704_003.xml#p0204b22">論本第六</cblink>
+	<ol>
+		<li><cblink href="XML/X/X39/X39n0704_003.xml#p0204b23">忍品第十一</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_003.xml#p0207c02">精進品第十二</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_003.xml#p0209c17">禪品第十三</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_004.xml#p0211a22">慧品第十四</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_004.xml#p0212c18">四攝品第十五</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X39/X39n0704_004.xml#p0216b04">論本第七</cblink>
+	<ol>
+		<li><cblink href="XML/X/X39/X39n0704_004.xml#p0216b05">供養習近無量品第十六</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_004.xml#p0222b20">菩提分品第十七</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X39/X39n0704_005.xml#p0226c11">論本第九</cblink>
+	<ol>
+		<li><cblink href="XML/X/X39/X39n0704_005.xml#p0226c11">住品第四之餘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X39/X39n0704_005.xml#p0228b16">論本第十</cblink>
+	<ol>
+		<li><cblink href="XML/X/X39/X39n0704_005.xml#p0228b17">生品第一</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_005.xml#p0229a10">攝品第二</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_005.xml#p0230a14">地品第三</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_005.xml#p0230c10">行品第四</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0704_005.xml#p0231b22">建立品第五</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0704_003.xml#p0195b13">第三之下</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0704_004.xml#p0211a19">第四之上</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0704_005.xml#p0226c08">第五之下</cblink></li>
+</ol>
+</nav>
+</body></html>

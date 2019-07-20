@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a03">詩偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a03">詠犢</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a07">除夕</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a11">早行</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a19">秋雨</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a23">題聖壽宮</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a27">題大酉洞八景</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545b01">印心菴與靈源夜坐</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545b05">贈別阡陽趙元一使君</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545b09">九日病中同張鼎若詠菊</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545b13">霪雨即事</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545b20">谿聲</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545b23">書問</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545c12">行狀</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB354_001.xml#p0546a02">法派</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB354_001.xml#p0545a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

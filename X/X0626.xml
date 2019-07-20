@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0626_001.xml#p0305a02">No. 626-A 序</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0626_001.xml#p0305b05">目次</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0626_001.xml#p0305c12">妙法蓮華經科拾懸談卷首</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0626_001.xml#p0314a03">妙法蓮華經弘傳序略義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0626_001.xml#p0305c14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

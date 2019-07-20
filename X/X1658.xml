@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0421a02">No. 1658-A 諸天傳序</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0421b06">重編諸天傳序</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0421b19">息總別位次之諍</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0422b09">大梵天王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0423a23">帝釋天王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0424a08">四天王總傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0425a03">北方天王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0425c01">東方天王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0426a04">南方天王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0426b13">西方天王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0426c24">金剛密迹傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0427c10">摩醯首天傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0428b06">散脂大將傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0429a03">大辯天傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0429b23">功德天傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0430b02">韋天將軍傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0430c06">堅牢地神傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0431b03">菩提樹神傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0431c11">鬼子母天傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0432b03">摩利支天傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0433a08">日宮天子傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0433c17">月宮天子傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0434b20">娑竭龍王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0435b10">閻摩羅王傳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0436a23">傳後續辯</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1658_001.xml#p0421b03">第一</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1658_002.xml#p0429a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

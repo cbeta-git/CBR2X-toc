@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0647_001.xml#p0166c05">No. 647-A 普門膚說敘</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0647_001.xml#p0167a01">普門膚說科</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0647_001.xml#p0168a06">說題</cblink></li>
+	<li><cblink href="XML/X/X35/X35n0647_001.xml#p0169b10">說文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X35/X35n0647_001.xml#p0168a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

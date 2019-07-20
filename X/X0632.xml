@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0695a09">懸示</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0697b14">弘傳序</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0699c06">卷一</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0705c17">卷二</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0708c23">卷第三</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0710b08">卷第四</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0711c17">卷第五</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0713a15">卷第六</cblink></li>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0715c03">卷第七</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X33/X33n0632_001.xml#p0695a07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

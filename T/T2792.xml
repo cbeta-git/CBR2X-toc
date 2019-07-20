@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0659a10">1 學戒法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0663b03">2 師徒法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0664b25">3 眾僧法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0666c13">4 行道懺悔滅惡法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0668b26">5 行道修善法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0669c17">6 發道資緣法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0671a02">7 信施檀越法</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0672a04">8 護持法藏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2792_001.xml#p0659a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

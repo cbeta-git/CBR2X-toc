@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0136_001.xml#p0359a01">選佛圖略式</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_001.xml#p0359b11">敘</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_001.xml#p0360b12">輪相表法第一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_001.xml#p0361b10">位次升降第二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0136_001.xml#p0361b17">第一發始因地門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_002.xml#p0373a12">第二法道流弊門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_002.xml#p0375a14">第三四種惡趣門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_002.xml#p0377b20">第四欲界人天門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_003.xml#p0384b12">第五色無色天門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_003.xml#p0391a12">第六生善滅惡門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_003.xml#p0393b19">第七增上戒學門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_004.xml#p0397b12">第八增上定學門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_005.xml#p0412a12">第九增上慧學門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_005.xml#p0417b05">第十藏教位次門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_005.xml#p0422b18">十一通教位次門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_006.xml#p0425a12">十二別教位次門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_006.xml#p0432b18">十三圓教位次門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_006.xml#p0436b06">十四淨土橫超門</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0136_006.xml#p0440a14">十五圓極果位門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0136_006.xml#p0441a08">紀事</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0136_001.xml#p0359a01">第一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_002.xml#p0373a11">第二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_003.xml#p0384b11">第三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_004.xml#p0397b11">第四</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_005.xml#p0412a11">第五</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0136_006.xml#p0425a11">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

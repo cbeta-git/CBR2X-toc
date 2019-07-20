@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0001a04">華嚴經合論纂要目次</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0001b23">十門分別</cblink>
+	<ol>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0001b23">前文</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0002a11">一依教分宗</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0003b06">二依宗教別</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0004b15">三教義差別</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0006b18">四成佛同別</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0007a18">五見佛差別</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0007b15">六說教時分</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0007c10">七淨土權實</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0008a16">八攝化境界</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0008b10">九因果延促</cblink></li>
+		<li><cblink href="XML/X/X05/X05n0226_001.xml#p0008c04">十會教始終</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0010c01">世主妙嚴品第一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0015c22">如來現相品第二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0016b02">普賢三昧品第三</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0016b20">世界成就品第四</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0016c07">華藏世界品第五</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0017b10">毗盧遮那品第六</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0017c10">佛名號品第七</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0018c17">四聖諦品第八</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0019a02">光明覺品第九</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0019a16">菩薩問明品第十</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0019b15">淨行品第十一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0019c04">賢首品第十二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0019c20">昇須彌山頂品第十三</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0020a22">須彌頂上偈讚品第十四</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0020c07">十住品第十五</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0021a09">梵行品第十六</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0021a17">初發心功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0021a24">明法品第十八</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0021b19">升夜摩天宮品第十九</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0021c06">夜摩天宮偈讚品第二十</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0021c15">十行品第二十一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0022a07">十無盡藏品第二十二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0022a21">升兜率天宮品第二十三</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0022c05">兜率天宮偈讚品第二十四</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0023a07">十回向品第二十五</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0023c04">十地品第二十六</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0029a19">十定品第二十七</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0029c20">十通品第二十八</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0030a08">十忍品第二十九</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0030b02">阿僧祇品第三十</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0030b18">如來壽量品第三十一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0030b22">菩薩住處品第三十二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0030c05">佛不思議法品第三十三</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0030c19">如來十身相海品第三十四</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0031a07">如來隨好光明功德品第三十五</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0031c01">普賢行品第三十六</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0031c24">如來出現品第三十七</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0033c01">離世間品第三十八</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_003.xml#p0034a07">入法界品第三十九</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_003.xml#p0047b15">No. 226-A 刻華嚴合論纂要後序</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_003.xml#p0048a15">No. 226-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X05/X05n0226_001.xml#p0001b19">第一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_002.xml#p0017c07">第二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0226_003.xml#p0034a04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

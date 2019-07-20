@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0022_001.xml#p0229a13">緒言</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0022_001.xml#p0230a14">詮釋</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0022_001.xml#p0233b14">附錄　心經諸譯</cblink>
+	<ol>
+		<li><cblink href="XML/B/B07/B07n0022_001.xml#p0233b15">後秦三藏鳩摩羅什譯</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0022_001.xml#p0234a07">唐三藏玄奘譯</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0022_001.xml#p0234a20">宋三藏施護譯</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0022_001.xml#p0235a06">清康熙據西藏番字舊本譯</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0022_001.xml#p0227a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

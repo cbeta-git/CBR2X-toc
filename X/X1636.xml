@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0554c05">No. 1636-A 金剛經感應故事分類輯要序</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0555a03">金剛經感應故事分類輯要目錄</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0555a13">延壽</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0555c03">愈疾</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0556a11">生子</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0556b03">登科</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0556c10">免溺</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0557a01">止焚</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0557a05">却鬼</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0557a24">避邪</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0557b08">伏虎</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0557b16">化賊</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0557b22">脫難</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0558a01">還陽</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0558c02">免畜</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0559a01">如願</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0559a07">度禽</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0559a14">濟幽</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0559b20">生天</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0559c23">歸西</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1636_001.xml#p0555a09">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

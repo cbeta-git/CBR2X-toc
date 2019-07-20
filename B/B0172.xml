@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0105a02">序</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0106a02">原書目錄</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0107a05">教起前後　第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0111a06">經說異同　第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0113a05">如是我聞　第三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0114a14">須彌諸天世界　第四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0117a09">三藏、阿毘曇、修多羅、伽陀　第五</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0120a05">九部、十二部、方等乘　第六</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0121a14">涅槃華嚴二喻　第七</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0123a09">神通　第八</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0126a08">地位　第九</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0129a14">七佛三祇　第十</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0131a13">言有三物　第十一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0133a08">八識　第十二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0135a03">四諦、十二因緣、六度　第十三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0137a05">戒　第十四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0138a14">室娶　第十五</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0140a16">肉食　第十六</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0142a04">有宗　第十七</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0143a11">空有　第十八</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0145a12">南三北七　第十九</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0147a05">禪家祖承　第二十</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0149a01">曼陀羅氏　第二十一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0150a08">外道　第二十二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0153a03">佛出朝代　第二十三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0154a13">三教　第二十四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0157a10">雜　第二十五</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0172_001.xml#p0105a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0172_002.xml#p0137a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

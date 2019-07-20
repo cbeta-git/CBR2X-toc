@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0904_001.xml#p0506b02">No. 904-A 大乘止觀法門宗圓記條箇</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0904_001.xml#p0511b06">大乘止觀法門宗圓記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0904_001.xml#p0511b03">第一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0904_002.xml#p0525b01">第二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0904_003.xml#p0541c07">第三</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0904_004.xml#p0558b05">第四</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0904_005.xml#p0573a09">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

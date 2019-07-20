@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0661a02">No. 1495-A 序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0661b07">No. 1495-B 隨聞錄序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0661c02">No. 1495-C 重刻水懺隨聞錄序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0661c21">No. 1495-D 晝中禪師釋水懺敘</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0662b03">No. 1495-E</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1495_001.xml#p0662b04">慈悲水懺序</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1495_001.xml#p0663a23">讚佛偈</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1495_001.xml#p0664c11">讚法偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0665a18">隨聞錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1495_001.xml#p0665a15">第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1495_002.xml#p0685b01">第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1495_003.xml#p0706c03">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

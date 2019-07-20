@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB460_001.xml#p0727a01">序</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_001.xml#p0727c11">目次</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_001.xml#p0728b03">住灤洲澤它萬善寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_002.xml#p0731a03">住灤陽高山石佛禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_003.xml#p0732b03">住盛京奉天府華嚴寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_004.xml#p0734b03">住三韓寧遠州地藏寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_004.xml#p0736a11">住遼東剌兒山朝陽寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_005.xml#p0736c03">復住三韓寧遠州地藏寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_005.xml#p0737c11">住永平府樂亭聖嚴寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0738c03">隨緣小參</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0740b25">垂問</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0741a22">入室機緣</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0741b27">問答機緣</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0742a24">請益</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0742c11">咐囑</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0743a02">代古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0743a14">別古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0743a21">拈古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0744c11">頌古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0745b11">佛事</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0745c21">略狀</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0746a11">附峻峰和尚陞座法語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB460_001.xml#p0728b01">第一</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_002.xml#p0731a01">第二</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_003.xml#p0732b01">第三</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_004.xml#p0734b01">第四</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_005.xml#p0736c01">第五</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0738c01">卷之六上</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB460_006.xml#p0743a01">卷之六下</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0195a07">李師政序</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0195a21">1 身心品法門名義</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0195c02">2 過患品法門名義</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0196b12">3 功德品法門名義</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0199a26">4 理教品法門名義</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0200c29">5 賢聖品法門名義</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0203a20">6 因果品法門名義</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0203c21">7 世界品法門名義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2124_001.xml#p0195a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0416a07">一、關於研究史</cblink></li>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0417a22">二、關於傳本</cblink></li>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0422a10">三、佛教目錄學的發展與《東域錄》的地位</cblink></li>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0426a20">四、《東域錄》的內容與特徵</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0426a21">1、概觀</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0429a13">2、所收典籍的排列</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0433a07">3、與其他目錄的比較</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0066_001.xml#p0435a22">作者附記</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D47/D47n8936_001.xml#p0001b02">偈文來意</cblink></li>
+	<li><cblink href="XML/D/D47/D47n8936_001.xml#p0002a03">釋名</cblink>
+	<ol>
+		<li><cblink href="XML/D/D47/D47n8936_001.xml#p0002a03">正信</cblink></li>
+		<li><cblink href="XML/D/D47/D47n8936_001.xml#p0012a04">念佛</cblink></li>
+		<li><cblink href="XML/D/D47/D47n8936_001.xml#p0013b01">偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D47/D47n8936_001.xml#p0014a03">解釋</cblink>
+	<ol>
+		<li><cblink href="XML/D/D47/D47n8936_001.xml#p0014a04">大綱</cblink></li>
+		<li><cblink href="XML/D/D47/D47n8936_001.xml#p0014b07">細釋</cblink>
+		<ol>
+			<li><cblink href="XML/D/D47/D47n8936_001.xml#p0014b07">前文</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_001.xml#p0015a07">大經意</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_003.xml#p0110b09">總標三朝祖師同顯淨土教意</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_003.xml#p0114a09">龍樹大士讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_004.xml#p0124b02">天親菩薩讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_004.xml#p0151a08">曇鸞和尚讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_004.xml#p0162b04">道綽禪師讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_005.xml#p0171b02">善導大師讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_005.xml#p0184a09">源信和尚讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_005.xml#p0199b08">源空聖人讚</cblink></li>
+			<li><cblink href="XML/D/D47/D47n8936_005.xml#p0210b04">總結</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D47/D47n8936_005.xml#p0213b09">跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D47/D47n8936_001.xml#p0001b01">第一</cblink></li>
+	<li><cblink href="XML/D/D47/D47n8936_002.xml#p0042b01">第二</cblink></li>
+	<li><cblink href="XML/D/D47/D47n8936_003.xml#p0084b01">第三</cblink></li>
+	<li><cblink href="XML/D/D47/D47n8936_004.xml#p0124b01">第四</cblink></li>
+	<li><cblink href="XML/D/D47/D47n8936_005.xml#p0171b01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

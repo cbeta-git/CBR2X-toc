@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0256c20">1 施勝品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0257b20">2 施勝味品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0257c14">3 施主體品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0258a10">4 施主乞者增長品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0259b12">5 勝解脫品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0259c06">6 施主增長品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0260a02">7 恭敬乞者品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0260a25">8 施慳品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0260b29">9 財物施品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0261a07">10 捨一切品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0261c12">11 捨陰受陰品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0261c29">12 捨身命品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0262a12">13 現悲品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0262b08">14 法施品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0262c18">15 發菩提心品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0263a26">16 功德勝品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0263b24">17 勝解脫品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0264a02">18 饒益他品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0264b16">19 勝施他苦品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0265a03">20 愛悲品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0265a29">21 覺悟儜丈夫品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0265b15">22 大丈夫品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0265c01">23 說悲品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0265c14">24 施悲淨品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0266a05">25 愛悲勝品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0266a21">26 智悲解脫品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0266b08">27 發願品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0267a16">28 等同發願品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0267c06">29 勝發願品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1577_001.xml#p0256c16">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1577_002.xml#p0262c14">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

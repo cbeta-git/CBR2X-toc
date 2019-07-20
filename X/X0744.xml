@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0744_001.xml#p0405a02">No. 744-A 四分律名義標釋序</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_001.xml#p0405b17">總目</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_001.xml#p0406c18">四分律名義標釋</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_040.xml#p0704c19">No. 744-B 四分律名義標釋䟦語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0744_001.xml#p0407a05">第一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_002.xml#p0415a01">第二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_003.xml#p0422b18">第三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_004.xml#p0430b16">第四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_005.xml#p0438b10">第五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_006.xml#p0446a06">第六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_007.xml#p0453b07">第七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_008.xml#p0461c11">第八</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_009.xml#p0467c18">第九</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_010.xml#p0475b05">第十</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_011.xml#p0482c04">第十一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_012.xml#p0490b02">第十二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_013.xml#p0499b13">第十三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_014.xml#p0507c16">第十四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_015.xml#p0514c18">第十五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_016.xml#p0521b06">第十六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_017.xml#p0528c22">第十七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_018.xml#p0536a19">第十八</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_019.xml#p0544b20">第十九</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_020.xml#p0553b13">第二十</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_021.xml#p0562c03">第二十一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_022.xml#p0570a01">第二十二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_023.xml#p0577c02">第二十三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_024.xml#p0585a01">第二十四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_025.xml#p0593b16">第二十五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_026.xml#p0601b16">第二十六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_027.xml#p0608c08">第二十七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_028.xml#p0615a14">第二十八</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_029.xml#p0622b19">第二十九</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_030.xml#p0629c02">第三十</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_031.xml#p0637b06">第三十一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_032.xml#p0644c02">第三十二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_033.xml#p0651a07">第三十三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_034.xml#p0657c07">第三十四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_035.xml#p0665c12">第三十五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_036.xml#p0673c22">第三十六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_037.xml#p0680a04">第三十七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_038.xml#p0686b16">第三十八</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_039.xml#p0693c24">第三十九</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0744_040.xml#p0699c03">第四十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1955_001.xml#p0989b03">顯密圓通成佛心要集序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1955_001.xml#p0989c12">顯密圓通成佛心要</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1955_002.xml#p1004b28">供佛利生儀</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1955_002.xml#p1006b04">顯密圓通成佛心要并供佛利生儀後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1955_001.xml#p0989c09">第一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1955_002.xml#p0999a06">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0147c05">1 轉法輪品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0149a13">2 現變品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0149c10">3 化迦葉品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0152a16">4 度瓶沙王品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0153b28">5 舍利弗大目揵連來學品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0154a23">6 還至父國品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0156a05">7 須達品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0157b12">8 本起該容品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0158a21">9 瞿曇彌來作比丘尼品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0159b18">10 度波斯匿王品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0160b18">11 自愛品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0161a17">12 大迦葉始來品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0161b21">13 度奈女品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0162a16">14 尼揵問疑品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0162c15">13 佛食馬麥品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0196_001.xml#p0147c02">第一</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0196_002.xml#p0156a02">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

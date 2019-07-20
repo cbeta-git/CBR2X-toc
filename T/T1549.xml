@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1549_001.xml#p0721a03">序</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_001.xml#p0721b11">1 聚揵度首</cblink>
+	<ol>
+		<li><cblink href="XML/T/T28/T28n1549_001.xml#p0721b11">1</cblink></li>
+		<li><cblink href="XML/T/T28/T28n1549_002.xml#p0729b22">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T28/T28n1549_003.xml#p0737c08">2 心揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_004.xml#p0745c11">3 三昧揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_004.xml#p0752b22">4 天揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_005.xml#p0754b22">5 四大揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_005.xml#p0759a22">6 契經揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_006.xml#p0765a21">7 更樂揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_007.xml#p0771b06">8 結使揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_008.xml#p0777b25">9 行揵度首</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_008.xml#p0786b26">10 智揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_009.xml#p0791a20">11 見揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_009.xml#p0793c02">12 根揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_009.xml#p0795b11">13 一切有揵度</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_009.xml#p0797a21">14 偈揵度</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T28/T28n1549_001.xml#p0721b07">第一</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_002.xml#p0729b22">第二</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_003.xml#p0737c04">第三</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_004.xml#p0745c07">第四</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_005.xml#p0754b18">第五</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_006.xml#p0765a17">第六</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_007.xml#p0771b02">第七</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_008.xml#p0777b21">第八</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_009.xml#p0791a16">第九</cblink></li>
+	<li><cblink href="XML/T/T28/T28n1549_010.xml#p0799b16">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

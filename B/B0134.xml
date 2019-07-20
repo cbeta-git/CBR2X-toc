@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0134_001.xml#p0137a07">翻刻闢邪集序</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0134_001.xml#p0152b09">天學初闢</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0134_002.xml#p0159b11">原道闢邪說</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0159b11">統正序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0160b11">目錄</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0161a13">○揭邪見根源</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0165a06">○揭邪見以空無謗佛</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0166b01">○揭邪見不循本分以三魂惑世</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0167b13">○揭邪見迷萬物不能為一體</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0169a02">○誅邪顯據錄</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0170a19">○尊正說</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0171b17">○拆利偶言</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0173a15">○昭奸</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0177a14">○為翼邪者言</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0178b09">○代疑序略記</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0179a13">○誣經證略</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0180b05">○非楊篇</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0181a11">○緣問陳心</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0182a14">○燃犀</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0134_002.xml#p0183b11">○拔邪略引</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0134_002.xml#p0185a07">跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0134_001.xml#p0137a01">第一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0134_002.xml#p0159b11">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

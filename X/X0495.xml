@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0546c10">No. 495-A 序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0547a18">No. 495-B 敘</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0547c01">No. 495-C 後序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0548a06">經題</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0548b09">初序分</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0549a12">二正宗分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0549a13">前文</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0550c15">第一疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0551a15">第二疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0552a06">第三疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0553a01">第四疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0553c14">第五疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0553c24">第六疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0554b05">第七疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0556c07">第八疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0557b12">第九疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0557c05">第十疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0559a08">第十一疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0559b09">第十二疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0559c09">第十三疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0560a12">第十四疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0560b10">第十五疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0560c20">第十六疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0561a13">第十七疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0561b07">第十八疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0561c21">第十九疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0562a21">第二十疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0562b12">第二十一疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0562c09">第二十二疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0563a18">第二十三疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0563b23">第二十四疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0563c15">第二十五疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0564c15">第二十六疑</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0495_001.xml#p0565a04">第二十七疑</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0565b12">三流通分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0495_001.xml#p0548a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

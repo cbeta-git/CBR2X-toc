@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1994B_001.xml#p0648b11">勘辯</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1994B_001.xml#p0648c23">自術真讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1994B_001.xml#p0646a26">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

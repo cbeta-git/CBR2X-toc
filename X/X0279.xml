@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0279_001.xml#p0532a02">No. 279-A 首楞嚴經通議序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_001.xml#p0532c02">No. 279-B 重刻首楞嚴經通議序</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_001.xml#p0533a01">楞嚴經通議</cblink>
+	<ol>
+		<li><cblink href="XML/X/X12/X12n0279_001.xml#p0533a07">懸判</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0279_001.xml#p0534a05">隨文論議</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X12/X12n0279_010.xml#p0657b23">楞嚴通議補遺</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0279_001.xml#p0533a04">第一</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_002.xml#p0544a06">第二</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_003.xml#p0557a04">第三</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_004.xml#p0567a08">第四</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_005.xml#p0581c01">第五</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_006.xml#p0591a16">第六</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_007.xml#p0603c15">第七</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_008.xml#p0615c01">第八</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_009.xml#p0633c09">第九</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0279_010.xml#p0647a10">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

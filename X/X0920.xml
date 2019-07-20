@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0920_001.xml#p0862b03">止觀輔行傳弘決助覽序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_001.xml#p0862b22">止觀輔行傳弘決序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_001.xml#p0863b19">止觀輔行傳弘決卷第一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_001.xml#p0868c17">止觀輔行傳弘決卷第二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_001.xml#p0871b11">止觀輔行傳弘決卷第三</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_002.xml#p0874b06">止觀輔行傳弘決卷第四</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_002.xml#p0877a07">止觀輔行傳弘決卷第五</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_002.xml#p0879c03">止觀輔行傳弘決卷第六</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_002.xml#p0885a03">止觀輔行傳弘決卷第七</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_003.xml#p0888a24">止觀輔行傳弘決卷第八</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_003.xml#p0892b12">止觀輔行傳弘決卷第九</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_003.xml#p0895b12">止觀輔行傳弘決卷第十</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_003.xml#p0897c05">止觀輔行傳弘決卷第十一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0900b03">止觀輔行傳弘決卷第十二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0904b10">止觀輔行傳弘決卷第十三</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0908a01">止觀輔行傳弘決卷第十四</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0911b13">止觀輔行傳弘決卷第十五</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0914c02">No. 920-A 注三大部後總序</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0914c16">No. 920-B 後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0920_001.xml#p0862b20">第一</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_002.xml#p0874b03">第二</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_003.xml#p0888a21">第三</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0920_004.xml#p0900b01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

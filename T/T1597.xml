@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1597_001.xml#p0321a17">1 總標綱要分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_001.xml#p0324a15">2 所知依分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1597_001.xml#p0324a15">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1597_002.xml#p0326c21">2</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1597_003.xml#p0331c08">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1597_004.xml#p0337c23">3 所知相分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1597_004.xml#p0337c23">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1597_005.xml#p0343a23">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1597_006.xml#p0349b10">4 入所知相分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_007.xml#p0354b13">5 彼入因果分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_007.xml#p0357c21">6 彼修差別分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_008.xml#p0360c10">7 增上戒學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_008.xml#p0361c12">8 增上心學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_008.xml#p0363c08">9 增上慧學分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1597_008.xml#p0363c08">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1597_009.xml#p0366c27">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1597_009.xml#p0369a14">10 果斷分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_009.xml#p0370a20">11 彼果智分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1597_009.xml#p0370a20">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1597_010.xml#p0374a07">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1597_001.xml#p0321a13">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_002.xml#p0326c17">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_003.xml#p0331c04">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_004.xml#p0337c19">第四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_005.xml#p0343a19">第五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_006.xml#p0349b06">第六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_007.xml#p0354b09">第七</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_008.xml#p0360c06">第八</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_009.xml#p0366c23">第九</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1597_010.xml#p0374a03">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0599b09">序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0599b16">袈裟</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0599c20">縵衣</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0600a07">安陀會</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0600a16"> 鬱多羅僧</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0600a24">僧伽棃</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0600b16">從衣</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0600b22">尼師壇</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0600c18">褊衫</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0601a07">覆肩</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0601a16">涅槃僧</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0601b02">鉢多羅</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1098_001.xml#p0599b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

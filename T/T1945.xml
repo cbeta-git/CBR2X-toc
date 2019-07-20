@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0957b06">1 緣起</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0957c02">2 按文開章以定銓次</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0957c16">3 別明禮請灑散二法</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0958a07">4 略明能請及所求離過</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0958c16">5 總示事理觀慧所依</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959a04">6 補助正修十科事儀</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959a05">1 嚴淨道場方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959a21">2 清淨三業方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959b03">3 香華供養方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959b14">4 召請誦呪方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959c14">5 讚歎述意方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0959c27">6 稱三寶及散灑方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0960a20">7 禮敬三寶方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0960b21">8 修行五悔方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0961b03">9 明旋遶自歸方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1945_001.xml#p0961b17">10 明唱誦金光明典方法</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1945_001.xml#p0957b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

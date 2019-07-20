@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0429_001.xml#p0811c06">No. 429-A 淨土已訣序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0429_001.xml#p0812a10">淨土已訣</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0429_001.xml#p0815b09">No. 429-B 北禪量公二注跋尾</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0429_001.xml#p0815b23">No. 429-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0429_001.xml#p0812a12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

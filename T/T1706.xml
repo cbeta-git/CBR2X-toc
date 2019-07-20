@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1706_001.xml#p0286a14">仁王護國般若經疏神寶記序</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_001.xml#p0286b05">懸談大義</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_001.xml#p0289c24">釋序品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T33/T33n1706_001.xml#p0289c24">1</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1706_002.xml#p0291b02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T33/T33n1706_003.xml#p0298a08">釋觀空品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_003.xml#p0301a05">釋菩薩教化品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T33/T33n1706_003.xml#p0301a05">1</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1706_004.xml#p0306a06">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T33/T33n1706_004.xml#p0308a28">釋二諦品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_004.xml#p0310a06">釋護國品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_004.xml#p0311b13">釋散花品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_004.xml#p0311c28">釋受持品</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_004.xml#p0313c18">釋囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1706_001.xml#p0286b05">第一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_002.xml#p0291b02">第二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_003.xml#p0296b11">第三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1706_004.xml#p0306a02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

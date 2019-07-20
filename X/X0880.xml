@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0880_001.xml#p0926b05">No. 880-A 物不遷論辯解題辭</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0880_001.xml#p0926c04">No. 880-B 物不遷論辯解序</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0880_001.xml#p0927a09">物不遷論辯解</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0880_001.xml#p0932c17">No. 880-C</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0880_001.xml#p0933a08">No. 880-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0880_001.xml#p0927a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

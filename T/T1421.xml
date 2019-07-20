@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T22/T22n1421_001.xml#p0001a07">第一分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1421_001.xml#p0001a07">1 波羅夷法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_002.xml#p0010b01">2 僧殘法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T22/T22n1421_002.xml#p0010b01">1</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_003.xml#p0014b23">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T22/T22n1421_004.xml#p0022c14">3 不定法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_004.xml#p0023a13">4 捨墮法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T22/T22n1421_004.xml#p0023a13">1</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_005.xml#p0030b02">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T22/T22n1421_006.xml#p0037b14">5 墮法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T22/T22n1421_006.xml#p0037b14">1</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_007.xml#p0045c14">2</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_008.xml#p0054a02">3</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_009.xml#p0062c14">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T22/T22n1421_010.xml#p0071c06">6 悔過法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_010.xml#p0073c27">7 眾學法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_010.xml#p0077b06">8 七滅諍法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T22/T22n1421_011.xml#p0077b27">第二分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1421_011.xml#p0077b27">1 尼律波羅夷法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_011.xml#p0079a11">2 尼律僧殘法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_012.xml#p0083a13">3 尼律捨墮法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_012.xml#p0085b06">4 尼律墮法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T22/T22n1421_012.xml#p0085b06">1</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_013.xml#p0089a08">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T22/T22n1421_014.xml#p0100a16">5 尼律悔過法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_014.xml#p0100b11">6 尼律眾學法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T22/T22n1421_015.xml#p0101a12">第三分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1421_015.xml#p0101a12">1 受戒法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T22/T22n1421_015.xml#p0101a12">1</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_016.xml#p0108a02">2</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_017.xml#p0114a24">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T22/T22n1421_018.xml#p0121b06">2 布薩法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_019.xml#p0129a08">3 安居法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_019.xml#p0130c19">4 自恣法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_020.xml#p0133c27">5 衣法上</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_021.xml#p0144a12">6 皮革法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_022.xml#p0147b06">7 藥法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_022.xml#p0147c28">8 食法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_022.xml#p0153a18">9 迦絺那衣法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T22/T22n1421_023.xml#p0153c28">第四分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1421_023.xml#p0153c28">1 滅諍法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_023.xml#p0156b19">2 羯磨法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T22/T22n1421_023.xml#p0156b19">1</cblink></li>
+			<li><cblink href="XML/T/T22/T22n1421_024.xml#p0158c02">2</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T22/T22n1421_025.xml#p0164a19">第五分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T22/T22n1421_025.xml#p0164a19">1 破僧法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_025.xml#p0166b08">2 臥具法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_026.xml#p0169b06">3 雜法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_027.xml#p0177a05">4 四威儀法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_028.xml#p0180c24">5 遮布薩法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_028.xml#p0181b05">6 別住法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_028.xml#p0182a05">7 調伏法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_029.xml#p0185b06">8 比丘尼法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_030.xml#p0190b16">9 五百集法</cblink></li>
+		<li><cblink href="XML/T/T22/T22n1421_030.xml#p0192a26">10 七百集法</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T22/T22n1421_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_002.xml#p0007a22">第二</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_003.xml#p0014b23">第三</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_004.xml#p0022c10">第四</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_005.xml#p0030b02">第五</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_006.xml#p0037b10">第六</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_007.xml#p0045c14">第七</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_008.xml#p0054a02">第八</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_009.xml#p0062c14">第九</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_010.xml#p0071c02">第十</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_011.xml#p0077b23">第十一</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_012.xml#p0083a09">第十二</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_013.xml#p0089a08">第十三</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_014.xml#p0094c02">第十四</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_015.xml#p0101a08">第十五</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_016.xml#p0108a02">第十六</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_017.xml#p0114a24">第十七</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_018.xml#p0121b02">第十八</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_019.xml#p0129a04">第十九</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_020.xml#p0133c23">第二十</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_021.xml#p0140c24">第二十一</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_022.xml#p0147b02">第二十二</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_023.xml#p0153c24">第二十三</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_024.xml#p0158c02">第二十四</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_025.xml#p0164a15">第二十五</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_026.xml#p0169b02">第二十六</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_027.xml#p0177a01">第二十七</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_028.xml#p0180c20">第二十八</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_029.xml#p0185b02">第二十九</cblink></li>
+	<li><cblink href="XML/T/T22/T22n1421_030.xml#p0190b12">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

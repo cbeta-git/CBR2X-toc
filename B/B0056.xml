@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0124a04">編者導言</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0124a05">（一）書之纂集者與其同門法侶</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0124a17">（二）書中密義之傳承</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0125a10">（三）書之稿本</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0125a19">（四）本書與「雅言集」之比較</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0128a16">歸敬頌</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0128a18">開卷偈</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0129a04">修持訓語二十八門</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0129a05">（一）悔恨十因</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0129a16">（二）十事必須</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0130a04">（三）十事應為</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0130a11">（四）十事避離</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0130a16">（五）十事勿避</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0131a04">（六）十事應知</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0131a10">（七）十事應習</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0132a02">（八）十事精勤</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0132a09">（九）十事奮發</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0132a17">（十）十事違失</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0133a04">（十一）相似十悟</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0133a09">（十二）十事無悞</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0133a14">（十三）十三悲果</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0134a03">（十四）十五玷缺</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0134a14">（十五）十二事不可少</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0135a03">（十六）君子十徵</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0135a09">（十七）十事無益</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0135a19">（十八）十事苦惱自招</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0136a07">（十九）十事自益</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0136a14">（二十）十事最勝</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0137a03">（二十一）十事迷誤堪悲</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0137a13">（二十二）十事需要</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0138a02">（二十三）十事無須</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0138a13">（二十四）十事更勝</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0139a02">（二十五）十事無別</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0139a09">（二十六）聖法十德</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0140a02">（二十七）十事喻說</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0056_001.xml#p0140a10">（二十八）妙悟十樂</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0140a19">結述</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0141a04">書後迴向</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0056_001.xml#p0124a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

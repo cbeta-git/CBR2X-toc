@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0516a04">起信論疏記會閱總目</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0516c02">No. 767-1 起信論疏記會閱凡例</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0517c21">No. 767-2 起信論疏記會閱緣起</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0520a01">No. 767-3 大乘起信論疏科文</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0534a03">No. 767-4 法界宗五祖略記</cblink>
+	<ol>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0534a04">引</cblink></li>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0534b07">法界宗五祖略記</cblink>
+		<ol>
+			<li><cblink href="XML/X/X45/X45n0767_001.xml#p0534b10">初祖杜順和尚</cblink></li>
+			<li><cblink href="XML/X/X45/X45n0767_001.xml#p0535a21">二祖智儼和尚</cblink></li>
+			<li><cblink href="XML/X/X45/X45n0767_001.xml#p0535c15">三祖賢首國師</cblink></li>
+			<li><cblink href="XML/X/X45/X45n0767_001.xml#p0537c23">四祖清凉國師</cblink></li>
+			<li><cblink href="XML/X/X45/X45n0767_001.xml#p0539c09">五祖圭峰大師</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0540c12">No. 767-5 論主馬鳴菩薩略錄</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0541c06">No. 767-6 記主長水大師略錄</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0542a17">No. 767-7 起信論法相</cblink>
+	<ol>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0542a19">因緣分(一)</cblink></li>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0542a24">立義分(二)</cblink></li>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0542b05">解釋分(三)</cblink></li>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0543b12">修行信心分(四)</cblink></li>
+		<li><cblink href="XML/X/X45/X45n0767_001.xml#p0543c06">勸修利益分(五)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0543c13">No. 767-8 起信論釋教義中詮真妄生滅法相之圖</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0767_001.xml#p0516a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

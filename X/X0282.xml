@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0282_001.xml#p0001a03">No. 282-A 楞嚴玄義敘</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_001.xml#p0001b06">序</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_001.xml#p0001c17">初釋名</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_003.xml#p0024c23">二辨體</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_003.xml#p0028a14">三明宗</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_003.xml#p0032a12">四論用</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_004.xml#p0032c04">五教相</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0282_004.xml#p0032c04">百問總序</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0282_004.xml#p0033a09">先問五章</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0282_004.xml#p0034b20">次辨時味</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0282_004.xml#p0040a02">後明八教諸門四悉本迹</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0282_004.xml#p0042b23">終推機應以盡疑情</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0282_004.xml#p0043c13">結語</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0282_001.xml#p0001b03">第一</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_002.xml#p0012a04">第二</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_003.xml#p0022c04">第三</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0282_004.xml#p0032c02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

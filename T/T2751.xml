@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0195a20">囑累品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0195b24">藥王品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0196a15">妙音品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0196c18">觀世音品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0197b04">陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0197b29">妙莊嚴王品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0197c21">普賢品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2751_001.xml#p0194c05">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0246_001.xml#p0758a01">No. 246-A 前序科</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0246_001.xml#p0759a01">略疏科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0246_001.xml#p0759a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

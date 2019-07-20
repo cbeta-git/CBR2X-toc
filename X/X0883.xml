@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0170b05">No. 883-A 法苑義林章決擇記序引</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0170c01">大乘法苑義林章決擇記目錄</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0171a03">總料簡章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0180a04">五心章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0181c13">唯識章(卷第一末)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0185a22">諸乘章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0185c17">諸藏章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0186b14">十二分教章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0187a04">斷障章(卷第二末)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0189b19">二諦章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0190a21">四大種章(卷第三本)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0192b06">五根章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0192c17">表無表章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0197c19">歸敬章(卷第四本)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0198b17">四食章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0200a01">六十二見章(卷第四末)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0201a15">八解脫章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0202b18">二執章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0202c02">二十七賢聖章(卷第五本)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0203b10">三科章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0204a03">極微章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0204b06">勝定果色章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0205c07">十因章(卷第五末)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0206c08">五果章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0206c22">法處色變章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0208c15">三寶章(卷第六本)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0210a08">破魔章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0210b16">三慧章(卷第六末)</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0212b02">三輪章</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0213a16">三身章(卷第七本)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0171a02">上本</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_001.xml#p0181c11">上末</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0192b04">下本</cblink></li>
+	<li><cblink href="XML/X/X55/X55n0883_002.xml#p0204b03">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

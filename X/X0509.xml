@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0878a03">No. 509-A</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0878a12">No. 509-B 金剛經源流</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0878c01">彚纂引用書目</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879a01">例言</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879b21">誦經要法</cblink>
+	<ol>
+		<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879b22">何必靜室</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879c03">何必出家</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879c09">何必設像</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879c13">何必急誦</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879c18">何必跪諷</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0509_001.xml#p0879c20">何必全部</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0880a10">金剛經解義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0509_001.xml#p0880a12">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0509_002.xml#p0895a22">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

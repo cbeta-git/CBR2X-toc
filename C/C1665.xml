@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/C/C071/C071n1665_001.xml#p0111a01">印經題記</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_001.xml#p0111a05">佛品</cblink>
+	<ol>
+		<li><cblink href="XML/C/C071/C071n1665_001.xml#p0111a05">序</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_001.xml#p0111a17">再序</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_001.xml#p0111c02">請佛文</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_001.xml#p0112a03">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/C/C071/C071n1665_002.xml#p0117a01">菩薩品一</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_003.xml#p0122a01">菩薩品二</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_004.xml#p0127a01">菩薩品三</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_005.xml#p0132a01">菩薩品四</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_006.xml#p0137a01">菩薩品五</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_007.xml#p0143a01">菩薩品六</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_007.xml#p0146a01">辟支佛品</cblink>
+	<ol>
+		<li><cblink href="XML/C/C071/C071n1665_007.xml#p0146a01">序</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_007.xml#p0146a13">再序</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_007.xml#p0146b01">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/C/C071/C071n1665_008.xml#p0148a01">阿羅漢品</cblink>
+	<ol>
+		<li><cblink href="XML/C/C071/C071n1665_008.xml#p0148a01">序</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_008.xml#p0148a13">再序</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_008.xml#p0148b06">本文一</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_009.xml#p0153a01">本文二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/C/C071/C071n1665_010.xml#p0158a01">比丘尼品</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_010.xml#p0159b19">懺悔文</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a01">跋</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a16">釋音</cblink>
+	<ol>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a16">第一卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a18">第二卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a20">第三卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a22">第四卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160a24">第五卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160b02">第六卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160b04">第七卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160b06">第八卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160b08">第九卷</cblink></li>
+		<li><cblink href="XML/C/C071/C071n1665_010.xml#p0160b10">第十卷</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/C/C071/C071n1665_001.xml#p0111a05">第一</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_002.xml#p0117a01">第二</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_003.xml#p0122a01">第三</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_004.xml#p0127a01">第四</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_005.xml#p0132a01">第五</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_006.xml#p0137a01">第六</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_007.xml#p0143a01">第七</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_008.xml#p0148a01">第八</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_009.xml#p0153a01">第九</cblink></li>
+	<li><cblink href="XML/C/C071/C071n1665_010.xml#p0158a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

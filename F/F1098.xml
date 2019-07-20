@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/F/F29/F29n1098_001.xml#p0380a02">開經玄蘊呪</cblink></li>
+	<li><cblink href="XML/F/F29/F29n1098_001.xml#p0380a09">太上洞玄靈寶高上玉皇本行集經</cblink></li>
+	<li><cblink href="XML/F/F29/F29n1098_001.xml#p0385a01">玉皇本行集經纂</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/F/F29/F29n1098_001.xml#p0380a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

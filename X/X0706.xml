@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0706_001.xml#p0260a02">No. 706-A</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0706_001.xml#p0260b01">十善業道經節要</cblink></li>
+	<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c04">善惡十界業道品</cblink>
+	<ol>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c06">上品十惡</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c10">中品十惡</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c13">下品十惡</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c16">下品十善</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c19">中品十善</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0261c22">有漏上品十善</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0262a01">無漏上品十善</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0262a05">亦漏無漏上品十善</cblink></li>
+		<li><cblink href="XML/X/X39/X39n0706_001.xml#p0262a11">非漏非無漏上上品十善</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X39/X39n0706_001.xml#p0260b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

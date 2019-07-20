@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1484_001.xml#p0997a02">序</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1484_001.xml#p0997a18">序</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1484_002.xml#p1003a15">菩薩戒序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1484_001.xml#p0997b08">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1484_002.xml#p1003b06">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

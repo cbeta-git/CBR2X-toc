@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1818_001.xml#p0785a03">刻法華論疏序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1818_001.xml#p0785a16">第一</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1818_002.xml#p0799c14">第二</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1818_003.xml#p0814a06">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

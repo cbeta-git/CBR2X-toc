@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2088_001.xml#p0948a03">釋迦方志序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_001.xml#p0948b25">1 釋迦方志封疆篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_001.xml#p0948c09">2 釋迦方志統攝篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_001.xml#p0948c27">3 釋迦方志中邊篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_001.xml#p0950c08">4 釋迦方志遺跡篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_002.xml#p0968c20">5 釋迦方志遊履篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_002.xml#p0969c27">6 釋迦方志通局篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_002.xml#p0973b22">7 釋迦方志時住篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_002.xml#p0973c13">8 釋迦方志教相篇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2088_001.xml#p0948b22">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2088_002.xml#p0961b07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

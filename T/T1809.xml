@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0511b08">序</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0511c05">1 方便篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0512a08">2 結界篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0513b28">3 授戒篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0517a20">4 師資篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0517c04">5 說戒篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0518b24">6 安居篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0518c07">7 受日篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0518c22">8 自恣篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0519b07">9 衣鉢藥受淨篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0519c09">10 攝物篇(上)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_002.xml#p0521a05">11 德衣篇(中)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_002.xml#p0521b17">12 除罪篇(中)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_003.xml#p0530a18">13 治人篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_003.xml#p0531c27">14 設諫篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_003.xml#p0532b19">15 滅諍篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_003.xml#p0533a01">16 雜行篇(下)</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_003.xml#p0534b09">17 修奉篇(下)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T40/T40n1809_001.xml#p0511b05">第一</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_002.xml#p0521a02">第二</cblink></li>
+	<li><cblink href="XML/T/T40/T40n1809_003.xml#p0530a15">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

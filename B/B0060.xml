@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0060_001.xml#p0331a06">第一章　頗哇心要轉識自在恒修法</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0331a07">皈敬法</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0332a07">祈禱偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0333a07">發願偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0333a14">本尊瑜伽</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0334a09">金剛扎格尼及上師瑜伽</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0336a15">原書短跋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B10/B10n0060_001.xml#p0337a13">第二章　頗哇心要轉識自在度亡法</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0338a01">初級成就瑜伽士所作之度亡法</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0339a05">中級成就瑜伽士所作之度亡法</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0339a12">高級成就瑜伽士所作之度亡法</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0060_001.xml#p0340a07">原書短跋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B10/B10n0060_001.xml#p0340a14">第三章　本尊上師聖相莊嚴觀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0060_001.xml#p0331a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

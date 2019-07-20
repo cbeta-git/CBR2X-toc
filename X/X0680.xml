@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0680_001.xml#p0222a06">卷第一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0680_001.xml#p0223c24">卷第二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0680_001.xml#p0225c09">卷第三</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0680_001.xml#p0226c18">卷第四</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0680_001.xml#p0229c19">卷第五</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0680_001.xml#p0222a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

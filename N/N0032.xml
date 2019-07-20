@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N65/N65n0032_001.xml#p0001a01">第一章　佛陀調伏夜叉</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_002.xml#p0010a06">第二章　佛陀調伏龍及懸記</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_003.xml#p0017a01">第三章　摩訶三摩多之王系</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_004.xml#p0023a06">第四章　第一第二結集</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_005.xml#p0029a09">第五章　學派及師資相承</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_006.xml#p0039a12">第六章　阿育王之歸依</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_007.xml#p0051a01">第七章　第三結集</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_008.xml#p0056a09">第八章　諸方之教化</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_009.xml#p0058a04">第九章　毘闍耶之到來</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_010.xml#p0063a04">第十章　阿婆耶王之灌頂</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_011.xml#p0064a10">第十一章　天愛帝須王灌頂之品品</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_012.xml#p0070a10">第十二章　摩哂陀之來島</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_013.xml#p0080a07">第十三章　大雲林園之奉獻</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_014.xml#p0086a07">第十四章　大寺及支提山之受納</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_015.xml#p0095a01">第十五章　遺骨之渡來</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_016.xml#p0106a05">第十六章　大菩提樹之受納</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_017.xml#p0111a01">第十七章　摩哂陀之入寂</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_018.xml#p0121a03">第十八章　比丘尼教團</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_019.xml#p0127a01">第十九章　阿婆耶木杈伽摩尼</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_020.xml#p0130a11">第二十章　佛典之書寫</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_021.xml#p0134a10">第二十一章　諸王之事蹟</cblink></li>
+	<li><cblink href="XML/N/N65/N65n0032_022.xml#p0139a08">第二十二章　續諸王之事蹟</cblink></li>
+</ol>
+</nav>
+</body></html>

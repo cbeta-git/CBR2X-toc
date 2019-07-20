@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0682_001.xml#p0242a02">No. 682-A 梵網經記序</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0682_001.xml#p0242b01">梵網經記</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0682_002.xml#p0273b02">No. 682-B</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0682_002.xml#p0273b18">No. 682-C</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0682_002.xml#p0273c19">No. 682-D 重刻梵網經記後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0682_001.xml#p0242b03">第一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0682_002.xml#p0256a03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0873_001.xml#p0330a02">No. 873-A 肇論序</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_001.xml#p0330b05">總標題目</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_001.xml#p0330b16">作者示名</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_001.xml#p0330c07">宗本義</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_001.xml#p0332b05">物不遷論第一</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_002.xml#p0337a20">不真空論第二</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_003.xml#p0341b22">般若無知論第三</cblink>
+	<ol>
+		<li><cblink href="XML/X/X54/X54n0873_003.xml#p0341b23">般若無知論</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0873_003.xml#p0344b19">問答決疑</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0873_004.xml#p0347b16">劉遺民書問附</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0873_004.xml#p0349a19">答劉遺民書</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X54/X54n0873_005.xml#p0352a14">涅槃無名論第四</cblink>
+	<ol>
+		<li><cblink href="XML/X/X54/X54n0873_005.xml#p0352b14">奏秦王表</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0873_005.xml#p0353c11">九折十演者</cblink>
+		<ol>
+			<li><cblink href="XML/X/X54/X54n0873_005.xml#p0353c15">開宗第一</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_005.xml#p0354c05">覈體第二</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_005.xml#p0356c19">位體第三</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_005.xml#p0359b11">徵出第四</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_005.xml#p0360a14">超境第五</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0360c23">搜玄第六</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0361a17">妙存第七</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0362a18">難差第八</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0362b18">辯差第九</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0362c23">責異第十</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0363a13">會異第十一</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0363b20">詰漸第十二</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0364a06">明漸第十三</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0364b22">譏動第十四</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0364c19">動寂第十五</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0366a03">窮源第十六</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0366a16">通古第十七</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0367a05">考得第十八</cblink></li>
+			<li><cblink href="XML/X/X54/X54n0873_006.xml#p0367a22">玄得第十九</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X54/X54n0873_006.xml#p0368b13">No. 873-B 肇論略注後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0873_001.xml#p0330b03">第一</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_002.xml#p0337a17">第二</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_003.xml#p0341b19">第三</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_004.xml#p0347b13">第四</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_005.xml#p0352a11">第五</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0873_006.xml#p0360c20">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

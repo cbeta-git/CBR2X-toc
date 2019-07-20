@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0270_001.xml#p0776a07">No. 270-A 首楞嚴經要解序</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_001.xml#p0776b20">初通釋經題</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_001.xml#p0776c24">二通敘科判</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_001.xml#p0778a03">三正釋經文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X11/X11n0270_001.xml#p0778a05">初序分</cblink></li>
+		<li><cblink href="XML/X/X11/X11n0270_001.xml#p0779c01">二正宗分</cblink></li>
+		<li><cblink href="XML/X/X11/X11n0270_020.xml#p0885b07">三流通分</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X11/X11n0270_020.xml#p0885c21">No. 270-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0270_001.xml#p0776b12">第一</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_002.xml#p0781b13">第二</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_003.xml#p0786c14">第三</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_004.xml#p0792c01">第四</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_005.xml#p0798c01">第五</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_006.xml#p0804b21">第六</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_007.xml#p0810a01">第七</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_008.xml#p0817a01">第八</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_009.xml#p0822b15">第九</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_010.xml#p0827b01">第十</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_011.xml#p0830c04">第十一</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_012.xml#p0835b04">第十二</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_013.xml#p0841c10">第十三</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_014.xml#p0847a01">第十四</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_015.xml#p0852a01">第十五</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_016.xml#p0858b16">第十六</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_017.xml#p0865b10">第十七</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_018.xml#p0871c01">第十八</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_019.xml#p0877a01">第十九</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0270_020.xml#p0881a12">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

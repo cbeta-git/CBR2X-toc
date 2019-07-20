@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0475_001.xml#p0071a02">No. 475-A 金剛鎞序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0475_001.xml#p0071b11">金剛般若波羅蜜經鎞</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0475_001.xml#p0071b13">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0475_002.xml#p0086a17">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

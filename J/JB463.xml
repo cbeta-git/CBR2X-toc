@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB463_001.xml#p0785a03">住潭州人溈山密印禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_001.xml#p0790a03">住潭州芙蓉山廣化禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_001.xml#p0794c03">舉古</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_002.xml#p0800a03">住潭州大溈山密印禪寺首座寮秉拂語錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_002.xml#p0804c03">住潭州芙蓉山廣化禪寺首座寮秉拂語錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB463_001.xml#p0785a01">卷上(一)</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_001.xml#p0790a01">卷上(二)</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_001.xml#p0794c01">卷上(三)</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_002.xml#p0800a01">卷下(一)</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB463_002.xml#p0804c01">卷下(二)</cblink></li>
+</ol>
+</nav>
+</body></html>

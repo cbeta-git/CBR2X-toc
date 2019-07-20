@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0354b09">目次</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0354b15">第一開導</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0354c09">第二三歸</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0354c15">第三請師</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0355a07">第四懺悔</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0355c11">第五發心</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0356a01">第六問遮</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0356a15">第七正授戒</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0356b09">第八證明</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0356b14">第九現相受</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0356c01">第十說相</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0356c23">第十一廣願</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0357a15">第十二教令持戒</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1086_001.xml#p0354b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

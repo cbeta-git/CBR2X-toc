@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0130a04">淨土警語目次</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0130a21">勸發真信</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0130c05">申勸</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0131a17">又申勸</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0132b04">起三年長期示眾</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0132c14">起精進七期示眾</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0133a15">料柬法門</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0133c10">九品略辯</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0134b10">示夏子彝居士</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0134c07">示丁耕野居士</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0135a24">柬顧兆禎居士</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0135b12">答顧兆禎居士</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0136a06">名字說與金水若居士</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0136b23">首楞嚴經勢至圓通章</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0138a21">旅三字說</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0139a01">觀佛毫相法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1174_001.xml#p0130a18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

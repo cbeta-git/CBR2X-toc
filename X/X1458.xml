@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0865a02">No. 1458-A 宗門寶積錄序</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0865b14">No. 1458-B 宗門寶積錄序</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0866a07">No. 1458-C 序</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0866c08">No. 1458-D 序</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0867b01">宗門寶積錄凡例</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0867c16">宗門寶積錄目錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X73/X73n1458_001.xml#p0865a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0615_001.xml#p0001a01">妙法蓮華經綸貫</cblink></li>
+	<li><cblink href="XML/X/X32/X32n0615_001.xml#p0007c01">No. 615-A 後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X32/X32n0615_001.xml#p0001a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB175_001.xml#p0753a01">五峰禪師語錄敘</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB175_001.xml#p0754a03">語錄</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB175_001.xml#p0756c21">行實</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB175_001.xml#p0757c11">塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB175_001.xml#p0754a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

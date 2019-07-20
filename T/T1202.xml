@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1202_001.xml#p0023c06">1 畫像法摧伏</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1202_001.xml#p0024a17">2 畫像法</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1202_001.xml#p0024b05">3 別畫使者法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1202_001.xml#p0023a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

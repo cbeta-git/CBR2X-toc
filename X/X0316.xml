@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0316_001.xml#p0437b06">十別解文義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X16/X16n0316_001.xml#p0437b08">一序分</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0316_001.xml#p0443b20">二正宗分</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0316_010.xml#p0633c01">三流通分</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0316_001.xml#p0437b03">第一</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_002.xml#p0459a20">第二</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_003.xml#p0484b12">第三</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_004.xml#p0506a20">第四</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_005.xml#p0526b19">第五</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_006.xml#p0542a23">第六</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_007.xml#p0562b12">第七</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_008.xml#p0579a13">第八</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_009.xml#p0603c18">第九</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0316_010.xml#p0620c09">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

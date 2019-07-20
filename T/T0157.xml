@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0157_001.xml#p0167a07">1 轉法輪品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_001.xml#p0168b26">2 陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_002.xml#p0174b29">3 大施品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_003.xml#p0183b19">4 諸菩薩本授記品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T03/T03n0157_003.xml#p0183b19">1</cblink></li>
+		<li><cblink href="XML/T/T03/T03n0157_004.xml#p0188c11">2</cblink></li>
+		<li><cblink href="XML/T/T03/T03n0157_005.xml#p0196a03">3</cblink></li>
+		<li><cblink href="XML/T/T03/T03n0157_006.xml#p0202b09">4</cblink></li>
+		<li><cblink href="XML/T/T03/T03n0157_007.xml#p0209a08">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T03/T03n0157_008.xml#p0220b18">5 檀波羅蜜品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T03/T03n0157_008.xml#p0220b18">1</cblink></li>
+		<li><cblink href="XML/T/T03/T03n0157_009.xml#p0222a18">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T03/T03n0157_010.xml#p0229c03">6 入定三昧門品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0157_001.xml#p0167a04">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_002.xml#p0174b26">第二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_003.xml#p0181b11">第三</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_004.xml#p0188c11">第四</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_005.xml#p0196a03">第五</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_006.xml#p0202b09">第六</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_007.xml#p0209a08">第七</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_008.xml#p0216a02">第八</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_009.xml#p0222a18">第九</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0157_010.xml#p0227c20">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

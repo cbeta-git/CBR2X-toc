@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1464_001.xml#p0056a12">維那舉讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1464_001.xml#p0056b07">第一時</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1464_001.xml#p0059a08">第二時</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1464_001.xml#p0060a16">第三時</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1464_001.xml#p0061a21">結文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1464_001.xml#p0056a07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

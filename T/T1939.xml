@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1939_001.xml#p0937b07">通別五時論</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1939_001.xml#p0938a11">化儀四教說</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1939_001.xml#p0938c03">化法四教說</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1939_001.xml#p0942a08">附轉接同會借說</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1939_001.xml#p0936c19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

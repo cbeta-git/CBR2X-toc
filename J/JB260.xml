@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J30/J30nB260_001.xml#p0917a01">序</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB260_001.xml#p0917a19">凡例</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB260_001.xml#p0917c01">禮佛大懺悔文</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB260_001.xml#p0919a01">略解</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB260_002.xml#p0933a10">附文</cblink>
+	<ol>
+		<li><cblink href="XML/J/J30/J30nB260_002.xml#p0933a10">跋</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J30/J30nB260_001.xml#p0919a01">第一</cblink></li>
+	<li><cblink href="XML/J/J30/J30nB260_002.xml#p0925c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

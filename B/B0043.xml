@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0501a18">譯序</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0502a17">序</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0503a18">引言</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0503b02">附註</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0503b19">科判目錄</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0503b21">卷第一</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0505b14">卷第二</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0507b08">卷第三</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0509a04">卷第四</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0510b04">卷第五</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0511b30">卷第六</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0513b10">卷第七</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0515a06">卷第八</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0043_001.xml#p0516a31">卷第九</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0518a17">前文</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0518b12">自義品第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_003.xml#p0542a18">成量品第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_005.xml#p0561b18">現量品第三</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0043_001.xml#p0501a01">第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_002.xml#p0530a16">第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_003.xml#p0542a16">第三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_004.xml#p0551b16">第四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_005.xml#p0561b16">第五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_006.xml#p0572b16">第六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_007.xml#p0584b16">第七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_008.xml#p0596b16">第八</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0043_009.xml#p0606b16">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

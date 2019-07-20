@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0496a11">1 受三歸五戒文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0496b03">2 受八戒文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0496b21">3 乞畜眾羯磨文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0496b25">4 僧與畜眾羯磨文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0496c07">4 受沙彌十戒文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0497a24">5 受六法壇文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0498a28">6 大比丘尼壇文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0499a13">7 入大僧中受具足壇文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0500c23">8 受大戒壇文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0502c11">9 結小界文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0502c21">10 結大界文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503a01">11 結不離衣界文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503a13">12 解大界文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503a23">13 差監為僧執事</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503b02">14 受安居文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503b09">15 受七日文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503b12">16 受三十九夜文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503b26">17 一人心念口言布薩文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503b29">18 三人二人三語布薩文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503c04">19 四人以上廣布薩時與清淨文</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0503c08">20 至僧中說清淨文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T23/T23n1439_001.xml#p0496a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

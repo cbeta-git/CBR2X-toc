@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2183_001.xml#p1145c15">1 弘經錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2183_001.xml#p1145c16">華嚴部</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2183_001.xml#p1147b04">般若部</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2183_001.xml#p1148c16">法華部</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2183_001.xml#p1150b07">眾經部</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2183_001.xml#p1154c17">2 傳律錄</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2183_001.xml#p1156a16">3 講論錄</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2183_001.xml#p1161b16">4 雜述錄</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2183_001.xml#p1161b16">5 傳記錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2183_001.xml#p1145c04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2156_001.xml#p0748b17">一百六十二卷經論及念誦</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2156_002.xml#p0758a12">六十四卷經律疏義</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2156_002.xml#p0764c24">八十六卷貞元新集古今制令碑表記錄</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2156_003.xml#p0766b02">入藏錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2156_003.xml#p0766b11">一百九十三卷經論及念誦法</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2156_003.xml#p0769a18">六十四卷經律疏義</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2156_003.xml#p0769b19">八十八卷貞元新集古今制令碑表記錄</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2156_001.xml#p0748b09">第一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2156_002.xml#p0758a02">第二</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2156_003.xml#p0766b02">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

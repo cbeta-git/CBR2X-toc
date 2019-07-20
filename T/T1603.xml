@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0583b24">1 攝事品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0584a25">2 攝淨義品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0584c10">3 成善巧品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0585b03">4 成無常品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0585c22">5 成苦品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0586b05">6 成空品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0586c23">7 成無性品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0587b14">8 成現觀品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0588a07">9 成瑜伽品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0588a16">10 成不思議品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0588b08">11 攝勝決擇品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1603_001.xml#p0583b20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

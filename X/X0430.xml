@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0430_001.xml#p0816a02">No. 430-A 彌陀要解便蒙鈔序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0430_001.xml#p0816b13">No. 430-B 便蒙鈔自序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0430_001.xml#p0817a04">阿彌陀經要解便蒙鈔</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0430_003.xml#p0884a05">No. 430-C 重刻䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0430_001.xml#p0817a06">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0430_002.xml#p0842b04">第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0430_003.xml#p0862a04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

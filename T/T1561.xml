@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1561_001.xml#p0325a15">1 分別界品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1561_001.xml#p0325a15">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1561_002.xml#p0326a04">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1561_003.xml#p0326b19">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1561_004.xml#p0326c24">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1561_005.xml#p0327a27">2 分別根品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1561_001.xml#p0325a08">第一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1561_002.xml#p0326a04">第二</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1561_003.xml#p0326b19">第三</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1561_004.xml#p0326c24">第四</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1561_005.xml#p0327a24">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

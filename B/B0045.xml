@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0045_001.xml#p0715b18">前言</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0715b20">教乘所攝</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0716a08">造論人介紹</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0716a26">本論之組織</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B09/B09n0045_001.xml#p0716b18">正釋頌文</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0716b19">釋歸敬頌</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B09/B09n0045_001.xml#p0717b16">釋十地諸頌</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0717b17">第一菩提心歡喜地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0720b16">第二菩提心離垢地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0722a16">第三菩提心發光地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0723b14">第四菩提心焰慧地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0724b01">第五菩提心難勝地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0724b14">第六菩提心現前地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0748a16">第七菩提心遠行地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0748b01">第八菩提心不動地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0749a17">第九菩提心善慧地</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0045_001.xml#p0749b01">第十菩提心法雲地</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B09/B09n0045_001.xml#p0750b01">釋佛地諸頌</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0045_001.xml#p0754b02">結義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0045_001.xml#p0715b15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

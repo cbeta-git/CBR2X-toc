@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0813a10">1 教化品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0813b18">2 佛寶品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0813b27">3 法寶品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0813c07">4 僧寶品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0813c21">5 一切眾生有如來藏品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0814b21">6 無量煩惱所纏品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0816a19">7 為何義說品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0816b02">8 身轉清淨成菩提品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0817a04">9 如來功德品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0818a03">10 自然不休息佛業品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0819c24">11 校量信功德品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0820c21">1 〔教化品〕</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_002.xml#p0822b22">2 佛寶品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_002.xml#p0823b23">3 法寶品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_002.xml#p0824b26">4 僧寶品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_003.xml#p0828a19">5 一切眾生有如來藏品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0837a05">6 無量煩惱所纏品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0840b22">7 為何義說品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0840c29">8 身轉清淨成菩提品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0843c26">9 如來功德品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0845c02">10 自然不休息佛業品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0846c12">11 挍量信功德品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1611_001.xml#p0813a07">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_002.xml#p0822b19">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_003.xml#p0828a16">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1611_004.xml#p0837a02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

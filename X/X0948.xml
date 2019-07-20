@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0948_001.xml#p0813a07">四明仁岳異說叢書目次</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_001.xml#p0813a17">No. 948-1 岳闍梨十諫書</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_002.xml#p0818a05">No. 948-2 法智遺編解謗書</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_003.xml#p0832b05">No. 948-3 岳闍梨雪謗書</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_004.xml#p0839a05">No. 948-4 附法智遺編別理隨緣十門析難書(并序)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0839a09">前言</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0839a24">一標名立義門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0840b06">二簡別示圓門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0841c04">三約文申理門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0842c18">四引喻彰法門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0843b01">五具變性殊門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0844b10">六色心體異門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0845a15">七真妄生法門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0845c14">八經論詮旨門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0846b08">九比他宗教門</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0948_004.xml#p0846c22">十止世人情門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X56/X56n0948_005.xml#p0848a05">No. 948-5 釋難扶宗記</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_006.xml#p0852c05">No. 948-6 附法智遺編止疑書</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_007.xml#p0858a02">No. 948-7 附法智遺編抉膜書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0948_001.xml#p0813a16">第一</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_002.xml#p0818a01">第二</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_003.xml#p0832b01">第三</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_004.xml#p0839a01">第四</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_005.xml#p0848a01">第五</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_006.xml#p0852c01">第六</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0948_007.xml#p0858a01">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

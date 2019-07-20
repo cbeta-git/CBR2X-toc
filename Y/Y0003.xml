@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/Y/Y03/Y03n0003_001.xml#p0001a03">懸論</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y03/Y03n0003_001.xml#p0001a04">一　敘大意</cblink></li>
+		<li><cblink href="XML/Y/Y03/Y03n0003_001.xml#p0009a12">二　釋經題</cblink></li>
+		<li><cblink href="XML/Y/Y03/Y03n0003_001.xml#p0017a01">三　明傳譯</cblink></li>
+		<li><cblink href="XML/Y/Y03/Y03n0003_001.xml#p0017a09">四　論頓漸</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0020a01">正釋</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0020a02">甲一　序分</cblink>
+		<ol>
+			<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0020a03">乙一　證信序</cblink></li>
+			<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0023a08">乙二　發起序</cblink>
+			<ol>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0023a09">丙一　外緣發起</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0023a10">丁一　論女德共商接引</cblink></li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0025a12">丁二　遣信使發其道意</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0026a11">丙二　內因感悟</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0026a12">丁一　奉書歡喜</cblink></li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0028a07">丁二　感佛致敬</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0032a04">甲二　正宗分</cblink>
+		<ol>
+			<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0032a05">乙一　菩薩廣大因行</cblink>
+			<ol>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0032a13">丙一　歸信</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0033a01">丁一　讚佛德</cblink></li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0040a08">丁二　求攝受</cblink></li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0043a05">丁三　蒙授記</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0043a06">戊一　勝鬘得記</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0043a07">己一　記因</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0045a09">己二　授果</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0049a09">戊二　大眾得記</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0050a10">丙二　行願</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0050a11">丁一　受十大受</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0050a12">戊一　勝鬘受戒</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0050a13">己一　受戒儀</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0055a05">己二　受戒事</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0055a06">庚一　攝律儀戒</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0059a10">庚二　攝眾生戒</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0067a09">庚三　攝善法戒</cblink></li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0071a01">戊二　攝眾同行</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0071a02">己一　勝鬘立誓</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0073a01">己二　大眾除疑</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0074a01">己三　世尊印許</cblink></li>
+						</ol>
+						</li>
+					</ol>
+					</li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0074a06">丁二　發三大願</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0074a07">戊一　勝鬘發願</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0074a08">己一　發願意趣</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0075a05">己二　發願體相</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0077a04">戊二　如來印成</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0078a10">丁三　攝正法行</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0078a11">戊一　略明攝正法願</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0078a12">己一　請說</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0080a01">己二　許說</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0080a05">己三　正說</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0081a01">己四　讚說</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0081a02">庚一　正歎所說深妙</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0082a06">庚二　引歎所說同佛</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0083a03">庚三　結歎所說功德</cblink></li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0084a03">戊二　廣明攝正法行</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0084a04">己一　法大</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0084a05">庚一　請說</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0085a12">庚二　許說</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0086a01">庚三　正說</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0086a02">辛一　總示</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0087a03">辛二　別說</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0087a04">壬一　攝受正法即正法</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0087a05">癸一　舉喻</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0087a06">子一　大雲注雨喻</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0089a12">子二　大水起世喻</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0092a05">子三　大地持重喻</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0095a10">子四　大寶依地喻</cblink></li>
+											</ol>
+											</li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0097a08">癸二　結成</cblink></li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0099a07">壬二　攝受正法即波羅蜜</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0099a08">癸一　總說</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0100a05">癸二　別說</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0100a06">子一　施波羅蜜</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0102a02">子二　戒波羅蜜</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0103a03">子三　忍波羅蜜</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0104a06">子四　精進波羅蜜</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0105a03">子五　禪波羅蜜</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0106a04">子六　般若波羅蜜</cblink></li>
+											</ol>
+											</li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0107a11">癸三　結說</cblink></li>
+										</ol>
+										</li>
+									</ol>
+									</li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0108a03">己二　人大</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0108a04">庚一　請說</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0108a08">庚二　許說</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0108a10">庚三　正說</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0108a11">辛一　總示</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0109a11">辛二　別說</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0109a12">壬一　自捨三事以攝受正法</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0109a13">癸一　明捨行</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0111a03">癸二　明常德</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0114a06">癸三　讚行人</cblink></li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0114a13">壬二　化他諍訟以護持正法</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0115a01">癸一　明護法行</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0117a10">癸二　讚歎行人</cblink></li>
+										</ol>
+										</li>
+									</ol>
+									</li>
+								</ol>
+								</li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0118a01">庚四　證說</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0118a02">辛一　勝鬘推佛</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0118a12">辛二　如來讚成</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0118a13">壬一　隨喜</cblink></li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0119a04">壬二　讚歎</cblink></li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0122a07">壬三　勸學</cblink></li>
+									</ol>
+									</li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0123a10">乙二　如來究竟果德</cblink>
+			<ol>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0123a11">丙一　一（大）乘道果</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0125a01">丁一　命說</cblink></li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0125a09">丁二　受說</cblink></li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0125a12">丁三　正說</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0125a13">戊一　如來果德</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0126a01">己一　大乘出生會諸善</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0126a07">庚一　總會諸善</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0126a08">辛一　法說</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0127a06">辛二　喻說</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0128a09">辛三　結說</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0129a10">庚二　別會六處</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0129a11">辛一　總明</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0131a10">辛二　別釋</cblink></li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0134a03">己二　如來究竟會三乘</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0134a04">庚一　開章略說</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0136a12">庚二　依章廣說</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0136a13">辛一　二乘有生死怖畏</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0137a01">壬一　略說</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0137a02">癸一　舉智斷以明宗</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0139a06">癸二　約權實以明義</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0141a09">癸三　辨深淺以結成</cblink></li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0142a07">壬二　廣明</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0142a08">癸一　略標有餘教</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0143a13">癸二　別釋權實義</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0144a01">子一　約分段生死通昔說</cblink>
+												<ol>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0144a02">丑一　別說二死</cblink></li>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0148a08">丑二　成立四智</cblink></li>
+												</ol>
+												</li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0149a12">子二　約無明住地論今教</cblink>
+												<ol>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0149a13">丑一　標</cblink></li>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0150a09">丑二　釋</cblink>
+													<ol>
+														<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0150a10">寅一　約五住論不斷之惑</cblink>
+														<ol>
+															<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0150a11">卯一　無明體別</cblink></li>
+															<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0157a11">卯二　無明力大</cblink>
+															<ol>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0157a12">辰一　法說</cblink></li>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0159a04">辰二　喻說</cblink></li>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0161a06">辰三　結說</cblink></li>
+															</ol>
+															</li>
+															<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0163a09">卯三　無明業異</cblink></li>
+														</ol>
+														</li>
+														<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0166a09">寅二　約三人辨不斷之失</cblink>
+														<ol>
+															<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0166a10">卯一　二乘無漏未盡</cblink></li>
+															<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0167a07">卯二　三聖智斷有餘</cblink>
+															<ol>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0167a08">辰一　總說</cblink></li>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0168a07">辰二　別說</cblink>
+																<ol>
+																	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0168a08">巳一　約三事明有餘</cblink></li>
+																	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0169a06">巳二　約四事明有餘</cblink></li>
+																</ol>
+																</li>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0170a01">辰三　結說</cblink></li>
+															</ol>
+															</li>
+															<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0170a08">卯三　如來乃為究竟</cblink>
+															<ol>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0170a09">辰一　明常住涅槃</cblink>
+																<ol>
+																	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0170a10">巳一　約四事明</cblink></li>
+																	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0172a06">巳二　約三事明</cblink></li>
+																</ol>
+																</li>
+																<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0174a06">辰二　明無餘斷惑</cblink>
+																<ol>
+																	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0174a07">巳一　不斷之過失</cblink>
+																	<ol>
+																		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0174a08">午一　總說</cblink></li>
+																		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0175a12">午二　別說</cblink></li>
+																	</ol>
+																	</li>
+																	<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0179a09">巳二　能斷之功德</cblink>
+																	<ol>
+																		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0179a10">午一　一切悉斷</cblink></li>
+																		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0180a12">午二　一切悉證</cblink></li>
+																	</ol>
+																	</li>
+																</ol>
+																</li>
+															</ol>
+															</li>
+														</ol>
+														</li>
+													</ol>
+													</li>
+												</ol>
+												</li>
+											</ol>
+											</li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0183a03">壬三　結成</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0183a04">癸一　開大小二途</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0183a05">子一　標</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0183a12">子二　釋</cblink>
+												<ol>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0183a13">丑一　如來不受後有智</cblink></li>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0186a06">丑二　二乘不受後有智</cblink></li>
+												</ol>
+												</li>
+											</ol>
+											</li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0187a08">癸二　入一乘究竟</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0187a09">子一　會入一乘</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0191a03">子二　普攝眾德</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0192a06">子三　顯示究竟</cblink></li>
+											</ol>
+											</li>
+										</ol>
+										</li>
+									</ol>
+									</li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0193a10">辛二　如來為常住歸依</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0193a11">壬一　抉擇三歸</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0193a12">癸一　明如來是歸依</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0196a08">癸二　辨法僧是歸依</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0196a09">子一　約世俗簡非</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0198a06">子二　約勝義會歸</cblink>
+												<ol>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0198a07">丑一　奪</cblink></li>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0199a04">丑二　會</cblink></li>
+												</ol>
+												</li>
+											</ol>
+											</li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0200a13">壬二　會入一乘</cblink></li>
+									</ol>
+									</li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0202a02">戊二　如來境智</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0202a03">己一　略說</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0202a04">庚一　明聖智</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0202a05">辛一　上上智</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0204a06">辛二　第一義智</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0206a09">庚二　明聖諦</cblink></li>
+							</ol>
+							</li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0208a04">己二　廣明</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0208a05">庚一　出聖諦體</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0208a06">辛一　歎甚深</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0211a10">辛二　勸信解</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0213a02">庚二　明聖諦義</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0213a03">辛一　總說二聖諦</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0213a04">壬一　標</cblink></li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0214a01">壬二　釋</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0214a02">癸一　作聖諦</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0215a08">癸二　無作聖諦</cblink></li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0216a12">壬三　結</cblink></li>
+									</ol>
+									</li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0217a04">辛二　別說四聖諦</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0217a05">壬一　二乘不盡</cblink></li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0218a01">壬二　如來究竟</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0218a02">癸一　略說四諦</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0218a12">癸二　特明滅諦</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0218a13">子一　因果相即</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0221a12">子二　理智一如</cblink>
+												<ol>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0221a13">丑一　標宗</cblink></li>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0223a02">丑二　釋義</cblink></li>
+												</ol>
+												</li>
+											</ol>
+											</li>
+										</ol>
+										</li>
+									</ol>
+									</li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0225a11">辛三　結成一滅諦</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0225a12">壬一　簡妄存真</cblink></li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0228a01">壬二　遮倒示正</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0228a02">癸一　遮倒見</cblink>
+											<ol>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0228a03">子一　總遮凡小</cblink></li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0230a01">子二　別遮凡夫</cblink>
+												<ol>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0230a02">丑一　遮二見</cblink></li>
+													<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0232a13">丑二　遮顛倒</cblink></li>
+												</ol>
+												</li>
+												<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0234a02">子三　別遮二乘</cblink></li>
+											</ol>
+											</li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0234a10">癸二　示正見</cblink></li>
+										</ol>
+										</li>
+									</ol>
+									</li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0236a11">戊三　如來依因——一依</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0236a12">己一　出依體</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0236a13">庚一　約勝以簡劣</cblink></li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0238a12">庚二　據一以遮四</cblink></li>
+							</ol>
+							</li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0239a07">己二　明依義</cblink>
+							<ol>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0239a08">庚一　常住不變為生死依</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0239a09">辛一　略標善說</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0241a01">辛二　別釋依義</cblink>
+									<ol>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0241a02">壬一　生死依</cblink>
+										<ol>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0241a03">癸一　生死是如來藏</cblink></li>
+											<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0242a04">癸二　生死依如來藏</cblink></li>
+										</ol>
+										</li>
+										<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0244a08">壬二　為縛脫依</cblink></li>
+									</ol>
+									</li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0247a04">辛三　遮倒解</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0249a02">庚二　自性清淨為入道因</cblink>
+								<ol>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0249a03">辛一　列五藏</cblink></li>
+									<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0250a07">辛二　釋二事</cblink></li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+					</ol>
+					</li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0255a02">丁四　證說</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0255a03">戊一　勝鬘推佛</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0255a07">戊二　如來述成</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0257a01">丙二　大（一）乘道因</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0257a02">丁一　如來說</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0257a03">戊一　標</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0258a05">戊二　釋</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0261a02">戊三　結</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0261a06">丁二　勝鬘說</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0261a07">戊一　請說</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0261a10">戊二　許說</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0261a12">戊三　正說</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0261a13">己一　讚歎三善</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0263a07">己二　降伏餘惡</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0264a06">戊四　證說</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0265a03">甲三　流通分</cblink>
+		<ol>
+			<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0265a04">乙一　付囑流通</cblink>
+			<ol>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0265a05">丙一　勝鬘流通</cblink></li>
+				<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0267a09">丙二　如來流通</cblink>
+				<ol>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0267a10">丁一　重說經文以付囑</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0267a11">戊一　集眾</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0268a11">戊二　說經</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0269a02">戊三　付囑</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0269a03">己一　付囑帝釋</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0270a10">己二　付囑阿難</cblink></li>
+						</ol>
+						</li>
+					</ol>
+					</li>
+					<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0271a01">丁二　列舉經名以付囑</cblink>
+					<ol>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0271a02">戊一　出經名</cblink></li>
+						<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0275a02">戊二　囑流通</cblink>
+						<ol>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0275a03">己一　付囑</cblink></li>
+							<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0275a12">己二　受囑</cblink></li>
+						</ol>
+						</li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/Y/Y03/Y03n0003_002.xml#p0276a03">乙二　大眾奉行</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

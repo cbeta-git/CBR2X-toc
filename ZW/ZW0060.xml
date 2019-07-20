@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0060_001.xml#p0063a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW07/ZW07n0060_001.xml#p0065a15">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0060_001.xml#p0065a20">作供、梵歎如常，依慈氏禮聲</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0060_001.xml#p0066a15">志心懺悔</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0060_001.xml#p0067a02">唱處世界</cblink></li>
+		<li><cblink href="XML/ZW/ZW07/ZW07n0060_001.xml#p0067a06">吟廻向偈</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

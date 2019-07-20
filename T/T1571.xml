@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1571_001.xml#p0187a10">1 破常品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1571_001.xml#p0187a10">1</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1571_002.xml#p0192a09">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1571_002.xml#p0194a27">2 破我品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1571_002.xml#p0194a27">1</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1571_003.xml#p0197c28">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1571_004.xml#p0203c24">3 破時品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T30/T30n1571_004.xml#p0203c24">1</cblink></li>
+		<li><cblink href="XML/T/T30/T30n1571_005.xml#p0209c21">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T30/T30n1571_006.xml#p0215c13">4 破見品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_007.xml#p0222a20">5 破根境品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_008.xml#p0229c27">6 破邊執品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_009.xml#p0236b12">7 破有為相品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_010.xml#p0242c20">8 教誡弟子品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1571_001.xml#p0187a06">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_002.xml#p0192a05">第二</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_003.xml#p0197c24">第三</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_004.xml#p0203c20">第四</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_005.xml#p0209c17">第五</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_006.xml#p0215c09">第六</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_007.xml#p0222a16">第七</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_008.xml#p0229c23">第八</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_009.xml#p0236b08">第九</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1571_010.xml#p0242c16">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

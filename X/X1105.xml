@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0652a04">芝園集目錄</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0652b16">杭州南屏山神悟法師塔銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0653a01">祥符寺通義大師塔銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0653b20">華亭超果照法師塔銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0654a23">唐蘄州青著法師行業記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0654c04">東林禪慧大師行業錄</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0655a08">杭州祥符寺久闍棃傳</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0655a24">秀州超果惟湛法師行業記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0655c16">杭州雷峯廣慈法師行業記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0656b04">杭州祥符寺瑛法師骨塔銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0656c20">越州餘姚異闍棃塔銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0657a16">越州漁浦淨慧大師塔銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0657b14">溫州褒法師行業錄序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0657c08">湖州八聖寺鑑寺主傳</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0657c24">溫州都僧正持正大師行業記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0659a06">秀州呂氏靈骨贊</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0659b16">考妣墓誌銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0660a01">台州左君墓銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0660b13">新市姚君墓銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0661a02">秀州沈君墓銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0661a17">崇德呂府君墓銘</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0661b13">廣陳馬氏禮經錄</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0661c18">四明孫氏禮佛錄</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0662a14">論增戒書</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0662c23">論慈愍三藏集書</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0663c05">送衣鉢書</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0664a08">讒議</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0664b10">博奕解</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0664c16">四子要言序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0665a10">高麗李相公樂道集序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0665a24">送聞伯龍歸太學序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0665b12">長蘆賾禪師文集序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0665c21">釋門登科記序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1105_001.xml#p0652b14">第一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1105_002.xml#p0659a04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

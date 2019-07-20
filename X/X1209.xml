@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0819b09">淨土詩</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0819c02">偶作</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0819c07">二十四氣省懷詩</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0819c14">無題</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0820a09">聚沙菴歌</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0820a19">經題如是</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0820a22">擬古為平湖陸孝女作</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0820b05">念佛詩四十八首</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0821c07">阿育王舍利塔前然指願文</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0821c23">目前機䟦</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0822a09">警眾語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1209_001.xml#p0819b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

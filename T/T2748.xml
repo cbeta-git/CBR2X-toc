@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0170a25">受記品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0170b01">化城喻品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0172b10">五百弟子受記品 </cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0173a25">授學無學人記品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0173b11">法師品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0175b06">見寶塔品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0176b04">持品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0176c19">安樂行品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0178c17">從地踊出品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2748_003.xml#p0170a03">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

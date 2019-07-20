@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0175a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0176a11">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0176a16">前序</cblink></li>
+		<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0177a04">維摩詰經序</cblink></li>
+		<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0181a04">佛國品第一</cblink></li>
+		<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0216a15">方便品第二</cblink></li>
+		<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0228a22">弟子品第三</cblink></li>
+		<li><cblink href="XML/ZW/ZW02/ZW02n0019_001.xml#p0265a15">菩薩品第四</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

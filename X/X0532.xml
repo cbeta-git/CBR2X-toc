@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0532_001.xml#p0762b03">前文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X26/X26n0532_001.xml#p0762b05">緣起論</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0532_001.xml#p0766a06">緣起後起</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0532_001.xml#p0766c03">當經傳釋</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0532_001.xml#p0767b15">古今疏注</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X26/X26n0532_001.xml#p0768a09">序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0532_001.xml#p0772c02">解文</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0532_002.xml#p0796a22">後題</cblink>
+	<ol>
+		<li><cblink href="XML/X/X26/X26n0532_002.xml#p0796a23">法藏</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0532_002.xml#p0796b05">般若心經贊序</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0532_002.xml#p0796b16">般若心經序</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0532_001.xml#p0768a07">第一</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0532_002.xml#p0783a04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

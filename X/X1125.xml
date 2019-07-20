@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0553a02">No. 1125-A 律學發軔序</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0553b04">律學發軔目錄</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0553c06">律部緣起</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0554c20">三皈依</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0555c10">五戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0556b13">八關齋</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0556c15">優婆塞戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0557c02">沙彌戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0558b14">式叉摩那戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0558b24">比丘戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0559b06">比丘尼戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0560a15">菩薩戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0561c06">結界</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0562a24">布薩</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0563a02">說欲</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0563b01">安居</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0563c24">自恣</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0564b10">受藥</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0564c07">分亡僧物</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0565b16">六聚懺法</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1125_002.xml#p0565b17">懺波羅夷法</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1125_002.xml#p0565c08">懺僧伽婆尸沙法</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1125_002.xml#p0565c20">懺偷蘭遮法</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1125_002.xml#p0566a05">懺波逸提法</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1125_002.xml#p0567a17">懺波羅提提舍尼法</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1125_002.xml#p0567a23">懺突吉羅法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X60/X60n1125_003.xml#p0567c14">資具</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_003.xml#p0570b04">日用軌則</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_003.xml#p0572a07">受戒辯誤</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_003.xml#p0573a02">律家法數</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1125_001.xml#p0553c03">第一</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_002.xml#p0561c03">第二</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1125_003.xml#p0567c11">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

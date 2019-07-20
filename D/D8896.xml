@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D37/D37n8896_001.xml#p0001b02">十門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_001.xml#p0002a03">第一出躰門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_003.xml#p0149b02">第二辨名門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_003.xml#p0159b07">第三離合會釋門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_004.xml#p0206b02">第四何識為觀門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_004.xml#p0213b04">第五顕類差別門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_005.xml#p0254b02">第六修證位次門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_005.xml#p0310b02">第七觀法何性門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_005.xml#p0317b05">第八諸地依起門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_006.xml#p0344b01">第九斷諸障染門</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_006.xml#p0395b02">第十歸攝二空門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D37/D37n8896_001.xml#p0001b01">卷第一本</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_001.xml#p0028b01">卷第一末</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_002.xml#p0057b01">卷第二本</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_002.xml#p0094b01">卷第二末</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_003.xml#p0115b01">卷第三本</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_003.xml#p0149b01">卷第三末</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_004.xml#p0175b01">卷第四本</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_004.xml#p0206b01">卷第四末</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_005.xml#p0241b01">卷第五本</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_005.xml#p0281b01">卷第五末</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_006.xml#p0323b01">卷第六本</cblink></li>
+	<li><cblink href="XML/D/D37/D37n8896_006.xml#p0365b01">卷第六末</cblink></li>
+</ol>
+</nav>
+</body></html>

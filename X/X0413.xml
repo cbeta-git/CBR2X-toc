@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0425b11">No. 413-A 觀經直指疏序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0426a09">前文</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0426a17">初教起因緣</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0426b03">二藏乘分攝</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0426b15">三辨定時會</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0426c05">四教義分齊</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0427a24">五所被機宜</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0427c06">六能詮體性</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0427c18">七宗趣通局</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0428a09">八翻譯傳授</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0428b03">九總釋經題</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0429b15">十別解文義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0413_001.xml#p0426a06">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0413_002.xml#p0438a04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0854_001.xml#p0842a04">第一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0854_002.xml#p0854a09">第二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0854_003.xml#p0866c04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

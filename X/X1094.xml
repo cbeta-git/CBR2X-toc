@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1094_001.xml#p0432a06">序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1094_001.xml#p0432a22">前文</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1094_001.xml#p0433c09">釋敬本教興篇</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1094_001.xml#p0437c04">釋濟時護法篇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1094_001.xml#p0432a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

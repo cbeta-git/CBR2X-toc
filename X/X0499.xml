@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0499_001.xml#p0626b02">No. 499-A 金剛般若波羅蜜經懸判疏鈔卷序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_001.xml#p0631b04">金剛般若波羅蜜經懸判疏鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0499_001.xml#p0631b06">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_002.xml#p0635b16">第二</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_003.xml#p0640a07">第三</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_004.xml#p0641c04">第四</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_005.xml#p0645a12">第五</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_006.xml#p0650c01">第六</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_007.xml#p0654a15">第七</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0499_008.xml#p0655c13">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

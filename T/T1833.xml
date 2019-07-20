@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1833_001.xml#p0811a04">1</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_002.xml#p0834a21">2</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_003.xml#p0861a10">3</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_003.xml#p0876c13">4 疏</cblink>
+	<ol>
+		<li><cblink href="XML/T/T43/T43n1833_003.xml#p0876c13">1</cblink></li>
+		<li><cblink href="XML/T/T43/T43n1833_004.xml#p0886a13">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T43/T43n1833_004.xml#p0901a03">5 論</cblink>
+	<ol>
+		<li><cblink href="XML/T/T43/T43n1833_004.xml#p0901a03">1</cblink></li>
+		<li><cblink href="XML/T/T43/T43n1833_005.xml#p0909a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T43/T43n1833_005.xml#p0911c24">6 疏</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_005.xml#p0913b10">6 論</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_005.xml#p0926b20">7 疏</cblink>
+	<ol>
+		<li><cblink href="XML/T/T43/T43n1833_005.xml#p0926b20">1</cblink></li>
+		<li><cblink href="XML/T/T43/T43n1833_006.xml#p0929a02">2</cblink></li>
+		<li><cblink href="XML/T/T43/T43n1833_007.xml#p0950c07">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T43/T43n1833_007.xml#p0958a21">9 論</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_007.xml#p0973c22">10 論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1833_001.xml#p0811a04">第一本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_001.xml#p0824b19">第一末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_002.xml#p0834a21">第二本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_002.xml#p0848b09">第二末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_003.xml#p0861a10">第三本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_003.xml#p0871a14">第三末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_004.xml#p0886a13">第四本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_004.xml#p0895b24">第四末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_005.xml#p0909a02">第五本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_005.xml#p0920a19">第五末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_006.xml#p0929a02">第六本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_006.xml#p0938b02">第六末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_007.xml#p0950c07">第七本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1833_007.xml#p0965c24">第七末</cblink></li>
+</ol>
+</nav>
+</body></html>

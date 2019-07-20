@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0956_001.xml#p0069b12">雙游</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_001.xml#p0072b20">金錍義十篇</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_001.xml#p0074c23">總別</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_001.xml#p0075b21">辨岳師三千書</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0077a14">部教</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0077c13">定散</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0078b17">受戒普說</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0080a20">議蘭盆五章</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0080c08">初𦦨正義</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0082b07">料揀借別名通</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0956_001.xml#p0069b06">第一</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0956_002.xml#p0077a08">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

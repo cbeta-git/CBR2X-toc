@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T36/T36n1741_001.xml#p1011c03">華嚴經決疑論序</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_001.xml#p1012a02">十門</cblink>
+	<ol>
+		<li><cblink href="XML/T/T36/T36n1741_001.xml#p1012a02">1</cblink></li>
+		<li><cblink href="XML/T/T36/T36n1741_002.xml#p1021a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T36/T36n1741_002.xml#p1021c25">十住門</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_003.xml#p1030c21">十行位</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_003.xml#p1035c21">十迴向</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_004.xml#p1040b23">十地位</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_004.xml#p1048c26">決疑論後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T36/T36n1741_001.xml#p1012a02">一之上</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_001.xml#p1016a18">一之下</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_002.xml#p1021a02">二之上</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_002.xml#p1026a05">二之下</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_003.xml#p1030c17">三之上</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_003.xml#p1035c17">三之下</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_004.xml#p1040b19">四之上</cblink></li>
+	<li><cblink href="XML/T/T36/T36n1741_004.xml#p1045b02">四之下</cblink></li>
+</ol>
+</nav>
+</body></html>

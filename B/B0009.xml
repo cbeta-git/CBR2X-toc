@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B06/B06n0009_001.xml#p0447a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/B/B06/B06n0009_001.xml#p0447a01">二品勳一等晃親王殿下提辭</cblink></li>
+		<li><cblink href="XML/B/B06/B06n0009_001.xml#p0447b01">山岡鐵舟居士題辞</cblink></li>
+		<li><cblink href="XML/B/B06/B06n0009_001.xml#p0448b01">知恩院御門跡序文</cblink></li>
+		<li><cblink href="XML/B/B06/B06n0009_001.xml#p0449b01">相國寺大教正萩野獨園禪師序</cblink></li>
+		<li><cblink href="XML/B/B06/B06n0009_001.xml#p0450a01">泉涌寺佐伯旭雅律師自序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B06/B06n0009_001.xml#p0453b05">分別界品第一之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_002.xml#p0464d05">分別界品第一之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_003.xml#p0479b05">分別根品第二之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_004.xml#p0490d05">分別根品第二之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_005.xml#p0501b05">分別根品第二之三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_006.xml#p0513d05">分別根品第二之四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_007.xml#p0529d05">分別根品第二之五</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_008.xml#p0539b05">分別世品第三之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_009.xml#p0548b05">分別世品第三之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_010.xml#p0558d05">分別世品第三之三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_011.xml#p0569b05">分別世品第三之四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_012.xml#p0579d05">分別世品第三之五</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_013.xml#p0589b05">分別業品第四之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_014.xml#p0598d05">分別業品第四之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_015.xml#p0608d05">分別業品第四之三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_016.xml#p0620b05">分別業品第四之四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_017.xml#p0629b05">分別業品第四之五</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_018.xml#p0637d05">分別業品第四之六</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_019.xml#p0647d05">分別隨眠品第五之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_020.xml#p0659b05">分別隨眠品第五之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_021.xml#p0671d05">分別隨眠品第五之三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_022.xml#p0682d05">分別賢聖品第六之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_023.xml#p0691d05">分別賢聖品第六之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_024.xml#p0701d05">分別賢聖品第六之三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_025.xml#p0712d05">分別賢聖品第六之四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_026.xml#p0722d05">分別智品第七之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_027.xml#p0733d05">分別智品第七之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_028.xml#p0744d05">分別定品第八之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_029.xml#p0756b05">分別定品第八之二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_029.xml#p0760a06">破執我品第九之一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_030.xml#p0765b05">破執我品第九之二</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B06/B06n0009_001.xml#p0453b01">第一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_002.xml#p0464d01">第二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_003.xml#p0479b01">第三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_004.xml#p0490d01">第四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_005.xml#p0501b01">第五</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_006.xml#p0513d01">第六</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_007.xml#p0529d01">第七</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_008.xml#p0539b01">第八</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_009.xml#p0548b01">第九</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_010.xml#p0558d01">第十</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_011.xml#p0569b01">第十一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_012.xml#p0579d01">第十二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_013.xml#p0589b01">第十三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_014.xml#p0598d01">第十四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_015.xml#p0608d01">第十五</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_016.xml#p0620b01">第十六</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_017.xml#p0629b01">第十七</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_018.xml#p0637d01">第十八</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_019.xml#p0647d01">第十九</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_020.xml#p0659b01">第二十</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_021.xml#p0671d01">第二十一</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_022.xml#p0682d01">第二十二</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_023.xml#p0691d01">第二十三</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_024.xml#p0701d01">第二十四</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_025.xml#p0712d01">第二十五</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_026.xml#p0722d01">第二十六</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_027.xml#p0733d01">第二十七</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_028.xml#p0744d01">第二十八</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_029.xml#p0756b01">第二十九</cblink></li>
+	<li><cblink href="XML/B/B06/B06n0009_030.xml#p0765b01">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

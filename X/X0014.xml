@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0014_001.xml#p0365a09">佛說十往生阿彌陀佛國經</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0014_001.xml#p0366c02">No. 14-A 十往生經真偽決疑</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0014_001.xml#p0365a11">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

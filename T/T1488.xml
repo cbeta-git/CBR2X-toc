@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1034a23">1 集會品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1035b17">2 發菩提心品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1035c22">3 悲品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1036c21">4 解脫品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1038a17">5 三種菩提品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1038c26">6 修三十二相業品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1040a28">7 發願品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1041a06">8 名義菩薩品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1041b25">9 義菩薩心堅固品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1042b19">10 自利利他品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1044b10">11 自他莊嚴品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1045b05">12 二莊嚴品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_003.xml#p1046a19">13 攝取品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_003.xml#p1047a25">14 受戒品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_003.xml#p1050b14">15 淨戒品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_003.xml#p1051a08">16 息惡品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_003.xml#p1051c03">17 供養三寶品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_004.xml#p1052b23">18 六波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_004.xml#p1054a11">19 雜品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_005.xml#p1061b01">20 淨三歸品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_005.xml#p1063a07">21 八戒齋品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_006.xml#p1063c05">22 五戒品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_006.xml#p1065b05">23 尸波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_006.xml#p1066c03">24 業品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_007.xml#p1072c25">25 羼提波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_007.xml#p1073c13">26 毘梨耶波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_007.xml#p1074a21">27 禪波羅蜜品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_007.xml#p1075a13">28 般若波羅蜜品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1488_001.xml#p1034a20">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_002.xml#p1040a25">第二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_003.xml#p1046a16">第三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_004.xml#p1052b20">第四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_005.xml#p1058a15">第五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_006.xml#p1063c02">第六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1488_007.xml#p1069c04">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

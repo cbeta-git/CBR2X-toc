@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0023_001.xml#p0239a02">蔣敘</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_001.xml#p0240a10">范敘</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_001.xml#p0241a07">例言</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_001.xml#p0242a01">江味農居士傳</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_001.xml#p0246a01">講義</cblink>
+	<ol>
+		<li><cblink href="XML/B/B07/B07n0023_001.xml#p0246a03">總釋名題</cblink>
+		<ol>
+			<li><cblink href="XML/B/B07/B07n0023_001.xml#p0246a06">釋經題</cblink></li>
+			<li><cblink href="XML/B/B07/B07n0023_001.xml#p0275a12">釋人題</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B07/B07n0023_002.xml#p0280a11">別解文義</cblink>
+		<ol>
+			<li><cblink href="XML/B/B07/B07n0023_002.xml#p0281a06">序分</cblink></li>
+			<li><cblink href="XML/B/B07/B07n0023_002.xml#p0295a11">正宗分</cblink></li>
+			<li><cblink href="XML/B/B07/B07n0023_005.xml#p0709a15">流通分</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B07/B07n0023_005.xml#p0735a13">校勘記</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_005.xml#p0741a01">校正本跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0023_001.xml#p0239a01">第一</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_002.xml#p0280a08">第二</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_003.xml#p0375a01">第三</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_004.xml#p0567a01">第四</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0023_005.xml#p0651a07">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

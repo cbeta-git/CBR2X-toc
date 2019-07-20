@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1485_001.xml#p1010b06">1 集眾品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_001.xml#p1011a15">2 賢聖名字品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_001.xml#p1012b15">3 賢聖學觀品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_002.xml#p1017a05">4 釋義品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_002.xml#p1018b17">5 佛母品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_002.xml#p1019b10">6 因果品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_002.xml#p1020b05">7 大眾受學品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_002.xml#p1022b02">8 集散品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1485_001.xml#p1010b03">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1485_002.xml#p1017a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

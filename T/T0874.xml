@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0874_001.xml#p0310a22">1 深妙祕密金剛界大三昧耶修習瑜伽儀</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0874_002.xml#p0317a20">2 真言羯磨部</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0874_002.xml#p0318b18">3 真言三昧耶部</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0874_002.xml#p0319a18">4 真言供養部</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0874_001.xml#p0310a17">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0874_002.xml#p0317a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

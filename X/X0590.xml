@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0542c06">前文</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0542c17">一釋名</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0549a23">二辨體</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0549c22">三明宗</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0550c11">四論用</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0551b24">五判教</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0590_001.xml#p0542c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

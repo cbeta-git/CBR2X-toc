@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0299_001.xml#p0001a03">No. 299-A 楞嚴講錄自敘</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_001.xml#p0002a15">No. 299-B 楞嚴講錄序</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_001.xml#p0002c04">楞嚴經講錄</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_010.xml#p0139a11">No. 299-C 楞嚴講錄後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0299_001.xml#p0004c07">第一</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_002.xml#p0021b04">第二</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_003.xml#p0039b04">第三</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_004.xml#p0054c04">第四</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_005.xml#p0071b13">第五</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_006.xml#p0081c12">第六</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_007.xml#p0093b06">第七</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_008.xml#p0102a04">第八</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_009.xml#p0116b04">第九</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0299_010.xml#p0128b04">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

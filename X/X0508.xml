@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0508_001.xml#p0868c03">No. 508-A 金剛經闡說序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0508_001.xml#p0869a05">No. 508-B 捐刊金剛經闡說序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0508_001.xml#p0869b10">凡例</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0508_001.xml#p0869c01">金剛經闡說</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0508_002.xml#p0877b02">No. 508-C 復題金剛經闡說後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0508_001.xml#p0869c03">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0508_002.xml#p0874b15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

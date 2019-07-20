@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0559a07">1 無常品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0559b12">2 教學品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0560a07">3 多聞品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0560b19">4 篤信品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0560c19">5 戒慎品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0561a15">6 惟念品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0561b14">7 慈仁品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0561c14">8 言語品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0562a10">9 雙要品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0562b18">10 放逸品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0563a01">11 心意品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0563a20">12 華香品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0563b17">13 愚闇品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0563c23">14 明哲品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0564a27">15 羅漢品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0564b16">16 述千品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0564c18">17 惡行品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0565a28">18 刀杖品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0565b24">19 老耗品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0565c18">20 愛身品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0566a18">21 世俗品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0566b14">序</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0567a07">22 述佛品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0567b16">23 安寧品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0567c10">24 好喜品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0568a02">25 忿怒品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0568b14">26 塵垢品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0568c18">27 奉持品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0569a16">28 道行品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0569c09">29 廣衍品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0570a05">30 地獄品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0570b09">31 象喻品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0570c15">32 愛欲品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0571b25">33 利養品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0571c28">34 沙門品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0572b19">35 梵志品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0573a22">36 泥洹品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0574a05">37 生死品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0574b15">38 道利品</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0574c28">39 吉祥品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0210_001.xml#p0559a03">第一</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0210_002.xml#p0567a03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

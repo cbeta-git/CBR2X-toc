@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T41/T41n1822_001.xml#p0459b18">1 分別界品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_001.xml#p0459b18">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_002.xml#p0495a14">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_003.xml#p0512a27">2 分別根品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_003.xml#p0512a27">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_004.xml#p0524c14">2</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_005.xml#p0541a02">3</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_006.xml#p0555c18">4</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_007.xml#p0574a21">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_008.xml#p0584a05">3 分別世品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_008.xml#p0584a05">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_009.xml#p0593c02">2</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_010.xml#p0604c24">3</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_011.xml#p0614b21">4</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_012.xml#p0620a02">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_013.xml#p0627a09">4 分別業品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_013.xml#p0627a09">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_014.xml#p0640a18">2</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_015.xml#p0650c19">3</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_016.xml#p0662a07">4</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_017.xml#p0670b22">5</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_018.xml#p0677c02">6</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_019.xml#p0687a05">5 分別隨眠品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_019.xml#p0687a05">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_020.xml#p0701a15">2</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_021.xml#p0709c21">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_022.xml#p0723b23">6 分別賢聖品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_022.xml#p0723b23">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_023.xml#p0733b09">2</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_024.xml#p0744c12">3</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_025.xml#p0755a02">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_026.xml#p0764c11">7 分別智品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_026.xml#p0764c11">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_027.xml#p0776b02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_028.xml#p0787b09">8 分別定品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_028.xml#p0787b09">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_029.xml#p0798b09">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T41/T41n1822_029.xml#p0803b14">9 破執我品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T41/T41n1822_029.xml#p0803b14">1</cblink></li>
+		<li><cblink href="XML/T/T41/T41n1822_030.xml#p0806c23">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T41/T41n1822_001.xml#p0453a03">第一</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_001.xml#p0476a26">第一(餘之)</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_002.xml#p0495a14">第二</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_003.xml#p0512a24">第三</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_004.xml#p0524c14">第四</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_005.xml#p0541a02">第五</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_006.xml#p0555c18">第六</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_007.xml#p0574a21">第七</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_008.xml#p0584a02">第八</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_009.xml#p0593c02">第九</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_010.xml#p0604c24">第十</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_011.xml#p0614b21">第十一</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_012.xml#p0620a02">第十二</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_013.xml#p0627a06">第十三</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_014.xml#p0640a18">第十四</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_015.xml#p0650c19">第十五</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_016.xml#p0662a07">第十六</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_017.xml#p0670b22">第十七</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_018.xml#p0677c02">第十八</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_019.xml#p0687a02">第十九</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_020.xml#p0701a15">第二十</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_021.xml#p0709c21">第二十一</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_022.xml#p0723b20">第二十二</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_023.xml#p0733b09">第二十三</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_024.xml#p0744c12">第二十四</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_025.xml#p0755a02">第二十五</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_026.xml#p0764c08">第二十六</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_027.xml#p0776b02">第二十七</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_028.xml#p0787b06">第二十八</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_029.xml#p0798b09">第二十九</cblink></li>
+	<li><cblink href="XML/T/T41/T41n1822_030.xml#p0806c23">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

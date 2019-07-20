@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0245_001.xml#p0459a09">No. 245-A 大方廣圓覺經大鈔序</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_001.xml#p0460b06">前文</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_001.xml#p0460b07">一總標宗意</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_001.xml#p0482b10">二歸敬請加</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_004.xml#p0542b06">三開章釋文</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_013.xml#p0754b24">四慶讚迴向</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0245_001.xml#p0460b04">第一之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_001.xml#p0473b07">第一之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_002.xml#p0486a01">第二之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_002.xml#p0500a01">第二之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_003.xml#p0513c01">第三之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_003.xml#p0524c01">第三之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_004.xml#p0537b08">第四之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_004.xml#p0548c05">第四之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_005.xml#p0557c01">第五之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_005.xml#p0570b18">第五之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_006.xml#p0583c19">第六之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_006.xml#p0592b11">第六之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_007.xml#p0602c08">第七之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_007.xml#p0614b09">第七之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_008.xml#p0626a07">第八之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_008.xml#p0636a09">第八之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_009.xml#p0647a04">第九之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_009.xml#p0663b04">第九之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_010.xml#p0676a05">第十之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_010.xml#p0686a05">第十之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_011.xml#p0695b04">第十一之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_011.xml#p0707c16">第十一之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_012.xml#p0716c12">第十二之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_012.xml#p0726a20">第十二之下</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_013.xml#p0736b05">第十三之上</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0245_013.xml#p0747a04">第十三之下</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0541a02">No. 1567-A 五燈嚴統序</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0541b14">No. 1567-B 五燈嚴統序</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0542a02">No. 1567-C 五燈嚴統序</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0542b15">No. 1567-D 五燈嚴統序</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0543a02">No. 1567-E 五燈嚴統序</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0543c10">五燈嚴統凡例</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0544c12">附錄天皇道悟禪師碑文</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0545a01">附錄天王道悟禪師碑文</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0545a22">附錄人天眼目所載覺夢堂重較五家宗派序</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0545c06">附錄雪竇明覺大師語錄後塔銘節略</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0545c12">附錄宋覺範洪禪師辨宗派說</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0546a07">附錄宋靈隱大川禪師按傳燈錄考辯兩家宗派說</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0546c07">附錄宗門正名錄攷證禪燈世譜宗派說</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0547b08">附錄寂音尊者彈斥薦福古遙嗣雲門偃</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0547c04">較正五燈嚴統姓氏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X80/X80n1567_001.xml#p0548c10">第一</cblink></li>
+	<li><cblink href="XML/X/X80/X80n1567_002.xml#p0558c19">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

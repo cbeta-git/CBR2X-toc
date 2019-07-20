@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0487a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0487a01">羅開驎序</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0487a21">機雲序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0487c03">示眾</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0489c30">頌古</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0490c22">機緣</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0491c10">垂代</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493a27">偈贊</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493a27">語崎四景</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493b02">四威儀</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493b07">山居十首</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493b28">本師山鐸老和尚像贊</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493c02">得戒和尚贊</cblink></li>
+		<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493c06">自贊</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0493c21">行略</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB417_001.xml#p0487c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

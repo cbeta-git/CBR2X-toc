@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0042c05">No. 1447-A 前序</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0042c18">No. 1447-B</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0043a20">上堂語錄</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0048c02">小參語錄</cblink></li>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0053c24">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054a01">知見謠</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054a14">師有頌與官人</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054a18">牧牛歌</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054a22">回法嗣弟子</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054b01">官人乞頌</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054b03">與范文正公</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054b06">辭世</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054b12">No. 1447-C</cblink>
+	<ol>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054b14">語要</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0054c14">題古塔主論三玄三要法門</cblink></li>
+		<li><cblink href="XML/X/X73/X73n1447_001.xml#p0055a14">題古塔主兩種自己</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X73/X73n1447_001.xml#p0043a17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

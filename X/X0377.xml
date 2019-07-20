@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0377_001.xml#p0573a07">五重明義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0573a07">前文</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0573a19">初釋名</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0573b20">二辨體</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0574c10">三明宗</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0575c23">四明用</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0576a07">五判教相</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X21/X21n0377_001.xml#p0576a23">入文為三</cblink>
+	<ol>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0576a23">初序分</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0577c08">二正宗分</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0377_001.xml#p0580a05">三流通分</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0377_001.xml#p0573a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

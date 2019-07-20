@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X23/X23n0439_001.xml#p0522c06">No. 439-A 大毗盧遮那成佛神變加持經義釋演密鈔引文</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_001.xml#p0523b16">大毗盧遮那成佛神變加持經義釋演密鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X23/X23n0439_001.xml#p0523b18">第一</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_002.xml#p0535a11">第二</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_003.xml#p0547b12">第三</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_004.xml#p0560a20">第四</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_005.xml#p0573a14">第五</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_006.xml#p0586c05">第六</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_007.xml#p0600a10">第七</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_008.xml#p0614b20">第八</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_009.xml#p0629b11">第九</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0439_010.xml#p0643c21">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

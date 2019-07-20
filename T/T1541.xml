@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1541_001.xml#p0627a08">1 五法品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_001.xml#p0628c28">2 分別智品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_002.xml#p0631c07">3 分別諸入品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_002.xml#p0634a10">4 分別七事品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_003.xml#p0637a07">5 分別諸使品</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_004.xml#p0644b07">6 分別攝品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1541_004.xml#p0644b07">1</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1541_005.xml#p0649b02">2</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1541_006.xml#p0654b02">3</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1541_007.xml#p0659a02">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1541_008.xml#p0663a07">7 千問論品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1541_008.xml#p0663a07">1</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1541_009.xml#p0668c16">2</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1541_010.xml#p0674c02">3</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1541_011.xml#p0680b02">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1541_012.xml#p0688c11">8 擇品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1541_001.xml#p0627a03">第一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_002.xml#p0631c02">第二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_003.xml#p0637a02">第三</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_004.xml#p0644b02">第四</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_005.xml#p0649b02">第五</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_006.xml#p0654b02">第六</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_007.xml#p0659a02">第七</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_008.xml#p0663a02">第八</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_009.xml#p0668c16">第九</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_010.xml#p0674c02">第十</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_011.xml#p0680b02">第十一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1541_012.xml#p0685b02">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

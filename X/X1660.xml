@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0463b09">後漢</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0463c13">梁</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0463c21">陳</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0464a03">北魏</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0464a21">北齊</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0464b02">北周</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0465a08">隋</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0465a16">唐</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0469a15">後唐</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0469a22">後晉</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0469b04">後周</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0469b08">遼</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0469b14">宋</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_002.xml#p0472a06">金</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_002.xml#p0472b13">元</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_002.xml#p0474b15">明</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_002.xml#p0479c01">皇清</cblink>
+	<ol>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0479c02">天聰六年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0479c09">順治二年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0479c24">順治三年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480a07">順治四年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480a12">順治六年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480a18">順治八年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480a24">順治九年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480b05">順治十五年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480b10">順治十七年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480b14">康熈元年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480b21">康熙四年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480c06">康熙六年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480c14">康熈十三年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480c19">康熈十五年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0480c24">康熈十六年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0481a06">康熈二十二年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0481a08">康熈二十三年</cblink></li>
+		<li><cblink href="XML/X/X88/X88n1660_002.xml#p0481a11">康熈五十年</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1660_001.xml#p0463b07">第一</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1660_002.xml#p0472a04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

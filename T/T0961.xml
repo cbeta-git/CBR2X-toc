@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0330b28">1 放缽品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0331a10">2 善惡因果品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0331b20">3 如意寶珠品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0332c20">4 大曼荼羅品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0333b01">5 灌頂印真言品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0333c03">6 阿闍梨成佛品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0334a08">7 悉地成就品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0334b08">8 護摩品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0334c09">9 屬累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0961_001.xml#p0330b23">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507a05">俱舍宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507a15">成實宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507a25">律宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507b09">華嚴宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507b17">三論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507c06">法相宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507c15">真言宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0508a01">天台宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0508a16">佛心宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0508b04">淨土宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0508b14">諸宗要文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0179_001.xml#p0507a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

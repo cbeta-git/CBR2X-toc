@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0104a02">錄文六</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0104a04">梁朝傅大士頌金剛經序</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0105a05">淨口業真言</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0105a07">虛空藏菩薩普供養真言</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0105a09">奉請八金剛</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0105a18">奉請四菩薩</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0106a01">隨文讚頌</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0130a07">大身真言</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0130a10">隨心真言</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0073f_001.xml#p0130a13">心中心真言</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

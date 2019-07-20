@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0185a01">引</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0185a17">評</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0185b11">原序</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0185c05">凡則</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0186a01">船子曲</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB481_001.xml#p0186a01">擬華亭船子曲序</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB481_001.xml#p0186b01">吹萬和尚船子曲</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB481_001.xml#p0187b12">附住興龍解制抱病欲歸詞</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB481_001.xml#p0187b17">幻場運甕</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0188b04">庚極太子越城為寇</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0188b20">五路魔黨投禮西山</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0189a07">圓滿皇帝差使探討</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0189b03">探使回報各營奸細</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0189c25">接命道人揭榜降魔</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0190a22">西山王大戰五路兵</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0190c07">空谷禪師計困西山</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0191a07">瞋愛二魔進計衝伐重圍</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0191b23">表奏靈山老母求計</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0192a19">無位真人定連環計</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0192b12">西山大王陷連環陣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0192c17">真人皇帝同碎虛空</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB481_001.xml#p0188b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0759a01">序</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0760a03">上堂</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0761c11">機緣</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0762c10">示禪徒三偈</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0762c17">贈慧山海監院</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0762c20">自題</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0762c22">又(棄人請)</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0762c26">為智聖魏居士入塔</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0763a01">上天童密老和尚書</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0763a17">復上密老和尚</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0763b01">復簡予周居士(附來書)</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0763b21">行實</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0764b01">塔銘</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0764c01">大溈四記</cblink>
+	<ol>
+		<li><cblink href="XML/J/J25/J25nB176_001.xml#p0764c01">敘</cblink></li>
+		<li><cblink href="XML/J/J25/J25nB176_001.xml#p0767a01">同慶禪寺碑記</cblink></li>
+		<li><cblink href="XML/J/J25/J25nB176_001.xml#p0768a11">密印禪寺碑記</cblink></li>
+		<li><cblink href="XML/J/J25/J25nB176_001.xml#p0769a21">密印禪寺僧田記</cblink></li>
+		<li><cblink href="XML/J/J25/J25nB176_001.xml#p0769c01">密印禪寺碑記</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB176_001.xml#p0760a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

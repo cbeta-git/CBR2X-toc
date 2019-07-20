@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1263_001.xml#p0468a02">No. 1263-A 禪林寶訓序</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1263_001.xml#p0468b02">No. 1263-B 禪林寶訓合註序</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1263_001.xml#p0468c02">No. 1263-C 禪林寶訓合註敘</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1263_001.xml#p0469a17">No. 1263-D 禪林寶訓序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1263_001.xml#p0469c10">第一</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1263_002.xml#p0485c18">第二</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1263_003.xml#p0499b15">第三</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1263_004.xml#p0513a05">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

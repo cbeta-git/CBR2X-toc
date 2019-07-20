@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2749_001.xml#p0180a05">1-16 （缺）</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2749_001.xml#p0181c26">17 分別功德品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2749_001.xml#p0183c16">18 隨喜功德品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2749_001.xml#p0186b01">19 法師功德品</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2749_001.xml#p0188c27">20 常不輕菩薩品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2749_001.xml#p0180a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

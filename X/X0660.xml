@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0660_001.xml#p0001a06">目次</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_001.xml#p0001c06">釋序品第一</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_002.xml#p0014b12">釋純陀品第二</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_003.xml#p0026a02">釋哀歎品第三</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_004.xml#p0034c03">釋長壽品第四</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_004.xml#p0040b15">釋金剛身品第五</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_004.xml#p0042b15">釋名字功德品第六</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_005.xml#p0043a09">釋四相品第七</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0660_005.xml#p0043a10">上</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_005.xml#p0046c08">下</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X37/X37n0660_005.xml#p0048c19">釋四依品第八</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_005.xml#p0053b06">釋耶正品第九</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_005.xml#p0053c14">釋四諦品第十</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_005.xml#p0054b21">釋四倒品第十一</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0055b01">釋如來性品第十二</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0061a24">釋文字品第十三</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0062b22">釋鳥喻品第十四</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0063c06">釋月喻品第十五</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0064a14">釋菩薩品第十六</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0067c18">釋大眾問品第十七</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_007.xml#p0069b20">釋現病品第十八</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_007.xml#p0070b18">釋聖行品第十九</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0660_007.xml#p0070b19">上</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_007.xml#p0078a15">下</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X37/X37n0660_008.xml#p0081b16">釋梵行品第二十</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0660_008.xml#p0081b17">之一</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_008.xml#p0085a01">之二</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_008.xml#p0088b22">之三</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_008.xml#p0092b15">之四</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_008.xml#p0093c23">之五</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X37/X37n0660_008.xml#p0097a21">釋嬰兒行品第二十一</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_009.xml#p0097c06">釋高貴德王品第二十二</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0660_009.xml#p0097c07">之一</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_009.xml#p0105c01">之二</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_009.xml#p0107a02">之三</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_010.xml#p0108a18">之四</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_010.xml#p0111a11">之五</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_010.xml#p0114b23">之六</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X37/X37n0660_011.xml#p0116a23">釋師子吼品第二十三</cblink>
+	<ol>
+		<li><cblink href="XML/X/X37/X37n0660_011.xml#p0116a24">之一</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_011.xml#p0122a09">之二</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_012.xml#p0125c11">之三</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_012.xml#p0127b22">之四</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_012.xml#p0129c01">之五</cblink></li>
+		<li><cblink href="XML/X/X37/X37n0660_012.xml#p0131b16">之六</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0660_001.xml#p0001c03">第一</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_002.xml#p0014b11">第二</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_003.xml#p0026a01">第三</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_004.xml#p0034c01">第四</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_005.xml#p0043a07">第五</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_006.xml#p0055a23">第六</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_007.xml#p0069b17">第七</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_008.xml#p0081b14">第八</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_009.xml#p0097c04">第九</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_010.xml#p0108a15">第十</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_011.xml#p0116a21">第十一</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0660_012.xml#p0125c09">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0309_001.xml#p0966a08">1 道引品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_001.xml#p0968a12">2 留化品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_001.xml#p0969a19">3 空觀品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_001.xml#p0970c28">4 色入品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_002.xml#p0973a09">5 了空品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_002.xml#p0975b24">6 根門品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_002.xml#p0978a04">7 廣受品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_003.xml#p0981a22">8 童真品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_003.xml#p0985b08">9 定意品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_004.xml#p0989c28">10 成道品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_004.xml#p0994a21">11 滅心品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_005.xml#p0998a18">12 神足品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_005.xml#p0999c15">13 恭敬品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_005.xml#p1002a02">14 勇猛品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_006.xml#p1007a11">15 碎身品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_006.xml#p1009a28">16 身入品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_006.xml#p1010c08">17 辯才品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_006.xml#p1013a02">18 權智品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_007.xml#p1015a10">19 化眾生品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_007.xml#p1019a13">20 三道滅度品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_007.xml#p1021b08">21 乘無相品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_008.xml#p1023c06">22 等慈品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_008.xml#p1027b26">23 法界品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_009.xml#p1031b24">24 道智品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_009.xml#p1036b08">25 身口意品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1039b06">26 夢中成道品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1041c28">27 菩薩證品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1043c07">28 解慧品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1044b21">29 三毒品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1045b19">30 問泥洹品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1046b26">31 四梵堂品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1046c22">32 梵天請品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1047a09">33 梵天囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0309_001.xml#p0966a04">第一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_002.xml#p0973a06">第二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_003.xml#p0981a19">第三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_004.xml#p0989c25">第四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_005.xml#p0998a15">第五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_006.xml#p1007a08">第六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_007.xml#p1015a07">第七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_008.xml#p1023c03">第八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_009.xml#p1031b21">第九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0309_010.xml#p1039b03">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J26/J26nB178_001.xml#p0103a01">序</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_001.xml#p0103b01">目次</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_001.xml#p0104a03">上堂一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_002.xml#p0109b03">上堂二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_003.xml#p0115b03">上堂三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_004.xml#p0121a03">上堂四</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_005.xml#p0126c03">上堂五</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_006.xml#p0132b03">上堂六</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_007.xml#p0138b03">上堂七</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_008.xml#p0144a03">上堂八</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_009.xml#p0149a03">上堂九</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_010.xml#p0155c03">小參</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_010.xml#p0159c19">入室</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160b03">法語</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160b04">示隱元上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160b15">示朗真上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160c12">示百癡上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160c22">示金粟上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160c30">示慈俊禪人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161a07">示書記蓮如上座</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161a17">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161a18">冬景</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161a22">和澄靈禪師山居韻</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161a26">示培菴沈居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161a29">送澹崖師歸吳</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b02">示時默禪人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b07">示金粟上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b10">與大含王居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b13">示三笑禪人往楚住靜</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b16">復寧德張邑侯次韻</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b19">示夔友龔居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b22">登獅子巖絕頂</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b24">和誌公辰時歌</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161b28">示繼川嚴居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c01">示大休上座住山</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c04">示伯鸞楊居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c07">復無咎何居士(諱白)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c12">與太白禪人</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c15">復海寧縣中尊霜崖顧居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c20">禮本師老和尚塔</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c25">和益城姚居士原韻</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0161c29">寄九霞劉居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a02">贈吳居士號泰菴解</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a06">過朱涇詠船子和尚</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a10">寄武原覲周徐居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a14">示本仁呂居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a17">禮宏智禪師塔瞻右隴數塔被毀有感二首</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a22">送古淵成首座住昭明寺</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162a27">諸當道恢復小天童賦贈</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b01">寄澉城稚仙吳居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b04">與爾潛董居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b07">與子張嚴居士(別號髻珠)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b10">寄孝廉覲周徐居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b13">酬藥樹頭陀用原韻</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b17">峨雪曹居士過訪書此致意</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b21">題大北菴手卷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b24">書問</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0162b25">復海昌榜眼彥升陳居士(諱之遴)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0163a07">復武林司理海岸黃居士(諱端伯)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0163a13">復孝廉祈遠唐居士(諱元竑)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0163a23">復海岸黃居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0163b14">復雲上張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0163c03">與侍御心韋徐居士(甲申夏發)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0164a02">復東甌工部金門邵居士(諱建策)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0164a15">與鄞縣廣文客卿張居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0164b08">復萬峰漢月禪師</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0165a02">寄別山講主</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0165a24">復隱元上座</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0165b01">復太守聲玉韋居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0165b10">復刺史九霞劉居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0165b24">復九霞劉居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0165c01">復太史曹峨雪居士(諱勳)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0166a08">復子佩周居士</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0166a23">復乾三法師書(附來書法師相見機緣語句載堯峰錄內)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_011.xml#p0167c21">復天王水鑑海法孫</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB178_012.xml#p0168a03">問答機緣</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_012.xml#p0170c17">拈古</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_013.xml#p0174a03">頌古</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_013.xml#p0176a10">判古</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177a13">贊</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177a14">觀音</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177a17">自贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177a21">天童老和尚贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177a25">自贊(隱元琦請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177a29">自贊(子穀蔡居士等描留鎮金粟常住永遠供養請題)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b03">達磨(子穀蔡居士請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b07">達觀大師像贊(鑑圓禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b10">自贊(朗真璣請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b13">自贊(閩中寧德縣白漚上座請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b17">自贊(三笑密請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b21">泰宇趙居士乞題三十二應觀音</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b24">天童老和尚贊(悟原禪人請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b27">天童老和尚贊(玉可張居士請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177b30">自贊(柴立已請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c04">題自像(古淵成請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c08">大慧杲禪師(日至詹居士索題)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c11">自贊(靈機觀請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c14">老和尚贊(僧請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c17">自贊(亙信彌請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c21">自贊(百癡元請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c24">諸祖圖贊(顓封陸居士請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0177c27">天童老和尚贊(從心師乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178a01">題金粟常住供養老和尚大像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178a08">題天童供養老和尚大像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178a15">自贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178a19">正法書記描師像并自己同一山水圖乞題</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178a22">自贊(穎正端上座乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178a26">題五十三應真馴伏靈禽異獸總畫軸</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b03">自贊(蓮如禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b07">老和尚贊(為泰菴吳居士)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b12">題雲門湛和尚小像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b16">自贊(龍華韜明上座乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b20">題初祖像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b24">自贊(天水廣請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178b28">天童老和尚贊(善納禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c02">先師密老和尚贊(不知禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c06">自贊(古碧維那乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c09">自贊(機來陳居士乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c13">自贊(振玉禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c17">自贊(方淡禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c21">題三際法師像(朝徹上座乞<unclear/>係雙瞽)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c26">題覲周徐居士行樂圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0178c30">草衣文殊贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179a04">去習上座乞題聞谷大師像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179a08">中峰遠祖贊(有引)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179a22">古風西堂乞自贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179a26">白漢上座乞贊行樂圖</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179a29">雲浪西堂乞自贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b02">自贊(公衡西堂乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b05">樅堂上座乞自贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b10">贊魚籃觀音</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b13">師與雲臺蔡居士同坐山水圖自題</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b17">乞題祖鄰菴老師像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b21">自贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b25">題老和尚像贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179b29">題大悲像贊</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179c03">正聞上座乞題離山禪德像</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179c07">自贊(獨冠監院乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179c12">自贊(劍門西堂請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179c16">自贊(百峰西堂請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179c20">天童密先老和尚像讚(離言首座請題)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0179c26">自讚(離言首座請)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_013.xml#p0180a01">自讚(絳雪西堂請)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB178_014.xml#p0180b03">雜著</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0180b04">題血書華嚴經(楚文禪人乞)</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0180b11">跋天衣上座華嚴經</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0180b29">題雪浪法師墨蹟</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0180c05">金剛經跋</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0181a10">一化上座募裝大悲菩薩像并供器等乞偈為引</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J26/J26nB178_014.xml#p0181a20">小佛事</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_014.xml#p0182b01">紀年錄</cblink>
+	<ol>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0182b01">卷上</cblink></li>
+		<li><cblink href="XML/J/J26/J26nB178_014.xml#p0188a01">卷下</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J26/J26nB178_001.xml#p0104a01">第一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_002.xml#p0109b01">第二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_003.xml#p0115b01">第三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_004.xml#p0121a01">第四</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_005.xml#p0126c01">第五</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_006.xml#p0132b01">第六</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_007.xml#p0138b01">第七</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_008.xml#p0144a01">第八</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_009.xml#p0149a01">第九</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_010.xml#p0155c01">第十</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_011.xml#p0160b01">第十一</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_012.xml#p0168a01">第十二</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_013.xml#p0174a01">第十三</cblink></li>
+	<li><cblink href="XML/J/J26/J26nB178_014.xml#p0180b01">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>

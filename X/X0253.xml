@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0238a03">No. 253-A</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0238b04">No. 253-B 十二章來意</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0238c09">經題</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0239c22">譯師</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0240b06">序分</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0245a23">正宗分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0253_001.xml#p0245a23">文殊師利菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_002.xml#p0257a24">普賢菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_003.xml#p0264b06">普眼菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_004.xml#p0281c21">金剛藏菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_005.xml#p0291a06">彌勒菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_006.xml#p0303c16">清淨慧菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_007.xml#p0315b01">威德自在菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_008.xml#p0325a09">辨音菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_009.xml#p0335b12">淨諸業障菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_010.xml#p0349a12">普覺菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0253_011.xml#p0359a23">圓覺菩薩章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0369c24">流通分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0253_012.xml#p0369c24">賢善首菩薩章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0377a05">No. 253-C 前住持靈隱禪寺癡絕老人跋</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0377a15">No. 253-D 徑山長老圓照老人䟦</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0377b03">No. 253-E 靈隱長老石溪老人䟦</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0377b11">No. 253-F 慶元府雪竇長老偃溪老人䟦</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0377b21">No. 253-G 慶元府雪竇長老偃谿老人䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0253_001.xml#p0238c05">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_002.xml#p0257a22">第二</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_003.xml#p0264b04">第三</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_004.xml#p0281c19">第四</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_005.xml#p0291a04">第五</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_006.xml#p0303c14">第六</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_007.xml#p0315a24">第七</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_008.xml#p0325a07">第八</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_009.xml#p0335b10">第九</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_010.xml#p0349a10">第十</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_011.xml#p0359a21">第十一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0253_012.xml#p0369c22">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

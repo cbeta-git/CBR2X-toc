@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0174b11">1 桀貪王經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0175c26">2 優填王經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0176b12">3 須陀利經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0177c20">4 摩竭梵志經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0178a19">5 鏡面王經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0178c15">6 老少俱死經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0179a24">7 彌勒難經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0179c03">8 勇辭梵志經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0180a13">9 摩因提女經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0180c04">10 異學角飛經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0181c28">11 猛觀梵志經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0182c04">12 法觀梵志經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0183b16">13 兜勒梵志經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0184c24">14 蓮花色比丘尼經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0186c28">15 子父共會經</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0188a11">16 維樓勒王經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0198_001.xml#p0174b08">第一</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0198_002.xml#p0181c25">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

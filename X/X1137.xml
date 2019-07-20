@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0812b09">前文</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0812c08">一嚴道場</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0812c14">二淨三業</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0812c23">三香華供養</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0813a24">四讚禮歸依</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0813c18">五陳罪悔除</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0814b03">六立願誦戒</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0814b14">七苦到禮佛</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0814c12">八重修願行</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0815b17">九旋遶自歸</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0815c06">十坐念實相</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1137_001.xml#p0812b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

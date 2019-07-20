@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2054_001.xml#p0280a10">新刊賢首國師碑傳敘</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2054_001.xml#p0280b02">大唐大薦福寺故大德康藏法師之碑</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2054_001.xml#p0286c06">新刊賢首碑傳正誤</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2054_001.xml#p0286c09">序</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2054_001.xml#p0286c25">碑正誤</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2054_001.xml#p0287a06">傳正誤</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2054_001.xml#p0288c27">跋</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2054_001.xml#p0289b02">紹興跋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2054_001.xml#p0289b24">新羅崔致遠事實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2054_001.xml#p0280c19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

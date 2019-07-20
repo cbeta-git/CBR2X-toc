@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2060_001.xml#p0425a03">續高僧傳序</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_001.xml#p0425c21">1 譯經篇</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2060_001.xml#p0425c21">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_002.xml#p0432a12">2</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_003.xml#p0439c19">3</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_004.xml#p0446c02">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2060_005.xml#p0459c16">2 義解篇</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2060_005.xml#p0459c16">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_006.xml#p0467c02">2</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_007.xml#p0476b02">3</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_008.xml#p0483b02">4</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_009.xml#p0492b05">5</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_010.xml#p0501a14">6</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_011.xml#p0508b11">7</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_012.xml#p0515a12">8</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_013.xml#p0521c17">9</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_014.xml#p0531b13">10</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_015.xml#p0538b08">11</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2060_016.xml#p0550a05">3 習禪</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2060_016.xml#p0550a05">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_017.xml#p0560c21">2</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_018.xml#p0571a24">3</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_019.xml#p0579a13">4</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_020.xml#p0588a08">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2060_021.xml#p0606c20">4 明律</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2060_021.xml#p0606c20">上</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_022.xml#p0613c20">下</cblink>
+		<ol>
+			<li><cblink href="XML/T/T50/T50n2060_022.xml#p0622c12">附文</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2060_023.xml#p0624b15">5 護法</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2060_023.xml#p0624b15">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_024.xml#p0632b21">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2060_025.xml#p0643c06">6 感通</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2060_025.xml#p0643c06">1</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2060_026.xml#p0667a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2060_027.xml#p0678a14">7 遺身篇</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_028.xml#p0685c15">8 讀誦篇</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_029.xml#p0691b08">9 興福篇</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_030.xml#p0700c09">10 雜科聲德篇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2060_001.xml#p0425c19">第一</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_002.xml#p0432a12">第二</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_003.xml#p0439c19">第三</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_004.xml#p0446c02">第四</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_005.xml#p0459c13">第五</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_006.xml#p0467c02">第六</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_007.xml#p0476b02">第七</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_008.xml#p0483b02">第八</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_009.xml#p0492b05">第九</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_010.xml#p0501a14">第十</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_011.xml#p0508b11">第十一</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_012.xml#p0515a12">第十二</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_013.xml#p0521c17">第十三</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_014.xml#p0531b13">第十四</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_015.xml#p0538b08">第十五</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_016.xml#p0550a02">第十六</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_017.xml#p0560c21">第十七</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_018.xml#p0571a24">第十八</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_019.xml#p0579a13">第十九</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_020.xml#p0588a08">第二十</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_021.xml#p0606c17">第二十一</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_022.xml#p0613c17">第二十二</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_023.xml#p0624b12">第二十三</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_024.xml#p0632b21">第二十四</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_025.xml#p0643c03">第二十五</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_026.xml#p0667a02">第二十六</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_027.xml#p0678a11">第二十七</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_028.xml#p0685c12">第二十八</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_029.xml#p0691b05">第二十九</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2060_030.xml#p0700c06">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

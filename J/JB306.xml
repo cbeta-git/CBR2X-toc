@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB306_001.xml#p0409a01">序</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB306_001.xml#p0410a03">住蘇州甫里月掌禪院語上</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB306_002.xml#p0415c03">住蘇州甫里月掌禪院語下</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB306_002.xml#p0421b01">得閒堂頌古</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB306_001.xml#p0410a01">第一</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB306_002.xml#p0415c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J35/J35nB337_001.xml#p0705a01">序</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB337_001.xml#p0705c03">住禾城妙湛禪院語</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB337_001.xml#p0707a14">住海鹽南詢禪院語</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB337_002.xml#p0709b03">機緣</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB337_002.xml#p0710c15">頌古</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB337_002.xml#p0712c21">真讚</cblink>
+	<ol>
+		<li><cblink href="XML/J/J35/J35nB337_002.xml#p0712c22">靈巖老和尚讚</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB337_002.xml#p0712c26">董菴和尚讚</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB337_002.xml#p0712c29">靈瑞和尚讚</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB337_002.xml#p0713a05">自讚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J35/J35nB337_002.xml#p0713a14">書問</cblink>
+	<ol>
+		<li><cblink href="XML/J/J35/J35nB337_002.xml#p0713a15">與龔夫人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB337_002.xml#p0713a30">示門下諸子</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J35/J35nB337_001.xml#p0705c01">第一</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB337_002.xml#p0709b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

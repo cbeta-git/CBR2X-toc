@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0797a05">序說</cblink>
+	<ol>
+		<li><cblink href="XML/B/B35/B35n0195_001.xml#p0797a06">一、早期漢蕃佛教關係之史實</cblink></li>
+		<li><cblink href="XML/B/B35/B35n0195_001.xml#p0798a15">二、吐蕃之延聘漢僧說法</cblink></li>
+		<li><cblink href="XML/B/B35/B35n0195_001.xml#p0805a10">三、漢僧開示禪門所至吐蕃地名考證</cblink>
+		<ol>
+			<li><cblink href="XML/B/B35/B35n0195_001.xml#p0805a11">前文</cblink></li>
+			<li><cblink href="XML/B/B35/B35n0195_001.xml#p0806a09">勃礐漫</cblink></li>
+			<li><cblink href="XML/B/B35/B35n0195_001.xml#p0807a08">訟割</cblink></li>
+			<li><cblink href="XML/B/B35/B35n0195_001.xml#p0807a15">章蹉</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B35/B35n0195_001.xml#p0808a16">四、從摩訶衍所引經典論後期禪宗對金剛經、楞伽經之並重</cblink></li>
+		<li><cblink href="XML/B/B35/B35n0195_001.xml#p0810a05">五、建中至長慶間佛教關係二三事</cblink></li>
+		<li><cblink href="XML/B/B35/B35n0195_001.xml#p0811a10">六、附記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0814a06">本文</cblink></li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0836a15">校記 A</cblink></li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0841a13">校記 B</cblink></li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0843a07">注釋</cblink></li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0850a02">增注</cblink></li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0851a02">附說</cblink></li>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0854a01">附表</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B35/B35n0195_001.xml#p0797a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

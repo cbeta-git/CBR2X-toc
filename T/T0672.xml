@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0672_001.xml#p0587a03">新譯大乘入楞伽經序</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_001.xml#p0587b14">1 羅婆那王勸請品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_001.xml#p0590b24">2 集一切法品(一-三)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T16/T16n0672_001.xml#p0590b24">1</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0672_002.xml#p0594b02">2</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0672_003.xml#p0600b17">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T16/T16n0672_004.xml#p0607b22">3 無常品(四-五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_005.xml#p0618b11">4 現證品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_005.xml#p0619a19">5 如來常無常品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_005.xml#p0619b25">6 剎那品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_006.xml#p0622b08">7 變化品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_006.xml#p0622c28">8 斷食肉品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_006.xml#p0624c19">9 陀羅尼品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_006.xml#p0625a21">10 偈頌品(六-七)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T16/T16n0672_006.xml#p0625a21">1</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0672_007.xml#p0631a06">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0672_001.xml#p0587b10">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_002.xml#p0594b02">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_003.xml#p0600b17">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_004.xml#p0607b18">第四</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_005.xml#p0614c04">第五</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_006.xml#p0622b04">第六</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0672_007.xml#p0631a02">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

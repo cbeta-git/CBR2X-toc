@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0633c07">1 請問品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0634a12">2 真言相分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0635c01">3 分別阿闍梨相品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0635c25">4 分別持誦真言相品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0636a22">5 分別同伴相品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0636c12">6 簡擇處所品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0637a20">7 分別戒法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0639b21">8 供養華品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0640a09">9 塗香藥品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0641a19">10 分別燒香品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0641c07">11 然燈法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0642a10">12 獻食品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0644a05">16 分別成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0644b26">17 奉請品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0645a29">18 供養品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0649b03">19 光顯品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0649b29">20 本尊灌頂品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0649c17">21 祈請品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0650b05">22 受真言品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0650c19">23 滿足真言品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0651a06">24 增力品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0651a18">25 護摩品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0651c16">26 備物品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0652a07">27 成諸相品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0652b27">28 取物品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0652c08">29 淨物品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0652c19">30 物量品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0653a12">31 灌頂壇品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0654a09">32 光物品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0655a09">33 分別悉地時分品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0655b14">34 圓備成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0656a02">35 奉請成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0657a02">36 補闕少法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0660c10">37 被偷成就物卻徵法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0662b18">38 成就具支法品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0893b_001.xml#p0633c04">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_002.xml#p0644a02">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0893b_003.xml#p0655a06">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

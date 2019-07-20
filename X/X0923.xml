@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0923_001.xml#p0122a02">No. 923-A 重刻止觀義例隨釋序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_001.xml#p0122b20">序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_001.xml#p0123a05">隨釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X56/X56n0923_001.xml#p0123b20">第一所傳部別例者</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0923_001.xml#p0125a06">第二所依正教例者</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0923_001.xml#p0127a03">第三文義消釋例者</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0923_002.xml#p0148a09">第四大章總別例者</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0923_004.xml#p0167c03">第五心境釋疑例者略為二十番</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0923_005.xml#p0183b21">第六行解相資例者</cblink></li>
+		<li><cblink href="XML/X/X56/X56n0923_005.xml#p0187b17">第七喻疑顯正例者</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X56/X56n0923_006.xml#p0206a19">No. 923-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0923_001.xml#p0122b17">第一</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_002.xml#p0136b10">第二</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_003.xml#p0152a04">第三</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_004.xml#p0167c01">第四</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_005.xml#p0180c09">第五</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0923_006.xml#p0193c03">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

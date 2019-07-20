@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0763_001.xml#p0367a03">No. 763-A 起信論捷要序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0763_001.xml#p0367b02">No. 763-B 起信論捷要自序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0763_001.xml#p0367c07">大乘起信論捷要</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0763_002.xml#p0401a03">No. 763-C 後䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0763_001.xml#p0367c09">第一</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0763_002.xml#p0382c03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

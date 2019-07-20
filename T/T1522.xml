@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1522_001.xml#p0123a02">序</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_001.xml#p0123b19">1 初歡喜地</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1522_001.xml#p0123b19">1</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1522_002.xml#p0130c13">2</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1522_003.xml#p0138a25">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1522_004.xml#p0145b23">2 離垢地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_005.xml#p0153a26">3 明地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_006.xml#p0159b14">4 焰地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_007.xml#p0163a08">5 難勝地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_008.xml#p0167c16">6 現前地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_009.xml#p0173c20">7 遠行地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_010.xml#p0179a06">8 不動地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_011.xml#p0186a27">9 善慧地</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_012.xml#p0193c06">10 法雲地</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1522_001.xml#p0123b15">第一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_002.xml#p0130c13">第二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_003.xml#p0138a25">第三</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_004.xml#p0145b18">第四</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_005.xml#p0153a22">第五</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_006.xml#p0159b10">第六</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_007.xml#p0163a04">第七</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_008.xml#p0167c12">第八</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_009.xml#p0173c16">第九</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_010.xml#p0179a02">第十</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_011.xml#p0186a23">第十一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1522_012.xml#p0193c02">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

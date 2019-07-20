@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B25/B25n0143_001.xml#p0187a01">目次</cblink></li>
+	<li><cblink href="XML/B/B25/B25n0143_001.xml#p0189a06">一、神會語錄的三個本子的比勘</cblink></li>
+	<li><cblink href="XML/B/B25/B25n0143_001.xml#p0212a03">二、南陽和尚問答雜徵義</cblink>
+	<ol>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0212a05">序</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0213a06">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B25/B25n0143_001.xml#p0238a09">三、神會和尚的五更轉曲子</cblink>
+	<ol>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0242a02">（一）荷澤寺神會和尚五更轉兩首</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0249a04">（二）五更轉一首</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0251a02">（三）五更轉兩本</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0253a06">（四）大乘五更轉</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0255a07">（五）南宗定邪正五更轉</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0258a01">（六）北平圖書館的兩個敦煌本</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0262a09">（七）校寫「五更轉」後記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B25/B25n0143_001.xml#p0277a01">附圖</cblink>
+	<ol>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0277a01">倫敦大英博物院藏的「荷澤和尚五更轉」敦煌寫本照片</cblink></li>
+		<li><cblink href="XML/B/B25/B25n0143_001.xml#p0278a01">倫敦大英博物院藏的「南陽和尚問答雜義」敦煌寫本照片</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B25/B25n0143_001.xml#p0187a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

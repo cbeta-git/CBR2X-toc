@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/P/P168/P168n1581_001.xml#p0199a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/P/P168/P168n1581_001.xml#p0199a01">緫序</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_001.xml#p0200b04">義䟽序</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_001.xml#p0201b09">惟淨上王中丞書</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_001.xml#p0202b09">標指序</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_001.xml#p0203b08">集解序</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_001.xml#p0206a09">緣起序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/P/P168/P168n1581_001.xml#p0209a05">本文</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_030.xml#p0914b03">跋</cblink>
+	<ol>
+		<li><cblink href="XML/P/P168/P168n1581_030.xml#p0914b03">唐廣州制止寺極量傳</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_030.xml#p0915a08">義䟽跋</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_030.xml#p0917a04">標指跋</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_030.xml#p0918a03">義海絕筆偈</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_030.xml#p0920b10">後序</cblink></li>
+		<li><cblink href="XML/P/P168/P168n1581_030.xml#p0922b04">書偈一首</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/P/P168/P168n1581_001.xml#p0208b06">第一</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_002.xml#p0225a01">第二</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_003.xml#p0247a01">第三</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_004.xml#p0271a01">第四</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_005.xml#p0295a01">第五</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_006.xml#p0323a01">第六</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_007.xml#p0349a01">第七</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_008.xml#p0375a01">第八</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_009.xml#p0395a01">第九</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_010.xml#p0417a01">第十</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_011.xml#p0439a01">第十一</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_012.xml#p0463a01">第十二</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_013.xml#p0489a01">第十三</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_014.xml#p0509a01">第十四</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_015.xml#p0527a01">第十五</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_016.xml#p0559a01">第十六</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_017.xml#p0589a01">第十七</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_018.xml#p0613a01">第十八</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_019.xml#p0635a01">第十九</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_020.xml#p0651a01">第二十</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_021.xml#p0677a01">第二十一</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_022.xml#p0705a01">第二十二</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_023.xml#p0731a01">第二十三</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_024.xml#p0757a01">第二十四</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_025.xml#p0789a01">第二十五</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_026.xml#p0811a01">第二十六</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_027.xml#p0837a01">第二十七</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_028.xml#p0855a01">第二十八</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_029.xml#p0879a01">第二十九</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_030.xml#p0899a01">第三十</cblink></li>
+	<li><cblink href="XML/P/P168/P168n1581_030.xml#p0919a06">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

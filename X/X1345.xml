@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1345_001.xml#p0233b09">初住隆慶語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1345_001.xml#p0235b09">遷住禾山語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1345_001.xml#p0239c03">遷住洪州雲巖語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a01">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a02">趙州勘婆</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a05">百丈野狐</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a08">大隋蓋龜</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a11">女子出定</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a14">諸佛居何國土</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a17">曹山雪中因緣</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240a21">保福簽瓜</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240b01">玄沙指虎</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240b03">酬徐樞密三問</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240b16">和蔣運使三頌</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240b23">和董承事三頌見別</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240c06">古鏡銘</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240c10">和靈源和尚善護頌</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240c13">送禪人化緣轉藏</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240c17">送化士</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240c20">禪人呈雪竇頂相求贊</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1345_001.xml#p0240c23">禪人寫余真求贊</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1345_001.xml#p0233b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

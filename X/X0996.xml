@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n0996_001.xml#p0257b09">華嚴一乘分齊章焚薪</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0996_002.xml#p0274b06">No. 996-A 可堂送焚薪書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n0996_001.xml#p0257b06">第一</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0996_002.xml#p0266c20">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

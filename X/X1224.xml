@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1224_001.xml#p0024b06">諸方門人參問語錄</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1224_001.xml#p0029c02">No. 1224-A 初祖菩提達磨大師安心法門附(出聯燈會要)</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1224_001.xml#p0030a08">No. 1224-B</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1224_001.xml#p0030b02">No. 1224-C 後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1224_001.xml#p0024b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

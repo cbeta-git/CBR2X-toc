@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1826_001.xml#p0212c05">1 十門分別(上)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0212c09">1 教起所因</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0212c25">2 藏部所攝</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0213a04">3 顯教分齊</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0213c24">4 教所被機</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0214a09">5 能詮教體</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0214a16">6 所詮宗趣</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0218c12">7 造論時代</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0218c23">8 傳譯緣起</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0219a03">9 釋論題目</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0219b19">10 隨文解釋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T42/T42n1826_001.xml#p0220b05">2 開宗解釋</cblink>
+	<ol>
+		<li><cblink href="XML/T/T42/T42n1826_001.xml#p0220b07">1 觀因緣門(上)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0221b15">2 觀有果無果門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0223c04">3 觀緣門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0224a21">4 觀相門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0225c25">5 觀有相無相門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0226a18">6 觀一異門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0226c24">7 觀有無門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0227b18">8 觀性門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0228a22">9 觀因果門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0228b10">10 觀作者門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0229c29">11 觀三時門(下)</cblink></li>
+		<li><cblink href="XML/T/T42/T42n1826_002.xml#p0230b28">12 觀生門(下)</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T42/T42n1826_001.xml#p0212b14">第一</cblink></li>
+	<li><cblink href="XML/T/T42/T42n1826_002.xml#p0221b12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

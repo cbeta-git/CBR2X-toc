@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0001a01">偈讚</cblink></li>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0002a03">六法文</cblink></li>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0002a16">具學三法</cblink></li>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0003a02">應學十八法</cblink></li>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0003a16">十戒相</cblink></li>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0004a10">八敬法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D06/D06n8775_001.xml#p0001a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

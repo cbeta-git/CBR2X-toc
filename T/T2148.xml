@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2148_001.xml#p0180c03">大唐東京大敬愛寺一切經論目序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_001.xml#p0181c12">單本</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2148_001.xml#p0181c14">大乘經單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_001.xml#p0185a12">大乘律單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_001.xml#p0185b12">大乘論單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_001.xml#p0186b09">小乘經單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_001.xml#p0187c22">小乘律單本</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_001.xml#p0188b13">小乘論單本</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2148_002.xml#p0189a27">重翻</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2148_002.xml#p0189a29">大乘經重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_002.xml#p0193c02">大乘律重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_002.xml#p0193c08">大乘論重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_002.xml#p0194a10">小乘經重翻</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_002.xml#p0195c05">小乘論重翻</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2148_002.xml#p0195c20">賢聖集傳</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_003.xml#p0196c13">別生</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2148_003.xml#p0196c15">大乘別生</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_003.xml#p0198b21">大乘別生抄</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_003.xml#p0199c23">小乘別出生</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_003.xml#p0204b25">小乘別生抄</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_003.xml#p0207a22">別集抄</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2148_004.xml#p0207b07">眾經別生</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2148_004.xml#p0211c18">眾經疑惑</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_004.xml#p0212a21">眾經偽妄</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_005.xml#p0213a05">闕本</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2148_001.xml#p0181c09">第一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_002.xml#p0189a24">第二</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_003.xml#p0196c10">第三</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_004.xml#p0207b04">第四</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2148_005.xml#p0213a02">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

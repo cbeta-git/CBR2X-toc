@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0517a09">敘言</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0517b03">壇場方規第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0517c19">啟請賢聖第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0518a23">供養觀門第三</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0518b13">稱讚如來第四</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0518c01">禮敬三寶第五</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0519a06">誦呪圍壇第六</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0519b02">滌業規品第七</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0519b22">懺悔發願第八</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0520a15">旋繞念誦第九</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0520b05">析通觀法第十</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0520c03">No. 1477-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1477_001.xml#p0517a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

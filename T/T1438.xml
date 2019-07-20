@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489a05">1 捨界羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489a16">2 結內界羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489a26">3 結外界羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489b09">4 結不失衣羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489c09">5 僧伽婆尸沙懺悔法</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489c26">6 波利婆沙羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0490a16">7 <note n="0490a1601" resp="CBETA" type="add">摩【大】【磧-CB】，磨【麗-CB】</note><app n="0490a1601"><lem wit="【大】">摩</lem><rdg resp="CBETA.maha" wit="【磧-CB】">摩<note type="cf1">Q22_p0514a10</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">磨<note type="cf1">K23n0917_p0915b19</note></rdg></app>那埵應乞</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0490a25">8 波利婆沙磨那埵羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0490b24">9 波利婆沙出罪羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0490c29">10 摩那埵羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0491a26">11 摩那埵出罪羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0491c08">12 本治羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0492a13">13 本治出罪羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0492b02">14 偷羅遮懺悔法</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0492b17">15 四悔過悔法</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0492b22">16 諸擯羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0492c17">17 僧羯磨明能令斷非法</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0493a21">18 伽絺那衣法</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0493c08">19 亡道人物羯磨</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0493c21">20 與看病人衣物</cblink></li>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0495a09">21 羯磨為僧作自恣人</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T23/T23n1438_001.xml#p0489a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

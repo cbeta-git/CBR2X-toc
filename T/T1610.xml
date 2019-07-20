@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1610_001.xml#p0787a07">1 緣起分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1610_001.xml#p0787b29">2 破執分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1610_001.xml#p0787b29">1 破小乘執品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_001.xml#p0788c25">2 破外道品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_001.xml#p0793c07">3 破大乘見品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1610_002.xml#p0794a10">3 顯體分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0794a10">1 三因品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0794a25">2 三性品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0795c22">3 如來藏品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1610_002.xml#p0796a29">4 辯相分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0796a29">1 自體相品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0797a23">2 明因品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0798a20">3 顯果品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_002.xml#p0799c16">4 事能品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_003.xml#p0801a08">5 總攝品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_003.xml#p0805c20">6 分別品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_003.xml#p0806a20">7 階位品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_003.xml#p0806b12">8 遍滿品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_004.xml#p0806c06">9 無變異品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1610_004.xml#p0811c22">10 無差別品</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1610_001.xml#p0787a03">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1610_002.xml#p0794a06">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1610_003.xml#p0801a04">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1610_004.xml#p0806c02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

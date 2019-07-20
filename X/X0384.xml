@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0384_001.xml#p0653a06">譯師</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_001.xml#p0653b02">忉利天宮神通品第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_001.xml#p0675b08">分身集會品第二</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_002.xml#p0680b09">觀眾生業緣品第三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_002.xml#p0686b24">閻浮眾生業感品第四</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_003.xml#p0700b06">地獄名號品第五</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_003.xml#p0706b17">如來讚歎品第六</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_004.xml#p0718c06">利益存亡品第七</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_004.xml#p0724a08">閻羅王眾讚歎品第八</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_004.xml#p0734b24">稱佛名號品第九</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_005.xml#p0740a06">較量布施功德緣品第十</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_005.xml#p0748a16">地神護法品第十一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_006.xml#p0752a17">見聞利益品第十二</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_006.xml#p0762c19">囑累人天品第十三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_006.xml#p0768b08">No. 384-A 後䟦</cblink>
+	<ol>
+		<li><cblink href="XML/X/X21/X21n0384_006.xml#p0768b11">跋文</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0384_006.xml#p0768b23">經讚附</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0384_006.xml#p0768c06">陳九陶先生贈言併序附</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X21/X21n0384_006.xml#p0769a06">No. 384-B 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0384_001.xml#p0653a04">第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_002.xml#p0680b07">第二</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_003.xml#p0700b04">第三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_004.xml#p0718c04">第四</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_005.xml#p0740a04">第五</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0384_006.xml#p0752a15">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

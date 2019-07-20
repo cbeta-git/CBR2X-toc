@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0321_001.xml#p0091a01">楞伽經註</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0321_005.xml#p0115c16">No. 321-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0321_001.xml#p0091a03">第一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0321_002.xml#p0092b08">第二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0321_005.xml#p0104b08">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

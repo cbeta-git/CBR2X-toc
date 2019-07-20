@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0563_001.xml#p0909b04">般若波羅蜜多心經請益說</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0563_001.xml#p0912a15">附補喻彌陀集般若心經句為頌</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0563_001.xml#p0912b02">No. 563-A 般若心經指掌請益說合刻䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0563_001.xml#p0909b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

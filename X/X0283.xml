@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0283_001.xml#p0044a07">題目</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0283_001.xml#p0044a08">大佛下法題</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0283_001.xml#p0046a08">唐天下人目</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X13/X13n0283_001.xml#p0046a10">經文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X13/X13n0283_001.xml#p0046a15">序分</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0283_001.xml#p0050b13">正宗分</cblink></li>
+		<li><cblink href="XML/X/X13/X13n0283_010.xml#p0195a12">流通分</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0283_001.xml#p0044a03">第一</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_002.xml#p0064a04">第二</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_003.xml#p0084b04">第三</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_004.xml#p0099c01">第四</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_005.xml#p0118a13">第五</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_006.xml#p0133c01">第六</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_007.xml#p0148a01">第七</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_008.xml#p0157c05">第八</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_009.xml#p0176a05">第九</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0283_010.xml#p0186b09">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

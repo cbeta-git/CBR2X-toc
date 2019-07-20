@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1699_001.xml#p0084a17">金剛般若經序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1699_001.xml#p0084b02">第一</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1699_002.xml#p0096b02">第二</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1699_003.xml#p0105a02">第三</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1699_004.xml#p0114a17">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

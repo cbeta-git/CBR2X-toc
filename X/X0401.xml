@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0142a03">No. 401-A 佛說摩訶阿彌陀經衷論敘</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0142b16">前文</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0150a24">衷論一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0154a22">衷論二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0155c10">衷論三</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0156a11">衷論四</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0159c14">衷論五</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0169b07">衷論六</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0401_001.xml#p0142b15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

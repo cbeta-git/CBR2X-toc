@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1720_001.xml#p0361a03">1</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_002.xml#p0371c13">2</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_003.xml#p0382b02">3</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_004.xml#p0388c17">4</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_005.xml#p0396c16">5</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_006.xml#p0405c02">6</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_007.xml#p0415c20">信解品譬喻義</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1720_007.xml#p0415c20">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1720_008.xml#p0424a17">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1720_009.xml#p0433b13">寶塔品密開本迹義</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_010.xml#p0443a05">論分別功德品生數義</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_010.xml#p0449b18">二種次第義釋妙莊嚴等品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1720_001.xml#p0361a03">第一</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_002.xml#p0371c13">第二</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_003.xml#p0382b02">第三</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_004.xml#p0388c17">第四</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_005.xml#p0396c16">第五</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_006.xml#p0405c02">第六</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_007.xml#p0415c17">第七</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_008.xml#p0424a17">第八</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_009.xml#p0433b10">第九</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1720_010.xml#p0443a02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

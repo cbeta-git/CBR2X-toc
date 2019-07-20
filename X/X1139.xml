@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1139_001.xml#p0822a06">文星閣重整放生會引</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1139_001.xml#p0822c11">文星閣建放生會疏</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1139_001.xml#p0823b08">放生會回向文</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1139_001.xml#p0823b19">南園放生池碑</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1139_001.xml#p0823c24">彭氏放生池碑</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1139_001.xml#p0822a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0860_001.xml#p0951a03">判比量論</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0860_001.xml#p0953a20">新出斷簡</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0860_001.xml#p0953b10">判比量論䟦文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0860_001.xml#p0951a05">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

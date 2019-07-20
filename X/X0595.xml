@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0118b06">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0119a06">化城喻品第七</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0120b10">法師品第十</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0126b20">見寶塔品第十一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0127c11">提婆達多品第十二</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0129a03">持品第十三</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0129a14">安樂行品第十四</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_002.xml#p0137a07">從地涌出品第十五</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_002.xml#p0139a04">壽量品第十六</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_002.xml#p0141a22">分別功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_002.xml#p0144a08">妙音品第二十四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X29/X29n0595_001.xml#p0118b03">第一</cblink></li>
+	<li><cblink href="XML/X/X29/X29n0595_002.xml#p0130c11">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

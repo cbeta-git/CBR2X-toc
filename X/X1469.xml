@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0133a02">No. 1469-A 華嚴懺法序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0133c02">No. 1469-B 華嚴經海印道場懺儀敘</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0134b02">No. 1469-C 華嚴海印道場懺儀題辭</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0135a06">前文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0135a20">1 第一會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0135c21">2 第二會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0136a16">3 第三會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0136b18">4 第四會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0136c18">5 第五會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0137a19">6 第六會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0137b18">7 第七會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0137c24">8 第八會</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0138a15">9 第九會</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1469_001.xml#p0135a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

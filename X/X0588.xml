@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0447a02">No. 588-A 玄籤備撿序</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0447b03">緣起序</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0448c15">釋籤卷第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0453a10">釋籤卷第二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0455b04">釋籤卷第三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0460b03">釋籤卷第四</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_002.xml#p0472c23">釋籤卷第五</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_003.xml#p0479c13">釋籤卷第六</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_003.xml#p0483b04">釋籤卷第七</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_003.xml#p0487b16">釋籤卷第八</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_004.xml#p0494c22">釋籤卷第九</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_004.xml#p0500a04">釋籤卷第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X28/X28n0588_001.xml#p0447b02">第一</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_002.xml#p0463b21">第二</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_003.xml#p0478a18">第三</cblink></li>
+	<li><cblink href="XML/X/X28/X28n0588_004.xml#p0494c19">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

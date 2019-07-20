@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0263a12">1 序王</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0263a23">2 釋名</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0263c26">3 辨宗體</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0264a14">4 論因果</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0267a03">5 明出世時節久近</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0267b20">6 辨成道</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0267c14">7 明三會度多少不同</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0268a19">8 辨彌勒與釋迦同時涅槃不同滅度</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0269a01">9 簡教大小乘</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0269a29">10 明雜料簡</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1771_001.xml#p0263a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0001a03">(古今圖書集成)釋教部彚考目次</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0001b17">周</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0002b14">秦</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0002b22">漢</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0002c09">後漢</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0003b22">魏</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0003c07">吳</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0003c24">晉</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0004a22">宋</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0005b07">齊</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0005c05">梁</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0007a24">陳</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0007b24">北魏</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_002.xml#p0015a13">北齊</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_002.xml#p0015c03">隋</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_002.xml#p0015c18">唐</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0023a10">後梁</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0023a22">後唐</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0023b12">後晉</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0023c02">後周</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0024a03">遼</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0025a11">宋一</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_004.xml#p0032b06">宋二</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_004.xml#p0040a14">金</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_005.xml#p0040b23">元</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_006.xml#p0053b21">明</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060a13">皇清</cblink>
+	<ol>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060a14">天聰七年</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060a19">崇德五年</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060a22">順治四年</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060b01">順治十一年</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060b04">順治十八年</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060b10">康熙六年</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_006.xml#p0060b14">康熙二十三年</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X77/X77n1521_007.xml#p0060c06">佛國記</cblink>
+	<ol>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0060c07">鄯善國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0060c11"> 𠌥夷國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0060c14">于闐國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061a10">子合國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061a12">竭叉國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061a24">陀歷國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061b02">烏萇國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061b06">弗樓沙國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061b18">那竭國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061c09">羅夷國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061c11"> 䟦那國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061c13">毗茶國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0061c17">摩頭羅國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0062a24">拘薩羅國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0062b09">摩竭提國</cblink></li>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0062c13">師子國</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X77/X77n1521_007.xml#p0063b13">續博物志</cblink>
+	<ol>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0063b14">釋氏之源</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X77/X77n1521_007.xml#p0063b22">野客叢談</cblink>
+	<ol>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0063b23">佛入中國</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X77/X77n1521_007.xml#p0063c13">墨池浪語</cblink>
+	<ol>
+		<li><cblink href="XML/X/X77/X77n1521_007.xml#p0063c14">佛法入中國</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X77/X77n1521_001.xml#p0001b15">第一</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_002.xml#p0015a11">第二</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_003.xml#p0023a08">第三</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_004.xml#p0032b04">第四</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_005.xml#p0040b21">第五</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_006.xml#p0053b19">第六</cblink></li>
+	<li><cblink href="XML/X/X77/X77n1521_007.xml#p0060c04">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

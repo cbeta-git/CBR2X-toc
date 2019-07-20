@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X30/X30n0601_001.xml#p0253a03">法華經弘傳序科文</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0601_001.xml#p0254a01">妙法蓮華經解科文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0254a03">第一卷</cblink></li>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0257a34">第二卷</cblink></li>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0259a61">第三卷</cblink></li>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0261a59">第四卷</cblink></li>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0265a11">第五卷</cblink></li>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0268a54">第六卷</cblink></li>
+		<li><cblink href="XML/X/X30/X30n0601_001.xml#p0272a55">第七卷</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X30/X30n0601_001.xml#p0253a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

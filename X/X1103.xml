@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0614a06">前文</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0614c04">僧伽棃</cblink>
+	<ol>
+		<li><cblink href="XML/X/X59/X59n1103_001.xml#p0614c05">受衣法</cblink></li>
+		<li><cblink href="XML/X/X59/X59n1103_001.xml#p0614c08">捨衣法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0616a05"> 鬱多羅僧</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0616c01">安陀會</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617a06">初示衣財色量</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617a11">二長短條表法</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617a14">三刺一邊縵縫</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617a20">四押葉鳥足縫</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617b09">五條葉靡左右</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617b18">六助力貼四角</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617b21">七四周當安緣</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617b24">八節角刺卍字</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617c08">九明破緣三縫</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0617c17">十重作縵刺縫</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0618b23">十一前後綴鈎紐</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0619a05">十二肩上垢膩</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0619a08">十三辨揲鈎紐處</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0619a18">十四會摘解文</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0619b07">十五畫圖憑肘量</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1103_001.xml#p0614a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

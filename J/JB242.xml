@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0679a04">上堂</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0679c02">小參</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0679c29">茶話</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0680a17">示眾</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0680a27">機緣</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0680c27">答問</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681a28">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681a29">無題</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681b25">頌聚雲老人陞座</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681b28">吹萬大師命讚</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c01">為吹萬大師對靈</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c04">李解元看師錄卷卻請題</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c07">一護法請題蜘蛛</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c11">頌萬法歸一</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c13">一歸何處</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c16">青州布衫</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c19">題拐李</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c22">眾指火請題</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c25">僧舉秤請題</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0681c28">忠路司尊同師曬日請題</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682a01">園中菊開請題</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682a04">請題雞冠花</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682a07">四季景</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682a20">住山歌</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682a25">解脫歌</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682b01">臨冬詠</cblink></li>
+		<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682b05">詠水牯牛</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0682b21">行狀</cblink></li>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0683a01">巴掌歌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J29/J29nB242_001.xml#p0679a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

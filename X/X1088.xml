@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1088_001.xml#p0365b09">序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1088_001.xml#p0365c01">問答</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1088_001.xml#p0368c05">No. 1088-A 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1088_001.xml#p0365b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

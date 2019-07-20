@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1616_001.xml#p0113b05">No. 1616-A 山菴雜錄序</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1616_001.xml#p0113c05">No. 1616-B</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1616_001.xml#p0114a15">No. 1616-C</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1616_002.xml#p0134b21">No. 1616-D 題山庵雜錄後</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1616_002.xml#p0134c06">No. 1616-E</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1616_002.xml#p0135a02">No. 1616-F</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1616_001.xml#p0114c06">第一</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1616_002.xml#p0124b19">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

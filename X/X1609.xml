@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0652a05">No. 1609-A 刻普陀列祖錄題辭</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0652b09">宋 真歇清了禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0653a02">自得慧暉禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0653b07">閑雲德韶禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0653b11">大川普濟禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0653b21">夢窗嗣清禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0654a05">元 孚中懷信禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0654c17">古鼎祖銘禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0655b16">大千慧照禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0656a24">玠禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0656b07">明 大基行丕禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0656b11">祖芳道聯禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0656b23">國朝 潮音旭禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0657b01">古心怘禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0657c06">天嶽晝禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0657c15">延喜瑢禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0658a02">慰弘盛禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0658a13">寓谷志禪師</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0658b05">通玄機禪師</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1609_001.xml#p0652b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0402_001.xml#p0536c03">序</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_001.xml#p0537a07">1 降魔品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_002.xml#p0541b05">2 本事品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_003.xml#p0546c05">3 魔王歸伏品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_004.xml#p0552b17">4 大集品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_005.xml#p0558a05">5 相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_006.xml#p0562c17">6 陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_007.xml#p0570b15">7 攝受妙法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_007.xml#p0571a22">8 授記品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_008.xml#p0573c15">9 慈愍品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_008.xml#p0574b28">10 擁護品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_009.xml#p0576c27">11 護正法品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_010.xml#p0579c25">12 阿吒薄俱品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_010.xml#p0581c02">13 諸佛還國品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0402_001.xml#p0537a04">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_002.xml#p0541b02">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_003.xml#p0546c02">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_004.xml#p0551c06">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_005.xml#p0558a02">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_006.xml#p0562c14">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_007.xml#p0568c23">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_008.xml#p0572b07">第八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_009.xml#p0575c02">第九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0402_010.xml#p0579c22">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

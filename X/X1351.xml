@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1351_001.xml#p0294b09">上堂</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1351_001.xml#p0295a19">贊</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1351_001.xml#p0295a20">楊岐和尚</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1351_001.xml#p0295a23">衡州茶陵受業和尚</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1351_001.xml#p0295b06">題雲葢會和尚遺塔</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X69/X69n1351_002.xml#p0295b16">頌古</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1351_001.xml#p0294b07">第一</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1351_002.xml#p0295b14">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1292_001.xml#p0448c05">No. 1292-A 蘇州靈巖妙空佛海和尚註證道歌序</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1292_001.xml#p0449a10">No. 1292-B 靈巖妙空和尚註證道歌</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1292_001.xml#p0449b02">證道歌註</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1292_001.xml#p0455b11">No. 1292-C 後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1292_001.xml#p0449b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0239a01">一偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0243a03">二偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0247a03">三偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0251a03">四偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0252a03">五偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0259a03">六偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0264a03">七偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0267a03">八偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0269a03">九偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0271a03">十一偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0273a03">十二偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0275a03">十六偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0277a03">二十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0289a03">三十偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0293a03">四十四偈集</cblink></li>
+	<li><cblink href="XML/N/N28/N28n0016_001.xml#p0298a03">大集</cblink></li>
+</ol>
+</nav>
+</body></html>

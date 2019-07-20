@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/F/F28/F28n1072_001.xml#p0251a01">序</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_001.xml#p0252b23">佛名</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_004.xml#p0293a03">過去莊嚴劫一千佛</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_004.xml#p0299b03">現在賢劫一千佛</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_005.xml#p0306a03">未來星宿劫一千佛</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_016.xml#p0426a03">菩薩名第一</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_017.xml#p0436a03">菩薩名第二</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_018.xml#p0445a03">菩薩名第三</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_019.xml#p0454a03">菩薩名第四</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_020.xml#p0463a03">菩薩名第五</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_021.xml#p0473a03">新集佛名</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_021.xml#p0476a04">菩薩名第六</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/F/F28/F28n1072_001.xml#p0252b21">第一</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_002.xml#p0265a01">第二</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_003.xml#p0277a01">第三</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_004.xml#p0293a01">第四</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_005.xml#p0306a01">第五</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_006.xml#p0321a01">第六</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_007.xml#p0332a01">第七</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_008.xml#p0344a01">第八</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_009.xml#p0355a01">第九</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_010.xml#p0366a01">第十</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_011.xml#p0378a01">第十一</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_012.xml#p0390a01">第十二</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_013.xml#p0400a01">第十三</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_014.xml#p0408a01">第十四</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_015.xml#p0417a01">第十五</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_016.xml#p0426a01">第十六</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_017.xml#p0436a01">第十七</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_018.xml#p0445a01">第十八</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_019.xml#p0454a01">第十九</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_020.xml#p0463a01">第二十</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_021.xml#p0473a01">第二十一</cblink></li>
+	<li><cblink href="XML/F/F28/F28n1072_022.xml#p0478a01">第二十二</cblink></li>
+</ol>
+</nav>
+</body></html>

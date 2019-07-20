@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1963_001.xml#p0083b03">淨土論序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_001.xml#p0084a05">1 定士體性</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_001.xml#p0086b20">2 定往生人</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_001.xml#p0088b24">3 定往生因</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_002.xml#p0090a27">4 出道理</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_002.xml#p0091c19">5 引聖教為證</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_003.xml#p0097a18">6 引現得往生人相貌</cblink>
+	<ol>
+		<li><cblink href="XML/T/T47/T47n1963_003.xml#p0097a27">比丘僧得往生者六人</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1963_003.xml#p0098c01">比丘尼得往生者四人</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1963_003.xml#p0098c27">優婆塞得往生者五人</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1963_003.xml#p0099b26">優婆夷得往生者五人</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T47/T47n1963_003.xml#p0100a19">7 將西方兜率相對挍量優劣</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_003.xml#p0100c08">8 明教興時節</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_003.xml#p0101a21">9 教人欣厭勸進其心</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1963_001.xml#p0083c13">上</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_002.xml#p0090a24">中</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1963_003.xml#p0097a15">下</cblink></li>
+</ol>
+</nav>
+</body></html>

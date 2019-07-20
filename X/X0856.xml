@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0856_001.xml#p0906c05">No. 856-A 因明入正理論解題辭</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0856_001.xml#p0907a01">No. 856-B 因明入正理論科</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0856_001.xml#p0909a02">因明入正理論解</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0856_001.xml#p0917b09">No. 856-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0856_001.xml#p0909a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

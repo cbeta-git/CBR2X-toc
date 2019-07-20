@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2109_001.xml#p0474c16">襄陽法琳法師集序</cblink>
+	<ol>
+		<li><cblink href="XML/T/T52/T52n2109_001.xml#p0475a28">上殿下破邪論啟</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2109_001.xml#p0475c01">大史令朝散大夫臣傅奕上減省寺塔廢僧尼事十有一條</cblink></li>
+		<li><cblink href="XML/T/T52/T52n2109_001.xml#p0476b06">上秦王啟</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T52/T52n2109_001.xml#p0477b08">破邪論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2109_001.xml#p0474c13">第一</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2109_002.xml#p0483a16">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

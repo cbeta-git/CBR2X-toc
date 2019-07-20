@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0279_001.xml#p0001a03">大周新譯序</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_001.xml#p0001b25">1 世主妙嚴品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_001.xml#p0001b25">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_002.xml#p0005b23">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_003.xml#p0010c05">之三</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_004.xml#p0015c27">之四</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_005.xml#p0021c05">之五</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_006.xml#p0026a19">2 如來現相品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_007.xml#p0032c25">3 普賢三昧品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_007.xml#p0034b09">4 世界成就品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_008.xml#p0039a15">5 華藏世界品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_008.xml#p0039a15">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_009.xml#p0044a08">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_010.xml#p0048c23">之三</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_011.xml#p0053c20">6 毘盧遮那品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_012.xml#p0057c22">7 如來名號品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_012.xml#p0060a13">8 四聖諦品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_013.xml#p0062b15">9 光明覺品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_013.xml#p0066a26">10 菩薩問明品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_014.xml#p0069b19">11 淨行品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_014.xml#p0072a22">12 賢首品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_014.xml#p0072a22">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_015.xml#p0075b23">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_016.xml#p0080c07">13 昇須彌山頂品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_016.xml#p0081a22">14 須彌頂上偈讚品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_016.xml#p0083c29">15 十住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_017.xml#p0088b05">16 梵行品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_017.xml#p0089a04">17 初發心功德品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_018.xml#p0095a21">18 明法品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_019.xml#p0099a19">19 昇夜摩天宮品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_019.xml#p0099c13">20 夜摩宮中偈讚品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_019.xml#p0102b24">21 十行品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_019.xml#p0102b24">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_020.xml#p0105c15">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_021.xml#p0111a27">22 十無盡藏品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_022.xml#p0115a12">23 昇兜率天宮品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_023.xml#p0121a12">24 兜率宮中偈讚品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_023.xml#p0124a24">25 十迴向品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_023.xml#p0124a24">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_024.xml#p0127b17">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_025.xml#p0133a05">之三</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_026.xml#p0139a05">之四</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_027.xml#p0144b05">之五</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_028.xml#p0150a19">之六</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_029.xml#p0156c27">之七</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_030.xml#p0160c24">之八</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_031.xml#p0165b05">之九</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_032.xml#p0171a05">之十</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_033.xml#p0174c05">之十一</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_034.xml#p0178b28">26 十地品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_034.xml#p0178b28">之一</cblink>
+		<ol>
+			<li><cblink href="XML/T/T10/T10n0279_034.xml#p0181a10">第一地</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T10/T10n0279_035.xml#p0185a05">之二</cblink>
+		<ol>
+			<li><cblink href="XML/T/T10/T10n0279_035.xml#p0185a05">第二地</cblink></li>
+			<li><cblink href="XML/T/T10/T10n0279_035.xml#p0187a29">第三地</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T10/T10n0279_036.xml#p0189b20">之三</cblink>
+		<ol>
+			<li><cblink href="XML/T/T10/T10n0279_036.xml#p0189b20">第四地</cblink></li>
+			<li><cblink href="XML/T/T10/T10n0279_036.xml#p0191a20">第五地</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T10/T10n0279_037.xml#p0193b17">之四</cblink>
+		<ol>
+			<li><cblink href="XML/T/T10/T10n0279_037.xml#p0193b17">第六地</cblink></li>
+			<li><cblink href="XML/T/T10/T10n0279_037.xml#p0195c22">第七地</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T10/T10n0279_038.xml#p0198c05">之五</cblink>
+		<ol>
+			<li><cblink href="XML/T/T10/T10n0279_038.xml#p0198c05">第八地</cblink></li>
+			<li><cblink href="XML/T/T10/T10n0279_038.xml#p0201c14">第九地</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T10/T10n0279_039.xml#p0204c19">之六</cblink>
+		<ol>
+			<li><cblink href="XML/T/T10/T10n0279_039.xml#p0204c19">第十地</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_040.xml#p0211a05">27 十定品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_040.xml#p0211a05">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_041.xml#p0215a05">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_042.xml#p0218c26">之三</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_043.xml#p0223c05">之四</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_044.xml#p0229c16">28 十通品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_044.xml#p0232b05">29 十忍品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_045.xml#p0237b07">30 阿僧祇品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_045.xml#p0241a16">31 壽量品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_045.xml#p0241b06">32 諸菩薩住處品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_046.xml#p0242a05">33 佛不思議法品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_046.xml#p0242a05">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_047.xml#p0246b14">之二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_048.xml#p0251b24">34 如來十身相海品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_048.xml#p0255c11">35 如來隨好光明功德品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_049.xml#p0257c09">36 普賢行品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_050.xml#p0262a15">37 如來出現品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_050.xml#p0262a15">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_051.xml#p0268a23">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_052.xml#p0273c05">之三</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_053.xml#p0279a05">38 離世間品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_053.xml#p0279a05">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_054.xml#p0284a05">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_055.xml#p0288c22">之三</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_056.xml#p0293c10">之四</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_057.xml#p0299b11">之五</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_058.xml#p0304c21">之六</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_059.xml#p0310c26">之七</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T10/T10n0279_060.xml#p0319a05">39 入法界品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T10/T10n0279_060.xml#p0319a05">之一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_061.xml#p0326c21">之二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_062.xml#p0331c27">之三</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_063.xml#p0337b22">之四</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_064.xml#p0343a08">之五</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_065.xml#p0348a25">之六</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_066.xml#p0353c05">之七</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_067.xml#p0360a05">之八</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_068.xml#p0365a27">之九</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_069.xml#p0372a09">之十</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_070.xml#p0378a24">之十一</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_071.xml#p0384a18">之十二</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_072.xml#p0391a05">之十三</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_073.xml#p0396b12">之十四</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_074.xml#p0401c15">之十五</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_075.xml#p0405c05">之十六</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_076.xml#p0413c08">之十七</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_077.xml#p0419c13">之十八</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_078.xml#p0428b05">之十九</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_079.xml#p0434c28">之二十</cblink></li>
+		<li><cblink href="XML/T/T10/T10n0279_080.xml#p0439b05">之二十一</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0279_001.xml#p0001b22">第一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_002.xml#p0005b20">第二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_003.xml#p0010c02">第三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_004.xml#p0015c24">第四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_005.xml#p0021c02">第五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_006.xml#p0026a16">第六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_007.xml#p0032c22">第七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_008.xml#p0039a12">第八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_009.xml#p0044a05">第九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_010.xml#p0048c20">第十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_011.xml#p0053c17">第十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_012.xml#p0057c19">第十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_013.xml#p0062b12">第十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_014.xml#p0069b16">第十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_015.xml#p0075b20">第十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_016.xml#p0080c04">第十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_017.xml#p0088b02">第十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_018.xml#p0095a18">第十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_019.xml#p0099a16">第十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_020.xml#p0105c15">第二十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_021.xml#p0111a24">第二十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_022.xml#p0115a09">第二十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_023.xml#p0121a09">第二十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_024.xml#p0127b14">第二十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_025.xml#p0133a02">第二十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_026.xml#p0139a02">第二十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_027.xml#p0144b02">第二十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_028.xml#p0150a16">第二十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_029.xml#p0156c24">第二十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_030.xml#p0160c21">第三十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_031.xml#p0165b02">第三十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_032.xml#p0171a02">第三十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_033.xml#p0174c02">第三十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_034.xml#p0178b25">第三十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_035.xml#p0185a02">第三十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_036.xml#p0189b17">第三十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_036.xml#p0189b17">第三十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_037.xml#p0193b14">第三十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_038.xml#p0198c02">第三十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_039.xml#p0204c16">第三十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_040.xml#p0211a02">第四十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_041.xml#p0215a02">第四十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_042.xml#p0218c23">第四十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_043.xml#p0223c02">第四十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_044.xml#p0229c13">第四十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_045.xml#p0237b04">第四十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_046.xml#p0242a02">第四十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_047.xml#p0246b14">第四十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_048.xml#p0251b21">第四十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_049.xml#p0257c06">第四十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_050.xml#p0262a12">第五十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_051.xml#p0268a20">第五十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_052.xml#p0273c02">第五十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_053.xml#p0279a02">第五十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_054.xml#p0284a02">第五十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_055.xml#p0288c19">第五十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_056.xml#p0293c07">第五十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_057.xml#p0299b08">第五十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_058.xml#p0304c18">第五十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_059.xml#p0310c23">第五十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_060.xml#p0319a02">第六十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_061.xml#p0326c18">第六十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_062.xml#p0331c24">第六十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_063.xml#p0337b19">第六十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_064.xml#p0343a05">第六十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_065.xml#p0348a22">第六十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_066.xml#p0353c02">第六十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_067.xml#p0360a02">第六十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_068.xml#p0365a24">第六十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_069.xml#p0372a06">第六十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_070.xml#p0378a21">第七十</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_071.xml#p0384a15">第七十一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_072.xml#p0391a02">第七十二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_073.xml#p0396b09">第七十三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_074.xml#p0401c12">第七十四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_075.xml#p0405c02">第七十五</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_076.xml#p0413c05">第七十六</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_077.xml#p0419c10">第七十七</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_078.xml#p0428b02">第七十八</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_079.xml#p0434c25">第七十九</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0279_080.xml#p0439b02">第八十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0174_001.xml#p0341a05">延久四年</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0174_001.xml#p0341a05">三月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_001.xml#p0342a16">四月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_001.xml#p0344b18">五月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_001.xml#p0349c08">六月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_002.xml#p0350c04">六月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_002.xml#p0354a16">七月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_002.xml#p0355c02">閏七月</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0174_003.xml#p0358b04">熙寧五年</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0174_003.xml#p0358b04">八月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_003.xml#p0361b24">九月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_003.xml#p0366c02">十月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_004.xml#p0368a04">十月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_005.xml#p0376b03">十一月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_005.xml#p0381b15">十二月</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0174_006.xml#p0388a04">熙寧六年</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0174_006.xml#p0388a04">正月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_006.xml#p0393c24">二月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_007.xml#p0397c04">三月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_008.xml#p0406c03">四月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_008.xml#p0411a13">五月</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0174_008.xml#p0413b16">六月</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0174_008.xml#p0414a11">校本</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0174_001.xml#p0341a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_002.xml#p0350c02">第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_003.xml#p0358b02">第三</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_004.xml#p0368a02">第四</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_005.xml#p0376b02">第五</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_006.xml#p0388a02">第六</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_007.xml#p0397c02">第七</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0174_008.xml#p0406c02">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

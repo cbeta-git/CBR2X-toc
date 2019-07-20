@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0248_001.xml#p0821b05">No. 248-A 大方廣圓覺經略鈔序</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_001.xml#p0821c01">大方廣圓覺經略鈔</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_012.xml#p0959a03">No. 248-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X09/X09n0248_001.xml#p0821c03">第一</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_002.xml#p0830c09">第二</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_003.xml#p0843a01">第三</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_004.xml#p0853c01">第四</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_005.xml#p0864c04">第五</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_006.xml#p0876b13">第六</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_007.xml#p0889b01">第七</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_008.xml#p0898c05">第八</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_009.xml#p0911a07">第九</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_010.xml#p0924b08">第十</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_011.xml#p0935b11">第十一</cblink></li>
+	<li><cblink href="XML/X/X09/X09n0248_012.xml#p0947b14">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0360a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0360a18">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0360a19">禮請</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0361a13">蓮花捧足降臨來</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0361a15">散花供養</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0361a25">守護結請本尊儀當演</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0362a12">加持咒水</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0362a23">五智花敷</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0363a09">廣施無遮</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0364a03">密宗究竟</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0364a15">虛凝妙剎</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0365a13">瀝水供養</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0366a02">界趣聖神</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0368a01">召資下凡鬼趣</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0369a01">發心勤力</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0369a19">賑濟法食</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0370a20">普伸懺悔</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0371a09">均食普周</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0054_001.xml#p0371a13">回施禮別聖賢</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

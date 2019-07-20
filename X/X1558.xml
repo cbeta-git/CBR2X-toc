@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X79/X79n1558_001.xml#p0269a02">No. 1558-A 雷庵受禪師行業</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1558_001.xml#p0269b17">No. 1558-B 進聖宋嘉泰普燈錄上皇帝書</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1558_001.xml#p0270c04">嘉泰普燈錄總目</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X79/X79n1558_001.xml#p0270c18">第一</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1558_002.xml#p0278c14">第二</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1558_003.xml#p0284c04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

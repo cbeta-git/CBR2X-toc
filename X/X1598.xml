@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0049a02">No. 1598-A 曹谿大師別傳敘</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0051c08">韶州曹溪山釋迦惠能辭疾表</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0053a24">辭歸表</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0053b12">孝感皇帝批僧惠象表</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0053c04">六祖大師在日及滅度後六種靈瑞傳</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0053c18">No. 1598-B 書曹溪大師別傳後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1598_001.xml#p0049b08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0286_001.xml#p0383a03">No. 286 通釋名題</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_001.xml#p0383b05">No. 286-A 楞嚴經敘</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_001.xml#p0384a17">No. 286-B 楞嚴經如說原序</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_001.xml#p0384c11">No. 286-C 如說新序</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_001.xml#p0385a17">楞嚴經如說</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_010.xml#p0496a13">No. 286-D 重刻楞嚴經如說䟦</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_010.xml#p0496b14">No. 286-E</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X13/X13n0286_001.xml#p0385a18">第一</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_002.xml#p0394b22">第二</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_003.xml#p0406b12">第三</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_004.xml#p0416b04">第四</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_005.xml#p0428c07">第五</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_006.xml#p0438b19">第六</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_007.xml#p0450a13">第七</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_008.xml#p0460c07">第八</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_009.xml#p0474b07">第九</cblink></li>
+	<li><cblink href="XML/X/X13/X13n0286_010.xml#p0486a07">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

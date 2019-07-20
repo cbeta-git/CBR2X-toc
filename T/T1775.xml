@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1775_001.xml#p0327a14">序</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_001.xml#p0328a10">1 佛國品(一)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_002.xml#p0338c13">2 方便品(二)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_002.xml#p0343c13">3 弟子品(二-三)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1775_002.xml#p0343c13">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1775_003.xml#p0349b26">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1775_004.xml#p0360b28">4 菩薩品(四)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_005.xml#p0370c15">5 文殊師利問疾品(五)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_006.xml#p0381a28">6 不思議品(六)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_006.xml#p0383b21">7 觀眾生品(六)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_007.xml#p0390b19">8 佛道品(七)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_008.xml#p0396b22">9 入不二法門品(八)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_008.xml#p0399c14">10 香積佛品(八)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_009.xml#p0403a08">11 菩薩行品(九)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_009.xml#p0409c18">12 見阿閦佛品(九)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_010.xml#p0413c24">13 法供養品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_010.xml#p0418a12">14 囑累品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_010.xml#p0419c09">新彫維摩經後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1775_001.xml#p0327a11">第一</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_002.xml#p0338c10">第二</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_003.xml#p0349b26">第三</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_004.xml#p0360b25">第四</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_005.xml#p0370c12">第五</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_006.xml#p0381a25">第六</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_007.xml#p0390b16">第七</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_008.xml#p0396b19">第八</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_009.xml#p0403a05">第九</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1775_010.xml#p0413c21">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

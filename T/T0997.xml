@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0997_001.xml#p0525a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_001.xml#p0526b28">2 陀羅尼品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T19/T19n0997_001.xml#p0526b28">1</cblink></li>
+		<li><cblink href="XML/T/T19/T19n0997_002.xml#p0530a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T19/T19n0997_003.xml#p0536c28">3 大悲胎藏出生品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_004.xml#p0539a22">4 入如來大悲不思議品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_005.xml#p0543a22">5 入如來不思議甚深事業品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T19/T19n0997_005.xml#p0543a22">1</cblink></li>
+		<li><cblink href="XML/T/T19/T19n0997_006.xml#p0549b02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T19/T19n0997_007.xml#p0556c06">6 菩薩瓔珞莊嚴品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_008.xml#p0560c03">7 大光普照莊嚴品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_008.xml#p0562a26">8 般若根本事業莊嚴品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_009.xml#p0565b28">9 陀羅尼功德軌儀品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_010.xml#p0571c16">10 阿闍世王受記品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_010.xml#p0574c25">11 如來囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n0997_001.xml#p0525a03">第一</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_002.xml#p0530a02">第二</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_003.xml#p0534c02">第三</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_004.xml#p0539a19">第四</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_005.xml#p0543a19">第五</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_006.xml#p0549b02">第六</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_007.xml#p0554a10">第七</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_008.xml#p0559a25">第八</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_009.xml#p0565b25">第九</cblink></li>
+	<li><cblink href="XML/T/T19/T19n0997_010.xml#p0571c13">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

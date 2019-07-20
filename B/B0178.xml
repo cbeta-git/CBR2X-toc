@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0501a05">華嚴宗未決文義</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0501b04">法相大乘諸經論章疏中未決義</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0502b02">無相大乘宗欲求經論章疏并未決義</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0503a14">成實論未決義</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0503b06">俱舍宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0503b17">後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0178_001.xml#p0501a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

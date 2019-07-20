@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB363_001.xml#p0779a01">序</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_001.xml#p0780a01">目次</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_001.xml#p0780b03">住信陽州法幢山雙林禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_002.xml#p0784a03">住鄧州丹霞山僊霞禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_003.xml#p0787c03">再住信陽法幢山雙林禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_004.xml#p0791a03">住汝州伏牛山雲巖禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_004.xml#p0792c01">機緣</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_005.xml#p0794a03">頌古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_005.xml#p0797b21">行實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB363_001.xml#p0780b01">第一</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_002.xml#p0784a01">第二</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_003.xml#p0787c01">第三</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_004.xml#p0791a01">第四</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB363_005.xml#p0794a01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0896_001.xml#p0746b29">1 得勝師助伴速獲悉地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_001.xml#p0747b19">2 選求勝處分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_001.xml#p0748b22">3 分別數珠持心離障分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_001.xml#p0749a27">4 說金剛杵頻那夜迦分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_002.xml#p0751a03">5 分別悉地相分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_002.xml#p0752c04">6 知近悉地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_002.xml#p0753c04">7 說成就分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_003.xml#p0754b13">8 召請缽天說事分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_003.xml#p0755b12">9 說諸遮難分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_003.xml#p0756a19">10 說勝道分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_004.xml#p0757c23">11 分別諸部分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_004.xml#p0758c03">12 說八法分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0896_001.xml#p0746b25">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_002.xml#p0750a11">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_003.xml#p0754b09">第三</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0896_004.xml#p0757c19">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

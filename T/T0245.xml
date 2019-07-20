@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0245_001.xml#p0825a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_001.xml#p0825c12">2 觀空品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_001.xml#p0826b20">3 菩薩教化品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_001.xml#p0829a03">4 二諦品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_002.xml#p0829c28">5 護國品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_002.xml#p0830c12">6 散華品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_002.xml#p0831a17">7 受持品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_002.xml#p0833b12">8 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0245_001.xml#p0825a03">第一</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0245_002.xml#p0829c25">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB365_001.xml#p0813a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB365_001.xml#p0813a01">錢廣居敘</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_001.xml#p0813c01">王掞序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB365_001.xml#p0814c03">住姑蘇太倉州香林禪院</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0819b03">住嘉興平湖縣曹溪禪院</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0820c01">頌古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0821b21">佛事</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0821c05">機緣</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a01">贊</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a02">初祖達磨</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a05">天童林野老和上</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a08">開山佛古聞和上</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a11">受業念宗實和上</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a14">自贊</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a21">詩偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a22">重陽前三日喜異公王先生過訪</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a26">曹溪雨中除夕</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822a30">秋夜泊三河</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b03">由黃龍宿金竹坪</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b06">秋日登湖亭</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b09">虹橋晚眺</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b12">珠江懷素思佘先生</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b15">潮陽度夏懷素園陳居士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b18">宿憨大師塔院</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b23">寄懷石室月川和上</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b26">送味山龍梅和上還新安葬親</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822b29">錢大可觀察護念諸山惟余為甚偈以謝之</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c02">贈獅林俍菴和上</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c05">贈雲關印公西堂</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c08">同里瑞宇陳君偕弟振南興宇二居士深慕古道偈以贈之</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c12">贈潮音以公法姪</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c15">贈嶽生程居士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c18">與幻予書記</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c21">與雪菴金居士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c24">與雪堂程居士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c27">示即中維那</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0822c30">示圓仁書記</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0823a03">贈穆生黃居士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB365_002.xml#p0823a06">贈鵡湖法姪復園王居士</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB365_001.xml#p0814c01">第一</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB365_002.xml#p0819b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

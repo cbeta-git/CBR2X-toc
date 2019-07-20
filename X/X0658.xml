@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X36/X36n0658_001.xml#p0274a07">南本大般涅槃經會疏并單疏總目</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0658_001.xml#p0275b05">涅槃會疏條目</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0658_003.xml#p0314c06">涅槃後分條目</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X36/X36n0658_001.xml#p0275b07">第一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0658_002.xml#p0290a18">第二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0658_003.xml#p0307b04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

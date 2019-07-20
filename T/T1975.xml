@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0381b06">1 一真法界門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0382a14">2 身土緣起門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0382b07">3 心土相即門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0382b25">4 生佛不二門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0382c15">5 法界為念門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0382c27">6 境觀相吞門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0383a17">7 三觀法爾門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0383b11">8 感應任運門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0383c01">9 彼此恒一門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0383c20">10 現未互在門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1975_001.xml#p0381a21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

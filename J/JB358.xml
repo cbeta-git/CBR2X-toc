@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0611a01">目錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0611b03">上堂</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0612c03">佛事</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0613b20">讚</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0613c02">拈古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0614c07">頌古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0615c08">聯芳</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0615c09">天序能上人</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0615c12">機先瑩上人</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0615c15">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0615c15">次韻山居</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0615c22">山中四儀</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a01">牧牛頌</cblink>
+		<ol>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a02">尋牛</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a05">見跡</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a08">見牛</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a11">得牛</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a14">牧牛</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a17">騎牛到家</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a20">忘牛存人</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a23">人牛俱忘</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a26">返本還源</cblink></li>
+			<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616a29">入廛垂手</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616b02">十二時歌</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB358_001.xml#p0616b27">黃龍三關</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB358_001.xml#p0611b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

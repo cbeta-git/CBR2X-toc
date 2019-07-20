@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1135a23">補陀洛迦山傳題辭</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1135b27">1 自在功德品</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1136a26">2 洞宇封域品</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1136c13">3 應感祥瑞品</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1137c12">4 興建沿革品</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1138b17">5 附錄</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139a07">6 觀音大士讚</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139b18">7 名賢詩詠</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139b19">趙孟頫詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139b24">劉仁本詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139c04">盛熙明詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139c13">竺曇詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1139c22">蒲菴詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1140a03">全室詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2101_001.xml#p1140a11">了菴詩</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1140b10">蔣清翊識</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2101_001.xml#p1135b21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

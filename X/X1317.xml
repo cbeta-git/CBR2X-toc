@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X68/X68n1317_001.xml#p0344a06">目錄</cblink></li>
+	<li><cblink href="XML/X/X68/X68n1317_001.xml#p0344c13">續古尊宿錄目錄(濃州細目鄉臨滹山大仙寺所藏)</cblink></li>
+	<li><cblink href="XML/X/X68/X68n1317_001.xml#p0346c22">No. 1317-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X68/X68n1317_001.xml#p0344a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1286_001.xml#p0375b05">祖庭鉗鎚錄</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1286_002.xml#p0387b09">No. 1286-A (附)宗門雜錄四條</cblink>
+	<ol>
+		<li><cblink href="XML/X/X65/X65n1286_002.xml#p0387b12">拈花</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1286_002.xml#p0387b21">五問</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1286_002.xml#p0388b19">覺夢堂重較五家宗派序</cblink></li>
+		<li><cblink href="XML/X/X65/X65n1286_002.xml#p0389a03">一喝分五教</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1286_001.xml#p0375b06">第一</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1286_002.xml#p0381c10">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

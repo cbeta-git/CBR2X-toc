@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0092_001.xml#p0595a02">唐會要</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0092_001.xml#p0595a10">議釋教上</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_002.xml#p0602a03">議釋教下</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_002.xml#p0604a02">寺</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0615a03">像</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0617a06">僧道立位</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0617a10">僧尼所隸</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0618a09">雜錄</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0620a03">燃燈</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0620a14">病坊</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0621a11">僧籍</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0622a02">大秦寺</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_003.xml#p0622a07">摩尼寺</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_004.xml#p0623a03">尊崇道教</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0092_005.xml#p0628a03">五代會要</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0092_005.xml#p0628a04">寺</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_005.xml#p0630a02">燃燈</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_005.xml#p0630a07">雜錄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0092_006.xml#p0636a02">明書</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0092_006.xml#p0636a05">異教傳</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_006.xml#p0636a14">金碧峯月庭宗泐來復永隆哈立麻溥洽板的達姚廣孝李贄傳</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_006.xml#p0645a02">西蕃</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0092_007.xml#p0648a03">明會典</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0092_007.xml#p0648a04">僧道</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0092_008.xml#p0653a02">附錄：我國傳統史籍中佛教專篇史料之檢討</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0092_008.xml#p0653a07">一、正史</cblink>
+		<ol>
+			<li><cblink href="XML/B/B17/B17n0092_008.xml#p0654a09">一、魏書</cblink></li>
+			<li><cblink href="XML/B/B17/B17n0092_008.xml#p0655a15">二、其他正史中之佛教專傳</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B17/B17n0092_008.xml#p0663a05">二、其他重要史籍之檢討</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0092_008.xml#p0666a09">三、正統史學著述忽視佛教史實的原因</cblink>
+		<ol>
+			<li><cblink href="XML/B/B17/B17n0092_008.xml#p0667a12">一、儒家正統主義的影響</cblink></li>
+			<li><cblink href="XML/B/B17/B17n0092_008.xml#p0669a15">二、民族意識的影響</cblink></li>
+			<li><cblink href="XML/B/B17/B17n0092_008.xml#p0671a04">三、史料來源的問題</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B17/B17n0092_008.xml#p0671a14">四、結論</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0092_001.xml#p0595a01">第一</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_002.xml#p0602a01">第二</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_003.xml#p0615a01">第三</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_004.xml#p0623a01">第四</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_005.xml#p0628a01">第五</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_006.xml#p0636a01">第六</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_007.xml#p0648a01">第七</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0092_008.xml#p0653a01">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

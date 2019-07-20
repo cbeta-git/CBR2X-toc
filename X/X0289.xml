@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0289_001.xml#p0268a02">No. 289-A 楞伽楞嚴合轍小引</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_001.xml#p0268b06">No. 289-B 楞嚴合轍自序</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_001.xml#p0269b01">楞嚴經合轍</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X14/X14n0289_001.xml#p0269b03">第一</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_002.xml#p0288b10">第二</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_003.xml#p0309b05">第三</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_004.xml#p0324c06">第四</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_005.xml#p0345b10">第五</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_006.xml#p0357b18">第六</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_007.xml#p0372c07">第七</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_008.xml#p0385c13">第八</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_009.xml#p0414c04">第九</cblink></li>
+	<li><cblink href="XML/X/X14/X14n0289_010.xml#p0433b06">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

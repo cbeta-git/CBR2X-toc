@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0385a03">重刻西方合論序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0385c02">西方合論敘</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0388a24">西方合論引</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0388c03">西方合論標註跋</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0388c21">珂雪齋紀夢</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0389c27">1 剎土門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_002.xml#p0392b04">2 緣起門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_003.xml#p0395b07">3 部類門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_004.xml#p0398c14">4 教相門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_005.xml#p0401c10">5 理諦門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_006.xml#p0404b27">6 稱性門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_007.xml#p0406b11">7 往生門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_008.xml#p0408c04">8 見網門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_009.xml#p0414a12">9 修持門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_010.xml#p0417a19">10 釋異門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1976_001.xml#p0389c25">第一</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_002.xml#p0392b02">第二</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_003.xml#p0395b05">第三</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_004.xml#p0398c12">第四</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_005.xml#p0401c08">第五</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_006.xml#p0404b25">第六</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_007.xml#p0406b09">第七</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_008.xml#p0408c02">第八</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_009.xml#p0414a10">第九</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1976_010.xml#p0417a17">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

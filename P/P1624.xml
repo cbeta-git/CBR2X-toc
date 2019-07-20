@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/P/P187/P187n1624_001.xml#p0751a03">序分</cblink></li>
+	<li><cblink href="XML/P/P187/P187n1624_001.xml#p0754b19">正說分</cblink></li>
+	<li><cblink href="XML/P/P187/P187n1624_001.xml#p0763b29">流通分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/P/P187/P187n1624_001.xml#p0751a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

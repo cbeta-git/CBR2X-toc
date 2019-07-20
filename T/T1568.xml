@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0159a03">品目</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0159b02">序</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0159c02">1 觀因緣門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0160b16">2 觀有果無果門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0162b01">3 觀緣門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0162c01">4 觀相門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0163c14">5 觀有相無相門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0164a08">6 觀一異門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0164b24">7 觀有無門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0165a08">8 觀性門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0165b25">9 觀因果門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0165c07">10 觀作者門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0166c18">11 觀三時門</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0167a19">12 觀生門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1568_001.xml#p0159c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

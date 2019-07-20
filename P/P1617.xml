@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/P/P184/P184n1617_001.xml#p0553a01">弘傳序</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_001.xml#p0563b03">要解序</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_002.xml#p0571a03">序品第一</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_003.xml#p0603a03">方便品第二</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_004.xml#p0639a03">譬喻品第三</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_006.xml#p0693a03">信解品第四</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_007.xml#p0721a03">藥草喻品第五</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_007.xml#p0736a03">授記品第六</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_008.xml#p0747a03">化城喻品第七</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_010.xml#p0787a03">五百弟子授記品第八</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_010.xml#p0801b02">授學無學人記品第九</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_010.xml#p0809a08">法師品第十</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_011.xml#p0823a03">見寶塔品第十一</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_011.xml#p0838b02">提婆達多品第十二</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_011.xml#p0847b07">持品第十三</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_012.xml#p0855a03">安樂行品第十四</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_013.xml#p0001a03">從地涌出品第十五</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_013.xml#p0015a04">如來壽量品第十六</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_014.xml#p0027a03">分別功德品第十七</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_015.xml#p0041a03">隨喜功德品第十八</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_015.xml#p0047a04">法師功德品第十九</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_016.xml#p0065a03">常不輕菩薩品第二十</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_017.xml#p0075a03">如來神力品第二十一</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_017.xml#p0081a01">囑累品第二十二</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_017.xml#p0084b02">藥王菩薩本事品第二十三</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_018.xml#p0105a03">妙音菩薩品第二十四</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_018.xml#p0116b03">觀世音菩薩普門品第二十五</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_019.xml#p0133a03">陀羅尼品第二十六</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_019.xml#p0139b04">妙莊嚴王本事品第二十七</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_019.xml#p0149a04">普賢菩薩勸發品第二十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/P/P184/P184n1617_001.xml#p0565a06">第一</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_002.xml#p0571a01">第二</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_003.xml#p0603a01">第三</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_004.xml#p0639a01">第四</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_005.xml#p0667a01">第五</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_006.xml#p0693a01">第六</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_007.xml#p0721a01">第七</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_008.xml#p0747a01">第八</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_009.xml#p0771a01">第九</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_010.xml#p0787a01">第十</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_011.xml#p0823a01">第十一</cblink></li>
+	<li><cblink href="XML/P/P184/P184n1617_012.xml#p0855a01">第十二</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_013.xml#p0001a01">第十三</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_014.xml#p0027a01">第十四</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_015.xml#p0041a01">第十五</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_016.xml#p0065a01">第十六</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_017.xml#p0075a01">第十七</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_018.xml#p0105a01">第十八</cblink></li>
+	<li><cblink href="XML/P/P185/P185n1617_019.xml#p0133a01">第十九</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0137_001.xml#p0445a17">自序</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_001.xml#p0445b03">二支五宗來源考之一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_002.xml#p0448b28">二支五宗來源考之二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_003.xml#p0451a21">二支五宗來源考之三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_004.xml#p0455b03">二支五宗來源考之四</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_005.xml#p0458a03">洞宗世次備考之一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_006.xml#p0462a29">洞宗世次備考之二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_007.xml#p0465a25">洞宗世次備考之三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_008.xml#p0470a32">濟宗世次備考之一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_009.xml#p0477a24">濟宗世次備考之二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_010.xml#p0480b03">濟宗世次備考之三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_011.xml#p0485a22">濟宗世次備考之四</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_012.xml#p0489a03">濟宗世次備考之五</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_013.xml#p0492a03">濟宗世次備考之六</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_014.xml#p0497a29">濟宗世次備考之七</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0137_001.xml#p0445a01">第一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_002.xml#p0448b26">第二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_003.xml#p0451a19">第三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_004.xml#p0455b01">第四</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_005.xml#p0458a01">第五</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_006.xml#p0462a27">第六</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_007.xml#p0465a23">第七</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_008.xml#p0470a30">第八</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_009.xml#p0477a22">第九</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_010.xml#p0480b01">第十</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_011.xml#p0485a20">第十一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_012.xml#p0489a01">第十二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_013.xml#p0492a01">第十三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0137_014.xml#p0497a27">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>

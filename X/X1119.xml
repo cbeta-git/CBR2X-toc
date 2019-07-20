@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1119_001.xml#p0270a02">No. 1119-A 敘</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_001.xml#p0270b04">凡例</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_001.xml#p0271a06">卷上</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_001.xml#p0296c14">事義</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_002.xml#p0298c06">卷下</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_002.xml#p0332a02">No. 1119-B 䟦</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_002.xml#p0332b01">事義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1119_001.xml#p0271a03">第一</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1119_002.xml#p0298c03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

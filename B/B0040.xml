@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0040_001.xml#p0331a02">出版前言</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_001.xml#p0336a02">序</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_001.xml#p0340a02">前言</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_001.xml#p0341a01">禮贊</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_001.xml#p0342a02">現量品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_002.xml#p0363a02">自義比量品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_003.xml#p0387a02">他義比量品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_004.xml#p0415a02">觀喻似喻品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_005.xml#p0426a02">觀遣他品</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_006.xml#p0449a02">觀反斷品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0040_001.xml#p0331a01">第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_002.xml#p0363a01">第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_003.xml#p0387a01">第三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_004.xml#p0415a01">第四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_005.xml#p0426a01">第五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0040_006.xml#p0449a01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

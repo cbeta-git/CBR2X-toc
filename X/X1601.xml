@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1601_001.xml#p0318a09">No. 1601-A 序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_001.xml#p0319a08">No. 1601-B 禪燈世譜後序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_001.xml#p0320a18">三十三祖世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_001.xml#p0325a03">諸祖旁出法派系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_002.xml#p0335a03">南嶽法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_003.xml#p0351a03">南嶽第四世溈仰宗世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_003.xml#p0353a36">南嶽第五世臨濟宗世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_004.xml#p0366a35">南嶽下臨濟宗黃龍法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_005.xml#p0383a07">南嶽下臨濟宗楊岐法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_006.xml#p0401a03">南嶽下臨濟宗虎丘法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_007.xml#p0416a18">南嶽第七世雲門宗法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_007.xml#p0428a01">雪竇顯法派世系圖上</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_008.xml#p0438b09">南嶽下雲門宗雪竇顯法派世系圖下</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_008.xml#p0447a37">南嶽第九世法眼宗法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_008.xml#p0455a21">大鑑下第十世</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_009.xml#p0456a08">青原法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_009.xml#p0462a07">青原第五世曹洞宗法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_009.xml#p0472a11">青原下曹洞宗壽昌經法派世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_009.xml#p0472a20">青原下曹洞宗雲門澄法派世系圖</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1601_001.xml#p0320a13">第一</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_002.xml#p0335a01">第二</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_003.xml#p0351a01">第三</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_004.xml#p0366a33">第四</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_005.xml#p0383a05">第五</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_006.xml#p0401a01">第六</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_007.xml#p0416a16">第七</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_008.xml#p0438b07">第八</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1601_009.xml#p0456a06">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

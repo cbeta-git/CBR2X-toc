@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB445_001.xml#p0345b11">目錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_001.xml#p0346a03">五雲千夫性一禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_001.xml#p0347a02">西龍無言性養禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_001.xml#p0348a20">長慶大衍性豫禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_001.xml#p0349b04">廣積立雪照見禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_002.xml#p0350b03">紫垣性貴禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_002.xml#p0351a04">龍橋天湖性定禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_002.xml#p0351c11">雨花雲林性現禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_002.xml#p0352a06">寶積大笑性崇禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_002.xml#p0353b19">圓通又山性證禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0355a03">普陀別菴性統禪師</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0357a02">總戎袁寶善居士</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0357b20">刺史沈克齋居士</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0359b05">太守朱茂時居士</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0359b20">文學李青眉居士</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0359c15">文學張雙承居士</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB445_001.xml#p0346a01">第一</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_002.xml#p0350b01">第二</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB445_003.xml#p0355a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

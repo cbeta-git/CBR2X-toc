@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0666b09">目次</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0666b13">台州順感院輪藏記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0667a12">秀州普照院多寶塔記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0667b19">無量院彌陀像記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0668a05">台州慈德院重修大殿記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0668b06">越州龍泉彌陀閣記</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0668c06">明州經院三聖立像記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1106_001.xml#p0666b07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

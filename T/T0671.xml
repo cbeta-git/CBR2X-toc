@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0671_001.xml#p0514c06">1 請佛品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_001.xml#p0519a04">2 問答品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_002.xml#p0521c21">3 集一切佛法品(二-四)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T16/T16n0671_002.xml#p0521c21">1</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0671_003.xml#p0527b24">2</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0671_004.xml#p0534a18">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T16/T16n0671_005.xml#p0540b15">4 佛心品(五)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_006.xml#p0547a24">5 盧迦耶陀品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_006.xml#p0549a09">6 涅槃品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_006.xml#p0550a04">7 法身品(六)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0553b25">8 無常品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0554c05">9 入道品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0555c20">10 問如來常無常品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0556b15">11 佛性品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0557a25">12 五法門品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0558a29">13 恒河沙品(七)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_008.xml#p0559b10">14 剎那品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_008.xml#p0560b14">15 化品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_008.xml#p0561a20">16 遮食肉品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_008.xml#p0564c11">17 陀羅尼品(八)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_009.xml#p0565b08">18 總品(九-十)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T16/T16n0671_009.xml#p0565b08">1</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0671_010.xml#p0576a18">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0671_001.xml#p0514c03">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_002.xml#p0521c18">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_003.xml#p0527b24">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_004.xml#p0534a18">第四</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_005.xml#p0540b12">第五</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_006.xml#p0547a21">第六</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_007.xml#p0553b22">第七</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_008.xml#p0559b07">第八</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_009.xml#p0565b05">第九</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0671_010.xml#p0576a15">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

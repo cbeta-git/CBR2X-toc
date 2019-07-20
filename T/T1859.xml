@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1859_001.xml#p0165a07">宗本義</cblink>
+	<ol>
+		<li><cblink href="XML/T/T45/T45n1859_001.xml#p0166c14">物不遷論</cblink></li>
+		<li><cblink href="XML/T/T45/T45n1859_001.xml#p0170c01">不真空論</cblink></li>
+		<li><cblink href="XML/T/T45/T45n1859_002.xml#p0174c20">般若無知論</cblink>
+		<ol>
+			<li><cblink href="XML/T/T45/T45n1859_002.xml#p0181c13">隱士劉遺民書問</cblink></li>
+			<li><cblink href="XML/T/T45/T45n1859_002.xml#p0184a27">答劉隱士書</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T45/T45n1859_003.xml#p0189c23">涅槃無名論并表上秦主姚興</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1859_001.xml#p0161c03">上</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1859_002.xml#p0174c17">中</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1859_003.xml#p0189c20">下</cblink></li>
+</ol>
+</nav>
+</body></html>

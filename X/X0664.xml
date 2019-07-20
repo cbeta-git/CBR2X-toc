@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0628c02">No. 664-A 南本大般涅槃經會疏敘</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0629a06">南本大般涅槃經五分圖　品題總目</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0629c02">南本大般涅槃經會疏解</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0629c15">No. 664-B</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0630a05">No. 664-C</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0630b02">No. 664-D</cblink></li>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0630c02">No. 664-E</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X37/X37n0664_001.xml#p0629c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

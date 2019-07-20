@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0163a02">隨念三寶經</cblink>
+	<ol>
+		<li><cblink href="XML/B/B07/B07n0020_001.xml#p0163a07">隨念佛經</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0020_001.xml#p0164a02">隨念法經</cblink></li>
+		<li><cblink href="XML/B/B07/B07n0020_001.xml#p0164a07">隨念僧經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0165a01">序言</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0166a05">隨念佛經淺說</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0180a03">隨念法經淺說</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0184a13">隨念僧經淺說</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0188a05">後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0020_001.xml#p0163a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

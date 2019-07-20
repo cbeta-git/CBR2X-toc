@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N06/N06n0004_001.xml#p0001a02">一　梵網經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N06/N06n0004_001.xml#p0001a04">第一　誦品</cblink>
+		<ol>
+			<li><cblink href="XML/N/N06/N06n0004_001.xml#p0001a05">稱讚如來</cblink></li>
+			<li><cblink href="XML/N/N06/N06n0004_001.xml#p0003a13">小　戒</cblink></li>
+			<li><cblink href="XML/N/N06/N06n0004_001.xml#p0005a08">中　戒</cblink></li>
+			<li><cblink href="XML/N/N06/N06n0004_001.xml#p0008a08">大　戒</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/N/N06/N06n0004_001.xml#p0015a06">第二　誦品</cblink></li>
+		<li><cblink href="XML/N/N06/N06n0004_001.xml#p0032a09">第三　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N06/N06n0004_002.xml#p0054a03">二　沙門果經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_003.xml#p0099a03">三　阿摩晝經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N06/N06n0004_003.xml#p0099a04">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N06/N06n0004_003.xml#p0113a11">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N06/N06n0004_004.xml#p0126a03">四　種德經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_005.xml#p0143a03">五　究羅檀頭經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_006.xml#p0164a03">六　摩訶梨經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_007.xml#p0175a03">七　闍利經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_008.xml#p0176a03">八　迦葉師子吼經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_009.xml#p0195a03">九　布吒婆樓經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_010.xml#p0220a03">一〇　須婆經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N06/N06n0004_010.xml#p0220a04">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N06/N06n0004_010.xml#p0223a03">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N06/N06n0004_011.xml#p0227a03">一一　堅固經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_012.xml#p0239a03">一二　露遮經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_013.xml#p0250a03">一三　三明經</cblink></li>
+	<li><cblink href="XML/N/N06/N06n0004_014.xml#p0272a03">一四　大本經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N06/N06n0004_014.xml#p0272a04">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N06/N06n0004_014.xml#p0291a06">第二　誦品</cblink></li>
+		<li><cblink href="XML/N/N06/N06n0004_014.xml#p0306a05">第三　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N07/N07n0004_015.xml#p0001a03">一五　大緣經</cblink></li>
+	<li><cblink href="XML/N/N07/N07n0004_016.xml#p0021a03">一六　大般涅槃經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N07/N07n0004_016.xml#p0021a04">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_016.xml#p0042a01">第二　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_016.xml#p0053a01">第三　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_016.xml#p0074a01">第四　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_016.xml#p0091a01">第五　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_016.xml#p0109a01">第六　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N07/N07n0004_017.xml#p0128a02">一七　大善見王經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N07/N07n0004_017.xml#p0128a03">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_017.xml#p0142a07">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N07/N07n0004_018.xml#p0160a03">一八　闍尼沙經</cblink></li>
+	<li><cblink href="XML/N/N07/N07n0004_019.xml#p0179a03">一九　大典尊經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N07/N07n0004_019.xml#p0179a04">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_019.xml#p0194a14">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N07/N07n0004_020.xml#p0212a03">二〇　大會經</cblink></li>
+	<li><cblink href="XML/N/N07/N07n0004_021.xml#p0243a03">二一　帝釋所問經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N07/N07n0004_021.xml#p0243a04">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N07/N07n0004_021.xml#p0261a05">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N07/N07n0004_022.xml#p0275a03">二二　大念處經</cblink></li>
+	<li><cblink href="XML/N/N07/N07n0004_023.xml#p0300a03">二三　弊宿經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_024.xml#p0001a02">二四　波梨經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N08/N08n0004_024.xml#p0001a03">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N08/N08n0004_024.xml#p0019a02">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N08/N08n0004_025.xml#p0036a02">二五　優曇婆邏師子吼經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_026.xml#p0055a02">二六　轉輪聖王師子吼經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_027.xml#p0075a02">二七　起世因本經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_028.xml#p0092a02">二八　自歡喜經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_029.xml#p0112a02">二九　清淨經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_030.xml#p0138a02">三〇　三十二相經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N08/N08n0004_030.xml#p0138a03">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N08/N08n0004_030.xml#p0161a02">第二　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N08/N08n0004_031.xml#p0181a02">三一　教授尸伽羅越經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_032.xml#p0200a02">三二　阿吒曩胝經</cblink></li>
+	<li><cblink href="XML/N/N08/N08n0004_033.xml#p0225a02">三三　等誦經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N08/N08n0004_033.xml#p0225a03">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N08/N08n0004_033.xml#p0247a01">第二　誦品</cblink></li>
+		<li><cblink href="XML/N/N08/N08n0004_033.xml#p0263a06">第三　誦品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/N/N08/N08n0004_034.xml#p0283a02">三四　十上經</cblink>
+	<ol>
+		<li><cblink href="XML/N/N08/N08n0004_034.xml#p0283a03">第一　誦品</cblink></li>
+		<li><cblink href="XML/N/N08/N08n0004_034.xml#p0295a05">第二　誦品</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

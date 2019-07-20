@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1288_001.xml#p0358a14">1 最上成就儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_002.xml#p0361b13">2 成就儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_002.xml#p0362b18">3 最上成就儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_002.xml#p0363a28">4 最上曼拏羅儀軌成就法分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_002.xml#p0363c27">5 最上成就畫像儀軌分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_003.xml#p0364a17">6 最上成就供養大明分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_003.xml#p0365a01">7 最上成就印相大明分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_003.xml#p0365b23">8 最上成就敬愛護摩法分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_003.xml#p0365c18">9 大明曼拏羅成就儀軌分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1288_001.xml#p0358a10">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_002.xml#p0361b09">第二</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1288_003.xml#p0364a13">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

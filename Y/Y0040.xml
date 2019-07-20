@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#pa001a01">自序</cblink></li>
+	<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0001a01">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0001a02">第一章　歸敬三寶</cblink></li>
+		<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0002a09">第二章　聞法趣入</cblink></li>
+		<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0003a11">第三章　五乘共法</cblink></li>
+		<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0006a07">第四章　三乘共法</cblink></li>
+		<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0010a09">第五章　大乘不共法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y42/Y42n0040_001.xml#p0019a02">第一章　歸敬三寶</cblink></li>
+	<li><cblink href="XML/Y/Y42/Y42n0040_002.xml#p0055a01">第二章　聞法趣入</cblink></li>
+	<li><cblink href="XML/Y/Y42/Y42n0040_003.xml#p0081a01">第三章　五乘共法</cblink></li>
+	<li><cblink href="XML/Y/Y42/Y42n0040_004.xml#p0151a01">第四章　三乘共法</cblink></li>
+	<li><cblink href="XML/Y/Y42/Y42n0040_005.xml#p0273a01">第五章　大乘不共法</cblink></li>
+</ol>
+</nav>
+</body></html>

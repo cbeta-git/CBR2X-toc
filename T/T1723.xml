@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1723_001.xml#p0651a06">序品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1723_001.xml#p0651a06">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1723_002.xml#p0671c17">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1723_003.xml#p0694b22">方便品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1723_003.xml#p0694b22">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1723_004.xml#p0713a09">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1723_005.xml#p0734b07">譬喻品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1723_005.xml#p0734b07">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1723_006.xml#p0757a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1723_006.xml#p0770b23">信解品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1723_006.xml#p0770b23">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1723_007.xml#p0778a23">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1723_007.xml#p0781a03">藥草喻品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_007.xml#p0786c24">授記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_007.xml#p0789b15">化城喻品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T34/T34n1723_007.xml#p0789b15">1</cblink></li>
+		<li><cblink href="XML/T/T34/T34n1723_008.xml#p0798c12">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T34/T34n1723_008.xml#p0801c21">五百弟子受記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_008.xml#p0805c07">授學無學人記品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_008.xml#p0806c24">法師品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_008.xml#p0811a12">見寶塔品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0815a12">提婆達多品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0817b03">持品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0818c19">安樂行品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0825c27">從地涌出品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0828b09">壽量品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0833b24">分別功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0836a27">隨喜功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0837a25">法師功德品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0839b10">常不輕菩薩品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0841a06">如來神力品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0842b17">囑累品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0843b16">藥王菩薩本事品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0845b04">妙音菩薩品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0846c07">觀世音普門品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0850a19">陀羅尼品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0850b20">妙莊嚴王本事品</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0852a21">普賢菩薩勸發品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T34/T34n1723_001.xml#p0651a03">第一本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_001.xml#p0661a25">第一末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_002.xml#p0671c17">第二本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_002.xml#p0683a02">第二末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_003.xml#p0694b19">第三本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_003.xml#p0704c24">第三末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_004.xml#p0713a09">第四本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_004.xml#p0726a11">第四末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_005.xml#p0734b04">第五本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_005.xml#p0744b23">第五末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_006.xml#p0757a02">第六本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_006.xml#p0770b20">第六末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_007.xml#p0778a23">第七本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_007.xml#p0789b12">第七末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_008.xml#p0798c12">第八本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_008.xml#p0806c21">第八末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0815a09">第九本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_009.xml#p0825c25">第九末</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0836a24">第十本</cblink></li>
+	<li><cblink href="XML/T/T34/T34n1723_010.xml#p0845b01">第十末</cblink></li>
+</ol>
+</nav>
+</body></html>

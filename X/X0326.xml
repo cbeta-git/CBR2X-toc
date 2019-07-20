@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0326_001.xml#p0321a02">No. 326-A 觀楞伽記略科題辭</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_001.xml#p0322a01">No. 326-B 觀楞伽阿䟦多羅寶經記略科</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_001.xml#p0327a07">經題</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_001.xml#p0327c22">一切佛語心品第一之上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_002.xml#p0344a24">一切佛語心品第一之下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_003.xml#p0365c10">一切佛語心品第二之上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_004.xml#p0382c01">一切佛語心品第二之下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_005.xml#p0403c04">一切佛語心品第三之上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_006.xml#p0420c22">一切佛語心品第三之下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_007.xml#p0435a20">一切佛語心品第四之上</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_008.xml#p0452b17">一切佛語心品第四之下</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_008.xml#p0470b04">No. 326-C 觀楞伽寶經閣筆記</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_008.xml#p0471a19">No. 326-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X17/X17n0326_001.xml#p0327a03">第一</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_002.xml#p0344a21">第二</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_003.xml#p0365c07">第三</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_004.xml#p0382b22">第四</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_005.xml#p0403c01">第五</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_006.xml#p0420c19">第六</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_007.xml#p0435a17">第七</cblink></li>
+	<li><cblink href="XML/X/X17/X17n0326_008.xml#p0452b14">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

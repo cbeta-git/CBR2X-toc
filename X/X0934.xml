@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0934_001.xml#p0513a02">序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0934_001.xml#p0513a11">金剛錍文句科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0934_001.xml#p0513a08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/C/C106/C106n1937_001.xml#p0761a03">大乘經</cblink>
+	<ol>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0761a04">般若部</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0761b04">寶積部</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0761c10">大集部</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0762a07">華嚴部</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0762b12">涅槃部</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0762b19">五大部外重譯經</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_001.xml#p0766a05">五大部外單譯經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/C/C106/C106n1937_002.xml#p0769a03">小乘經</cblink>
+	<ol>
+		<li><cblink href="XML/C/C106/C106n1937_002.xml#p0769a04">阿含部</cblink></li>
+		<li><cblink href="XML/C/C106/C106n1937_002.xml#p0770b23">單譯經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/C/C106/C106n1937_002.xml#p0771b10">宋元入藏諸大小乘經</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0776a03">西土聖賢撰集</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0778a09">大乘律</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0778b05">小乘律</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0779a16">大乘論</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0780a18">小乘論</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0780c17">續入藏諸論</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0781a14">此方撰述</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/C/C106/C106n1937_001.xml#p0761a01">第一</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_002.xml#p0769a01">第二</cblink></li>
+	<li><cblink href="XML/C/C106/C106n1937_003.xml#p0776a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

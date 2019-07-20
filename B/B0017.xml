@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0033a01">序</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0037a01">目次</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0039a02">一、雙品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0041a03">二、不放逸品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0042a09">三、心品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0043a19">四、華品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0046a07">五、愚品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0047a14">六、智者品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0049a08">七、阿羅漢品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0051a01">八、千品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0052a14">九、惡品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0053a11">一〇、刀杖品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0055a01">一一、老品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0056a13">一二、自己品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0057a17">一三、世品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0059a02">一四、佛陀品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0060a20">一五、樂品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0062a05">一六、喜愛品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0063a05">一七、忿怒品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0064a08">一八、垢穢品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0066a01">一九、法住品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0068a03">二〇、道品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0069a15">二一、雜品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0071a06">二二、地獄品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0072a04">二三、象品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0073a07">二四、愛欲品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0075a13">二五、比丘品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0077a09">二六、婆羅門品</cblink></li>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0081a01">譯後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B07/B07n0017_001.xml#p0033a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

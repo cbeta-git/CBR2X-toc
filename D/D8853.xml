@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0001b02">七門</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0001b04">引言</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0001b06">第一時處故</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0004b03">第二機根故</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0004b06">第三藏攝故</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0005b02">第四翻譯故</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0006a03">第五宗趣故</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0006b05">第六題名故</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0009b05">第七本文故</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D15/D15n8853_001.xml#p0001b01">第一</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_002.xml#p0051b01">第二</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_003.xml#p0107b01">第三</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_004.xml#p0166b01">第四</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_005.xml#p0225b01">第五</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_006.xml#p0265b01">第六</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_007.xml#p0323b01">第七</cblink></li>
+	<li><cblink href="XML/D/D15/D15n8853_008.xml#p0373b01">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2113_001.xml#p0573a04">北山錄序</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_001.xml#p0573b16">1 天地始(一)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_001.xml#p0577a17">2 聖人生(一)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_002.xml#p0580a27">3 法籍興(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_002.xml#p0583b14">4 真俗符(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_003.xml#p0585c23">5 合霸王(二)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_003.xml#p0590c25">6 至化(三)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_004.xml#p0594b11">7 宗師議(四)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_005.xml#p0600b10">8 釋賓問(五)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_006.xml#p0607c11">9 喪服問(六)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_006.xml#p0610a15">10 譏異說(六)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_007.xml#p0615a06">11 （綜名理）(七)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_007.xml#p0618b18">12 報應驗(七)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_008.xml#p0619c27">13 論業理(八)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_008.xml#p0622c14">14 住持行(八)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_009.xml#p0626b20">15 異學(九)</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_010.xml#p0630c27">16 外信(一〇)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2113_001.xml#p0573b04">第一</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_002.xml#p0580a25">第二</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_003.xml#p0585c21">第三</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_004.xml#p0594b09">第四</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_005.xml#p0600b08">第五</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_006.xml#p0607c09">第六</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_007.xml#p0615a04">第七</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_008.xml#p0619c25">第八</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_009.xml#p0626b18">第九</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2113_010.xml#p0630c25">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

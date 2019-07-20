@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0008_001.xml#p0235a02">No. 8-A 楞伽會譯序</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_001.xml#p0235b16">一切佛語心品第一</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_002.xml#p0264c09">一切佛語心品第二</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_003.xml#p0293c03">一切佛語心品第三</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_004.xml#p0318a14">一切佛語心品第四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0008_001.xml#p0235b10">第一之上</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_001.xml#p0250b05">第一之下</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_002.xml#p0264c04">第二之上</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_002.xml#p0278c16">第二之下</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_003.xml#p0293b22">第三之上</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_003.xml#p0305a01">第三之下</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_004.xml#p0318a09">第四之上</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0008_004.xml#p0334b04">第四之下</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0642a06">卷第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0647a18">第二卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0648b07">第三卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0661c16">第四卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0662c06">第五卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0663c19">第六卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0664a19">第七卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0664b19">第八卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0664c16">第九卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0665b05">第十卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0666a08">第十一卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0666b03">第十二卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0667a06">第十三卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0667a16">第十四卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0667b07">第十五卷</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0668a04">第十六卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0721_001.xml#p0642a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#pa001a01">自序</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#pa001a02">一</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#pa003a04">二</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#pa005a06">三</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#pa007a08">四</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#pa008a12">五</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#p0001a03">引言</cblink></li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#p0005a01">第一章　中道之內容及其意義</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#p0005a02">第一節　中道之內容</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_001.xml#p0009a09">第二節　中道之意義</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_002.xml#p0013a01">第二章　龍樹及其論典</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_002.xml#p0013a02">第一節　龍樹論略說</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_002.xml#p0017a12">第二節　《中論》為《阿含》通論考</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_003.xml#p0025a01">第三章　緣起之生滅與不生不滅</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_003.xml#p0025a02">第一節　無生之共證與大乘不共</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_003.xml#p0028a05">第二節　聲聞常道與大乘深論</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_003.xml#p0034a04">第三節　三法印之橫豎無礙</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_003.xml#p0037a05">第四節　緣起之綜貫性</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_004.xml#p0041a01">第四章　中道之方法論</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_004.xml#p0041a02">第一節　中觀與中論</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_004.xml#p0043a07">第二節　因明與中觀</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_004.xml#p0052a11">第三節　聞量、比量、現量</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_005.xml#p0059a01">第五章　中觀之根本論題</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_005.xml#p0059a02">第一節　緣起</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_005.xml#p0064a01">第二節　自性</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_005.xml#p0070a07">第三節　空</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_005.xml#p0079a08">第四節　緣起自性空</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_006.xml#p0083a01">第六章　八不</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_006.xml#p0083a02">第一節　八事四對之解說</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_006.xml#p0095a01">第二節　不</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_007.xml#p0113a01">第七章　有、時、空、動</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_007.xml#p0113a02">第一節　有——物、體、法</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_007.xml#p0117a09">第二節　時間</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_007.xml#p0126a02">第三節　空間</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_007.xml#p0131a10">第四節　行——變動、運動</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_007.xml#p0141a03">第五節　無言之秘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_008.xml#p0145a01">第八章　中觀之諸法實相</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_008.xml#p0145a02">第一節　總說</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_008.xml#p0147a04">第二節　性、相</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_008.xml#p0162a12">第三節　體、作、力</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_008.xml#p0166a11">第四節　因、緣、果、報</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_009.xml#p0181a01">第九章　現象與實性之中道</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_009.xml#p0181a02">第一節　太過、不及、中道</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_009.xml#p0192a09">第二節　即、離、中道</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_010.xml#p0205a01">第十章　談二諦</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_010.xml#p0205a02">第一節　總說</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_010.xml#p0211a05">第二節　二諦之安立</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_010.xml#p0220a01">第三節　二諦之抉擇</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_011.xml#p0231a01">第十一章　中道之實踐</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y09/Y09n0009_011.xml#p0231a02">第一節　頓漸與偏圓</cblink></li>
+		<li><cblink href="XML/Y/Y09/Y09n0009_011.xml#p0237a05">第二節　緣起空有</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/Y/Y09/Y09n0009_012.xml#p0253a01">第十二章　空宗與有宗</cblink></li>
+</ol>
+</nav>
+</body></html>

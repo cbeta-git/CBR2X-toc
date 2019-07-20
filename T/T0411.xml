@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0411_001.xml#p0721a07">1 序品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_002.xml#p0728a26">2 十輪品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_003.xml#p0734c28">3 無依行品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0411_003.xml#p0734c28">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0411_004.xml#p0739c06">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0411_005.xml#p0748b23">4 有依行品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T13/T13n0411_005.xml#p0748b23">1</cblink></li>
+		<li><cblink href="XML/T/T13/T13n0411_006.xml#p0751a19">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T13/T13n0411_007.xml#p0757c08">5 懺悔品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_008.xml#p0762a05">6 善業道品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_009.xml#p0768c23">7 福田相品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_010.xml#p0776b15">8 獲益囑累品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_010.xml#p0777a17">序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0411_001.xml#p0721a04">第一</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_002.xml#p0728a23">第二</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_003.xml#p0734c25">第三</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_004.xml#p0739c06">第四</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_005.xml#p0745b02">第五</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_006.xml#p0751a19">第六</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_007.xml#p0756b20">第七</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_008.xml#p0762a02">第八</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_009.xml#p0766c20">第九</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0411_010.xml#p0772a24">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

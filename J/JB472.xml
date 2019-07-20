@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB472_001.xml#p0001a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB472_001.xml#p0001a01">相空子序</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB472_001.xml#p0001b11">曹溶序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB472_001.xml#p0002a03">住燕京天津地藏菴語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_001.xml#p0003b10">住如來菴語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_002.xml#p0005a03">燕京保定府雄縣崇寧寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_002.xml#p0005c23">住盤山中盤寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_003.xml#p0008b03">住報成寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_004.xml#p0011c03">北京法通寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_005.xml#p0015b03">涿州胡良河普度寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_005.xml#p0015c23">住慈壽寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_005.xml#p0016c28">住潭柘寺語錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB472_001.xml#p0002a01">第一</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_002.xml#p0005a01">第二</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_003.xml#p0008b01">第三</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_004.xml#p0011c01">第四</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB472_005.xml#p0015b01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

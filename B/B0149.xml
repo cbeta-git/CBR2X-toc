@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B26/B26n0149_001.xml#p0801a02">序</cblink>
+	<ol>
+		<li><cblink href="XML/B/B26/B26n0149_001.xml#p0801a02">湛然居士序</cblink></li>
+		<li><cblink href="XML/B/B26/B26n0149_001.xml#p0805a03">原序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B26/B26n0149_001.xml#p0807a03">中州集傳</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_001.xml#p0811a01">評論</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_005.xml#p0881a02">襍說</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_005.xml#p0890a04">心說上</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_005.xml#p0891a05">心說下</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B26/B26n0149_001.xml#p0801a01">第一</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_002.xml#p0825a02">第二</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_003.xml#p0839a02">第三</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_004.xml#p0855a02">第四</cblink></li>
+	<li><cblink href="XML/B/B26/B26n0149_005.xml#p0867a02">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0949a13">法華三昧懺儀勘定元本序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0949b13">1 明三七日行法華懺法勸修</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0949c11">2 明三七日行法前方便</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0949c22">3 明正入道場三七日修行一心精進方法</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0950a16">4 明初入道場正修行方法</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0950a25">1 明行者嚴淨道場法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0950b08">2 明行者淨身方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0950b14">3 明行者修三業供養法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0950c04">4 明行者請三寶方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0951b13">5 明讚歎三寶方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0951b27">6 明禮佛方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0952a27">7 明懺悔六根及勸請隨喜迴向發願方法</cblink>
+		<ol>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0952b06">最初懺悔眼根法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0952b21">懺悔耳根法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0952c06">懺悔鼻根法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0952c17">懺悔舌根法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953a02">懺悔身根法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953a18">懺悔意根法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953b08">明勸請法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953b13">明隨喜法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953b17">明迴向法</cblink></li>
+			<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953b21">明發願法</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953b28">8 明行道法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0953c16">9 重明誦經方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1941_001.xml#p0954a09">10 明坐禪實相正觀方法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0954b29">5 略明修證相</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1941_001.xml#p0949b10">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

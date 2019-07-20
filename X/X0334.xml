@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0334_001.xml#p0099a01">No. 334-A 楞伽阿䟦多羅寶經心印科文</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_001.xml#p0104a05">No. 334-B 楞伽心印緣起</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_001.xml#p0104b14">經題</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_001.xml#p0105a05">一切佛語心品之一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_003.xml#p0133a09">一切佛語心品之二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_005.xml#p0155c19">一切佛語心品之三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_007.xml#p0177a15">一切佛語心品之四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0334_001.xml#p0104b08">第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_002.xml#p0118c13">第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_003.xml#p0133a04">第三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_004.xml#p0143c16">第四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_005.xml#p0155c14">第五</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_006.xml#p0167b19">第六</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_007.xml#p0177a10">第七</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0334_008.xml#p0189b20">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n0998_001.xml#p0302a04">華嚴五教章復古記刊行凡例</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_001.xml#p0302b05">No. 998-A 復古記序</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_001.xml#p0302c09">華嚴一乘教義分齊章復古記</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_003.xml#p0396b04">五教章奧書</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_003.xml#p0396b10">復古記奧書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n0998_001.xml#p0302c06">一之上</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_001.xml#p0315c15">一之下</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_002.xml#p0329b12">二之上</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_002.xml#p0350a04">二之下</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_003.xml#p0366a10">三之上</cblink></li>
+	<li><cblink href="XML/X/X58/X58n0998_003.xml#p0384a04">三之下</cblink></li>
+</ol>
+</nav>
+</body></html>

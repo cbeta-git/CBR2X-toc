@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0499b06">1</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0499b25">2</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0499c03">3</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0499c23">4</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0500a09">5</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0500b25">6</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0500c06">7</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0500c18">8</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0501a01">9</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0501a15">10</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0501b10">11</cblink></li>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0502a01">12</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T04/T04n0204_001.xml#p0499b03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

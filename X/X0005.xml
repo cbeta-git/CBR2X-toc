@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0070a02">No. 5-A 原刻淨土四經敘</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0070a21">No. 5-B 淨土四經總敘</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0070c24">無量壽經會譯敘</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0071b14">無量壽經會譯</cblink></li>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0077a09">附文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X01/X01n0005_001.xml#p0077a09">觀無量經敘</cblink></li>
+		<li><cblink href="XML/X/X01/X01n0005_001.xml#p0077c06">阿彌陀經敘</cblink></li>
+		<li><cblink href="XML/X/X01/X01n0005_001.xml#p0078b04">普賢行願品敘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0078c05">No. 5-C 重刊淨土四經䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X01/X01n0005_001.xml#p0071b15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

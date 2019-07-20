@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0369_001.xml#p0171a04">解深密經疏目次</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_001.xml#p0171b16">序品第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_002.xml#p0203b03">勝義諦相品第二</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_003.xml#p0239b05">心意識相品第三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_004.xml#p0251a03">一切法相品第四</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_004.xml#p0259b07">無自性相品第五</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_006.xml#p0298a23">分別瑜伽品第六</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_008.xml#p0356a21">地波羅蜜多品第七</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_009.xml#p0400b13">如來成所作事品第八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0369_001.xml#p0171b14">第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_002.xml#p0203b01">第二</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_003.xml#p0229a01">第三</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_004.xml#p0251a01">第四</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_005.xml#p0274b22">第五</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_006.xml#p0298a21">第六</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_007.xml#p0329a12">第七</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_008.xml#p0356a19">第八</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0369_009.xml#p0381c01">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0042b05">No. 1597-1-a 題</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0042b17">No. 1597-1-b 布袋老僧小序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0042c06">No. 1597-1-c 序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0044c11">No. 1597-1-d 布袋和尚後序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0047b10">No. 1597-1-e</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0047c02">No. 1597-1-f 重刻彌勒傳略記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1597_001.xml#p0043a07">第一</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1597_002.xml#p0048a15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

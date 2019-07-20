@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1060b16">上新請來經等目錄表</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1061a05">新譯經</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1063a11">舊譯經</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1063b10">梵字</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1064a01">論疏章等</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1064b10">佛像等</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1064c02">道具</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1064c20">阿闍梨付囑物</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2161_001.xml#p1060b14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

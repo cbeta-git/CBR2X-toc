@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1395_001.xml#p0573c05">No. 1395-A 方山和尚語錄序</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1395_001.xml#p0578c12">No. 1395-B 增補</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1395_001.xml#p0574a12">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

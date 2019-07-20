@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0702a05">No. 1401-A</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0702b09">No. 1401-B</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0702c22">開堂普說</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0703c15">開示</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0703c15">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0704c11">示直翁居士(洪新恩)</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0705a15">結制示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0705a22">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0705b17">解制示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0705b23">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0706a19">立限示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0706b01">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0706c02">晚參</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0706c07">示信翁居士(洪上舍)</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0707b14">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0707c17">結制示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0708a05">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0708a22">端陽示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0708b04">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0708c04">示理通上人</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0708c13">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0709a08">解制示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0709a23">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0709c15">除夜小參</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0710b11">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0710c02">結制示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0710c07">示眾</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0711a04">除夜小參</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1401_001.xml#p0711a14">示眾</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0711b18">答直翁居士書</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0711c22">通仰山老和尚疑嗣書</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0712c02">室中三關</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0712c09">No. 1401-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1401_001.xml#p0702c18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

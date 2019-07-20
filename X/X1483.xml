@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0563b05">No. 1483-A 藥師三昧行法序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0564a14">藥師三昧行法目次</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0564b09">定名第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0564c13">勸修第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0565a14">方法第三</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0565b10">一嚴道場</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0565c21">二淨三業</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0566a11">三修供養</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0566b03">四請三寶諸天</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0567a08">五讚歎</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0567a21">六禮敬</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0567b06">七發願持呪</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0568c20">八懺悔</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0569b20">九行道旋繞</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1483_001.xml#p0569c07">十思惟義處</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0570a23">釋疑第四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1483_001.xml#p0564b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

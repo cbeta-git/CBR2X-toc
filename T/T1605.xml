@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1605_001.xml#p0663a07">1 本事分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1605_001.xml#p0663a07">1 三法品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1605_001.xml#p0663a07">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1605_002.xml#p0667a12">2</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1605_003.xml#p0671b14">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1605_003.xml#p0672c19">2 攝品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1605_003.xml#p0673a29">3 相應品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1605_003.xml#p0673c04">4 成就品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1605_003.xml#p0674a02">2 決擇分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1605_003.xml#p0674a02">1 諦品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1605_003.xml#p0674a02">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1605_004.xml#p0676a18">2</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1605_005.xml#p0681c06">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1605_006.xml#p0686a20">2 法品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1605_006.xml#p0688a27">3 得品</cblink>
+		<ol>
+			<li><cblink href="XML/T/T31/T31n1605_006.xml#p0688a27">1</cblink></li>
+			<li><cblink href="XML/T/T31/T31n1605_007.xml#p0690b06">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T31/T31n1605_007.xml#p0693a08">4 論議品</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1605_001.xml#p0663a03">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1605_002.xml#p0667a08">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1605_003.xml#p0671b10">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1605_004.xml#p0676a14">第四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1605_005.xml#p0681c02">第五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1605_006.xml#p0686a16">第六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1605_007.xml#p0690b02">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0475a16">禪波羅蜜序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0476a19">1 修禪波羅蜜大意</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0477b20">2 釋禪波羅蜜名</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0479a07">3 明禪波羅蜜門</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0480a14">4 辨禪波羅蜜詮次</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0481b04">5 簡禪波羅蜜法心</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_002.xml#p0483c22">6 分別禪波羅蜜前方便</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1916_002.xml#p0483c22">1</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_003.xml#p0491b21">2</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_004.xml#p0501a04">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T46/T46n1916_005.xml#p0508a20">7 釋禪波羅蜜修證</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1916_005.xml#p0508a20">1</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_006.xml#p0516b11">2</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_007.xml#p0524a17">3</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_008.xml#p0529a02">4</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_009.xml#p0535b08">5</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1916_010.xml#p0540c02">6</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0475c05">第一之上</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_001.xml#p0480a08">第一之下</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_002.xml#p0483c17">第二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_003.xml#p0491b21">第三之上</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_003.xml#p0496c05">第三之下</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_004.xml#p0501a04">第四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_005.xml#p0508a15">第五</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_006.xml#p0516b11">第六</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_007.xml#p0524a17">第七</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_008.xml#p0529a02">第八</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_009.xml#p0535b08">第九</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1916_010.xml#p0540c02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

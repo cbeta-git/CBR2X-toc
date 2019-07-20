@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a01">心要分二</cblink>
+	<ol>
+		<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a01">初題目二</cblink>
+		<ol>
+			<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a01">初標題目</cblink></li>
+			<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a02">二述人號</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a03">二正文三</cblink>
+		<ol>
+			<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a03">初始性三德體融本具</cblink></li>
+			<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a05">二終修稱性迷悟俱融三</cblink>
+			<ol>
+				<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a05">初迷德成惑</cblink></li>
+				<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a07">二悟虛可化四</cblink>
+				<ol>
+					<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a07">初三惑是虛妄</cblink></li>
+					<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a08">二佛悟知生迷</cblink></li>
+					<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a10">三立觀令破顯</cblink></li>
+					<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a11">四用觀破顯相</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/G/G069/G069n1977_001.xml#p0718a02">三迷悟俱融</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/G/G069/G069n1977_001.xml#p0718a03">三始終體一修證圓頓</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G069/G069n1977_001.xml#p0717a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

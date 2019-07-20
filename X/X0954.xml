@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0054b10">三千有門頌略解</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0060b06">No. 954-A 附瑩中居士與明智法師書</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0061b04">No. 954-B 慶元二年中秋四明樓鑰題</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0061b15">No. 954-C 又附馮太史請解有門頌書</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0061c02">No. 954-D 又附有門頌略解序</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0061c17">No. 954-E 刻三千有門頌解後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0954_001.xml#p0054b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

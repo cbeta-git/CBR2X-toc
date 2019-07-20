@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0372a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0373a01">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0373a02">辟支羅漢</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0373a14">讚揚大黑天神儀當演</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0374a05">安樂迦羅</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0374a20">日月迦羅</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0375a11">金鉢迦羅</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0376a04">塚間天神</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0376a19">帝釋迦羅儀當演</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0377a10">寶藏迦羅儀當演</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0378a04">贊揚白姐聖妃</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0378a19">中圍伴繞</cblink></li>
+		<li><cblink href="XML/ZW/ZW06/ZW06n0055_001.xml#p0380a15">十方善神儀當演</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

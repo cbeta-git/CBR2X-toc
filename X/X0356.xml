@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0356_001.xml#p0027a03">卷上之上</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0356_001.xml#p0034b22">卷上之中</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0356_001.xml#p0044b21">卷上之下</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0356_002.xml#p0053a14">卷下之上</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0356_002.xml#p0063a05">卷下之中</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0356_002.xml#p0072a04">卷下之下</cblink></li>
+</ol>
+</nav>
+</body></html>

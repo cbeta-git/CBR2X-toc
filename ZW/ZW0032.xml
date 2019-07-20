@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0032_001.xml#p0446a05">前文</cblink></li>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0032_001.xml#p0446a21">一</cblink></li>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0032_001.xml#p0452a17">二</cblink></li>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0032_001.xml#p0461a06">三</cblink></li>
+	<li><cblink href="XML/ZW/ZW03/ZW03n0032_001.xml#p0463a17">補記</cblink></li>
+</ol>
+</nav>
+</body></html>

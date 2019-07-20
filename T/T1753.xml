@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1753_001.xml#p0245c11">1 觀經玄義分</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1753_002.xml#p0251c09">2 觀經序分義</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1753_003.xml#p0261b05">3 觀經正宗分定善義</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1753_004.xml#p0270b13">4 觀經正宗分散善義</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1753_001.xml#p0245c08">第一</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1753_002.xml#p0251c06">第二</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1753_003.xml#p0261b02">第三</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1753_004.xml#p0270b10">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

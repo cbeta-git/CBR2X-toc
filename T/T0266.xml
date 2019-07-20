@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0198b17">1 不退轉法輪品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0202b10">2 持信品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0203c21">3 奉法品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0204c19">4 八等品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0205c29">5 道跡品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0206c21">6 往來品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0207c11">7 不還品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0208c01">8 無著品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0210c07">9 聲聞品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0212a09">10 緣覺品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0213c12">11 釋果想品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0214c05">12 降魔品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0219a05">13 如來品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0221a26">14 開化品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0223b15">15 師子女品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0224b05">16 歎法師品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0224c14">17 譏謗品</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0225b10">18 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T09/T09n0266_001.xml#p0198b14">第一</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_002.xml#p0207c08">第二</cblink></li>
+	<li><cblink href="XML/T/T09/T09n0266_003.xml#p0219a02">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1540_001.xml#p0614b09">1 本事品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1540_001.xml#p0616a29">初門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1540_001.xml#p0616c07">2 分別品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T26/T26n1540_001.xml#p0616c07">第二門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_001.xml#p0617a05">第三門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_002.xml#p0617b15">第四門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_002.xml#p0619a16">第五門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_002.xml#p0620c21">第六門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0621c25">第七門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0622a20">第八門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0622b19">第九門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0622c18">第十門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0623a17">第十一門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0623b15">第十二門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0623c15">第十三門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0624a04">第十四門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0624b01">第十五門</cblink></li>
+		<li><cblink href="XML/T/T26/T26n1540_003.xml#p0624c26">第十六門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T26/T26n1540_003.xml#p0625c06">後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T26/T26n1540_001.xml#p0614b05">第一</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1540_002.xml#p0617b11">第二</cblink></li>
+	<li><cblink href="XML/T/T26/T26n1540_003.xml#p0621c21">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

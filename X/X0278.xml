@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0278_001.xml#p0515c10">No. 278-A 首楞嚴經通議略科題辭(附號記)</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0278_001.xml#p0516a01">首楞嚴經通議提綱略科</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0278_001.xml#p0516a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

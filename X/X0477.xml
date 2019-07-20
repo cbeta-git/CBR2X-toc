@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0477_001.xml#p0115a05">No. 477-A 金剛正眼序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0477_001.xml#p0115b11">金剛正眼</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0477_001.xml#p0115b13">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

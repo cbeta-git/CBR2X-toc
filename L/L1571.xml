@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/L/L135/L135n1571_001.xml#p0719a01">目次</cblink></li>
+	<li><cblink href="XML/L/L135/L135n1571_001.xml#p0719a05">觀自在菩薩如意輪咒課法</cblink>
+	<ol>
+		<li><cblink href="XML/L/L135/L135n1571_001.xml#p0719a08">序</cblink></li>
+		<li><cblink href="XML/L/L135/L135n1571_001.xml#p0720a01">課法</cblink>
+		<ol>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0720a01">法式第一</cblink></li>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0721b02">觀想第二</cblink></li>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0723b03">禮讚第三</cblink></li>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0724a14">持誦第四</cblink></li>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0725a10">懺願第五</cblink></li>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0726a10">證驗第六</cblink></li>
+			<li><cblink href="XML/L/L135/L135n1571_001.xml#p0727a10">釋疑第七</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/L/L135/L135n1571_001.xml#p0730b01">天台智者大師齋忌禮讚文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/L/L135/L135n1571_001.xml#p0719a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

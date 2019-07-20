@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X43/X43n0737_001.xml#p0001a04">四分律行事鈔簡正記目次</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_001.xml#p0001c01">四分律鈔簡正記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X43/X43n0737_001.xml#p0001c03">第一</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_002.xml#p0022b12">第二</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_003.xml#p0031a03">第三</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_004.xml#p0053c03">第四</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_005.xml#p0074c14">第五</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_006.xml#p0109c01">第六</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_007.xml#p0141c17">第七上</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_007.xml#p0165c01">第七下</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_008.xml#p0182a08">第八</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_009.xml#p0216c05">第九</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_010.xml#p0252c11">第十</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_011.xml#p0285a03">第十一</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_012.xml#p0313b05">第十二</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_013.xml#p0335b20">第十三</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_014.xml#p0357a03">第十四</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_015.xml#p0380b01">第十五</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_016.xml#p0413b01">第十六</cblink></li>
+	<li><cblink href="XML/X/X43/X43n0737_017.xml#p0457a10">第十七</cblink></li>
+</ol>
+</nav>
+</body></html>

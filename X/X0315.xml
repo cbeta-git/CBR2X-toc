@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0427a06">前文</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0427a18">一教起因緣</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0430b15">二藏乘分攝</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0430c10">三教義分齊</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0431b19">四所被機宜</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0432a16">五能詮體性</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0432c21">六所詮宗趣</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0433b09">七教跡前後</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0434a17">八傳譯時年</cblink></li>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0434b07">九通釋名題</cblink>
+	<ol>
+		<li><cblink href="XML/X/X16/X16n0315_001.xml#p0434b07">一經題</cblink></li>
+		<li><cblink href="XML/X/X16/X16n0315_001.xml#p0436b07">二譯人</cblink>
+		<ol>
+			<li><cblink href="XML/X/X16/X16n0315_001.xml#p0436b07">一主譯人</cblink></li>
+			<li><cblink href="XML/X/X16/X16n0315_001.xml#p0436b22">二譯語人</cblink></li>
+			<li><cblink href="XML/X/X16/X16n0315_001.xml#p0436c04">三筆授人</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X16/X16n0315_001.xml#p0427a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

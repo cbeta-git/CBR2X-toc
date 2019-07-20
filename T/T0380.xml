@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0380_001.xml#p0945b06">1 梵天品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_001.xml#p0948b29">2 商主品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_001.xml#p0950b10">3 帝釋品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_002.xml#p0951a10">4 羅睺羅品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_002.xml#p0952b28">5 迦葉品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_002.xml#p0954a10">6 持正法品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_002.xml#p0956a07">7 舍利品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_003.xml#p0957a27">8 禮拜品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_003.xml#p0958c11">9 善根品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_003.xml#p0959b11">10 布施福德品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_003.xml#p0962a28">11 殖善根品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_004.xml#p0962c23">12 以諸譬喻付囑正法品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_005.xml#p0968a05">13 殖善根品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_005.xml#p0971b10">14 教品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0380_001.xml#p0945b03">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_002.xml#p0951a07">第二</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_003.xml#p0957a24">第三</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_004.xml#p0962c20">第四</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0380_005.xml#p0968a02">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

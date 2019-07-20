@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0267_001.xml#p0079a08">序</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_001.xml#p0079a16">首楞嚴經義疏釋要鈔</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_006.xml#p0164c04">楞嚴經釋題一卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X11/X11n0267_001.xml#p0079a05">第一</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_002.xml#p0094b10">第二</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_003.xml#p0108a04">第三</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_004.xml#p0123b17">第四</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_005.xml#p0136c01">第五</cblink></li>
+	<li><cblink href="XML/X/X11/X11n0267_006.xml#p0150a14">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

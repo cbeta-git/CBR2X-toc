@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0649b03">No. 1363-A 西山和尚語錄序</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0649b18">西山和尚住建康府清真禪院語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0650a10">西山和尚住慶元府靈隱禪院語錄</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0650a12">指三門</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0650a14">拈帖</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0650c18">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0650c19">芭蕉拄杖子</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0650c22">靈雲見桃花</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a01">趙州勘婆</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a03">雪師子</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a05">建康黃尚書請住清真曾以頌却之</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a08">悼遯庵</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a11">藤簟</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a14">開塗田道者求語</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a16">光維那歸鄉</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a18">寄　天童癡絕和尚</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a21">達上人乞語</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651a24">碧雲寄華藏故舊</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b03">見侍者求語</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b06">光上人求語</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b11">古禪人乞語</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b14">佛事</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b15">普上座下火</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b19">妙堪上座入塔</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651b22">No. 1363-B 塔銘</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651c18">No. 1363-C</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0651c23">No. 1363-D</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0652a03">No. 1363-E</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1363_001.xml#p0649b17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

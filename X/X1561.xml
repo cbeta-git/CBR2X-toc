@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0556b07">僧寶正續傳目錄</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0556c18">羅漢南禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0557c01">圓通旻禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0558c08">兜率照禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0559a20">潛庵源禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0559c01">泐潭照禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_002.xml#p0560c14">寶峰準禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_002.xml#p0562a15">花藥英禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_002.xml#p0562b20">明白洪禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_002.xml#p0563b13">開福寧禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_002.xml#p0563c23">智海懃禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_003.xml#p0565a20">龍門遠禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_003.xml#p0566c11">禾山方禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_003.xml#p0567b04">文殊道禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_003.xml#p0568a05">法輪端禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_003.xml#p0568c19">黃龍逢禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_004.xml#p0569c03">圜悟勤禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_004.xml#p0571a18">寶峰祥禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_004.xml#p0572a03">雲居悟禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_004.xml#p0572b12">白楊順禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_005.xml#p0573a17">寶峰清禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_005.xml#p0573c03">大溈果禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_005.xml#p0574a19">護國元禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_005.xml#p0574c06">雲居如禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_005.xml#p0575a07">雲居真牧禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_006.xml#p0576b14">皷山珪禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_006.xml#p0577b08">徑山杲禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_006.xml#p0579a17">福嚴演禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_006.xml#p0579c22">黃龍震禪師</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_007.xml#p0580c03">德山木上座</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_007.xml#p0581c02">臨濟金剛王</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_007.xml#p0582b09">代古塔主與洪覺範書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X79/X79n1561_001.xml#p0556c15">第一</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_002.xml#p0560c11">第二</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_003.xml#p0565a17">第三</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_004.xml#p0569c01">第四</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_005.xml#p0573a14">第五</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_006.xml#p0576b11">第六</cblink></li>
+	<li><cblink href="XML/X/X79/X79n1561_007.xml#p0580c01">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

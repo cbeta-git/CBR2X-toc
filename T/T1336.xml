@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1336_005.xml#p0606c22">觀世音菩薩說消除熱病諸邪所不能忤大神呪</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1336_001.xml#p0580c17">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_002.xml#p0585b12">第二</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_003.xml#p0591a08">第三</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_004.xml#p0598a10">第四</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_005.xml#p0605c02">第五</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_006.xml#p0610b16">第六</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_007.xml#p0616b11">第七</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_008.xml#p0623a20">第八</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_009.xml#p0628c11">第九</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1336_010.xml#p0633a20">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

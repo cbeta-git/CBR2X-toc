@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a04">一　依止師</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a06">二　身難得</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a08">三　三士法分</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a09">甲　下士</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a12">乙　中士</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a15">丙　上士</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a18">丁　止觀</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a20">戊　密教</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0121a02">己　守護真言戒</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0121a04">庚　如聖之行</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0121a06">辛　寂滅除障難</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0055_001.xml#p0121a08">壬　願速得證金剛持</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0055_001.xml#p0120a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

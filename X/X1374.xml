@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0028b08">目次</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0028b13">壽國□□禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0028c01">開壽普光禪寺語</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0029b01">湖州道場禪寺語</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0031a18">小參</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0031b13">拈古</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0031c15">頌古</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032a14">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032a15">送斷橋小師歸越住謝府菴</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032a18">寄白雲菴克翁</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032a21">刺血書蓮經</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032a24">先禪客(南劒人)</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032b03">宜叟號</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032b06">毒海號</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032b09">冷泉金裝石佛分韻得沈字</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032b12">玉田號</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032b15">贊</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032b16">先師寂窻和尚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c01"> 䟦</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c02">慧上人古愚頌軸</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c06">能侍者古樵頌軸</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c11">小佛事</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c12">小師明侍者火</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c15">氷首座火</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c18">松首座喫𨈀死</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0032c21">能直歲結制日火</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0033a01">瑨都寺火(長溪人霅溪死)</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0033a05">塔山皓廟官火</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1374_001.xml#p0033a09">東堂石坡和尚秉炬(辭世頌有來而無踪之句)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0033b02">No. 1374-A 龍源和尚塔銘</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0034a19">No. 1374-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1374_001.xml#p0028b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

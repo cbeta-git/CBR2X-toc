@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0884c02">No. 431-A 彌陀略註序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0885b10">前文</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0885b11">一教起所因</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0885b19">二藏乘分攝</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0885c01">三時會前後</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0885c12">四教義分齊</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0886a11">五所被階品</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0886a17">六教體淺深</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0886a23">七宗趣通局</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0886b13">八部類差別</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0886b17">九總釋名題</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0887b05">十別解文義</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0897c15">No. 431-B 校刻略註緣起</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0431_001.xml#p0885b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

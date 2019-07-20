@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0383a06">一、問題的提出</cblink></li>
+	<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0386a25">二、僧祐時代</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0386a26">1. 《眾經別錄》的記載</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0388a24">2. 僧祐的「疑經」觀</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0394a26">3. 僧祐與僧法誦出經的著錄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0398a03">三、後代觀點</cblink></li>
+	<li><cblink href="XML/ZW/ZW09/ZW09n0077_001.xml#p0401a02">四、僧法誦出經的流傳</cblink></li>
+</ol>
+</nav>
+</body></html>

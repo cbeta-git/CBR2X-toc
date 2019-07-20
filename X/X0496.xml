@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0566a02">No. 496-A 金剛直說序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0566b09">凡例六則</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0567a09">宗旨</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0567b11">教意</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0567c18">經題</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0568a05">隨文解釋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0496_001.xml#p0567a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

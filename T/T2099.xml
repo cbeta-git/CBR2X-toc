@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1101a03">廣清涼傳序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1101b25">1 菩薩生地見聞功德</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1103a09">2 菩薩應化總別機緣</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1103b17">3 菩薩何時至此山中</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1104a10">4 清涼山得名所因</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1105b03">5 五臺四埵右聖行跡</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1105b28">6 五臺境界寺名聖跡</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1106c27">7 釋五臺諸寺方所</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1109b26">8 菩薩化身為貧女</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1109c21">9 天女三昧姑</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1110a13">10 安生塑真容菩薩</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1110c03">11 牛雲和尚求聰明</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1111a19">12 佛陀波利入金剛窟</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1111b24">13 無著和尚入化般若寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1112c17">14 神英和尚入化法華院</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1113a15">15 道義和尚入化金閣寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1114a06">16 法照和尚入化竹林寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1116a23">17 亡身徇道俗</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1117a14">18 州牧宰官歸信</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1117c05">19 高德僧事跡</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_003.xml#p1123a04">20 高德尼事跡</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_003.xml#p1123b27">21 宋僧所覩靈異</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_003.xml#p1124c07">22 靈異蘽木</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_003.xml#p1124c27">23 大聖文殊師利古今讚頌</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2099_003.xml#p1124c27">文殊像讚</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2099_003.xml#p1125b12">文殊師利讚</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2099_003.xml#p1125b17">文殊像讚</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2099_003.xml#p1125b22">文殊師利讚</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2099_003.xml#p1125c03">續遺</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2099_001.xml#p1101b14">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_002.xml#p1109b10">第二</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2099_003.xml#p1118c08">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

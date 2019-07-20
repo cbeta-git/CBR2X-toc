@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2163_001.xml#p1068c08">上表</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2163_001.xml#p1069a16">上新請來法門并佛像道具事</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2163_001.xml#p1071a18">傳法阿闍梨耶付物</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2163_001.xml#p1068c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

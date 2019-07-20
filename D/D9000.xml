@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D57/D57n9000_001.xml#p0001b02">尚直編</cblink>
+	<ol>
+		<li><cblink href="XML/D/D57/D57n9000_001.xml#p0001b02">序</cblink></li>
+		<li><cblink href="XML/D/D57/D57n9000_001.xml#p0003b01">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D57/D57n9000_003.xml#p0066b02">尚理編</cblink>
+	<ol>
+		<li><cblink href="XML/D/D57/D57n9000_003.xml#p0066b02">序</cblink></li>
+		<li><cblink href="XML/D/D57/D57n9000_003.xml#p0068b01">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D57/D57n9000_003.xml#p0086b01">天隠文集</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D57/D57n9000_001.xml#p0001b01">第一</cblink></li>
+	<li><cblink href="XML/D/D57/D57n9000_002.xml#p0037b01">第二</cblink></li>
+	<li><cblink href="XML/D/D57/D57n9000_003.xml#p0066b01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

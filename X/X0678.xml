@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0678_001.xml#p0052a02">No. 678-A 梵網經菩薩心地品戒疏(并序)</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_001.xml#p0052a24">梵網菩薩戒經疏註</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_003.xml#p0131c03">No. 678-B</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_003.xml#p0131c21">半月布薩法式</cblink>
+	<ol>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0131c22">一鳴鐘集眾</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132a03">二作禮說布薩偈</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132a07">三法事僧出眾秉白行事</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132a16">四維那鳴槌曰眾警念發願</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132b03">五白未發心者出</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132b06">五問持</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132b10">六問小護</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132b12">七問清淨入</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132b22">九行在家籌</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c01">十結唱籌數</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c05">十一請上座說戒</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c11">十二請說戒</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c14">十三戒師陞座</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c17">十四梵音</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c18">十五燒香散花</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0132c24">十六誦戒</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0133a02">十七誦畢梵唱</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0133a05">十八戒師禮謝</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0133a08">十九三歸</cblink></li>
+		<li><cblink href="XML/X/X38/X38n0678_003.xml#p0133a13">二十大眾慶快</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0678_001.xml#p0052b02">上之一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_001.xml#p0059a17">上之二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_001.xml#p0069a10">上之三</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_002.xml#p0077c04">中之一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_002.xml#p0087a13">中之二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_002.xml#p0097b01">中之三</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_003.xml#p0107c01">下之一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0678_003.xml#p0117b04">下之二</cblink></li>
+</ol>
+</nav>
+</body></html>

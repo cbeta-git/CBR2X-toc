@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0682_001.xml#p0747b19">大唐新翻密嚴經序</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_001.xml#p0747c24">1 密嚴道場品(上)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_001.xml#p0751a01">2 入密嚴微妙身生品(上-中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_002.xml#p0759b12">3 胎藏生品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_002.xml#p0759c26">4 自作境界品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_002.xml#p0762c08">5 辯觀行品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_002.xml#p0763c16">6 趣入阿賴耶品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_003.xml#p0766b08">7 我識境界品(下)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_003.xml#p0766c12">8 阿賴耶即密嚴品(下)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0682_001.xml#p0747c18">上</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_002.xml#p0755c16">中</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0682_003.xml#p0766b02">下</cblink></li>
+</ol>
+</nav>
+</body></html>

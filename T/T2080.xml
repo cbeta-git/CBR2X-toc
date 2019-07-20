@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2080_001.xml#p0773c06">第一篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2080_001.xml#p0776a02">第二篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2080_002.xml#p0777c18">第三篇</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2080_002.xml#p0782a19">第四篇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2080_001.xml#p0773c03">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2080_002.xml#p0777c15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

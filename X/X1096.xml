@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0518a02">No. 1096-A 淨心誡觀發真鈔卷上(并序)</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0518a18">No. 1096-B 淨心誡觀法序</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0518b18">題目　作者　前文　篇目</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0520c05">釋名篇第一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0522b02">序宗篇第二</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0525a24">五停篇第三</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0529a06">挍量篇第四</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0531b03">自慶篇第五</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0532b13">善根篇第六</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0533b18">破戒篇第七</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0536a08">邪命篇第八</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0536c12">誑佛篇第九</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0537c05">造過篇第十</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0540a06">解脫篇第十一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0542a16">食緣篇第十二</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0544a24">流轉篇第十三</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0545c17">不動篇第十四</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0547a09">過患篇第十五</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0548b18">心濁篇第十六</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0549b23">二報篇第十七</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0550c17">結使篇第十八</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0552a19">緣生篇第十九</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0554b03">安般篇第二十</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0555c19">相資篇二十一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0557c15">因果篇二十二</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0561a02">止劫篇二十三</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0561c15">二諦篇二十四</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0563b08">心行篇二十五</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0565a03">菩提篇二十六</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0568b10">教化篇二十七</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0573c12">佛性篇二十八</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0576a05">福田篇二十九</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0578a09">受持篇三十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0518b14">上本</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_001.xml#p0529a04">上末</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0540a04">中本</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_002.xml#p0548b16">中末</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0557c13">下本</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1096_003.xml#p0568b08">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

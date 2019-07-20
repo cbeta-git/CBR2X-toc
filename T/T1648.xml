@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1648_001.xml#p0399c13">1 因緣品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_001.xml#p0400b29">2 分別戒品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_002.xml#p0404b20">3 頭陀品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_002.xml#p0406c20">4 分別定品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_002.xml#p0408a28">5 覓善知識品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_003.xml#p0409b24">6 分別行品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_003.xml#p0411a07">7 分別行處品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_004.xml#p0412b21">8 行門品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T32/T32n1648_004.xml#p0412b21">1</cblink></li>
+		<li><cblink href="XML/T/T32/T32n1648_005.xml#p0418a07">2</cblink></li>
+		<li><cblink href="XML/T/T32/T32n1648_006.xml#p0424a24">3</cblink></li>
+		<li><cblink href="XML/T/T32/T32n1648_007.xml#p0429c16">4</cblink></li>
+		<li><cblink href="XML/T/T32/T32n1648_008.xml#p0435a10">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T32/T32n1648_009.xml#p0441a25">9 五通品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_009.xml#p0444c04">10 分別慧品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_010.xml#p0445c11">11 五方便品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T32/T32n1648_010.xml#p0445c11">1</cblink></li>
+		<li><cblink href="XML/T/T32/T32n1648_011.xml#p0452a06">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T32/T32n1648_011.xml#p0453b29">12 分別諦品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T32/T32n1648_011.xml#p0453b29">1</cblink></li>
+		<li><cblink href="XML/T/T32/T32n1648_012.xml#p0456c10">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1648_001.xml#p0399c09">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_002.xml#p0404b16">第二</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_003.xml#p0409b20">第三</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_004.xml#p0412b17">第四</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_005.xml#p0418a03">第五</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_006.xml#p0424a20">第六</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_007.xml#p0429c12">第七</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_008.xml#p0435a06">第八</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_009.xml#p0441a21">第九</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_010.xml#p0445c07">第十</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_011.xml#p0452a02">第十一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1648_012.xml#p0456c06">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0286_001.xml#p0497c06">1 歡喜地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_001.xml#p0504b06">2 離垢地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_002.xml#p0506c27">3 明地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_002.xml#p0509b19">4 焰地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_002.xml#p0511b08">5 難勝地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_003.xml#p0514a05">6 現前地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_003.xml#p0517a09">7 遠行地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_003.xml#p0520b06">8 不動地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_004.xml#p0524a17">9 妙善地</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_004.xml#p0527c13">10 法雲地</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0286_001.xml#p0497c03">第一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_002.xml#p0506c24">第二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_003.xml#p0514a02">第三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0286_004.xml#p0524a14">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

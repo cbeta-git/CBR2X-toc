@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0487_001.xml#p0225a06">金剛般若經偈會本敘</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0487_001.xml#p0225b09">No. 487-1 金剛般若經偈會本</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0487_001.xml#p0231b06">No. 487-2 金剛新眼疏經偈合釋通敘大意</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0487_001.xml#p0234b02">No. 487-3 金剛新眼疏經偈合釋懸示</cblink>
+	<ol>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0234b06">前文</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0234b11">一翻譯前後</cblink>
+		<ol>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0234b14">一姚秦鳩摩羅什譯</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0235a05">二元魏菩提留支譯</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0235b15">三陳朝真諦譯</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0236a04">四隋朝笈多譯</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0236b07">五唐玄奘法師譯</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0236c19">六唐義淨法師譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0237b02">二宣說時處</cblink>
+		<ol>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0237b03">第一日出先照時</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0237b07">第二日昇轉照時</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0237b21">第三日沒還照時</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0237c09">三教乘攝屬</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0238b17">四因緣所為</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0239c10">五受持感通</cblink></li>
+		<li><cblink href="XML/X/X25/X25n0487_001.xml#p0240b03">六釋題解文</cblink>
+		<ol>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0240b05">一總釋名題</cblink></li>
+			<li><cblink href="XML/X/X25/X25n0487_001.xml#p0241c07">二別解文義</cblink>
+			<ol>
+				<li><cblink href="XML/X/X25/X25n0487_001.xml#p0241c11">一序分</cblink></li>
+				<li><cblink href="XML/X/X25/X25n0487_001.xml#p0244c14">二正宗分</cblink></li>
+				<li><cblink href="XML/X/X25/X25n0487_002.xml#p0281c03">三流通分</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0487_001.xml#p0240b02">第一</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0487_002.xml#p0254c12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

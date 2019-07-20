@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/F/F29/F29n1099_001.xml#p0385a09">無上玉皇心印經</cblink></li>
+	<li><cblink href="XML/F/F29/F29n1099_001.xml#p0386a05">傳經始流</cblink></li>
+	<li><cblink href="XML/F/F29/F29n1099_001.xml#p0386a20">同盟助貲</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/F/F29/F29n1099_001.xml#p0385a09">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

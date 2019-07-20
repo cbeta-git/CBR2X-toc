@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J24/J24nB137_001.xml#p0357a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J24/J24nB137_001.xml#p0357a01">重刻趙州祖師語錄序</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_001.xml#p0357c01">趙王與師作真讚</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_001.xml#p0357c03">哭趙州和尚二首</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_001.xml#p0357c11">助刻姓氏</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J24/J24nB137_001.xml#p0358a01">語錄</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB137_003.xml#p0370c30">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J24/J24nB137_003.xml#p0370c30">十二時歌</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_003.xml#p0371b07">見起塔乃有頌</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_003.xml#p0371b10">因見諸方見解異途乃有頌呵</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_003.xml#p0371b13">因魚鼓有頌</cblink></li>
+		<li><cblink href="XML/J/J24/J24nB137_003.xml#p0371b16">因蓮花有頌</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J24/J24nB137_003.xml#p0371c01">趙州真際禪師行狀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J24/J24nB137_001.xml#p0358a01">第一</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB137_002.xml#p0363c01">第二</cblink></li>
+	<li><cblink href="XML/J/J24/J24nB137_003.xml#p0368a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

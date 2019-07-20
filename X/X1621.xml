@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0215a07">優婆夷志目錄</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0215b10">龐行婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0215b18">靈照女</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0215c09">煎茶婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0215c21">凌行婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0216a19">李行婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0216b04">臺山婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0216b22">轉藏婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0216c10">一掌婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0216c15">無語婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217a01">插田婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217a08">寄宿婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217a15">臨齋婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217a19">鄭十三娘</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217b10">住菴婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217b19">平田嫂</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217c04">閉門婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217c10">鳳林婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0217c17">賣餅婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0218a06">拋兒婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0218a18">甘贄妻</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0218b06">崔練師</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0218b18">陳道婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0218b24">俞道婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0218c23">燒庵婆</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0219a10">行錢婦</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0219a15">覺庵祖道人</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0219b04">明令人</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0219b16">范縣君</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0219c01">秦國夫人</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0219c17">沈道婆</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1621_001.xml#p0215b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

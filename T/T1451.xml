@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1451_001.xml#p0207a03">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_002.xml#p0210c03">第二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_003.xml#p0215a18">第三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_004.xml#p0220a02">第四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_005.xml#p0224a18">第五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_006.xml#p0228c23">第六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_007.xml#p0232c16">第七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_008.xml#p0237a02">第八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_009.xml#p0240c18">第九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_010.xml#p0245a16">第十</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_011.xml#p0251a10">第十一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_012.xml#p0256b13">第十二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_013.xml#p0262a23">第十三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_014.xml#p0266b21">第十四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_015.xml#p0271b02">第十五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_016.xml#p0276a02">第十六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_017.xml#p0282a02">第十七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_018.xml#p0286c05">第十八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_019.xml#p0292a22">第十九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_020.xml#p0297b09">第二十</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_021.xml#p0301c14">第二十一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_022.xml#p0307a22">第二十二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_023.xml#p0312b02">第二十三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_024.xml#p0317b21">第二十四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_025.xml#p0324c14">第二十五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_026.xml#p0329a03">第二十六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_027.xml#p0333c17">第二十七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_028.xml#p0338c06">第二十八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_029.xml#p0345c18">第二十九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_030.xml#p0351b02">第三十</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_031.xml#p0357c14">第三十一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_032.xml#p0363b11">第三十二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_033.xml#p0369b20">第三十三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_034.xml#p0374b10">第三十四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_035.xml#p0379c02">第三十五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_036.xml#p0384b02">第三十六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_037.xml#p0389b15">第三十七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_038.xml#p0396a06">第三十八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_039.xml#p0402a20">第三十九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1451_040.xml#p0407c23">第四十</cblink></li>
+</ol>
+</nav>
+</body></html>

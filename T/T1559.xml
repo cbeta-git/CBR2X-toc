@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1559_001.xml#p0161a03">序</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_001.xml#p0161c06">1 分別界品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_002.xml#p0173a04">2 分別根品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1559_002.xml#p0173a04">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_003.xml#p0177c07">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_004.xml#p0184c02">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_005.xml#p0191c02">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1559_006.xml#p0198a24">3 分別世間品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1559_006.xml#p0198a24">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_007.xml#p0204c02">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_008.xml#p0211c02">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_009.xml#p0218b09">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1559_010.xml#p0225a18">4 分別業品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1559_010.xml#p0225a18">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_011.xml#p0231b04">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_012.xml#p0238a02">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_013.xml#p0244b24">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1559_014.xml#p0252c06">5 分別惑品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1559_014.xml#p0252c06">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_015.xml#p0259c19">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1559_016.xml#p0266a14">6 分別聖道果人品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1559_016.xml#p0266a14">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_017.xml#p0272c02">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_018.xml#p0278c24">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1559_019.xml#p0285c11">7 分別慧品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1559_019.xml#p0285c11">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1559_020.xml#p0291a16">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1559_021.xml#p0296b06">8 分別三摩跋提品</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_022.xml#p0304a17">9 破說我品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1559_001.xml#p0161c02">第一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_002.xml#p0169a02">第二</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_003.xml#p0177c07">第三</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_004.xml#p0184c02">第四</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_005.xml#p0191c02">第五</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_006.xml#p0198a20">第六</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_007.xml#p0204c02">第七</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_008.xml#p0211c02">第八</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_009.xml#p0218b09">第九</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_010.xml#p0225a14">第十</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_011.xml#p0231b04">第十一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_012.xml#p0238a02">第十二</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_013.xml#p0244b24">第十三</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_014.xml#p0252c02">第十四</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_015.xml#p0259c19">第十五</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_016.xml#p0266a10">第十六</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_017.xml#p0272c02">第十七</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_018.xml#p0278c24">第十八</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_019.xml#p0285c07">第十九</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_020.xml#p0291a16">第二十</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_021.xml#p0296b02">第二十一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1559_022.xml#p0304a13">第二十二</cblink></li>
+</ol>
+</nav>
+</body></html>

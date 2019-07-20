@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0001a01">一　三歸文</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0001a10">二　十戒文</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0002a03">三　三十二身分</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0002a08">四　問沙彌文</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0003a03">五　吉祥經</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0004a09">六　三寶經</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0007a10">七　戶外經</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0009a05">八　伏藏經</cblink></li>
+	<li><cblink href="XML/N/N26/N26n0008_001.xml#p0011a04">九　慈悲經</cblink></li>
+</ol>
+</nav>
+</body></html>

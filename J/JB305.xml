@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB305_001.xml#p0399a03">語錄</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB305_001.xml#p0403b01">塔銘</cblink></li>
+	<li><cblink href="XML/J/J34/J34nB305_001.xml#p0405b01">行略</cblink>
+	<ol>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0405b03">參學事實</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0406a06">通報恩和尚</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0406a19">通聖恩和尚</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0406b10">通靈隱和尚</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0406c03">通淨慈和尚</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0406c19">通同門毅菴諸大師</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0407a03">上靈巖老和尚</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0407a23">與宗黨親故書</cblink></li>
+		<li><cblink href="XML/J/J34/J34nB305_001.xml#p0407c15">示若千山子</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J34/J34nB305_001.xml#p0399a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

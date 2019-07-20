@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1232_001.xml#p0158b05">No. 1232-A</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1232_001.xml#p0158c02">智覺禪師自行錄</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1232_001.xml#p0165c12">No. 1232-B 自行錄䟦</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1232_001.xml#p0166a11">No. 1232-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1232_001.xml#p0158c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

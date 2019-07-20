@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb003a01">卷首</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb003a01">叙</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb005a06">寺圖</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb009a01">碑記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb011a04">總叙</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb011a05">概述</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb012a02">艮山門</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb012a10">沙河壖</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb013a06">俞家橋　清涼閘　閘衖</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb014a09">吳家更樓</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb015a10">聖帝殿　九里松塘</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb017a10">花園衖</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb018a03">聞王廟</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb021a05">崇福寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_002.xml#pb033a04">寺宇上</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_002.xml#pb033a05">關帝殿</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_002.xml#pb034a02">關帝笤經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb053a04">寺宇下</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb053a05">天王殿</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb054a07">大殿</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb058a03">伽藍殿</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb058a07">祖師殿</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb058a10">大悲閣</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb059a08">九閒樓</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb063a06">祖堂</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb063a09">報本堂</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb064a02">廚房</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb064a06">齋堂</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb067a05">本寺六房</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb067a06">南房</cblink></li>
+			<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb067a09">東北房</cblink></li>
+			<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb068a03">西房</cblink></li>
+			<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb068a08">西北房</cblink></li>
+			<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb069a01">中房</cblink></li>
+			<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb069a04">西南房</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb069a07">寺產</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb075a06">方丈九閒樓基地</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb077a01">中房公議</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb079a04">董得春等捨書</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb080a02">沈海雲捨書</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb083a04">住持</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb083a05">概述</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb084a04">明義智厚禪師</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb085a04">存如師</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb085a07">四航超海和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb086a08">懋華師</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb087a01">霽遠師</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb087a04">明滄師</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb087a08">勝瑢師</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb088a03">蔭寰培和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb088a05">匡源洪和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb088a07">靜山相和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb088a10">晚楓翹和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb089a02">鑒開照和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb089a03">真如奇和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb089a05">善化孝和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb089a07">普懷權和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb089a09">宏傳芳和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb090a01">會文源和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb090a03">普見嚴和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb090a05">融通和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb090a08">廣瑞和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb091a02">巨根和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb091a06">大能源和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb091a08">道宏和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb092a02">道廣蓮和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb092a04">心一通和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb092a08">自求和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb093a07">雨耕潤和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb093a10">際元和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb094a03">久賢達聖和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb094a07">稑潤徹和尚</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb094a10">玉山真源和尚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb095a03">各房山主</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb095a04">概述</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb095a09">南房</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb096a03">東北房</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb096a07">西房</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb097a07">西北房</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb098a02">中房</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb098a10">西南房</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb099a01">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb099a02">實彰</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb099a09">悟明</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb100a02">檀護</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb100a03">概述</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb100a09">宋思山</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb101a01">蔡廷檀</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb101a05">玉存</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb101a07">吳容菴</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb101a10">吳岐生</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb102a03">吳道深</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb102a07">沈天生</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb103a01">劉元明</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb103a03">吳西林</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb104a07">施煥章</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb104a09">翟美懷</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb105a01">楊爾迪</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb105a03">唐仲周　宋憲章　徐良臣　祝君發　屠搢坤　趙武公</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb105a06">俞民瞻</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb105a09">俞漢文</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb106a01">吳隆昌</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb106a05">周端書</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb106a09">祝廣倫</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb107a03">屠文英</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb108a01">周辯</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb108a03">董得春　董象春</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb108a05">沈海雲</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb108a07">湯明賢</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb108a09">章謙六</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb109a01">陳邵</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb109a04">沈懷宗</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb109a06">楊建侯同室呂氏</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb109a07">趙峻昭同室趙氏</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb109a10">鄭漢章</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb110a01">李錦章　孫茂昌　章大有　張聖和</cblink></li>
+		<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb110a04">王泰甫</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb111a01">重建碑記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/GA/GA030/GA030n0030_001.xml#pb003a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_002.xml#pb033a01">第二</cblink></li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_003.xml#pb053a01">第三</cblink></li>
+	<li><cblink href="XML/GA/GA030/GA030n0030_004.xml#pb083a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

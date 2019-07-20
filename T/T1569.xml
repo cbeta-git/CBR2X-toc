@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1569_001.xml#p0167c11">序</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_001.xml#p0168a22">1 捨罪福品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_001.xml#p0170c11">2 破神品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_001.xml#p0173b22">3 破一品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0174c06">4 破異品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0175c11">5 破情品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0176b14">6 破塵品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0177a29">7 破因中有果品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0178a18">8 破因中無果品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0179b08">9 破常品</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0181a06">10 破空品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T30/T30n1569_001.xml#p0168a18">第一</cblink></li>
+	<li><cblink href="XML/T/T30/T30n1569_002.xml#p0174c02">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

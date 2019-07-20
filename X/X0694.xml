@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0694_001.xml#p0618a02">No. 694-A 梵網合註綠起</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_001.xml#p0618b22">凡例</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_001.xml#p0619a09">佛說梵網經菩薩心地品合註</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_007.xml#p0694a15">No. 694-B 合註䟦語</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_007.xml#p0694b08">No. 694-C 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0694_001.xml#p0619a11">第一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_002.xml#p0629c16">第二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_003.xml#p0642b11">第三</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_004.xml#p0653a13">第四</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_005.xml#p0663b02">第五</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_006.xml#p0673a02">第六</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0694_007.xml#p0683c17">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

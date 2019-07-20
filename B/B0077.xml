@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B12/B12n0077_001.xml#p0003a02">序</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_001.xml#p0007a02">敘例</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_001.xml#p0013a02">目錄</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_001.xml#p0025a01">原序</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_001.xml#p0043a06">城內</cblink>
+	<ol>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0043a07">永寧寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0074a15">建中寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0077a10">長秋寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0080a02">瑤光寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0083a08">景樂寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0085a09">昭儀尼寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0088a14">胡統寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0089a06">修梵寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_001.xml#p0090a15">景林寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B12/B12n0077_002.xml#p0099a04">城東</cblink>
+	<ol>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0099a05">明懸尼寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0100a04">龍華寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0102a06">瓔珞寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0102a15">宗聖寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0103a05">崇真寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0107a04">魏昌尼寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0107a11">景興尼寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0111a10">莊嚴寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0112a02">秦太上君寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0116a12">正始寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0123a06">平等寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_002.xml#p0131a11">景寧寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B12/B12n0077_003.xml#p0143a04">城南</cblink>
+	<ol>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0143a05">景明寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0148a12">大統寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0149a07">秦太上公寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0151a13">報德寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0154a03">正覺寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0158a01">龍華寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0165a02">菩提寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0167a05">高陽王寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_003.xml#p0171a07">崇虛寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B12/B12n0077_004.xml#p0175a04">城西</cblink>
+	<ol>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0175a05">沖覺寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0177a13">宣忠寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0181a08">王典御寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0182a02">白馬寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0184a12">寶光寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0186a03">法雲寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0193a09">開善寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0200a01">追先寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0202a14">融覺寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0204a06">大覺寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_004.xml#p0205a01">永明寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B12/B12n0077_005.xml#p0213a04">城北</cblink>
+	<ol>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0213a05">禪虛寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0214a11">凝玄寺</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0216a10">宋雲惠生使西域</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0261a13">京師建制及郭外諸寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B12/B12n0077_005.xml#p0267a02">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0267a04">年表</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0271a02">引用書目</cblink></li>
+		<li><cblink href="XML/B/B12/B12n0077_005.xml#p0277a02">人名索引</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B12/B12n0077_001.xml#p0003a01">第一</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_002.xml#p0099a01">第二</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_003.xml#p0143a01">第三</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_004.xml#p0175a01">第四</cblink></li>
+	<li><cblink href="XML/B/B12/B12n0077_005.xml#p0213a01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

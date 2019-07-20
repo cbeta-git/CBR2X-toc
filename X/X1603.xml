@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0483a05">釋氏源流五宗世譜定祖圖序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0483c10">祖圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484a05">溈仰宗</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484a08">臨濟宗</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484b22">曹洞宗</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484c09">雲門宗</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484c13">法眼宗</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484c16">偽仰派</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0484c19">臨濟派</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0485a24">曹洞派</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0485c11">雲門派</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0485c14">法眼派</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1603_001.xml#p0483a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

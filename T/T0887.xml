@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0887_001.xml#p0514b12">1 影像分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_001.xml#p0516c25">2 智部三摩地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_002.xml#p0518a15">3 真實攝部三摩地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_002.xml#p0519b14">4 法部三摩地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_002.xml#p0520a23">5 迦摩部三摩地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_002.xml#p0520c06">6 三昧最上智一切成就分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_002.xml#p0521a05">7 一切佛甚深祕密供養分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_003.xml#p0522a13">8 一切如來智證最上祕密分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_003.xml#p0522c08">9 金剛薩埵一切祕密三昧分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_003.xml#p0523b26">10 一切三昧成就禪定曼拏羅分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_003.xml#p0524a02">11 大禪定分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_004.xml#p0525b14">12 出生大禪定分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_004.xml#p0525c22">13 勝大明教最初事業分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_004.xml#p0526c20">14 辦事分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_004.xml#p0527a04">15 大遍照如來一切大明金剛出生分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_005.xml#p0532b04">16 一切大明三昧分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_005.xml#p0532b22">17 一切如來一切大明遣魔分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_005.xml#p0532c09">18 一切如來祕密金剛薩埵承事分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_006.xml#p0533b07">19 一切如來大明如意寶分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_006.xml#p0535a12">20 集一切大明三摩地分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_006.xml#p0536a16">21 一切如來身語心清淨自性金剛大智分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0887_001.xml#p0514b07">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_002.xml#p0518a10">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_003.xml#p0522a08">第三</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_004.xml#p0525b09">第四</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_005.xml#p0529b11">第五</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0887_006.xml#p0533b02">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

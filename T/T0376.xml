@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0376_001.xml#p0853a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_001.xml#p0856c07">2 大身菩薩品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_001.xml#p0857c27">3 長者純陀品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_002.xml#p0861a09">4 哀歎品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_002.xml#p0863b21">5 長壽品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_002.xml#p0866a15">6 金剛身品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_002.xml#p0867c12">7 受持品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_003.xml#p0868a24">8 四法品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_004.xml#p0875c28">9 四依品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_004.xml#p0880a19">10 分別邪正品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0882c15">11 四諦品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0883a23">12 四倒品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0883b13">13 如來性品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0887c18">14 文字品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0889a15">15 鳥喻品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0890a28">16 月喻品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_006.xml#p0891b22">17 問菩薩品</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_006.xml#p0896a05">18 隨喜品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T12/T12n0376_001.xml#p0853a03">第一</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_002.xml#p0861a06">第二</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_003.xml#p0868a21">第三</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_004.xml#p0875c25">第四</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_005.xml#p0882c12">第五</cblink></li>
+	<li><cblink href="XML/T/T12/T12n0376_006.xml#p0891b19">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

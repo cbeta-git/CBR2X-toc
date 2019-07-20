@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1645_001.xml#p0226a11">彰所知論序</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1645_001.xml#p0226b11">1 器世界品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1645_001.xml#p0228b06">2 情世界品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1645_002.xml#p0233c23">3 道法品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1645_002.xml#p0234b07">4 果法品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1645_002.xml#p0236b05">5 無為法品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1645_001.xml#p0226b01">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1645_002.xml#p0231c13">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

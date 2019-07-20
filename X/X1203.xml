@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0678a05">No. 1203-A 修西輯要序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0678b07">十念真因</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0678b20">淨業常課</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0678c08">記數執持(節錄蕅益大師語錄)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0679a06">依願起修(節引徹悟禪師語錄)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0679a24">專修利益(節錄徹悟禪師語錄)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0679c03">信願深切(參用蕅益大師徹悟禪師語錄)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0679c23">斷愛實行(錄憨山大師語錄)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0680a22">戒行清淨(參用妙叶禪師語錄)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0680b13">尅期取證</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0681a06">睡醒警覺</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0681a19">回向往生(節錄二林居士)</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0681b19">臨終大事</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0682a18">念佛常課儀式</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0682b14">睡時入觀儀式</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0682c09">禮拜四十八願儀式</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1203_001.xml#p0678b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

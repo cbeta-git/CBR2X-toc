@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0517_001.xml#p0218c07">經題　譯者</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_001.xml#p0220a20">序品第一</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_002.xml#p0229b19">觀如來品第二</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_002.xml#p0240c21">菩薩行品第三</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_003.xml#p0264b13">二諦品第四</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_004.xml#p0270c11">護國品第五</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_004.xml#p0277a16">不思議品第六</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_004.xml#p0280a12">奉持品第七</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_005.xml#p0302b04">囑累品第八</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_005.xml#p0306a14">No. 517-A 仁王護國經科疏䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0517_001.xml#p0218c02">第一</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_002.xml#p0229b16">第二</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_003.xml#p0252c04">第三</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_004.xml#p0270c08">第四</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0517_005.xml#p0289b21">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

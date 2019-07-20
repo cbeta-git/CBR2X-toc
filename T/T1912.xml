@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1912_001.xml#p0141a03">止觀輔行傳弘決序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1912_001.xml#p0141b09">第一之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_001.xml#p0150a07">第一之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_001.xml#p0160c08">第一之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_001.xml#p0166c08">第一之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_001.xml#p0174c02">第一之五</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_002.xml#p0182a09">第二之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_002.xml#p0189a08">第二之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_002.xml#p0197a23">第二之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_002.xml#p0203b02">第二之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_002.xml#p0209c07">第二之五</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_003.xml#p0216c10">第三之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_003.xml#p0224c23">第三之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_003.xml#p0232c10">第三之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_003.xml#p0242a11">第三之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_004.xml#p0252a15">第四之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_004.xml#p0258a15">第四之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_004.xml#p0263c02">第四之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_004.xml#p0270c25">第四之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_005.xml#p0277b07">第五之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_005.xml#p0284c02">第五之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_005.xml#p0292b18">第五之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_005.xml#p0300c18">第五之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_005.xml#p0309b12">第五之五</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_005.xml#p0318a10">第五之六</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_006.xml#p0329a02">第六之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_006.xml#p0335b10">第六之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_006.xml#p0343c09">第六之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_006.xml#p0350b14">第六之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_007.xml#p0357b02">第七之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_007.xml#p0364c09">第七之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_007.xml#p0372c02">第七之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_007.xml#p0380c04">第七之四</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_008.xml#p0389a02">第八之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_008.xml#p0394c02">第八之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_008.xml#p0400c20">第八之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_009.xml#p0410c13">第九之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_009.xml#p0416b06">第九之二</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_009.xml#p0421c17">第九之三</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_010.xml#p0433b02">第十之一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1912_010.xml#p0439a12">第十之二</cblink></li>
+</ol>
+</nav>
+</body></html>

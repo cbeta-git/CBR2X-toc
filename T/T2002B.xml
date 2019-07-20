@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2002B_001.xml#p0133b25">天童遺落錄序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2002B_001.xml#p0134a20">天童山如淨禪師續語錄</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2002B_001.xml#p0136a10">觀音導利興聖寶林寺</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2002B_001.xml#p0137a01">記天童淨和尚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2002B_001.xml#p0134a17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

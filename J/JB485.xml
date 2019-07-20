@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0279a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB485_001.xml#p0279a01">江賀勛序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0279a21">請啟</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0279b03">住四川忠州敕建振宗禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0281b15">普說</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0281c06">小參</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0281c27">法語</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0282b14">機緣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283a03">佛事</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283c05">讚偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283c06">達磨真讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283c13">觀音讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283c16">聚雲師翁真讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283c20">慶忠老人真讚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283c23">題四景畫軸</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284a04">巡照警語</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284a15">示鎮九文學</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284a18">示舌端上座</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284a21">示何居士再晤</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284b01">示同參</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284b08">示睿珍上座</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284b11">示單傳書記</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284b14">示中行名性心</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284b16">詠蓮</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c06">辭老人復歸聚雲</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c10">拙菴居士見訪次韻奉酬</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c14">次寶善居士除夕</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c18">中秋無月</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c22">賀姪檢選</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c26">郡侯杜公次韻</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0284c30">山居</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a04">山居(五言律)</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a13">次張相公韻</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a16">乙卯春因郡侯劉公陞任夔州歷感弘護兼別贈言次韻酬答</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a20">遊白帝城口占</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a23">示了明吳居士法名性己號自在</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a25">示了凡夏居士法名性侶</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a28">示祇園游居士法名性地</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285a30">示龍華譚居士法名性一</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285b02">示廿五游居士法名空持</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285b04">募衣偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285b11">書問</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285b12">復太守劉公</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285c06">復城守李公</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285c17">寄同鄉李公書</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0285c24">復楚省童真和尚書</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0286a04">復南濱三一和尚</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0286a10">復靜默上座</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB485_002.xml#p0286a20">復睿珍單傳二座</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB485_002.xml#p0286b01">塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB485_001.xml#p0279b01">第一</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB485_002.xml#p0283a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

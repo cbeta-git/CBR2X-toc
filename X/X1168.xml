@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1168_001.xml#p0849b02">No. 1168-A 淨土生無生論親聞記序</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1168_001.xml#p0849b20">No. 1168-B 淨土生無生論序</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1168_001.xml#p0849c17">卷上</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1168_001.xml#p0860a01">釋義</cblink>
+	<ol>
+		<li><cblink href="XML/X/X61/X61n1168_001.xml#p0860a02">序</cblink></li>
+		<li><cblink href="XML/X/X61/X61n1168_001.xml#p0860a08">論記</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X61/X61n1168_002.xml#p0860b10">卷下</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1168_002.xml#p0871a02">No. 1168-C 䟦語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1168_001.xml#p0849c14">第一</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1168_002.xml#p0860b07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

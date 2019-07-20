@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0394a06">序言</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0397a22">第一節　論三儀軌以T907為最古</cblink></li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0400a09">第二節　關於T907的出處、成書年代及作者</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0400a10">前文</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0400a19">一、安惠與T907</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0403a04">二、圓珍與T907</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0412a18">三、安然與T907</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0416a26">第三節　T905與T906的出處及成書年代</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0416a27">前文</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0417a06">一、關於T905的出處</cblink></li>
+		<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0424a14">二、關於T906的出處</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW04/ZW04n0044_001.xml#p0426a21">結語</cblink></li>
+</ol>
+</nav>
+</body></html>

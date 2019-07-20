@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0843_009.xml#p0525a06">釋第十二卷論</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0843_009.xml#p0539b23">釋第十三卷論</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0843_009.xml#p0545c04">No. 843-A</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0843_018.xml#p0545c18">釋第二十九卷論</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0843_018.xml#p0556c21">釋第三十卷論</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0843_018.xml#p0566c16">No. 843-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0843_009.xml#p0525a03">第九</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0843_018.xml#p0545c16">第十八</cblink></li>
+</ol>
+</nav>
+</body></html>

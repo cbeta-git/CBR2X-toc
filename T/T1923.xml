@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1923_002.xml#p0633a10">四念處觀</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1923_002.xml#p0633a11">身念處觀如音品</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1923_002.xml#p0633c19">受念處品</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1923_002.xml#p0636b28">心念處品</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1923_002.xml#p0638b19">法念處品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T46/T46n1923_002.xml#p0640b21">坐禪修覺意</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1923_001.xml#p0627c03">第一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1923_002.xml#p0633a07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

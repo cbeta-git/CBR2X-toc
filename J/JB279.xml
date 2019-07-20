@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0249a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J33/J33nB279_001.xml#p0249a01">王庭序</cblink></li>
+		<li><cblink href="XML/J/J33/J33nB279_001.xml#p0249a21">自敘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0249b11">八識規矩淺說</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0250c05">五識頌</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0252c07">六識頌</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0254a23">七識頌</cblink></li>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0255a17">八識頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J33/J33nB279_001.xml#p0249a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

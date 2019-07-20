@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D49/D49n8942_001.xml#p0001a01">天童宏智覺和尚頌古集</cblink>
+	<ol>
+		<li><cblink href="XML/D/D49/D49n8942_001.xml#p0001a01">序</cblink></li>
+		<li><cblink href="XML/D/D49/D49n8942_001.xml#p0005a01">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D49/D49n8942_002.xml#p0077a01">雪竇明覺和尚頌古集</cblink>
+	<ol>
+		<li><cblink href="XML/D/D49/D49n8942_002.xml#p0077a01">序</cblink></li>
+		<li><cblink href="XML/D/D49/D49n8942_002.xml#p0081a01">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D49/D49n8942_002.xml#p0131a01">新刊四家錄後序</cblink></li>
+	<li><cblink href="XML/D/D49/D49n8942_003.xml#p0135a01">投子山青和尚頌古集</cblink>
+	<ol>
+		<li><cblink href="XML/D/D49/D49n8942_003.xml#p0135a01">序</cblink></li>
+		<li><cblink href="XML/D/D49/D49n8942_003.xml#p0137a01">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D49/D49n8942_004.xml#p0189a01">丹霞山淳禪師頌古集</cblink>
+	<ol>
+		<li><cblink href="XML/D/D49/D49n8942_004.xml#p0189a01">序</cblink></li>
+		<li><cblink href="XML/D/D49/D49n8942_004.xml#p0191a01">本文</cblink></li>
+		<li><cblink href="XML/D/D49/D49n8942_004.xml#p0247a01">後序</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D49/D49n8942_001.xml#p0001a01">第一</cblink></li>
+	<li><cblink href="XML/D/D49/D49n8942_002.xml#p0077a01">第二</cblink></li>
+	<li><cblink href="XML/D/D49/D49n8942_003.xml#p0135a01">第三</cblink></li>
+	<li><cblink href="XML/D/D49/D49n8942_004.xml#p0189a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

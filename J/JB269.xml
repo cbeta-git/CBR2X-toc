@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0671a01">科文</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0673a01">十八住階位圖</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0673a11">十八住階位圖說</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0673b11">二十七疑脈絡圖</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0673b21">二十七疑脈絡圖說</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0673c21">序</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0674b21">例言</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0675a01">會編</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J31/J31nB269_001.xml#p0675a01">第一</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_002.xml#p0681c01">第二</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_003.xml#p0688a01">第三</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_004.xml#p0695a01">第四</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_005.xml#p0702b01">第五</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_006.xml#p0709c01">第六</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_007.xml#p0716c01">第七</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_008.xml#p0724c01">第八</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_009.xml#p0732a01">第九</cblink></li>
+	<li><cblink href="XML/J/J31/J31nB269_010.xml#p0740a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

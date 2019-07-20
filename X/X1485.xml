@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0578b07">占察經行法目次</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0578c06">緣起第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0578c19">勸修第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579a06">簡擇同行第三</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579a13">占察輪相第四</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579a19">正修懺法第五</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579a21">第一嚴淨道場</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579a23">第二清淨三業</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579b04">第三香華供養</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0579c04">第四啟請三寶諸天</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0580a17">第五讚禮三寶</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0581a23">第六修行懺悔</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0581c10">第七發勸請願</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0581c14">第八發隨喜願</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0581c18">第九發迴向願</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1485_001.xml#p0581c22">第十補發願及端坐靜室稱念名號</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0582a19">別明二種觀道第六</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0583c06">附占輪相法</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0584a13">附懺壇中齋佛儀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1485_001.xml#p0578c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

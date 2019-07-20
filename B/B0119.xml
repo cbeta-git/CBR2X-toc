@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B22/B22n0119_001.xml#p0885a01">畫像</cblink></li>
+	<li><cblink href="XML/B/B22/B22n0119_001.xml#p0887a01">墨蹟</cblink></li>
+	<li><cblink href="XML/B/B22/B22n0119_001.xml#p0889a02">引言</cblink></li>
+	<li><cblink href="XML/B/B22/B22n0119_001.xml#p0891a02">年譜</cblink>
+	<ol>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0892a10">明．萬曆～崇禎</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0911a14">明．崇禎～永曆　清．順治</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0939a11">清．康熙</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B22/B22n0119_001.xml#p0975a02">著述考</cblink>
+	<ol>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0975a04">楞伽心印四卷</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0976a03">首楞嚴直指十卷</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0978a15">金剛正法眼</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0979a03">般若心經論</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0979a06">天然昰禪師語錄十二卷</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0983a04">各剎語錄</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0983a12">禪醉</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0984a04">焚筆</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0984a08">天然和尚同住訓略</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0985a04">東莞縣志八卷</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0985a09">似詩</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0987a02">瞎堂詩集二十卷</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0987a11">丹霞詩</cblink></li>
+		<li><cblink href="XML/B/B22/B22n0119_001.xml#p0988a06">遺作</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B22/B22n0119_001.xml#p0885a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

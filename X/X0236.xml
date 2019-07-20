@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X08/X08n0236_001.xml#p0090a03">第一</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_002.xml#p0096c06">第二</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_003.xml#p0103b22">第三</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_004.xml#p0110c17">第四</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_005.xml#p0118b15">第五</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_006.xml#p0125a14">第六</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_007.xml#p0131c11">第七</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_008.xml#p0139c21">第八</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_009.xml#p0146b04">第九</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_010.xml#p0153a24">第十</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_011.xml#p0160b04">第十一</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_012.xml#p0167b22">第十二</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_013.xml#p0175a19">第十三</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_014.xml#p0185a15">第十四</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_015.xml#p0192a01">第十五</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_016.xml#p0204b01">第十六</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_017.xml#p0216a07">第十七</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_018.xml#p0225a19">第十八</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_019.xml#p0232a14">第十九</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_020.xml#p0239b06">第二十</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_021.xml#p0248c11">第二十一</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_022.xml#p0257b15">第二十二</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_023.xml#p0264c08">第二十三</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_024.xml#p0271b10">第二十四</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_025.xml#p0279a10">第二十五</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_026.xml#p0285c16">第二十六</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_027.xml#p0293b09">第二十七</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_028.xml#p0300b03">第二十八</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_029.xml#p0307a20">第二十九</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_030.xml#p0314c15">第三十</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_031.xml#p0322b14">第三十一</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_032.xml#p0329c13">第三十二</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_033.xml#p0337b11">第三十三</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_034.xml#p0346a01">第三十四</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_035.xml#p0355a11">第三十五</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_036.xml#p0365a14">第三十六</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_037.xml#p0371b13">第三十七</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_038.xml#p0383c01">第三十八</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_039.xml#p0394c01">第三十九</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0236_040.xml#p0404b20">第四十</cblink></li>
+</ol>
+</nav>
+</body></html>

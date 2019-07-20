@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D17/D17n8862_001.xml#p0001b01">序</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_001.xml#p0011b01">懸敘</cblink>
+	<ol>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0011b07">一教起因緣</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0024a01">二决定說時</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0028a05">三藏乘分教</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0033b02">四義理幽深</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0036a01">五所被機宜</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0039a07">六能詮體性</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0041b08">七宗趨通別</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0044a08">八會明譯釋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D17/D17n8862_001.xml#p0058b04">釋文</cblink>
+	<ol>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0058b04">九總釋名題</cblink></li>
+		<li><cblink href="XML/D/D17/D17n8862_001.xml#p0064b06">十別觧文義</cblink>
+		<ol>
+			<li><cblink href="XML/D/D17/D17n8862_001.xml#p0064b08">初序分</cblink></li>
+			<li><cblink href="XML/D/D17/D17n8862_001.xml#p0082b09">二正宗分</cblink></li>
+			<li><cblink href="XML/D/D17/D17n8862_010.xml#p1195b09">三流通分</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D17/D17n8862_010.xml#p1206b01">助刻姓氏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D17/D17n8862_001.xml#p0058b01">第一</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_002.xml#p0141b01">第二</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_003.xml#p0245b01">第三</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_004.xml#p0329b01">第四</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_005.xml#p0467b01">第五</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_006.xml#p0553b01">第六</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_007.xml#p0700b01">第七</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_008.xml#p0810b01">第八</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_009.xml#p0983b01">第九</cblink></li>
+	<li><cblink href="XML/D/D17/D17n8862_010.xml#p1095b01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

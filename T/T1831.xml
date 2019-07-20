@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1831_001.xml#p0607a02">上本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1831_001.xml#p0619c02">上末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1831_002.xml#p0633c07">下本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1831_002.xml#p0645a07">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

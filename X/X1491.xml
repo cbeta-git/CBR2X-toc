@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0627a09">前文</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0627b12">香讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0627b13">持呪</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0627b14">修供養</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0627b23">讚禮</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0629a21">讚歎旋遶</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0629b14">發願回向</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0630a14">附</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0631b04">釋義</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0633c19">附供齋讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1491_001.xml#p0627a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

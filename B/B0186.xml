@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0643a04">序</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0643b05">天竺佛法傳通</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0644b16">震旦佛法傳通</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0645a08">毗曇宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0646b03">成實宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0647b12">戒律宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0648b16">三論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0650a01">涅槃宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0650a16">地論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0651a06">淨土宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0651b10">禪宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0652a12">攝論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0652b13">天台宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0653a08">華嚴宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0653b10">法相宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0654a01">真言宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0655b04">大日本國諸宗傳通</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0656a10">三論宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0658b08">法相宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0660b04">華嚴宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0665a04">俱舍宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0666a03">成實宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_003.xml#p0667a04">律宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_003.xml#p0672b06">天台宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_003.xml#p0675a01">真言宗</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_003.xml#p0676b06">跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0186_001.xml#p0643a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_002.xml#p0655b02">第二</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0186_003.xml#p0667a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

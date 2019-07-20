@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0831a16">重刻四明十義書序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0831b15">十義書序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0832c11">1 不解能觀之法</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0834b13">2 不識所觀之心</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0836b25">3 不分內外二境</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0841a12">4 不辨事理二造</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0842b25">5 不曉觀法之功</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0846a05">6 不體心法之難</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0849b18">7 不知觀心之位</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0850a18">8 不會觀心之意</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0852b13">9 不善消文</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0854b22">10 不閑究理</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1936_001.xml#p0832a16">第一</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1936_002.xml#p0842b23">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

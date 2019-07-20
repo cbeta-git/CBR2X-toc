@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0890_001.xml#p0559b26">1 序品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_001.xml#p0560b07">2 曼拏羅品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_001.xml#p0562c11">3 真言品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_002.xml#p0564a18">4 三摩地品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_003.xml#p0568c07">5 真言大智變化品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_004.xml#p0574b23">6 印相大供養儀品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_004.xml#p0577a21">7 觀想菩提心大智品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_005.xml#p0578b07">8 相應方便成就品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_005.xml#p0580b28">9 護摩品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_005.xml#p0582a10">10 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0890_001.xml#p0559b22">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_002.xml#p0564a14">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_003.xml#p0568c03">第三</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_004.xml#p0574b19">第四</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0890_005.xml#p0578b03">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

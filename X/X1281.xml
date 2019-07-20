@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1281_001.xml#p0191a02">No. 1281-A</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_001.xml#p0194a14">御製揀魔辨異錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1281_001.xml#p0194a15">第一</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_002.xml#p0200c14">第二</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_003.xml#p0208b11">第三</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_004.xml#p0215a20">第四</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_005.xml#p0222b07">第五</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_006.xml#p0228b11">第六</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_007.xml#p0236a15">第七</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1281_008.xml#p0245b12">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/A/A110/A110n1490_001.xml#p0661b02">舊入藏錄</cblink>
+	<ol>
+		<li><cblink href="XML/A/A110/A110n1490_001.xml#p0661b02">小乘重單合譯經</cblink></li>
+		<li><cblink href="XML/A/A110/A110n1490_001.xml#p0671a05">小乘單譯經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/A/A110/A110n1490_002.xml#p0673b01">新入藏錄</cblink>
+	<ol>
+		<li><cblink href="XML/A/A110/A110n1490_002.xml#p0673b01">皇朝新翻藏乘統收錄上</cblink></li>
+		<li><cblink href="XML/A/A110/A110n1490_002.xml#p0680b01">皇朝新翻藏乘統收錄下</cblink>
+		<ol>
+			<li><cblink href="XML/A/A110/A110n1490_002.xml#p0680b02">皇宋大中祥符法寶錄序文</cblink></li>
+			<li><cblink href="XML/A/A110/A110n1490_002.xml#p0682a05">緫排新經入藏錄下</cblink>
+			<ol>
+				<li><cblink href="XML/A/A110/A110n1490_002.xml#p0682b01">大乘經</cblink></li>
+				<li><cblink href="XML/A/A110/A110n1490_002.xml#p0695a06">大乘律</cblink></li>
+				<li><cblink href="XML/A/A110/A110n1490_002.xml#p0695a08">大乘論</cblink></li>
+				<li><cblink href="XML/A/A110/A110n1490_002.xml#p0696a02">小乘經</cblink></li>
+				<li><cblink href="XML/A/A110/A110n1490_002.xml#p0699a12">小乘律</cblink></li>
+				<li><cblink href="XML/A/A110/A110n1490_002.xml#p0699b12">聖賢集傳翻譯著撰</cblink>
+				<ol>
+					<li><cblink href="XML/A/A110/A110n1490_002.xml#p0699b13">西方聖賢集傳(梵本翻譯者)</cblink></li>
+					<li><cblink href="XML/A/A110/A110n1490_002.xml#p0701b13">東土聖賢著撰</cblink>
+					<ol>
+						<li><cblink href="XML/A/A110/A110n1490_002.xml#p0702a05">太宗皇帝御製</cblink></li>
+						<li><cblink href="XML/A/A110/A110n1490_002.xml#p0702b11">真宗皇帝御製</cblink></li>
+						<li><cblink href="XML/A/A110/A110n1490_002.xml#p0703a03">高僧集傳</cblink></li>
+						<li><cblink href="XML/A/A110/A110n1490_002.xml#p0703b07">後續譯出經論</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/A/A110/A110n1490_001.xml#p0661b01">第一</cblink></li>
+	<li><cblink href="XML/A/A110/A110n1490_002.xml#p0673b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

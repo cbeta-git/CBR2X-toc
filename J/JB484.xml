@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273a03">宗統頌</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273a03">南岳第一世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273a13">南岳第二世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273a30">南岳第三世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273b10">南岳第四世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273b22">南岳第五世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273c01">南岳第六世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273c13">南岳第七世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273c18">南岳第八世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273c24">南岳第九世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273c30">南岳第十世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274a07">南岳第十一世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274a16">南岳第十二世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274a26">南岳第十三世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274b06">南岳第十四世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274b13">南岳第十五世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274b27">南岳第十六世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274c12">南岳第十七世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0274c25">南岳第十八世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275a04">南岳第十九世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275a16">南岳第二十世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275a25">南岳第二十一世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275b06">南岳第二十二世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275b18">南岳第二十三世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275b28">南岳第二十四世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275c08">南岳第二十五世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275c18">南岳第二十六世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0275c28">南岳第二十七世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0276a08">南岳第二十八世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0276a19">南岳第二十九世</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB484_001.xml#p0276b15">南岳第三十世</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB484_001.xml#p0276c07">塔銘</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB484_001.xml#p0277a21">行狀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB484_001.xml#p0273a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

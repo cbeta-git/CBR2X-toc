@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X68/X68n1316_001.xml#p0341c09">目錄</cblink></li>
+	<li><cblink href="XML/X/X68/X68n1316_001.xml#p0342a22">福州鼓山寺古尊宿語要全部目錄</cblink></li>
+	<li><cblink href="XML/X/X68/X68n1316_001.xml#p0342b19">No. 1316-A 重刻趙州祖師語錄序</cblink></li>
+	<li><cblink href="XML/X/X68/X68n1316_001.xml#p0342c17">尊宿履略　語錄序贊</cblink>
+	<ol>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0342c17">南院和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0342c19">首山和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0342c22">葉縣和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a01">神鼎和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a03">承天和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a06">石門和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a09">法華和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a12">大愚和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a15">雲峰和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343a18">雲峰悅禪師語錄序</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343b02">楊岐和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343b05">道吾和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343b07">大隋和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343b08">衢州子湖山定業禪院第一代神力禪師語錄序</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343b19">讚神力禪師</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343b24">洞山和尚</cblink></li>
+		<li><cblink href="XML/X/X68/X68n1316_001.xml#p0343c03">智門和尚</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X68/X68n1316_001.xml#p0341c07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

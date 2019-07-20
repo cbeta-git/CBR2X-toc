@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0065_001.xml#p0493a16">譯序</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_001.xml#p0497a16">科目</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_001.xml#p0505a15">道前加行</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_002.xml#p0517a15">共下士道</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_003.xml#p0529a15">共中士道</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_004.xml#p0535a15">共上士道</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0065_001.xml#p0493a01">第一</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_002.xml#p0517a15">第二</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_003.xml#p0529a15">第三</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_004.xml#p0535a15">第四</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_005.xml#p0550a15">第五</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0065_006.xml#p0560a15">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

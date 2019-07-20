@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X72/X72n1428_001.xml#p0128a01">No. 1428-A</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_001.xml#p0128a18">No. 1428-B 胡文狀書秘讀序 四十八章圖</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_001.xml#p0128c07">上堂</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_004.xml#p0144b06">示眾</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_005.xml#p0146b07">問答</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148a11">下火</cblink>
+	<ol>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148a11">育王萬庵和尚下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148a17">天童古泉和尚下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148a22">淨慈妙正和尚下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148b04">蔣山奇傳和尚下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148b09">芙蓉傑和尚下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148b14">玄本首座下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148b19">了照首座下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148b24">靈仙首座下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148c05">祐密首座下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148c10">法真首座下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148c15">慶寶書記下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148c20">妙用書記下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149a01">梵言藏主下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149a06">慧明藏主下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149a10">宗仙菴主下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149a15">法遵菴主下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149a19">洞真知客下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149a24">宗麟侍者下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149b06">清信監寺下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149b11">理證典座下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149b16">臨安府王常侍玉田居士下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149b22">興陽府尚書敏聰林居士下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149c04">明州太守刑仙相國祐普居士下火</cblink></li>
+		<li><cblink href="XML/X/X72/X72n1428_006.xml#p0149c13">紹興二十九天己丑晏坐自讚與石霜明總禪師其語曰</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X72/X72n1428_006.xml#p0150a02">No. 1428-C 塔銘曰</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X72/X72n1428_001.xml#p0128c03">第一</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_002.xml#p0134c18">第二</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_003.xml#p0139a07">第三</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_004.xml#p0144b04">第四</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_005.xml#p0146b05">第五</cblink></li>
+	<li><cblink href="XML/X/X72/X72n1428_006.xml#p0148a09">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

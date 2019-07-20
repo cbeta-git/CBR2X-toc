@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2105_001.xml#p0397b24">出後漢書列傳七十八</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2105_001.xml#p0398b17">漢法本內傳第三</cblink></li>
+	<li><cblink href="XML/T/T52/T52n2105_001.xml#p0401c26">傳法記一卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T52/T52n2105_001.xml#p0397b21">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

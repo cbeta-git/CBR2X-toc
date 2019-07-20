@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1779_001.xml#p0711a03">維摩經略疏垂裕記序</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_001.xml#p0717b03">1 佛國品(一-四)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1779_001.xml#p0717b03">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_002.xml#p0727b02">2</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_003.xml#p0741a02">3</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_004.xml#p0753c09">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1779_004.xml#p0756a12">2 方便品(四-五)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1779_004.xml#p0756a12">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_005.xml#p0767b19">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1779_005.xml#p0769b06">3 弟子品(五-七)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1779_005.xml#p0769b06">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_006.xml#p0781c02">2</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_007.xml#p0794c24">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1779_007.xml#p0797b23">4 菩薩品(七-八)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1779_007.xml#p0797b23">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_008.xml#p0808a11">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1779_008.xml#p0809a05">5 問疾品(八-九)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T38/T38n1779_008.xml#p0809a05">1</cblink></li>
+		<li><cblink href="XML/T/T38/T38n1779_009.xml#p0820a12">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T38/T38n1779_009.xml#p0822b26">6 不思議品(九)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_009.xml#p0825b04">7 觀眾生品(九)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0834b05">8 佛道品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0839b17">9 入不二門品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0844a20">10 香積品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0846a11">11 菩薩品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0849b14">12 阿閦品(一〇)(從菩薩行品末至阿閦品中落紙)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0849b14">13 法供養品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0850b16">14 囑累品(一〇)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T38/T38n1779_001.xml#p0711b18">第一</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_002.xml#p0727b02">第二</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_003.xml#p0741a02">第三</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_004.xml#p0753c09">第四</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_005.xml#p0767b19">第五</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_006.xml#p0781c02">第六</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_007.xml#p0794c24">第七</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_008.xml#p0808a11">第八</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_009.xml#p0820a12">第九</cblink></li>
+	<li><cblink href="XML/T/T38/T38n1779_010.xml#p0834b02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

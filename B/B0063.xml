@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0386a02">提醒</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0387a02">序</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0389a07">原論編次</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0391a01">總義</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0394a01">各義</cblink>
+	<ol>
+		<li><cblink href="XML/B/B10/B10n0063_001.xml#p0394a03">一　忿怒母口授偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0063_001.xml#p0396a12">二　幻身口授偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0063_001.xml#p0398a15">三　修夢口授偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0063_001.xml#p0400a04">四　光明口授偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0063_001.xml#p0402a15">五　中有口授偈</cblink></li>
+		<li><cblink href="XML/B/B10/B10n0063_001.xml#p0408a01">六　生西口授偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0413a01">綜論</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0415a01">藏字一覽</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0063_001.xml#p0386a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

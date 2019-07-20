@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0378a02">No. 254-A 圓覺經心鏡序</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0378b04">圓覺經心鏡目次</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0378c09">經題</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0379a09">譯師</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0379a17">序分</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0381a05">正宗分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0254_001.xml#p0381a05">文殊師利菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_001.xml#p0385a19">普賢菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_002.xml#p0388b13">普眼菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_002.xml#p0395b14">金剛藏菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_003.xml#p0398c22">彌勒菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_003.xml#p0404a24">清淨慧菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_004.xml#p0408b14">威德自在菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_004.xml#p0411b14">辨音菩薩章</cblink>
+		<ol>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0411b15">前文</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0412a17">一單修空觀</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0412b16">二單修假觀</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0412c04">三單修中觀</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0412c12">四雙修 先空 後假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0412c18">五雙修 先空 後中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0412c24">六具足修 先空 中假 後中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413a06">七具足修 先空 中中 後假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413a14">八具足修 先修空 齊修假中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413a21">九具足修 齊修空假 後修中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413b03">十具足修 齊修空中 後修假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413b10">十一雙修 先假後空</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413b15">十二雙修 先假 後中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413b21">十三具足修 先假 中空 後中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413c07">十四具足修 先假 中中 後空</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413c14">十五具足修 先修假 齊修空中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0413c21">十六具足修 齊修假空 後修中</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414a03">十七具足修 齊修假中 後修空</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414a10">十八雙修 先中 後空</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414a17">十九雙修 先中 後假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414a24">二十具足修 先中 中空 後假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414b07">二十一具足修 先中 中假 後空</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414b16">二十二具足修 先中 齊修空假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414b22">二十三具足修 齊修中空 後修假</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414c05">二十四具足修 齊修中假 後修空</cblink></li>
+			<li><cblink href="XML/X/X10/X10n0254_004.xml#p0414c11">二十五圓修三觀 三止</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X10/X10n0254_005.xml#p0415c06">淨諸業障菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_005.xml#p0420a14">普覺菩薩章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0254_006.xml#p0424a23">圓覺菩薩章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0254_006.xml#p0428c22">流通分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0254_006.xml#p0428c22">賢善首菩薩章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0254_006.xml#p0432a11">No. 254-B</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_006.xml#p0432b09">No. 254-C</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_006.xml#p0432c04">No. 254-D</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0254_001.xml#p0378c06">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_002.xml#p0388b11">第二</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_003.xml#p0398c20">第三</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_004.xml#p0408b12">第四</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_005.xml#p0415c04">第五</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0254_006.xml#p0424a21">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

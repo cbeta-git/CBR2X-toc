@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0387a17">1 序分定宿直品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0388c07">2 序日宿直所生品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0391a28">3 序三九祕宿品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0391c06">4 序七曜直日品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0392b03">5 祕密雜占品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0392c29">6 序黑白月分品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0393a23">7 序日名善惡品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0393c29">擇日</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0394a05">擇時</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0394a17">白黑月所宜吉凶曆</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0395b22">二十七宿所為吉凶曆</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0397a26">行動禁閉法</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0397b16">裁縫衣裳服著用宿法</cblink></li>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0397c01">三必祕要法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T21/T21n1299_002.xml#p0398a27">8 七曜直日曆品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T21/T21n1299_002.xml#p0398c08">七曜占</cblink>
+		<ol>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0398c09">太陽直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0398c20">大陰直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399a03">熒惑直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399a14">辰星直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399a23">歲星直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399b05">太白直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399b13">鎮星直日</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399b21">七曜直日與二十七宿合吉凶日曆</cblink></li>
+			<li><cblink href="XML/T/T21/T21n1299_002.xml#p0399b29">釋大白所在八方天上地下吉凶法</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1299_001.xml#p0387a03">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1299_002.xml#p0393c11">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2132_001.xml#p1186a06">序</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2132_001.xml#p1187b26">悉曇十二韻</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2132_001.xml#p1187c26">體文（悉曇字母）</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188b18">悉曇十八章</cblink>
+		<ol>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188b18">1 第一章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c03">2 第二章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c08">3 第三章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c11">4 第四章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c13">5 第五章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c15">6 第六章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c17">7 第七章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c19">8 第八章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c27">9 第九章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1188c29">10 第十章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189a02">11 第十一章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189a04">12 第十二章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189a06">13 第十三章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189a08">14 第十四章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189a10">15 第十五章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189b25">16 第十六章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189c04">17 第十七章</cblink></li>
+			<li><cblink href="XML/T/T54/T54n2132_001.xml#p1189c19">18 第十八章孤合之文</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2132_001.xml#p1186a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

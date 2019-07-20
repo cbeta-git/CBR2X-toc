@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0895b_001.xml#p0735b08">1 伴侶分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_001.xml#p0736a03">2 分別處所分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_001.xml#p0736c25">3 法相分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_001.xml#p0737c07">4 分別金剛杵分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_001.xml#p0739a29">5 分別成就相分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0740c09">6 漸近悉地持誦相分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0742a06">8 下缽私那分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0742c13">9 分別遮難分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0743a07">10 分別護摩分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0743b04">11 分別聖道分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0744b07">12 分別諸部分</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0745a06">13 分別八法分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0895b_001.xml#p0735b05">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0895b_002.xml#p0740c06">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0097a19">序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0097b06">高祖龍樹菩薩</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0098b21">二祖北齊尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0098c04">三祖南嶽尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0100a07">四祖智者大師</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0100c16">五祖章安尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0101c24">六祖法華尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0102a03">七祖天宮尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0102a12">八祖左溪尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0102c06">九祖荊谿尊者</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0103b28">道邃和上行迹</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2069_001.xml#p0097a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

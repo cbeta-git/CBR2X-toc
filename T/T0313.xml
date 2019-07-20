@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T11/T11n0313_001.xml#p0751b26">1 發意受慧品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0313_001.xml#p0755a09">2 阿閦佛剎善快品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0313_001.xml#p0756c23">3 弟子學成品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0313_002.xml#p0758a22">4 諸菩薩學成品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0313_002.xml#p0760b19">5 佛般泥洹品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T11/T11n0313_001.xml#p0751b23">第一</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0313_002.xml#p0758a19">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

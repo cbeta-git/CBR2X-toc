@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X84/X84n1584_001.xml#p0651b02">No. 1584-A 續燈存稾敘</cblink></li>
+	<li><cblink href="XML/X/X84/X84n1584_001.xml#p0651c09">No. 1584-B 廣求皇明禪師語錄塔銘備續傳燈小札</cblink></li>
+	<li><cblink href="XML/X/X84/X84n1584_001.xml#p0652a03">凡例</cblink></li>
+	<li><cblink href="XML/X/X84/X84n1584_001.xml#p0652b04">續燈存稾目錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X84/X84n1584_001.xml#p0652b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

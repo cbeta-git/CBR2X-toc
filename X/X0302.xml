@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0302_001.xml#p0293a03">No. 302-A 楞嚴略疏緣起</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_001.xml#p0293b02">楞嚴經略疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X15/X15n0302_001.xml#p0293b04">第一</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_002.xml#p0296a13">第二</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_003.xml#p0300c10">第三</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_004.xml#p0304b17">第四</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_005.xml#p0311a05">第五</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_006.xml#p0315a01">第六</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_007.xml#p0318c01">第七</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_008.xml#p0321a12">第八</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_009.xml#p0329c12">第九</cblink></li>
+	<li><cblink href="XML/X/X15/X15n0302_010.xml#p0334c01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

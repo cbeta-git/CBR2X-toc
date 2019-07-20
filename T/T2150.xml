@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2150_001.xml#p0342a22">續大唐內典錄讚序</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2150_001.xml#p0342b20">續大唐內典錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2150_001.xml#p0342b20">序</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2150_001.xml#p0342b26">全書總目</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2150_001.xml#p0342c16">續代眾經傳譯所從錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2150_001.xml#p0342b19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

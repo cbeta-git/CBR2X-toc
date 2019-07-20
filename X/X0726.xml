@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0726_001.xml#p0786a01">目次</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_001.xml#p0786b06">序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_001.xml#p0786b20">釋道宣撰疏序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_001.xml#p0789c07">釋道宣撰隨機羯磨序</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_002.xml#p0799b20">釋集法緣成篇第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_004.xml#p0827c09">釋諸界結解篇第二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_005.xml#p0840c24">釋諸界受法篇第三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_007.xml#p0880a11">釋衣藥受淨篇第四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0887a20">釋諸說戒法篇第五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0888c15">釋諸眾安居篇第六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0894b02">釋諸眾自恣法篇第七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0895a11">釋諸衣分法篇第八</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0896a01">釋懺六聚篇第九</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0900a09">釋雜法住持篇第十</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0900b15">No. 726-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0726_001.xml#p0786b03">第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_002.xml#p0799b17">第二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_003.xml#p0811c12">第三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_004.xml#p0827b10">第四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_005.xml#p0840c21">第五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_006.xml#p0855b22">第六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_007.xml#p0870c18">第七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0726_008.xml#p0887a17">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

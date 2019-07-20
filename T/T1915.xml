@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0462c10">1 具緣</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0463b26">2 訶欲</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0464a14">3 棄蓋</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0465b04">4 調和</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0466c05">5 方便行</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0466c27">6 正修行</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0469b02">7 善根發</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0470b01">8 覺知魔事</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0471b02">9 治病</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0472b14">10 證果</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0473b11">始終心要</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0473c03">止觀坐禪法要記</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0473c22">天台止觀統例</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1915_001.xml#p0462b02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

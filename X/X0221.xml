@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0570a06">前文</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0570a15">一教起所因</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0573a02">二藏部所攝</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0577b07">三顯教差別</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0584a13">四簡所被機</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0585a17">五能詮教體</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0589a02">六所詮宗趣</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0590c04">七顯義分齊</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0593c11">八部類傳譯</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0594c03">九具釋題目</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_002.xml#p0596a06">十依文正釋</cblink>
+	<ol>
+		<li><cblink href="XML/X/X03/X03n0221_002.xml#p0596a06">世主妙嚴品第一</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_003.xml#p0614c06">如來現相品第二</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_003.xml#p0620b19">普賢三昧品第三</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_003.xml#p0622c10">世界成就品第四</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_003.xml#p0627c07">華藏世界品第五</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_003.xml#p0633a19">毗盧遮那品第六</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_004.xml#p0636c14">光明覺品第九</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_004.xml#p0646a06">淨行品第十一</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_004.xml#p0651c15">賢首品第十二</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_005.xml#p0658a18">昇須彌山頂品第十三</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_005.xml#p0660c24">須彌頂上偈讚品第十四</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_005.xml#p0664b09">十住品第十五</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_005.xml#p0671a03">梵行品第十六</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_005.xml#p0675b03">初發心功德品第十七</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_005.xml#p0681a17">明法品第十八</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_009.xml#p0725a20">十地品第二十六</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_012.xml#p0809a05">十定品第二十七</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_013.xml#p0821c22">如來十身相海品第三十四</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_013.xml#p0823b10">如來隨好光明功德品第三十五</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_013.xml#p0826a12">普賢行品第三十六</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_013.xml#p0828a15">如來出現品第三十七</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_014.xml#p0841c10">離世間品第三十八</cblink></li>
+		<li><cblink href="XML/X/X03/X03n0221_015.xml#p0866b19">入法界品第三十九</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X03/X03n0221_001.xml#p0570a03">第一</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_002.xml#p0596a04">第二</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_003.xml#p0614c04">第三</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_004.xml#p0636c12">第四</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_005.xml#p0658a16">第五</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_008.xml#p0689b21">第八</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_009.xml#p0725a18">第九</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_010.xml#p0744b14">第十</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_011.xml#p0770c16">第十一</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_012.xml#p0809a03">第十二</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_013.xml#p0821c20">第十三</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_014.xml#p0841c08">第十四</cblink></li>
+	<li><cblink href="XML/X/X03/X03n0221_015.xml#p0866b17">第十五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2055_001.xml#p0290b13">大唐東都大聖善寺故中天竺國善無畏三藏和尚碑銘并序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2055_001.xml#p0290a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

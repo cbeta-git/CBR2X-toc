@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB474_001.xml#p0025a01">敘</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB474_001.xml#p0025a01">楊雍敘</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_001.xml#p0025b08">魏喬介敘</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB474_001.xml#p0026b03">灤州隆阭寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_001.xml#p0027b11">住南臺寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_002.xml#p0027c03">住灤州萬善寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0030b03">住盤山古中盤正法禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0031c01">法通首座寮法語</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0032a04">入室機緣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0032b02">請益</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0032b29">問答機緣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034a14">開示</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c05">咐囑</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c06">西堂瑞亭</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c08">維那無虛</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c11">庫頭量庵</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c14">知客一味</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c17">書記暉洲</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c20">知藏心虛</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_003.xml#p0034c22">門人維那徹軒惺　書記寧一暹　尼曇裔　牧魁吾　侍者慧恒　書記朗空順</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB474_004.xml#p0035a03">拈古</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_004.xml#p0036b09">拈頌</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_004.xml#p0036c20">頌</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a01">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a01">與執事翫山</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a04">遊花園</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a07">夜間獨坐</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a10">詠五臺</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a13">詠盤山</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a19">詠花此日降雨</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a22">與眾弟兄相會</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038a25">別眾辭萬善住盤山</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB474_004.xml#p0038b01">行實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB474_001.xml#p0026b01">第一</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_002.xml#p0027c01">第二</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_003.xml#p0030b01">第三</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB474_004.xml#p0035a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

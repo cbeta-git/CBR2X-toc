@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1486_001.xml#p0584b09">懺願儀</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1486_001.xml#p0586c10">後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1486_001.xml#p0584b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

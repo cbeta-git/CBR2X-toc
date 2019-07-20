@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0706a02">No. 724-A 四分律比丘尼鈔卷上(并序)</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0706b08">篇目</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0706c16">勸學篇第一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0707c09">釋聚篇第二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0708c04">結界篇第三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0711a14">集眾篇第四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0711c09">足數篇第五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0712b13">受欲篇第六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0713a06">十戒篇第七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0715a04">學戒篇第八</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0716b03">畜眾篇第九</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0716c07">具戒篇第十</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0722a02">六念篇第十一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0722b05">受衣篇第十二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0724c20">受盋篇第十三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0725c01">淨施篇第十四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0726b14">說戒篇第十五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0729b16">安居篇第十六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0730c03">受日篇第十七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0731b12">自恣篇第十八</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0733b02">師徒篇第十九</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0735c03">致敬篇第二十</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0738c09">隨戒篇第二十一</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0752c12">匡眾篇第二十二</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0755a12">翻淨篇第二十三</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0757a04">受藥篇第二十四</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0758a08">訃請篇第二十五</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0760c21">屆寺篇第二十六</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0761c06">懺悔篇第二十七</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0769b15">送終篇第二十八</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0770c01">二衣篇第二十九</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0774c04">雜要篇第三十</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0776c03">後記</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0777a02">No. 724-B 䟦比丘尼鈔後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0706c13">上之上</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_001.xml#p0716c05">上之下</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0729b13">中之上</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_002.xml#p0741b11">中之下</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0752c09">下之上</cblink></li>
+	<li><cblink href="XML/X/X40/X40n0724_003.xml#p0764c12">下之下</cblink></li>
+</ol>
+</nav>
+</body></html>

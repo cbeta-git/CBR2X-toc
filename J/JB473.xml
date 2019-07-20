@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB473_001.xml#p0019a03">樂邑龍泉寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB473_001.xml#p0019c21">樂邑永盛菴語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB473_001.xml#p0022b01">了宗見禪師法嗣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB473_001.xml#p0023b01">瑞亭晟禪師法嗣</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB473_001.xml#p0019a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

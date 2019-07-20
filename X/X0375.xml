@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0375_001.xml#p0518a03">No. 375-A 佛說盂蘭盆經</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0375_001.xml#p0518c04">No. 375-B</cblink>
+	<ol>
+		<li><cblink href="XML/X/X21/X21n0375_001.xml#p0518c05">報父母恩呪</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0375_001.xml#p0518c08">七月十五日盂蘭盆念誦式</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X21/X21n0375_001.xml#p0519b02">佛說盂蘭盆經疏并序孝衡鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0375_001.xml#p0519b04">第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0375_002.xml#p0539b08">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

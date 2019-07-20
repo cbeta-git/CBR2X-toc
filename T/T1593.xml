@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1593_001.xml#p0112b12">序</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_001.xml#p0113b12">1 依止勝相品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1593_001.xml#p0113b12">1 眾名品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1593_001.xml#p0115a07">2 相品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1593_001.xml#p0115c29">3 引證品</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1593_001.xml#p0117b29">4 差別品</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1593_001.xml#p0118a20">2 應知勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_002.xml#p0122b25">3 應知入勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_002.xml#p0124a25">4 入因果勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0125c25">5 入因果修差別勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0126c18">6 依戒學勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0127a21">7 依心學勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0128a03">8 依慧學勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0129a25">9 學果寂滅勝相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0129c01">10 智差別勝相品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1593_001.xml#p0113b08">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_002.xml#p0119b16">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1593_003.xml#p0125c21">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

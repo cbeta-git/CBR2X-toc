@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB409_001.xml#p0283a03">上堂</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_002.xml#p0292a03">示眾</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_002.xml#p0297c10">佛事</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_002.xml#p0299c27">遺命</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_002.xml#p0300a12">問荅</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_003.xml#p0301b03">拈古頌</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_003.xml#p0306b02">頌古拈</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_003.xml#p0311b01">行狀</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_003.xml#p0312b01">塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB409_001.xml#p0283a01">第一</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_002.xml#p0292a01">第二</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB409_003.xml#p0301b01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

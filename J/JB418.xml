@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB418_001.xml#p0495a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J38/J38nB418_001.xml#p0495c11">杜臻序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J38/J38nB418_001.xml#p0496c03">住嘉興府金明禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_002.xml#p0503b03">住三塔龍淵海會景德禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_003.xml#p0509b03">住鎮江府北固山甘露寺海門禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_004.xml#p0516b03">住鎮江府甘露禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_005.xml#p0522a03">住京口大覺禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_005.xml#p0524c04">住勝果禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_006.xml#p0525c03">復住金明禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_007.xml#p0531a03">住嘉興府真如禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_008.xml#p0535b02">拈古</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J38/J38nB418_001.xml#p0496c01">第一</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_002.xml#p0503b01">第二</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_003.xml#p0509b01">第三</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_004.xml#p0516b01">第四</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_005.xml#p0522a01">第五</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_006.xml#p0525c01">第六</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_007.xml#p0531a01">第七</cblink></li>
+	<li><cblink href="XML/J/J38/J38nB418_008.xml#p0535b01">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

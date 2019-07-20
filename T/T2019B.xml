@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2019B_001.xml#p1005a03">皖山正凝禪師示蒙山法語</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019B_001.xml#p1005a18">東山崇藏主送子行脚法語</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019B_001.xml#p1005b17">蒙山和尚示眾語</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2019B_001.xml#p1005b25">後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2019B_001.xml#p1004b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n1006_001.xml#p0636b08">1 序品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_001.xml#p0640c05">2 根本咒品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_001.xml#p0641a08">3 心隨心咒品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0641c12">4 持心咒法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0642a23">5 誦隨心咒法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0642b11">6 雜咒品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0643b27">7 結壇場法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0644a26">8 畫像品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0644c14">9 護摩品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_003.xml#p0645c06">10 印法品</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_003.xml#p0649c01">附文</cblink>
+	<ol>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0649c01">6 雜咒品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0651a13">7 結壇場法品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0651c14">8 手印咒品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0652b06">9 畫像品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0652c23">10 火祭品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0653c05">11 普光心印品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0654a19">12 手印品</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0654b11">第二普光寶清淨如來心印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0654c21">第三一切如來加護心印咒</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0655a11">第四一切如來瓔珞印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0655b03">第五一切諸佛心印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0655b21">第六一切如來師子座印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0655c09">第七一切如來成大寶灌頂印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656a03">第八一切如來降伏熾然大魔軍智炬轉法輪神變加護印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656a26">第九得勝印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656b11">第十如來輪印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656b26">第十一金剛手菩薩印</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656c13">第十二真多摩尼金剛菩薩咒</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656c20">第十三四天王印咒</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0656c25">第十四吉祥天女印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657a02">第十五餉棄尼印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657a07">第十六大笑女使者印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657a13">第十七住壇諸神等印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657a19">第十八蓮華印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657a26">第十九根本印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657b06">第二十心印法</cblink></li>
+		<li><cblink href="XML/T/T19/T19n1006_003.xml#p0657b11">第二十一隨心印法</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T19/T19n1006_001.xml#p0636b03">第一</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_002.xml#p0641c08">第二</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_003.xml#p0645c02">第三</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_003.xml#p0649c01">附文卷一</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_003.xml#p0651a09">附文卷二</cblink></li>
+	<li><cblink href="XML/T/T19/T19n1006_003.xml#p0654a15">附文卷三</cblink></li>
+</ol>
+</nav>
+</body></html>

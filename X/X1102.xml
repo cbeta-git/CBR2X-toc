@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611a06">前文　目次</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611a21">立題語濫</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611b08">畫圖無益</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611b21">俗談罔道</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611c07">解衣名局</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611c20">受不云三</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0612a05">捨不云一</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0612a12">明相戲論</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0612b07">改文從己</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0612c10">坐具廢增</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0613a23">寄囊辨紐</cblink></li>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0613b08">勸廢圖文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X59/X59n1102_001.xml#p0611a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

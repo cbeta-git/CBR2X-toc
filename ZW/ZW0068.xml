@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0068_001.xml#p0053a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0068_001.xml#p0054a21">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_001.xml#p0054a25">西山郡學士化眾設初會疏</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_001.xml#p0055a10">孝順設供拔苦報恩道場</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_001.xml#p0067a03">如來廣孝十種報恩道場教誡儀文</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_002.xml#p0090a01">如來廣孝十種報恩道場儀文卷上</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_003.xml#p0123a13">如來廣孝十種報恩道場紀讚</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW08/ZW08n0068_003.xml#p0123a13">本文</cblink></li>
+			<li><cblink href="XML/ZW/ZW08/ZW08n0068_003.xml#p0142a13">附：十種報恩讚</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_004.xml#p0145a06">如來廣孝十種報恩道場儀文卷中</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_005.xml#p0202a01">如來廣孝十種報恩道場儀文卷下</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_006.xml#p0262a01">如來廣孝十種報恩道場三時提綱</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_007.xml#p0305a01">如來廣孝十種報恩道場密教卷上</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0068_008.xml#p0332a15">如來廣孝十種報恩道場密教卷下</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

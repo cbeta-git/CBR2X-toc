@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0188b20">1 序品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0189b07">2 破業障品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0189c22">3 誦念法品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0190b17">4 法印品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0190b22">1 大蓮花三昧耶印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0190c10">2 解脫印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0190c22">3 治土明</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0190c26">4 觸護身印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191a05">5 漱口印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191a13">6 浴三寶印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191a21">7 聖觀自在浴印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191b04">8 自灌頂印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191b12">9 著衣印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191b20">10 禁頂印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191b29">11 護身印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191c09">12 大護身印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191c14">13 被甲印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191c20">14 十方界明</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0191c24">15 結壇界印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192a01">16 治路明</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192a08">17 請召印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192a15">18 迎印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192a27">19 香水印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192b04">20 華座印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192b16">21 請坐印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192b23">22 除障印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192c02">23 供養印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192c12">24 求生印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0192c20">25 根本印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0193a02">26 大心印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0193a06">27 淨治珠明</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0193a12">28 數珠印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0193a29">29 解界印</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1080_001.xml#p0193b08">30 五淨明</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0193b16">5 壇法品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0194a14">6 佩藥品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0194b14">7 含藥品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0195a09">8 眼藥品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0195c14">9 護摩品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0196a24">10 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1080_001.xml#p0188b17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

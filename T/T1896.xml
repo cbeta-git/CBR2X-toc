@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0854c25">1 敬本教興篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0856a01">2 濟時護法篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0858a20">3 隨機立教篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0858c09">4 乘心行事篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0859b10">5 寄緣真俗篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0860b03">6 引教徵事篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0861b06">7 約時科節篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_002.xml#p0862a08">8 威容有儀篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_002.xml#p0865c11">9 功用顯迹篇</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_002.xml#p0868c15">10 程器陳迹篇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1896_001.xml#p0854c03">上</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1896_002.xml#p0862a06">下</cblink></li>
+</ol>
+</nav>
+</body></html>

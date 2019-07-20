@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0091_001.xml#p0453a01">晉書．藝術傳</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0453a01">佛圖澄</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0458a15">麻襦</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0459a14">單道開</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0460a13">僧涉</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0461a04">鳩摩羅什</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0464a10">曇霍</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_001.xml#p0465a05">臺產</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0091_002.xml#p0468a02">宋書．夷蠻傳</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0468a04">呵羅單國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0470a01">媻皇國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0470a07">媻達國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0470a11">闍婆婆達國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0471a07">師子國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0471a15">天竺迦毗黎國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0473a03">蘇摩黎國等</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0475a02">道生</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0475a05">慧琳</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_002.xml#p0478a15">慧嚴、慧議、明慧</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0091_003.xml#p0481a03">梁書．諸夷傳</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0481a05">扶南國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0487a10">盤盤國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0488a01">丹丹國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0488a06">干陁利國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0489a07">狼牙脩國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0490a07">婆利國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0491a10">中天竺國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0494a01">師子國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0494a15">東夷之國</cblink>
+		<ol>
+			<li><cblink href="XML/B/B17/B17n0091_003.xml#p0495a04">高句驪</cblink></li>
+			<li><cblink href="XML/B/B17/B17n0091_003.xml#p0496a02">扶桑國</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B17/B17n0091_003.xml#p0497a09">西北諸戎</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0091_004.xml#p0498a04">魏書．釋老志</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_005.xml#p0536a06">隋書．經籍志</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_006.xml#p0543a05">舊唐書．方伎傳</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0091_006.xml#p0543a11">玄奘</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_006.xml#p0544a10">神秀（附慧能、普寂、義福）</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_006.xml#p0546a15">一行（附泓師）</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0091_007.xml#p0549a02">舊唐書．西戎傳</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_008.xml#p0553a04">元史．釋老傳</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_009.xml#p0570a04">明史．西域傳二</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0091_009.xml#p0570a10">西番諸衛</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B17/B17n0091_010.xml#p0579a04">明史．西域傳三</cblink>
+	<ol>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0579a12">烏斯藏大寶法王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0583a11">大乘法王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0585a01">大慈法王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0587a09">闡化王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0590a11">贊善王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0591a14">護教王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0592a05">闡教王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0593a02">輔教王</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0593a14">西天阿難功德國</cblink></li>
+		<li><cblink href="XML/B/B17/B17n0091_010.xml#p0594a07">西天尼八剌國</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0091_001.xml#p0453a01">第一</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_002.xml#p0468a01">第二</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_003.xml#p0481a01">第三</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_004.xml#p0498a01">第四</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_005.xml#p0536a01">第五</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_006.xml#p0543a01">第六</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_007.xml#p0549a01">第七</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_008.xml#p0553a01">第八</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_009.xml#p0570a01">第九</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0091_010.xml#p0579a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

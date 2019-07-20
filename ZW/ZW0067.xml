@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0017a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0019a02">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0019a03">世間淨眼品第一</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0026a08">盧舍那佛品第二</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0040a23">名號品第三</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0043a14">四諦品第四</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0044a01">光覺品第五</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0045a15">明難品第六</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0046a21">淨行品第七</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0067_001.xml#p0048a14">賢首品第八</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

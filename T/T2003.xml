@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2003_001.xml#p0139a03">碧巖錄序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_001.xml#p0140a08">評唱雪竇顯和尚頌古語要</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_001.xml#p0151a01">夾山無礙禪師降魔表</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_002.xml#p0151b06">1</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_003.xml#p0161c16">2</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_004.xml#p0170a18">3</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_005.xml#p0178c09">4</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_006.xml#p0185c20">5</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_007.xml#p0193a27">6</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_008.xml#p0200a14">7</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_009.xml#p0207b06">8</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0215b24">9</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0224b07">後序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0224b19">重刊圜悟禪師碧巖集疏</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0224c10">比丘淨日序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0224c17">比丘希陵序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0225a03">海粟老人馮子振序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0225c07">華園玉桃菴主萬寧玄彙序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2003_001.xml#p0140a08">第一</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_002.xml#p0151b06">第二</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_003.xml#p0161c16">第三</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_004.xml#p0170a18">第四</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_005.xml#p0178c09">第五</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_006.xml#p0185c20">第六</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_007.xml#p0193a27">第七</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_008.xml#p0200a14">第八</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_009.xml#p0207b06">第九</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2003_010.xml#p0215b24">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

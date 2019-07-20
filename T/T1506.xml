@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T25/T25n1506_001.xml#p0015c06">1 德品</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1506_002.xml#p0021b26">2 惡品</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1506_003.xml#p0025b05">3 依品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T25/T25n1506_001.xml#p0015c03">第一</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1506_002.xml#p0020b02">第二</cblink></li>
+	<li><cblink href="XML/T/T25/T25n1506_003.xml#p0025b02">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

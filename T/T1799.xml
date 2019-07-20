@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1799_001.xml#p0823a03">首楞嚴經疏序</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_001.xml#p0823b24">1</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_002.xml#p0843b17">2</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_003.xml#p0860a24">3</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_004.xml#p0873b02">4</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_005.xml#p0891a02">5</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_006.xml#p0903a02">6</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_007.xml#p0915b02">7</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_008.xml#p0924c24">8</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_009.xml#p0942b02">9</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_010.xml#p0956b02">10</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_010.xml#p0967c06">大佛頂首楞嚴義疏注經後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1799_001.xml#p0823b24">第一之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_001.xml#p0833c20">第一之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_002.xml#p0843b17">第二之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_002.xml#p0852b09">第二之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_003.xml#p0860a24">第三之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_003.xml#p0867a20">第三之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_004.xml#p0873b02">第四之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_004.xml#p0882a12">第四之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_005.xml#p0891a02">第五之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_005.xml#p0897b02">第五之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_006.xml#p0903a02">第六之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_006.xml#p0908c03">第六之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_007.xml#p0915b02">第七</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_008.xml#p0924c24">第八之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_008.xml#p0931a20">第八之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_008.xml#p0937a24">第八之三</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_009.xml#p0942b02">第九之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_009.xml#p0950b12">第九之二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_010.xml#p0956b02">第十之一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1799_010.xml#p0961c02">第十之二</cblink></li>
+</ol>
+</nav>
+</body></html>

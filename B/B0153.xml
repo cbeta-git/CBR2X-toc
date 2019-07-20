@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B27/B27n0153_001.xml#p0685a08">提要</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_001.xml#p0686b09">原序</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_001.xml#p0687b08">本文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B27/B27n0153_001.xml#p0685a01">第一</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_002.xml#p0705a08">第二</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_003.xml#p0721a08">第三</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_004.xml#p0738b09">第四</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_005.xml#p0755b08">第五</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_006.xml#p0772b09">第六</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_007.xml#p0790a08">第七</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_008.xml#p0808b08">第八</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_009.xml#p0828b08">第九</cblink></li>
+	<li><cblink href="XML/B/B27/B27n0153_010.xml#p0849a08">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

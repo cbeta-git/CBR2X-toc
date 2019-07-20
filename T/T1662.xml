@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1662_001.xml#p0543c24">1 讚菩提心品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_001.xml#p0544c08">2 菩提心施供養品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_001.xml#p0545a06">3 護戒品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_002.xml#p0547b25">4 菩提心忍辱波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_002.xml#p0550c02">5 菩提心精進波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_003.xml#p0552b25">6 菩提心靜慮般若波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_004.xml#p0556c24">7 菩提心般若波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_004.xml#p0560c08">8 菩提心迴向品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T32/T32n1662_001.xml#p0543c18">第一</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_002.xml#p0547b19">第二</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_003.xml#p0552b19">第三</cblink></li>
+	<li><cblink href="XML/T/T32/T32n1662_004.xml#p0556c18">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

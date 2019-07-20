@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0272a01">總圖</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0273a01">鉤沈序</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0274a02">原序</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0275b14">城內</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0275b15">永甯寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0281b20">建中寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0282b10">長秋寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0283a03">瑤光寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0284a03">景樂寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0284b06">昭儀尼寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0285a17">胡統寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0285b02">修梵寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0286a01">景林寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0288a02">城東</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0288a03">明縣尼寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0288a16">龍華寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0288b20">瓔珞寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0289a07">宗聖寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0289a11">崇真寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0290a03">魏昌尼寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0290a08">景興尼寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0291a15">莊嚴寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0291b02">秦太上君寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0292b09">正始寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0294a01">平等寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0296a12">景甯寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0299a02">城南</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0299a03">景明寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0300a08">大統寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0300a15">雙女寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0301a01">報德寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0301a18">正覺寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0302a17">龍華寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0304a04">菩提寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0304b08">高陽王寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0305b05">崇虛寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0306a02">城西</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0306a03">沖覺寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0306b08">宣忠寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0307b01">宣忠寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0307b09">白馬寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0308a12">光寶寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0308b08">法雲寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0310b11">開善寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0312a15">追光寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0313a12">融覺寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0313b01">大覺寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0313b10">永明寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_005.xml#p0316a02">城北</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA001/GA001n0003_005.xml#p0316a03">禪虛寺</cblink></li>
+		<li><cblink href="XML/GA/GA001/GA001n0003_005.xml#p0316a09">凝玄寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_005.xml#p0322b03">結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/GA/GA001/GA001n0003_001.xml#p0272a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_002.xml#p0288a01">第二</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_003.xml#p0299a01">第三</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_004.xml#p0306a01">第四</cblink></li>
+	<li><cblink href="XML/GA/GA001/GA001n0003_005.xml#p0316a01">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0535_001.xml#p0804b03">No. 535-A</cblink>
+	<ol>
+		<li><cblink href="XML/X/X26/X26n0535_001.xml#p0804b06">引用諸家解義</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0535_001.xml#p0804b12">序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X26/X26n0535_001.xml#p0804c01">般若波羅蜜多心經解義節要</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0535_001.xml#p0804c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

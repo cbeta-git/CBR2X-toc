@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T43/T43n1830_001.xml#p0229a03">第一本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_001.xml#p0247b21">第一末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_002.xml#p0266c02">第二本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_002.xml#p0283b20">第二末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_003.xml#p0309b08">第三本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_003.xml#p0328a13">第三末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_004.xml#p0347a02">第四本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_004.xml#p0366c12">第四末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_005.xml#p0387c16">第五本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_005.xml#p0406b23">第五末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_006.xml#p0427b25">第六本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_006.xml#p0443c07">第六末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_007.xml#p0466a02">第七本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_007.xml#p0486c08">第七末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_008.xml#p0503c15">第八本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_008.xml#p0522a04">第八末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_009.xml#p0539c14">第九本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_009.xml#p0554b11">第九末</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_010.xml#p0573b18">第十本</cblink></li>
+	<li><cblink href="XML/T/T43/T43n1830_010.xml#p0589b14">第十末</cblink></li>
+</ol>
+</nav>
+</body></html>

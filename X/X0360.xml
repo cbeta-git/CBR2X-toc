@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0360_001.xml#p0368c03">金光明經文句新記目次</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_001.xml#p0369b07">釋序品第一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_003.xml#p0401c03">釋壽量品第二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_004.xml#p0416a03">釋懺悔品第三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_004.xml#p0429c24">釋讚歎品第四</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_005.xml#p0433c10">釋空品第五</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_006.xml#p0448a03">釋四天王品第六</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_006.xml#p0456b23">釋大辯品第七</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_006.xml#p0457a14">釋功德天品第八</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_006.xml#p0458b14">釋堅牢地神品第九</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_006.xml#p0459b02">釋散脂鬼神品第十</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0463c23">釋正論品第十一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0465c08">釋善集品第十二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0466a17">釋鬼神品第十三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0467c15">釋授記品第十四</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0469a11">釋除病品第十五</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0471b10">釋流水品第十六</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0472b09">釋捨身品第十七</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0475a10">釋讚佛品第十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0360_001.xml#p0369b03">第一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_002.xml#p0386a04">第二</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_003.xml#p0401c01">第三</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_004.xml#p0416a01">第四</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_005.xml#p0433c08">第五</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_006.xml#p0448a01">第六</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0360_007.xml#p0463c21">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1801_001.xml#p0977a21">請觀音經疏闡義鈔序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1801_001.xml#p0977b05">第一</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1801_002.xml#p0983b26">第二</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1801_003.xml#p0989a04">第三</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1801_004.xml#p0997a26">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

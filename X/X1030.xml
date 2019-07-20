@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0713c05">No. 1030-A 華嚴念佛三昧論敘</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0714a19">前文</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0714b04">一念佛法身直指眾生自性</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0714c18">二念佛功德出生諸佛報化</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0715c10">三念佛名字成就最勝方便</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0716a18">四念毗盧遮那佛頓入華嚴法界</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0716c08">五念極樂世界阿彌陀佛圓滿普賢大願</cblink></li>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0717a23">問答</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X58/X58n1030_001.xml#p0714a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

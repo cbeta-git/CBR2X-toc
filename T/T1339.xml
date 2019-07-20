@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1339_001.xml#p0641a06">1 初分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_002.xml#p0648a23">2 授記分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_003.xml#p0652a05">3 夢行分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_004.xml#p0656a29">5 護戒分</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_004.xml#p0658a09">5 不思議蓮華分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1339_001.xml#p0641a03">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_002.xml#p0646c02">第二</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_003.xml#p0652a02">第三</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1339_004.xml#p0656a26">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

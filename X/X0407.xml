@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0407_001.xml#p0269a03">No. 407-A</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_001.xml#p0269a16">凡例八條</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_001.xml#p0269b18">No. 407-B</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_001.xml#p0269c10">下筆序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_001.xml#p0269c21">觀無量壽佛經疏玅宗鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0407_001.xml#p0269c07">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_002.xml#p0282b13">第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_003.xml#p0293a17">第三</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_004.xml#p0307a04">第四</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0407_005.xml#p0320b11">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0846_001.xml#p0628c09">序</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_001.xml#p0628c22">前文</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_001.xml#p0633b16">初分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_001.xml#p0635b21">二修習世間功德分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_002.xml#p0651a19">三修習出世間大人功德分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_003.xml#p0657c01">四顯示畢竟甚深功德分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_003.xml#p0658b22">五顯示入證決定分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_003.xml#p0660b06">六分別未入上上證為斷疑分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_003.xml#p0662a11">七離種種自性清淨無我分</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_003.xml#p0663a03">No. 846-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0846_001.xml#p0628c06">第一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_002.xml#p0640a16">第二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0846_003.xml#p0653a04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1145_001.xml#p0098c08">西方要決科註</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1145_002.xml#p0116b23">大唐大慈恩寺上座唯識基法師真像</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1145_002.xml#p0116c06">No. 1145-A (附)辨西方要決真偽造疑</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X61/X61n1145_001.xml#p0098c06">第一</cblink></li>
+	<li><cblink href="XML/X/X61/X61n1145_002.xml#p0108a04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

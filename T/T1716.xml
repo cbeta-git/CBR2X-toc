@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1716_001.xml#p0681a03">法華私記緣起</cblink>
+	<ol>
+		<li><cblink href="XML/T/T33/T33n1716_001.xml#p0681a25">序王</cblink></li>
+		<li><cblink href="XML/T/T33/T33n1716_001.xml#p0681b25">私序王</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T33/T33n1716_001.xml#p0681c26">一上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_001.xml#p0686b02">一下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_002.xml#p0692c07">二上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_002.xml#p0698b16">二下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_003.xml#p0705b20">三上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_003.xml#p0712a11">三下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_004.xml#p0718a12">四上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_004.xml#p0725a22">四下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_005.xml#p0732b18">五上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_005.xml#p0739c13">五下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_006.xml#p0746c09">六上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_006.xml#p0754a09">六下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_007.xml#p0761c08">七上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_007.xml#p0768b02">七下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_008.xml#p0775a02">八上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_008.xml#p0781b06">八下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_009.xml#p0787c23">九上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_009.xml#p0794a23">九下</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_010.xml#p0800a16">十上</cblink></li>
+	<li><cblink href="XML/T/T33/T33n1716_010.xml#p0807b25">十下</cblink></li>
+</ol>
+</nav>
+</body></html>

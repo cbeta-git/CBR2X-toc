@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1484_001.xml#p0571b04">前文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1484_001.xml#p0571b06">熏修藥師懺儀</cblink>
+		<ol>
+			<li><cblink href="XML/X/X74/X74n1484_001.xml#p0571b07">嚴淨壇場</cblink></li>
+			<li><cblink href="XML/X/X74/X74n1484_001.xml#p0571b24">香讚</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X74/X74n1484_001.xml#p0572b14">開經偈</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1484_001.xml#p0572b18">卷上</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1484_001.xml#p0572b18">懺法</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1484_001.xml#p0573c12">讚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1484_002.xml#p0574a06">卷中</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1484_003.xml#p0576a20">卷下</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1484_003.xml#p0576a20">懺法</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1484_003.xml#p0577b22">讚</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1484_003.xml#p0578a05">結壇</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1484_001.xml#p0572b17">第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1484_002.xml#p0574a04">第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1484_003.xml#p0576a18">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

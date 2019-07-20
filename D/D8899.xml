@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D39/D39n8899_001.xml#p0001b01">序</cblink></li>
+	<li><cblink href="XML/D/D39/D39n8899_001.xml#p0003b01">發微錄</cblink>
+	<ol>
+		<li><cblink href="XML/D/D39/D39n8899_001.xml#p0003b04">釋序</cblink></li>
+		<li><cblink href="XML/D/D39/D39n8899_001.xml#p0011b09">釋斥迷執第一</cblink></li>
+		<li><cblink href="XML/D/D39/D39n8899_001.xml#p0030a10">釋斥偏淺第二</cblink></li>
+		<li><cblink href="XML/D/D39/D39n8899_001.xml#p0048b09">釋直顯真源第三</cblink></li>
+		<li><cblink href="XML/D/D39/D39n8899_001.xml#p0053b01">釋會通本末第四</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D39/D39n8899_001.xml#p0062b01">淨源法師事略</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D39/D39n8899_001.xml#p0001b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

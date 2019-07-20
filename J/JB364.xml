@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB364_001.xml#p0799a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB364_001.xml#p0799a01">胡周鼒序</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_001.xml#p0799b01">徐元文引</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB364_001.xml#p0799b21">目錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_001.xml#p0800a03">住蘇州太倉香林禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_002.xml#p0803b03">住嘉興平湖曹溪禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_002.xml#p0804c29">住燕都千佛禪院語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_002.xml#p0806b02">住燕京圓寧禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_003.xml#p0808a03">拈古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_003.xml#p0808c25">頌古</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810a30">像贊</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b01">接引像</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b06">魚籃大士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b10">結衣大士</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b13">關帝像</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b15">天童本師林老和尚</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b22">自贊</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810b28">題渭谿周公像</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c01">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c02">贈月川法姪</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c05">豈凡金相國於燕都鑿放生池…</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c09">與文威首座</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c12">報國寺觀松</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c15">興誠寺龍爪槐</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c18">賀內府瑞齋馬公六旬</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c21">寄西臣胡給諫</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0810c24">和靈嵒慈受禪師披雲臺頌</cblink></li>
+		<li><cblink href="XML/J/J36/J36nB364_003.xml#p0811a01">師將南旋眾信索偈迅筆示之</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J36/J36nB364_003.xml#p0811a08">佛事</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_004.xml#p0811c01">塔銘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J36/J36nB364_001.xml#p0800a01">第一</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_002.xml#p0803b01">第二</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_003.xml#p0808a01">第三</cblink></li>
+	<li><cblink href="XML/J/J36/J36nB364_004.xml#p0811c01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

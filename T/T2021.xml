@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1009c06">源湛流清門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1009c19">離塵精進門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1010a18">却步復陞門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1010b03">退墮策勵門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1010b16">懈怠勉勤門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1010c02">執礙決疑門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1010c17">失正究竟門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1011a13">徹底窮淵門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1011b19">指本還真門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1011c18">順息免患門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1012a04">上根利器門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1012a14">禪林靜慮門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1012b03">幽居正派門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1012b10">祇園聖眾門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1012b22">覺悟玄宗門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1012c18">歸源實際門</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1013c22">體用雙修陰翊王化</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1014a12">雙林遺戒眾等遵依</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1014b11">懺悔法門菩提行願</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1014c16">憶昔出塵承兄警誡</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1015a14">復懲懈惰止境息迷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2021_001.xml#p1009c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

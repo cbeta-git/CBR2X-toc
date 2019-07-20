@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0559a06">臨濟源流訣</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0562c22">溈仰源流訣</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0563a11">洞山源流訣(共二十八世)</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0565a02">雲門源流訣</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0565a17">法眼源流訣</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0565b04">天皇下宗派</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0565b14">天台教觀</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0565c21">華嚴賢首教</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0566a18">南山律派</cblink></li>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0566b17">附列不知世數未考何宗各家彚集</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X88/X88n1667_001.xml#p0559a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

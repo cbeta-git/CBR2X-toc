@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1949_001.xml#p0968a13">1 敘緣起</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1949_001.xml#p0968b10">2 明正意</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0968c20">1 莊嚴道場</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0969a15">2 作禮法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0969b17">3 燒香散華</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0969c08">4 繫念數息</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0970a08">5 召請</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0970b19">6 具楊枝淨水</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0970c01">7 誦三呪</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0971c05">8 披陳懺悔</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0972a22">9 禮拜</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1949_001.xml#p0972b08">10 第十誦經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T46/T46n1949_001.xml#p0972b17">3 勸修</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1949_001.xml#p0968a08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB477_001.xml#p0067a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/J/J40/J40nB477_001.xml#p0067a01">羅人琮敘</cblink></li>
+		<li><cblink href="XML/J/J40/J40nB477_001.xml#p0067c13">陶之典序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J40/J40nB477_001.xml#p0069a05">住潭州大溈山密印禪寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB477_002.xml#p0073c05">住潭州芙蓉山廣化寺語錄</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB477_002.xml#p0074b25">機緣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB477_002.xml#p0075b24">舉古</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB477_002.xml#p0076c18">頌古</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB477_002.xml#p0078b01">行實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB477_001.xml#p0069a01">第一</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB477_002.xml#p0073c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

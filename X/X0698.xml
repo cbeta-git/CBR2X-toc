@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0698_001.xml#p0875b06">上卷之一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0698_001.xml#p0879a15">上卷之二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0698_001.xml#p0881c08">下卷之一</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0698_001.xml#p0884c07">下卷之二</cblink></li>
+	<li><cblink href="XML/X/X38/X38n0698_001.xml#p0885c08">No. 698-A 梵網經直解䟦並頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X38/X38n0698_001.xml#p0875b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1300_001.xml#p0399c27">1 度性女品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_001.xml#p0401b10">2 明往緣品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_001.xml#p0403b27">3 示真實品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_001.xml#p0404a06">4 眾相問品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_001.xml#p0404b24">5 說星圖品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_002.xml#p0405b23">6 觀災祥品</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_002.xml#p0408c17">7 明時分別品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1300_001.xml#p0399c24">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1300_002.xml#p0405b20">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0277b05">No. 1350-A 金陵保寧禪院勇禪師語錄序</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0277b19">No. 1350-B 開堂疏</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0277c18">上堂</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0289c01">頌古</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0294a09">別古</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0294a16">代古</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1350_001.xml#p0277c14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

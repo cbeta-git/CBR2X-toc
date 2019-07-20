@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0153_001.xml#p0052b10">1 毘羅摩品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_001.xml#p0055a02">2 一切施品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_001.xml#p0057c06">3 一切持王子品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_002.xml#p0061b28">4 善吉王品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_002.xml#p0062c19">5 月光王品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_003.xml#p0064c25">6 兔品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_003.xml#p0066c02">7 鹿品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_003.xml#p0068b26">8 龍品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0153_001.xml#p0052b06">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_002.xml#p0058c12">第二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0153_003.xml#p0064c21">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

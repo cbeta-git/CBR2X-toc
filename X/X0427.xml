@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0427_001.xml#p0704a01">彌陀經疏鈔演義定本</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0427_004.xml#p0795b11">No. 427-A 重刻阿彌陀經疏鈔演義原序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0427_001.xml#p0704a03">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0427_002.xml#p0731c11">第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0427_003.xml#p0755c10">第三</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0427_004.xml#p0778b19">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

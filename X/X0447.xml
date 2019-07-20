@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X23/X23n0447_001.xml#p0782c02">No. 447-A 序</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0447_001.xml#p0783a05">No. 447-B 如意呪經疏序</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0447_001.xml#p0783b24">觀自在菩薩如意心陀羅尼咒經略疏</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X23/X23n0447_001.xml#p0783c02">第一</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0447_002.xml#p0789c07">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

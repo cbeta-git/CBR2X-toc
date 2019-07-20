@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB164_001.xml#p0267a01">曹溪一滴緣起</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB164_001.xml#p0267c13">引曹溪一滴</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB164_001.xml#p0268c04">禪宗</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB164_001.xml#p0271a11">應化</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB164_001.xml#p0272c01">附　夢語摘要</cblink>
+	<ol>
+		<li><cblink href="XML/J/J25/J25nB164_001.xml#p0272c01">引</cblink></li>
+		<li><cblink href="XML/J/J25/J25nB164_001.xml#p0273c01">雲山夢語摘要上</cblink>
+		<ol>
+			<li><cblink href="XML/J/J25/J25nB164_001.xml#p0273c04">元起章</cblink></li>
+			<li><cblink href="XML/J/J25/J25nB164_001.xml#p0275a20">惟識章</cblink></li>
+			<li><cblink href="XML/J/J25/J25nB164_001.xml#p0276a18">意生章</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/J/J25/J25nB164_001.xml#p0278a01">雲山夢語摘要下</cblink>
+		<ol>
+			<li><cblink href="XML/J/J25/J25nB164_001.xml#p0278a04">問答章</cblink>
+			<ol>
+				<li><cblink href="XML/J/J25/J25nB164_001.xml#p0278a05">無夢</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/J/J25/J25nB164_001.xml#p0282a01">紀業</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB164_001.xml#p0268c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

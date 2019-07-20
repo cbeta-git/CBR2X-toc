@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0093_001.xml#p0675a01">序</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_001.xml#p0675b01">目錄</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_001.xml#p0676a04">梵譯</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_002.xml#p0693a02">名數</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_003.xml#p0708a02">異談</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_004.xml#p0722a02">禪語</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_005.xml#p0743a02">評經</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_006.xml#p0755a02">移牘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B17/B17n0093_001.xml#p0675a01">第一</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_002.xml#p0693a01">第二</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_003.xml#p0708a01">第三</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_004.xml#p0722a01">第四</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_005.xml#p0743a01">第五</cblink></li>
+	<li><cblink href="XML/B/B17/B17n0093_006.xml#p0755a01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

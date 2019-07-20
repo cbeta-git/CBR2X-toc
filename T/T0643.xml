@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0643_001.xml#p0645c06">1 六譬品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_001.xml#p0647b15">2 序觀地品(一)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_001.xml#p0648c24">3 觀相品(一-四)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T15/T15n0643_001.xml#p0648c24">1</cblink></li>
+		<li><cblink href="XML/T/T15/T15n0643_002.xml#p0650c25">2</cblink></li>
+		<li><cblink href="XML/T/T15/T15n0643_003.xml#p0656b10">3</cblink></li>
+		<li><cblink href="XML/T/T15/T15n0643_004.xml#p0662c24">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T15/T15n0643_005.xml#p0668b16">4 觀佛心品(五)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_006.xml#p0674b05">5 觀四無量心品(六)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_006.xml#p0675b16">6 觀四威儀品(六-七)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T15/T15n0643_006.xml#p0675b16">1</cblink></li>
+		<li><cblink href="XML/T/T15/T15n0643_007.xml#p0678c02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T15/T15n0643_008.xml#p0683b05">7 觀馬王藏品(八)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_009.xml#p0687b05">8 本行品(九)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_009.xml#p0690a02">9 觀像品(九)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_010.xml#p0693a11">10 念七佛品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_010.xml#p0693c28">11 念十方佛品(一〇)</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_010.xml#p0695b08">12 觀佛密行品(一〇)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T15/T15n0643_001.xml#p0645c03">第一</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_002.xml#p0650c25">第二</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_003.xml#p0656b10">第三</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_004.xml#p0662c24">第四</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_005.xml#p0668b13">第五</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_006.xml#p0674b02">第六</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_007.xml#p0678c02">第七</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_008.xml#p0683b02">第八</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_009.xml#p0687b02">第九</cblink></li>
+	<li><cblink href="XML/T/T15/T15n0643_010.xml#p0693a08">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

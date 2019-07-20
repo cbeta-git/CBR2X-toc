@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1487_001.xml#p0587b06">嚴淨壇場</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_001.xml#p0587b23">香讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_001.xml#p0590b17">讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_002.xml#p0590c03">禮佛懺悔</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_002.xml#p0591b05">懺煩惱障</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0591b05">第一先懺淫習</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0591b18">第二懺悔貪習</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0591c08">第三懺悔慢習</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0591c19">第四懺悔瞋習</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0592a06">第五懺悔詐習</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0592b06">第六誑習交誣</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0592b18">第七怨習交嫌</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0592c06">第八見習交明</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0592c21">第九枉習</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0593a09">第十懺悔訟習</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1487_002.xml#p0593b15">悔業障</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0593b24">一者眼根見業</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0593c14">二者懺悔聞報</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0594a03">三者嗅報交時</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0594a17">四者嗜味</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0594b08">五者觸報</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1487_002.xml#p0594b22">六者意業招報</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1487_002.xml#p0594c17">讚</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_003.xml#p0595a03">懺法</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_003.xml#p0598b13">讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1487_001.xml#p0587b04">第一</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_002.xml#p0590c01">第二</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1487_003.xml#p0595a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

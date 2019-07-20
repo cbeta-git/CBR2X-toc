@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0276_001.xml#p0482a02">No. 276-A 楞嚴摸象記引</cblink></li>
+	<li><cblink href="XML/X/X12/X12n0276_001.xml#p0482c06">楞嚴經</cblink>
+	<ol>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0482c07">前文</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0482c14">第一卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0485c04">第二卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0487b03">第三卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0488c24">第四卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0491b13">第五卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0493b10">第六卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0495a11">第七卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0497a07">第八卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0499a01">第九卷</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0500c15">第十卷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X12/X12n0276_001.xml#p0503a01">附諸經</cblink>
+	<ol>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0503a03">般若心經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0503a21">圓覺經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0504c02">法華經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0505b13">佛遺教經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0505c05">金剛般若經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0506a19">維摩經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0506b13">觀無量壽佛經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0506c07">大彌陀經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0507a01">盂蘭盆經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0507a19">摩訶般若波羅蜜經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0507b13">大寶積經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0507c07">般舟三昧經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0508a01">楞伽經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0508a22">彌陀經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0508b13">華嚴經</cblink></li>
+		<li><cblink href="XML/X/X12/X12n0276_001.xml#p0509b04">永嘉集</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X12/X12n0276_001.xml#p0482c03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

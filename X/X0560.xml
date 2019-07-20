@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0560_002.xml#p0899a10">No. 560-A 序</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0560_002.xml#p0899b12">經題</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0560_002.xml#p0899c01">文咒</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0560_002.xml#p0901b24">頌</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0560_002.xml#p0901c07">慈雲伯亭法師楞嚴寺藏經直畫一</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0560_002.xml#p0899b09">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

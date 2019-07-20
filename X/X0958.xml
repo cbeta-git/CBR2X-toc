@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0092b05">No. 958-A 圓頓宗眼(并序)</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0092c01">圓頓宗眼目次</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0092c08">宗眼</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0093b13">原心</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0093c01">究性</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0093c18">明道</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0094a19">窮徧</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0094b09">談具</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0094c02">所傳</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0095a14">三觀</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0096a16">正宗</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0096b12">修性</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0958_001.xml#p0092c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

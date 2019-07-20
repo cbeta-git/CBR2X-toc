@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0126c05">No. 1468-A 西歸行儀序</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0127a06">西歸行儀目次</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0127b09">慈雲懺主印施彌陀經正信發願偈</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0127c04">阿彌陀經</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0128a04">往生淨土十念法門</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0128a22">阿彌陀經禮想儀（詳）</cblink>
+	<ol>
+		<li><cblink href="XML/X/X74/X74n1468_001.xml#p0128a24">禮想儀</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1468_001.xml#p0129b24">大懺悔文</cblink></li>
+		<li><cblink href="XML/X/X74/X74n1468_001.xml#p0130a01">禮四十八願儀</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0130a13">臨睡入觀禮誦儀</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0130c13">無量壽經四十八願</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0130c19">觀無量壽佛經九品觀章</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0131a06">阿彌陀經禮想儀（略）</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0131c08">東林十八賢位次</cblink></li>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0132a20">No. 1468-B 西歸行儀䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X74/X74n1468_001.xml#p0127b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

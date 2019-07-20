@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1602_001.xml#p0473a02">No. 1602-A 佛祖宗派世譜序</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1602_001.xml#p0473b03">佛祖宗派世譜目錄</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1602_001.xml#p0474a06">三十三祖世系圖</cblink></li>
+	<li><cblink href="XML/X/X86/X86n1602_001.xml#p0481a27">曹洞宗天童法派世系圖</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X86/X86n1602_001.xml#p0474a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

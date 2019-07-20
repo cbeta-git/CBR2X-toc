@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0077a03">淨土十疑論序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0077b23">第一疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0078a01">第二疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0078b03">第三疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0078b27">第四疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0078c23">第五疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0079b03">第六疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0079b17">第七疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0079c24">第八疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0080b05">第九疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0080b30">第十疑</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0081b14">淨土十疑論後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1961_001.xml#p0077b20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

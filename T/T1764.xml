@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1764_001.xml#p0614b26">壽命品(一-二)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T37/T37n1764_001.xml#p0614b26">1</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_002.xml#p0642c26">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T37/T37n1764_002.xml#p0660c10">金剛身品(二)</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_002.xml#p0662b26">名字功德品(二)</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_002.xml#p0663b09">如來性品(二-四)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T37/T37n1764_002.xml#p0663b09">1</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_003.xml#p0671c20">2</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_004.xml#p0700b14">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T37/T37n1764_004.xml#p0720c27">大眾所問品(四)</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_004.xml#p0726a13">現病品(四)</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_005.xml#p0728c28">聖行品(五)</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_005.xml#p0747a24">梵行品(五-六)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T37/T37n1764_005.xml#p0747a24">1</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_006.xml#p0757a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T37/T37n1764_006.xml#p0782a14">嬰兒行品(六)</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_006.xml#p0783a02">德王菩薩品(六-八)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T37/T37n1764_006.xml#p0783a02">1</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_007.xml#p0785c25">2</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_008.xml#p0815c10">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T37/T37n1764_008.xml#p0821b02">師子吼菩薩品(八-九)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T37/T37n1764_008.xml#p0821b02">1</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_009.xml#p0845c10">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T37/T37n1764_009.xml#p0857c02">迦葉菩薩品(九-一〇)</cblink>
+	<ol>
+		<li><cblink href="XML/T/T37/T37n1764_009.xml#p0857c02">1</cblink></li>
+		<li><cblink href="XML/T/T37/T37n1764_010.xml#p0874b24">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T37/T37n1764_010.xml#p0893c11">憍陳如品(一〇)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T37/T37n1764_001.xml#p0613a03">一之上</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_001.xml#p0627c16">一之下</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_002.xml#p0642c26">二</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_003.xml#p0671c20">三</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_004.xml#p0700b14">四</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_005.xml#p0728c25">五</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_006.xml#p0757a02">六</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_007.xml#p0785c25">七</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_008.xml#p0815c10">八</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_009.xml#p0845c10">九</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_010.xml#p0874b24">十</cblink></li>
+	<li><cblink href="XML/T/T37/T37n1764_010.xml#p0889b02">十之下</cblink></li>
+</ol>
+</nav>
+</body></html>

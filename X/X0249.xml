@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0001a09">序</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0001a18">第一卷 辨疑十處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0002a22">第二卷 辨疑十三處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0003b15">第三卷 辨疑十處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0004b15">第四卷 辨疑六處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0005b01">第五卷 辨疑二十三處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0008a03">第六卷 辨疑十三處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_002.xml#p0008c14">第七卷 辨疑九處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_002.xml#p0009b11">第八卷 辨疑二十處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_002.xml#p0010b21">第九卷 辨疑六處</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_002.xml#p0010c23">第十卷 辨疑三處</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0249_001.xml#p0001a06">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0249_002.xml#p0008c13">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

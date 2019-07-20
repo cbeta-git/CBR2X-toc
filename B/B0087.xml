@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0731a10">序</cblink>
+	<ol>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0731a11">鄭序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0731b06">許序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0732a06">戒顯序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0732b04">石樹自序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0733a11">閭丘胤原序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0734b04">志南記</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0736a08">清欲歌</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0736b07">大佑書帖</cblink>
+		<ol>
+			<li><cblink href="XML/B/B14/B14n0087_001.xml#p0736b08">陸放翁與明老改正寒山子詩帖</cblink></li>
+			<li><cblink href="XML/B/B14/B14n0087_001.xml#p0736b13">朱晦庵與南老索寒山子詩帖</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0737a07">淨戒序</cblink></li>
+		<li><cblink href="XML/B/B14/B14n0087_001.xml#p0737b03">梵琦序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0737b14">寒山詩</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0788b03">豐干詩</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0789a02">拾得詩</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0797a11">附張序</cblink></li>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0797b11">新刻緣起</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B14/B14n0087_001.xml#p0731a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

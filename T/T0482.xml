@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0482_001.xml#p0642a09">1 初品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_001.xml#p0646a12">2 五陰品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_002.xml#p0652a04">3 十八性品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_003.xml#p0654b23">4 十二入品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_003.xml#p0655c10">5 十二因緣品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_003.xml#p0657c05">6 四念處品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_003.xml#p0659b04">7 五根品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_004.xml#p0660c05">8 八聖道分品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_004.xml#p0662a19">9 世間出世間品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_004.xml#p0662c10">10 有為無為法品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_004.xml#p0663b09">11 本事品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_004.xml#p0665c25">12 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0482_001.xml#p0642a06">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_002.xml#p0648c06">第二</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_003.xml#p0654b20">第三</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0482_004.xml#p0660c03">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1452_001.xml#p0415a06">1 尼陀那</cblink>
+	<ol>
+		<li><cblink href="XML/T/T24/T24n1452_001.xml#p0415a06">1</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1452_002.xml#p0419c02">2</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1452_003.xml#p0423b23">3</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1452_004.xml#p0427c20">4</cblink></li>
+		<li><cblink href="XML/T/T24/T24n1452_005.xml#p0432a02">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T24/T24n1452_006.xml#p0435c05">2 目得迦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1452_001.xml#p0415a03">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_002.xml#p0419c02">第二</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_003.xml#p0423b23">第三</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_004.xml#p0427c20">第四</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_005.xml#p0432a02">第五</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_006.xml#p0435c02">第六</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_007.xml#p0439c08">第七</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_008.xml#p0444b15">第八</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_009.xml#p0448b20">第九</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1452_010.xml#p0452b16">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0575_001.xml#p0965c03">No. 575-A</cblink>
+	<ol>
+		<li><cblink href="XML/X/X26/X26n0575_001.xml#p0965c04">略移</cblink></li>
+		<li><cblink href="XML/X/X26/X26n0575_001.xml#p0966a06">摩訶般若波羅蜜多心經</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X26/X26n0575_001.xml#p0966b12"> 䦚通顯道甚深功德寶</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X26/X26n0575_001.xml#p0966b14">第一</cblink></li>
+	<li><cblink href="XML/X/X26/X26n0575_002.xml#p0978b04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0009a11">1 序品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0010a07">2 成就事品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0010c11">3 成就如意寶品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0011a12">4 療一切病品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0011b03">5 一切有情敬念品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0011b22">6 義利成就品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0011c04">7 成就軌儀品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0011c19">8 普通成就品</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0014c06">9 成就心真言品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1033_001.xml#p0009a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

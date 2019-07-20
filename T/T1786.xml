@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1786_001.xml#p0083b05">第一上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_001.xml#p0089b22">第一下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_002.xml#p0096b09">第二上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_002.xml#p0102c18">第二下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_003.xml#p0109c21">第三上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_003.xml#p0117a02">第三下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_004.xml#p0125b14">第四上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_004.xml#p0131b05">第四下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_005.xml#p0138a10">第五上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_005.xml#p0145a16">第五下</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_006.xml#p0149c15">第六上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1786_006.xml#p0155a14">第六下</cblink></li>
+</ol>
+</nav>
+</body></html>

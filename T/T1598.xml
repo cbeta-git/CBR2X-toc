@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1598_001.xml#p0380a25">1 總標綱要分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_001.xml#p0382c28">2 所知依分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1598_001.xml#p0382c28">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1598_002.xml#p0385c20">2</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1598_003.xml#p0392b06">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1598_004.xml#p0398c13">3 所知相分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1598_004.xml#p0398c13">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1598_005.xml#p0405c24">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T31/T31n1598_006.xml#p0413b12">4 入所知相分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_007.xml#p0419a24">5 彼入因果分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_007.xml#p0423a12">6 彼修差別分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_007.xml#p0426a23">7 增上戒學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_008.xml#p0427a24">8 增上心學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_008.xml#p0429b10">9 增上慧學分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_009.xml#p0434c12">10 果斷分</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_009.xml#p0435c19">11 彼果智分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T31/T31n1598_009.xml#p0435c19">1</cblink></li>
+		<li><cblink href="XML/T/T31/T31n1598_010.xml#p0443b06">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1598_001.xml#p0380a21">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_002.xml#p0385c16">第二</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_003.xml#p0392b02">第三</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_004.xml#p0398c09">第四</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_005.xml#p0405c20">第五</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_006.xml#p0413b08">第六</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_007.xml#p0419a20">第七</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_008.xml#p0427a20">第八</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_009.xml#p0434c08">第九</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1598_010.xml#p0443b02">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

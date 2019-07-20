@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0736b12">No. 445-A 引</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0737a05">No. 445-B 緣起記</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0737b15">No. 445-C 佛頂尊勝陀羅尼經序</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0738a15">佛頂尊勝陀羅尼經釋</cblink></li>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0740c08">No. 445-D</cblink>
+	<ol>
+		<li><cblink href="XML/X/X23/X23n0445_001.xml#p0740c09">音釋</cblink>
+		<ol>
+			<li><cblink href="XML/X/X23/X23n0445_001.xml#p0740c10">序</cblink></li>
+			<li><cblink href="XML/X/X23/X23n0445_001.xml#p0740c15">經</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a08">法數</cblink>
+		<ol>
+			<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a09">先序分(分二)</cblink>
+			<ol>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a09">一證信序</cblink></li>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a09">二發起序</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a12">次正宗分(開四)</cblink>
+			<ol>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a12">一帝釋會(又分二)</cblink>
+				<ol>
+					<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a12">初呪前略顯</cblink></li>
+					<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741a19">二呪後詳明</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741b14">二閻王會</cblink></li>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741b18">三四天會</cblink>
+				<ol>
+					<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741b19">所為五根眾生各益</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741c11">四善住會</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741c17">後流通分(亦二)</cblink>
+			<ol>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741c17">一結名勅持</cblink></li>
+				<li><cblink href="XML/X/X23/X23n0445_001.xml#p0741c17">二眾喜奉行</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X23/X23n0445_001.xml#p0742a04">問答</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0742c02">No. 445-E 日本國黃檗山僧友書</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X23/X23n0445_001.xml#p0738a17">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

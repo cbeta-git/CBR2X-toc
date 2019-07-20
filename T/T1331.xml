@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1331_001.xml#p0495a03">佛說灌頂七萬二千神王護比丘呪經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_002.xml#p0499b07">佛說灌頂十二萬神王護比丘尼經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_003.xml#p0501c05">佛說灌頂三歸五戒帶佩護身呪經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_004.xml#p0504c13">佛說灌頂百結神王護身呪經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_005.xml#p0508c02">佛說灌頂呪宮宅神王守鎮左右經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_006.xml#p0512a02">佛說灌頂塚墓因緣四方神呪經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_007.xml#p0515a02">佛說灌頂伏魔封印大神呪經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_008.xml#p0517c02">佛說灌頂摩尼羅亶大神呪經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_009.xml#p0521a06">佛說灌頂召五方龍王攝疫毒神呪上品經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_010.xml#p0523c17">佛說灌頂梵天神策經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_011.xml#p0528c23">佛說灌頂隨願往生十方淨土經</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_012.xml#p0532b07">佛說灌頂拔除過罪生死得度經</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T21/T21n1331_001.xml#p0495a03">第一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_002.xml#p0499b07">第二</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_003.xml#p0501c05">第三</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_004.xml#p0504c13">第四</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_005.xml#p0508c02">第五</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_006.xml#p0512a02">第六</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_007.xml#p0515a02">第七</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_008.xml#p0517c02">第八</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_009.xml#p0521a06">第九</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_010.xml#p0523c17">第十</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_011.xml#p0528c23">第十一</cblink></li>
+	<li><cblink href="XML/T/T21/T21n1331_012.xml#p0532b07">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

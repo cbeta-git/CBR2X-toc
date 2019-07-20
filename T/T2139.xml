@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2139_001.xml#p1266a29">1 卷第一</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2139_001.xml#p1266b10">老子西昇化胡經序說</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T54/T54n2139_010.xml#p1267c06">10 卷第十</cblink>
+	<ol>
+		<li><cblink href="XML/T/T54/T54n2139_010.xml#p1268b06">尹喜哀歎五首</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2139_010.xml#p1268c08">太上皇老君哀歌七首</cblink></li>
+		<li><cblink href="XML/T/T54/T54n2139_010.xml#p1269a27">老君十六變詞</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2139_001.xml#p1266a27">第一</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2139_010.xml#p1267c04">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

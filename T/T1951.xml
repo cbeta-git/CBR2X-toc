@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978b03">熾盛光道場念誦儀拾遺序</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978b25">1 設壇場供養</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978b25">1 示清淨處</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978c08">2 立道場法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978c21">3 供養</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978c25">2 示方法</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0979b09">3 揀眾清淨</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0979b28">4 誦呪法</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0979c23">5 三業供養</cblink>
+	<ol>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0979c28">1 行者修三業供養法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0980a06">2 行者召請三寶方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0980b15">3 讚歎三寶法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0980b22">4 依法持呪</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0980c10">5 禮佛方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0981a10">6 懺悔方法</cblink></li>
+		<li><cblink href="XML/T/T46/T46n1951_001.xml#p0981c14">7 行道方法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0981c28">6 釋疑</cblink></li>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0982b13">7 誡勸檀越夫修福慧之門</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T46/T46n1951_001.xml#p0978b18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

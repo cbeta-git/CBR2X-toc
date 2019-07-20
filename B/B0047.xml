@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0775a08">觀緣品第一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0781a10">觀去來品第二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0785a14">觀根品第三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0788a02">觀蘊品第四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0789a09">觀界品第五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0791a03">觀貪、貪者品第六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0793a02">觀生住滅品第七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0798a05">觀著作及業品第八</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0799a15">觀本住品第九</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0801a13">觀火薪品第十</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0804a07">觀前際後際品第十一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0805a12">觀自作他作品第十二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0807a03">觀行品第十三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0808a09">觀和合品第十四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0810a02">觀自性品第十五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0811a12">觀縛解品第十六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0813a13">觀業品第十七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0817a10">觀我法品第十八</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0820a02">觀時品第十九</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0821a02">觀和合品第二十</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0824a02">觀成壞品第二十一</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0826a10">觀如來品第二十二</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0828a14">觀顛倒品第二十三</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0831a13">觀聖諦品第二十四</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0836a05">觀涅槃品第二十五</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0839a06">觀十二有支品第二十六</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0840a06">觀見品第二十七</cblink></li>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0845a01">附錄：明句中論疏歸敬偈疏</cblink>
+	<ol>
+		<li><cblink href="XML/B/B09/B09n0047_001.xml#p0845a07">疏主歸敬偈</cblink></li>
+		<li><cblink href="XML/B/B09/B09n0047_001.xml#p0846a02">中論歸敬偈疏</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B09/B09n0047_001.xml#p0775a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

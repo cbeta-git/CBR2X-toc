@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0676_001.xml#p0688b06">1 序品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_001.xml#p0688c18">2 勝義諦相品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_001.xml#p0692a27">3 心意識相品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_002.xml#p0693a05">4 一切法相品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_002.xml#p0693c15">5 無自性相品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_003.xml#p0697c13">6 分別瑜伽品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_004.xml#p0703b13">7 地波羅蜜多品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_005.xml#p0708b13">8 如來成所作事品(五)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0676_001.xml#p0688b03">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_002.xml#p0693a02">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_003.xml#p0697c10">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_004.xml#p0703b10">第四</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0676_005.xml#p0708b10">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

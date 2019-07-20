@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0001a06">釋迦譜序</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0001b14">1 釋迦始祖劫初剎利相承姓譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0003a17">2 釋迦賢劫初姓瞿曇緣譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0003c22">3 釋迦近世祖始姓釋緣譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0004c04">4 釋迦降生釋種成佛緣譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0008c16">5 釋迦在七佛末種姓眾數同異譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0009c09">6 釋迦同三千佛緣譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0010a02">7 釋迦內外族姓名譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0010b19">8 釋迦弟子姓釋緣譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0010c14">9 釋迦四部名聞弟子譜</cblink>
+	<ol>
+		<li><cblink href="XML/T/T50/T50n2040_001.xml#p0012a12">名聞比丘尼五十人</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2040_001.xml#p0012c06">名聞優婆塞四十人</cblink></li>
+		<li><cblink href="XML/T/T50/T50n2040_001.xml#p0013a18">名聞優婆夷三十人</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0013b28">釋迦降生釋種成佛緣譜</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0052b02">14 釋迦姨母大愛道出家記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0053a07">15 釋迦父淨飯王泥洹記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0054b28">16 釋迦母摩訶摩耶夫人記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0055a15">17 釋迦姨母大愛道泥洹記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0056a07">18 釋種滅宿業緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0058b25">10 釋迦從弟調達出家緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0059a28">11 釋迦從弟阿那律跋提出家緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0059c07">12 釋迦從弟孫陀羅難陀出家緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0061b14">13 釋迦子羅云出家緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0063a13">19 釋迦竹園精舍緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0063b13">20 釋迦祇洹精舍緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0066b21">21 釋迦髮爪塔緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0066b27">22 釋迦天上四塔記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0066c09">23 優填王造釋迦栴檀像記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0066c24">24 波斯匿王造釋迦金像記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0067a02">25 阿育王弟出家造石像記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0067c04">26 釋迦留影在石室記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_004.xml#p0068a22">27 釋迦雙樹般涅槃記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_004.xml#p0074c07">28 釋迦八國分舍利記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_004.xml#p0075c15">29 釋迦天上龍宮舍利寶塔記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_004.xml#p0076a02">30 釋迦龍宮佛𣯃塔記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_005.xml#p0076b20">31 阿育王造八萬四千塔記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_005.xml#p0082b23">32 釋迦獲八萬四千塔宿緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_005.xml#p0082c25">33 釋迦法滅盡緣記</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_005.xml#p0083c24">34 釋迦法滅盡相記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T50/T50n2040_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_002.xml#p0052a19">第二</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_003.xml#p0063a02">第三</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_004.xml#p0068a15">第四</cblink></li>
+	<li><cblink href="XML/T/T50/T50n2040_005.xml#p0076b13">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

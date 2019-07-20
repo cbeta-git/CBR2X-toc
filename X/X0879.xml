@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0879_001.xml#p0912a05">No. 879-A 正量論序</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_001.xml#p0912b19">No. 879-B 物不遷正量論序</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_001.xml#p0913a09">物不遷正量論</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_001.xml#p0918b19">續論</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0921a14">答幻有禪師書</cblink>
+	<ol>
+		<li><cblink href="XML/X/X54/X54n0879_002.xml#p0921a15">答幻有禪師書</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0879_002.xml#p0921b05">又(其引華嚴法華等證昔物不化)</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0921b17">答界上座</cblink>
+	<ol>
+		<li><cblink href="XML/X/X54/X54n0879_002.xml#p0921b18">答界上座</cblink></li>
+		<li><cblink href="XML/X/X54/X54n0879_002.xml#p0921c17">又答</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0922a07">對無名尊者語(附其語)</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0922c05">對密藏開禪師語(附來書)</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0924a14">答海印大士書(附來書)</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0924c18">對一幻道人語</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0925b19">雲棲律師</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X54/X54n0879_001.xml#p0913a06">第一</cblink></li>
+	<li><cblink href="XML/X/X54/X54n0879_002.xml#p0919c04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

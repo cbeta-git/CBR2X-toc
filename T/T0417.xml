@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0897c28">1 問事品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0898b09">2 行品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0899c08">3 四事品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0900a12">4 譬喻品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0900c16">5 四輩品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0901b27">6 擁護品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0901c26">7 勸助品</cblink></li>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0902b11">8 至誠品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T13/T13n0417_001.xml#p0897c26">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1792_002.xml#p0512b17">疏主傳略</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T39/T39n1792_001.xml#p0505a03">上</cblink></li>
+	<li><cblink href="XML/T/T39/T39n1792_002.xml#p0506c15">下</cblink></li>
+</ol>
+</nav>
+</body></html>

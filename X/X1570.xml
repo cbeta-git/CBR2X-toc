@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0327a02">No. 1570-A</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0327a19">No. 1570-B 五燈全書目序</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0327c15">No. 1570-C 五燈全書序</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0328c05">No. 1570-D 五燈全書進呈奏疏</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0329b04">No. 1570-E 五燈全書進呈奏疏</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0329c22">五燈全書凡例</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X81/X81n1570_001.xml#p0331a07">第一</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_002.xml#p0337a04">第二</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_003.xml#p0343a13">第三</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_004.xml#p0348c13">第四</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_005.xml#p0354a04">第五</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_006.xml#p0358c15">第六</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_007.xml#p0368a04">第七</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_008.xml#p0370a19">第八</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_009.xml#p0372c08">第九</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_010.xml#p0375c11">第十</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_011.xml#p0379a13">第十一</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_012.xml#p0382b04">第十二</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_013.xml#p0384b05">第十三</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_014.xml#p0390a05">第十四</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_015.xml#p0395c15">第十五</cblink></li>
+	<li><cblink href="XML/X/X81/X81n1570_016.xml#p0400b14">第十六</cblink></li>
+</ol>
+</nav>
+</body></html>

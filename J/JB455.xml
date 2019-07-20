@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0687a01">目錄</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0687b03">上堂</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0689a08">小參</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0689a30">偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J39/J39nB455_001.xml#p0689a30">與澹崖原後堂</cblink></li>
+		<li><cblink href="XML/J/J39/J39nB455_001.xml#p0689b03">與華斯圓西堂</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0689b06">機緣</cblink></li>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0689c23">行狀</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J39/J39nB455_001.xml#p0687b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

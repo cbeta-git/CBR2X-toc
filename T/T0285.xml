@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0285_001.xml#p0458a20">1 初發意悅豫住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_001.xml#p0465c04">2 離垢住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_002.xml#p0468b24">3 興光住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_002.xml#p0471a15">4 暉曜住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_003.xml#p0473a27">5 難勝住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_003.xml#p0475c21">6 目前住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_004.xml#p0478c26">7 玄妙住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_004.xml#p0482b02">8 不動住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_004.xml#p0485c26">9 善哉意住品</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_005.xml#p0490a05">10 金剛藏問菩薩住品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T10/T10n0285_001.xml#p0458a16">第一</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_002.xml#p0468b21">第二</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_003.xml#p0473a24">第三</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_004.xml#p0478c23">第四</cblink></li>
+	<li><cblink href="XML/T/T10/T10n0285_005.xml#p0490a02">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/K/K41/K41n1482_010.xml#p0101c02">聖教序</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_010.xml#p0102a20">繼作聖教序</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_010.xml#p0136a04">觀合品第十四</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_010.xml#p0137a09">觀性品第十五</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_010.xml#p0139a14">觀縛解品第十六</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_011.xml#p0140b04">觀縛解品第十六之餘</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_011.xml#p0141b22">觀業品第十七</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_012.xml#p0144c04">觀業品第十七之餘</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_012.xml#p0145a23">觀法品第十八</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_013.xml#p0148b04">觀時品第十九</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_013.xml#p0150c22">觀因果品第二十</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_014.xml#p0152b04">觀因果品第二十之餘</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_014.xml#p0153c14">觀成壞品第二十一</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_015.xml#p0156b04">觀如來品第二十二</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_015.xml#p0159b04">觀顛倒品第二十三</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_016.xml#p0161a04">觀顛倒品第二十三之餘</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_016.xml#p0162a20">觀聖諦品第二十四</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_017.xml#p0165b04">觀聖諦品第二十四之餘</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_017.xml#p0166b01">觀涅槃品第二十五</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_017.xml#p0168c04">觀夢幻品第二十六</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_018.xml#p0170a04">觀諸見品第二十七</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/K/K41/K41n1482_010.xml#p0136a01">第十</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_011.xml#p0140b01">第十一</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_012.xml#p0144c01">第十二</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_013.xml#p0148b01">第十三</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_014.xml#p0152b01">第十四</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_015.xml#p0156b01">第十五</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_016.xml#p0161a01">第十六</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_017.xml#p0165b01">第十七</cblink></li>
+	<li><cblink href="XML/K/K41/K41n1482_018.xml#p0170a01">第十八</cblink></li>
+</ol>
+</nav>
+</body></html>

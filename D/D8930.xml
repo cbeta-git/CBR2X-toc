@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D46/D46n8930_001.xml#p0001b01">崇福語錄</cblink></li>
+	<li><cblink href="XML/D/D46/D46n8930_001.xml#p0007b01">拈古</cblink></li>
+	<li><cblink href="XML/D/D46/D46n8930_001.xml#p0010b01">頌古</cblink></li>
+	<li><cblink href="XML/D/D46/D46n8930_001.xml#p0024b01">參詳語要一</cblink>
+	<ol>
+		<li><cblink href="XML/D/D46/D46n8930_001.xml#p0024b02">雪竇語錄中事</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_001.xml#p0036a11">舉古</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_001.xml#p0039a05">勘辨</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_001.xml#p0045b10">後錄</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D46/D46n8930_002.xml#p0060b01">參詳語要二</cblink>
+	<ol>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0060b02">雪竇語錄中事</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0083a09">拈古</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0087a08">室中㪯古</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0092a02">勘辨</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0094a10">雪峰和尚塔銘(并序)</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0094b09">雪竇傳法賜紫　　重顯　註</cblink></li>
+		<li><cblink href="XML/D/D46/D46n8930_002.xml#p0095a11">受師號上堂</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D46/D46n8930_002.xml#p0097b01">行狀</cblink></li>
+	<li><cblink href="XML/D/D46/D46n8930_002.xml#p0105a04">再刊記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D46/D46n8930_001.xml#p0024b01">第一</cblink></li>
+	<li><cblink href="XML/D/D46/D46n8930_002.xml#p0060b01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

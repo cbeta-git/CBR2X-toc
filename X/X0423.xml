@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0423_001.xml#p0559a02">No. 423-A 彌陀略解圓中鈔序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0423_001.xml#p0559b14">釋解序</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0423_001.xml#p0562c06">釋解文</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0423_002.xml#p0599a07">附刻</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0423_002.xml#p0599b10">刻圓中鈔䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0423_001.xml#p0562c07">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0423_002.xml#p0581c06">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

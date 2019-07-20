@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0175_001.xml#p0419a05">敘</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0175_001.xml#p0419b08">目次</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0175_001.xml#p0419b11">第一五藏和合門</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0175_001.xml#p0419b11">五藏和合</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0175_001.xml#p0420a15">茶功能并採調時節</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0175_001.xml#p0420a15">茶名字</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_001.xml#p0420b16">茶樹形花葉形</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_001.xml#p0420b22">茶功能</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_001.xml#p0421b05">採茶時節</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_001.xml#p0421b20">採茶樣</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_001.xml#p0421b23">調茶樣</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422a06">第二遣除鬼魅門</cblink>
+	<ol>
+		<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422a06">遣除鬼魅</cblink></li>
+		<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422a19">五種病</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422a19">飲水病</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422a24">中風手足不從心病</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422b08">不食病</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422b17">瘡病</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422c13">脚氣病</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423a04">治方</cblink>
+		<ol>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423a14">桑粥法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423b01">桑煎法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423b13">服桑木法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423b18">含桑木法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423c01">桑木枕法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423c04">服桑葉法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423c10">服桑椹法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423c13">服高良薑法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0423c22">喫茶法</cblink></li>
+			<li><cblink href="XML/B/B32/B32n0175_002.xml#p0424a10">服五香煎法</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B32/B32n0175_001.xml#p0419a01">第一</cblink></li>
+	<li><cblink href="XML/B/B32/B32n0175_002.xml#p0422a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

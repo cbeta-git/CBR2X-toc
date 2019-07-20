@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2155_001.xml#p0724a06">菩薩藏三藏</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2155_001.xml#p0724a06">菩薩契經藏</cblink>
+		<ol>
+			<li><cblink href="XML/T/T55/T55n2155_001.xml#p0724a06">大乘經重單合譯</cblink>
+			<ol>
+				<li><cblink href="XML/T/T55/T55n2155_001.xml#p0724a06">般若部</cblink></li>
+				<li><cblink href="XML/T/T55/T55n2155_001.xml#p0724b27">寶積部</cblink></li>
+				<li><cblink href="XML/T/T55/T55n2155_001.xml#p0725b03">大集部</cblink></li>
+				<li><cblink href="XML/T/T55/T55n2155_001.xml#p0725c24">華嚴部</cblink></li>
+				<li><cblink href="XML/T/T55/T55n2155_001.xml#p0726b14">涅槃部</cblink></li>
+				<li><cblink href="XML/T/T55/T55n2155_001.xml#p0726c01">五大部外諸重譯經</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T55/T55n2155_002.xml#p0731c25">大乘經單譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T55/T55n2155_002.xml#p0734b20">菩薩調伏藏</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2155_002.xml#p0735a12">菩薩對法藏</cblink>
+		<ol>
+			<li><cblink href="XML/T/T55/T55n2155_002.xml#p0735a14">大乘釋經論</cblink></li>
+			<li><cblink href="XML/T/T55/T55n2155_002.xml#p0735c03">大乘集義論</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2155_003.xml#p0737a16">聲聞藏三藏</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2155_003.xml#p0737a16">聲聞契經藏</cblink>
+		<ol>
+			<li><cblink href="XML/T/T55/T55n2155_003.xml#p0737a16">小乘經重單合譯</cblink></li>
+			<li><cblink href="XML/T/T55/T55n2155_003.xml#p0740a03">小乘經單譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T55/T55n2155_003.xml#p0741b22">聲聞調伏藏</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2155_004.xml#p0742c28">聲聞對法藏</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2155_004.xml#p0744a07">聖賢傳記錄</cblink>
+	<ol>
+		<li><cblink href="XML/T/T55/T55n2155_004.xml#p0744a07">梵本翻譯集傳</cblink></li>
+		<li><cblink href="XML/T/T55/T55n2155_004.xml#p0745b16">此方撰述集傳</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T55/T55n2155_004.xml#p0746b18">不入藏經等</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T55/T55n2155_001.xml#p0724a03">第一</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2155_002.xml#p0730a14">二上</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2155_002.xml#p0733c23">二下</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2155_003.xml#p0737a13">第三</cblink></li>
+	<li><cblink href="XML/T/T55/T55n2155_004.xml#p0742b11">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

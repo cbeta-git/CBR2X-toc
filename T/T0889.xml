@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0889_001.xml#p0541c21">1 相應行曼拏羅儀則品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_002.xml#p0546a15">2 灌頂品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_002.xml#p0547b12">3 阿闍梨品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_003.xml#p0550a08">4 護摩法品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_004.xml#p0552c08">5 先法攝受弟子品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_005.xml#p0555a14">6 鈴杵相分出生儀則品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_005.xml#p0557c04">7 造塔功德品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0889_001.xml#p0541c15">第一</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_002.xml#p0546a09">第二</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_003.xml#p0550a02">第三</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_004.xml#p0552c02">第四</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0889_005.xml#p0555a08">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

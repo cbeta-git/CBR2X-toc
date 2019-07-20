@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0478a04">No. 361-A 金光明經照解敘</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0478a23">序</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0478b16">目次</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0478b20">一翻譯部帙</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0479a22">二五章大旨</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0480b18">三三分分文</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0481a15">四諸品生起</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0482a13">五辯正訛謬</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0486c17">六為為音訓</cblink>
+	<ol>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0486c18">前文</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487a01">第一卷</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487a07">第二卷</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487a21">第三卷</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487b10">第四卷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487b24">七點示句讀</cblink>
+	<ol>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487c01">前文</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487c05">第一卷</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487c10">第二卷</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487c16">第三卷</cblink></li>
+		<li><cblink href="XML/X/X20/X20n0361_001.xml#p0487c21">第四卷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0488a02">八箋釋事相</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_002.xml#p0532b17">九問答釋疑</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_002.xml#p0538a20">十境觀修顯</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X20/X20n0361_001.xml#p0478a20">第一</cblink></li>
+	<li><cblink href="XML/X/X20/X20n0361_002.xml#p0508c01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

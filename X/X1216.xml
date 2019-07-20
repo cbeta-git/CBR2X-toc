@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1216_001.xml#p0879a02">No. 1216-A 序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1216_001.xml#p0879b09">No. 1216-B 小敘</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1216_001.xml#p0880c02">No. 1216-C 觀記</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1216_001.xml#p0880c11">No. 1216-D 題詞</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1216_001.xml#p0881a06">淨土救生船詩</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1216_001.xml#p0881a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

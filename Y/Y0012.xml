@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/Y/Y12/Y12n0012_001.xml#pa001a01">自序</cblink></li>
+	<li><cblink href="XML/Y/Y12/Y12n0012_001.xml#p0001a01">偈頌</cblink></li>
+	<li><cblink href="XML/Y/Y12/Y12n0012_001.xml#p0019a02">第一章　歸敬三寶</cblink></li>
+	<li><cblink href="XML/Y/Y12/Y12n0012_002.xml#p0053a01">第二章　聞法趣入</cblink></li>
+	<li><cblink href="XML/Y/Y12/Y12n0012_003.xml#p0075a01">第三章　五乘共法</cblink></li>
+	<li><cblink href="XML/Y/Y12/Y12n0012_004.xml#p0143a01">第四章　三乘共法</cblink></li>
+	<li><cblink href="XML/Y/Y12/Y12n0012_005.xml#p0261a01">第五章　大乘不共法</cblink></li>
+</ol>
+</nav>
+</body></html>

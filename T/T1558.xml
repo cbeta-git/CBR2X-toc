@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1558_001.xml#p0001a07">1 分別界品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_001.xml#p0001a07">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_002.xml#p0007a02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_003.xml#p0013b10">2 分別根品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_003.xml#p0013b10">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_004.xml#p0018b10">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_005.xml#p0024a02">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_006.xml#p0030a02">4</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_007.xml#p0036b05">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_008.xml#p0040c22">3 分別世品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_008.xml#p0040c22">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_009.xml#p0045c05">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_010.xml#p0051c02">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_011.xml#p0057a02">4</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_012.xml#p0062a08">5</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_013.xml#p0067b06">4 分別業品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_013.xml#p0067b06">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_014.xml#p0072b02">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_015.xml#p0077c15">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_016.xml#p0083b13">4</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_017.xml#p0088b23">5</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_018.xml#p0093a15">6</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_019.xml#p0098b17">5 分別隨眠品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_019.xml#p0098b17">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_020.xml#p0104a02">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_021.xml#p0108b15">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_022.xml#p0113c06">6 分別賢聖品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_022.xml#p0113c06">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_023.xml#p0118c09">2</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_024.xml#p0123c15">3</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_025.xml#p0129a13">4</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_026.xml#p0134b19">7 分別智品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_026.xml#p0134b19">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_027.xml#p0140a20">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_028.xml#p0145a18">8 分別定品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_028.xml#p0145a18">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_029.xml#p0150b07">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T29/T29n1558_029.xml#p0152b23">9 破執我品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T29/T29n1558_029.xml#p0152b23">1</cblink></li>
+		<li><cblink href="XML/T/T29/T29n1558_030.xml#p0155a21">2</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T29/T29n1558_001.xml#p0001a03">第一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_002.xml#p0007a02">第二</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_003.xml#p0013b06">第三</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_004.xml#p0018b10">第四</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_005.xml#p0024a02">第五</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_006.xml#p0030a02">第六</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_007.xml#p0036b05">第七</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_008.xml#p0040c18">第八</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_009.xml#p0045c05">第九</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_010.xml#p0051c02">第十</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_011.xml#p0057a02">第十一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_012.xml#p0062a08">第十二</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_013.xml#p0067b02">第十三</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_014.xml#p0072b02">第十四</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_015.xml#p0077c15">第十五</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_016.xml#p0083b13">第十六</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_017.xml#p0088b23">第十七</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_018.xml#p0093a15">第十八</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_019.xml#p0098b13">第十九</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_020.xml#p0104a02">第二十</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_021.xml#p0108b15">第二十一</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_022.xml#p0113c02">第二十二</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_023.xml#p0118c09">第二十三</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_024.xml#p0123c15">第二十四</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_025.xml#p0129a13">第二十五</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_026.xml#p0134b15">第二十六</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_027.xml#p0140a20">第二十七</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_028.xml#p0145a14">第二十八</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_029.xml#p0150b07">第二十九</cblink></li>
+	<li><cblink href="XML/T/T29/T29n1558_030.xml#p0155a21">第三十</cblink></li>
+</ol>
+</nav>
+</body></html>

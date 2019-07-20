@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1251_001.xml#p0667a04">叢林兩序須知目次</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1251_001.xml#p0667a23">總引</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1251_001.xml#p0667b16">西序</cblink>
+	<ol>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0667b21">首座須知(西堂通用)</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0668a13">書記須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0668b19">藏主須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0668c24">知客須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0670b15">浴主須知(內圊頭附)</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0671a06">方丈侍者須知</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X63/X63n1251_001.xml#p0671c12">東序</cblink>
+	<ol>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0671c14">監寺須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0672c21">維那須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0673c23">副寺須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0675a05">典座須知</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1251_001.xml#p0675b20">直歲須知</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1251_001.xml#p0667a20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

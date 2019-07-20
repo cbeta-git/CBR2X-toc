@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0371_001.xml#p0422a07">科分</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0371_001.xml#p0422a11">一序段</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0371_001.xml#p0425a01">二正說段</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0371_002.xml#p0454a20">三流通段</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0371_002.xml#p0454c17">No. 371-A 䟦語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0371_001.xml#p0422a04">第一</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0371_002.xml#p0437c13">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

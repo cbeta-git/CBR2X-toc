@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1344_001.xml#p0226c09">初住雲巖語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1344_001.xml#p0227c07">住翠巖廣化法語</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1344_001.xml#p0228c10">再住雲巖語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1344_001.xml#p0229b06">遷住黃龍語錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232a19">偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232a20">送禪人作丐</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232a22">退翠巖(二首)</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232b03">頌魯祖</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232b06">死心室</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232b09">送禪人持鉢</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232b12">送靈源</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232b15">和靈源瞌睡歌</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232b24">快活歌</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c04">寄靈源</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c07">禪人寫真求贊(二首)</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c11">與空室道人</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c14">師任雲巖日通判段公以頌呈師</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c16">師以偈答</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c18">因先上人南還</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c21">和衡典座無一庵</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0232c23">師臨順寂以偈寄師川大夫</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a02">禪人以出定僧相請師贊</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a04">和方侍者頌曹山雪中因緣</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a08">與方侍者(二首)</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a13">啟明軒</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a15">迴光軒</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a17">贊六祖</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1344_001.xml#p0233a20">師臨歸寂小參示眾</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1344_001.xml#p0226c07">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

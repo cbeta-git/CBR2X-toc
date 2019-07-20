@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D38/D38n8898_001.xml#p0001a01">序</cblink></li>
+	<li><cblink href="XML/D/D38/D38n8898_001.xml#p0004b03">釋題</cblink></li>
+	<li><cblink href="XML/D/D38/D38n8898_001.xml#p0005b01">真空觀第一</cblink>
+	<ol>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0005b04">一會色歸空觀</cblink>
+		<ol>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0005b05">一簡斷空</cblink></li>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0008a02">二簡實色</cblink></li>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0009b07">三雙簡斷實</cblink></li>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0011a05">四顯理</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0012b09">二明空即色觀</cblink>
+		<ol>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0013a08">一簡斷空</cblink></li>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0014a09">二簡實色</cblink></li>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0015a07">三雙簡斷實</cblink></li>
+			<li><cblink href="XML/D/D38/D38n8898_001.xml#p0017a07">四顯解</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0018a09">三空色無礙觀</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0020a02">第四泯絕無寄觀</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/D/D38/D38n8898_001.xml#p0025b01">理事無礙觀第二</cblink>
+	<ol>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0027b05">一理遍於事門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0029b06">二事遍於理門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0041a03">三依理成事門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0042b06">四事能顯理門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0044a05">五以理奪事門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0045b02">六事能隱理門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0046b09">七真理即事門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0048a03">八事法即理門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0049a06">九真理非事門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0050a10">十事法非理門</cblink></li>
+		<li><cblink href="XML/D/D38/D38n8898_001.xml#p0052a02">總前十門結勸</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D38/D38n8898_001.xml#p0004b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0460_001.xml#p0448a28">1 真諦義品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0460_001.xml#p0449a20">2 聖諦品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0460_001.xml#p0450b09">3 解律品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0460_001.xml#p0451b19">4 道門品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0460_001.xml#p0448a25">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

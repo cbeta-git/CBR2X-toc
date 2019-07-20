@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0381_001.xml#p0602a05">No. 381-A 刻藥師經直解敘</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0381_001.xml#p0602c05">No. 381-B 藥師經直解敘</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0381_001.xml#p0603a01">No. 381-C 藥師經直解科</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0381_001.xml#p0606a02">藥師瑠璃光如來本願功德經直解</cblink></li>
+	<li><cblink href="XML/X/X21/X21n0381_001.xml#p0621a19">No. 381-D 附錄梵文神呪(神呪輙持誦則越諸佛三昧耶要須從師傳持)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X21/X21n0381_001.xml#p0621a21">藥師如來大真言</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0381_001.xml#p0621b01">藥師如來小真言</cblink></li>
+		<li><cblink href="XML/X/X21/X21n0381_001.xml#p0621b03">七佛藥師真言</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X21/X21n0381_001.xml#p0606a04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

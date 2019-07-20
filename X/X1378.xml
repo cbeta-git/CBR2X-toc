@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0110b05">目錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0110b18">No. 1378-A 無明性和尚語錄序</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0110c05">蘄州資福禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0111b05">蘄州北山智度禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0111c09">南康軍廬山歸宗能仁禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0112b22">南康軍廬山開先華藏禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0113b14">南康軍廬山棲賢寶覺禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0114a18">平江府陽山尊相禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115a14">平江府雙塔壽寧萬歲禪寺語錄</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c04">頌古</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c05">趙州見二菴主</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c08">外道問佛</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c11">開口不在舌頭上</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c13">大力量人擡脚不起</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c16">大力量人脚下紅線不斷</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c18">溈山晷運推移</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c21">南泉斬猫兒</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0115c24">法語</cblink>
+	<ol>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116a01">寄顏一齊居士</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116b16">寄顏一齋閤內寂室方氏</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116b19">付淨徹首座竹篦</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116b22">沈安齊草菴號常牧</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116c01">自贊</cblink></li>
+		<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116c07">辭世</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0116c13">No. 1378-B 塔銘</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0117b16">No. 1378-C</cblink></li>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0117b20">No. 1378-D 後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X70/X70n1378_001.xml#p0110b04">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

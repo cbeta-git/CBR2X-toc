@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1255_001.xml#p0737b09">釋詳辨宗途前文</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1255_001.xml#p0743c22">釋詳辨宗途</cblink>
+	<ol>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744a07">臨濟宗</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744a14">曹洞宗</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744a18">雲門宗</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744a22">溈仰宗</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744b02">法眼宗</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744b06">臨濟家風</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744b11">曹洞家風</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744b16">雲門家風</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744b20">溈仰家風</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c01">法眼家風</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c06">別明臨濟宗旨</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c09">三句</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c12">三要</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c14">三玄</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c17">四料棟</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0744c20">四賓主</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0745a01">四照用</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0745a04">四大式(正利平常本分貢假)</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0745a07">四喝</cblink></li>
+		<li><cblink href="XML/X/X63/X63n1255_001.xml#p0745a11">八棒</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X63/X63n1255_001.xml#p0745a16">釋詳辨宗途後文</cblink></li>
+	<li><cblink href="XML/X/X63/X63n1255_001.xml#p0745c02">No. 1255-A</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X63/X63n1255_001.xml#p0737b06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

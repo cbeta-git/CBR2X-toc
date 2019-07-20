@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0124a04">目次</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0124b14">序</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0124c01">六門次第</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0129b24">分別界品第一</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0144b15">分別根品第二</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_002.xml#p0159b03">分別世間品第三</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_002.xml#p0170c03">分別業品第四</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_003.xml#p0185a22">分別隨眠品第五</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_003.xml#p0196a08">分別賢聖品第六</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_003.xml#p0204b08">分別智品第七</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_003.xml#p0209b19">分別定品第八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0124b11">上本</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_001.xml#p0140b09">上末</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_002.xml#p0154b20">中本</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_002.xml#p0170c01">中末</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_003.xml#p0185a20">下本</cblink></li>
+	<li><cblink href="XML/X/X53/X53n0839_003.xml#p0197c17">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

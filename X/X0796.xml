@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X48/X48n0796_001.xml#p0001a04">目次</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_001.xml#p0001b14">大乘阿毗達磨雜集論述記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X48/X48n0796_001.xml#p0001b16">第一</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_002.xml#p0023a03">第二</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_003.xml#p0038c04">第三</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_004.xml#p0055a01">第四</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_005.xml#p0068b03">第五</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_006.xml#p0085a17">第六</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_007.xml#p0097c03">第七</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_008.xml#p0107c13">第八</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_009.xml#p0120b11">第九</cblink></li>
+	<li><cblink href="XML/X/X48/X48n0796_010.xml#p0139a13">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

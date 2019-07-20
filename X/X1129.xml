@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1129_001.xml#p0678a02">No. 1129-A 歸戒序</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1129_001.xml#p0678b06">受三歸法</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1129_002.xml#p0682b06">受五戒法</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1129_003.xml#p0690b13">受八戒齋法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1129_001.xml#p0678b03">第一</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1129_002.xml#p0682b03">第二</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1129_003.xml#p0690b10">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

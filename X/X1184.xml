@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1184_001.xml#p0355b05">No. 1184-A 序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1184_001.xml#p0355c13">No. 1184-B 自序</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1184_001.xml#p0356a04">例言四則</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1184_001.xml#p0356a17">念佛百問</cblink></li>
+	<li><cblink href="XML/X/X62/X62n1184_001.xml#p0365a20">No. 1184-C 䟦</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X62/X62n1184_001.xml#p0356a14">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

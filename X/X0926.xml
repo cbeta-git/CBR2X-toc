@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0926_001.xml#p0308b09">十不二門示珠指</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0926_002.xml#p0324b09">No. 926-A</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0926_002.xml#p0324c02">No. 926-B 議宋國新書考</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0926_001.xml#p0308b06">第一</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0926_002.xml#p0316a20">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

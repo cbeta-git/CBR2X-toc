@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779a01">敘</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779b04">機緣</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779b21">法語</cblink>
+	<ol>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779b22">示白拈禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779c09">示可心戒子</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779c15">示萬庥禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779c23">示徒</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779c27">佛事</cblink></li>
+	<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a13">眾偈</cblink>
+	<ol>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a14">與非篆禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a17">示立卓禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a20">示劍衡李居士</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a23">與大死靈禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a26">示不夢行者</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780a29">圓通示明也何居士</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780b03">與輿若乘禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780b06">復松宇李居士偈</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780b18">與憨之秀禪人</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780b21">送別湖巖道兄</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780b24">弔蒼峨道兄</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780b28">訪琇峨道兄</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c01">壽湖巖道兄</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c04">訪雪波座主</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c08">向日葵</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c12">照鏡石</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c16">盤石生蓮</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c23">道傍梅次韻</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c27">新月</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0780c30">紅梅</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0781a03">破氈帽次韻</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0781a06">應時歌</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0781a17">四威儀</cblink></li>
+		<li><cblink href="XML/J/J35/J35nB341_001.xml#p0781a22">未示寂前書自感偈</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J35/J35nB341_001.xml#p0779b01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

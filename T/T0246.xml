@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0246_001.xml#p0834a12">大唐新飜序</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_001.xml#p0834c09">1 序品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_001.xml#p0835b09">2 觀如來品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_001.xml#p0836b09">3 菩薩行品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_001.xml#p0839a01">4 二諦品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_002.xml#p0840a09">5 護國品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_002.xml#p0840c16">6 不思議品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_002.xml#p0841a21">7 奉持品</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_002.xml#p0844b04">8 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T08/T08n0246_001.xml#p0834c03">第一</cblink></li>
+	<li><cblink href="XML/T/T08/T08n0246_002.xml#p0840a03">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

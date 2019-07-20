@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0131_001.xml#p0003a10">序文</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0131_001.xml#p0003a11">智旭序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0131_001.xml#p0005a11">湯學紳序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0131_001.xml#p0006a11">律學</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0131_001.xml#p0006a12">律宗要典</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0131_001.xml#p0007b14">律學綱維</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0131_002.xml#p0024a11">教觀</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0131_002.xml#p0024a12">三宗要典</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0131_002.xml#p0026b14">教觀警策</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0131_003.xml#p0040b11">禪宗</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0131_003.xml#p0040b12">禪觀要典</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0131_003.xml#p0041b14">禪宗要旨</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0131_004.xml#p0071b11">密咒</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0131_004.xml#p0071b12">密宗要典</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0131_004.xml#p0072a14">密咒圓因</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0131_005.xml#p0075b11">淨土</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0131_005.xml#p0075b12">淨土要典</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0131_005.xml#p0076b14">淨土玄門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/B/B24/B24n0131_005.xml#p0082b11">願文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B24/B24n0131_001.xml#p0003a01">第一</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0131_002.xml#p0024a11">第二</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0131_003.xml#p0040b11">第三</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0131_004.xml#p0071b11">第四</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0131_005.xml#p0075b11">第五</cblink></li>
+</ol>
+</nav>
+</body></html>

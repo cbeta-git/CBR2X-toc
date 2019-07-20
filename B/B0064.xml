@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0064_001.xml#p0419a04">一、大圓滿的意義和內容</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0064_001.xml#p0438a02">二、大圓滿中最盛行的要門部的理論和內容</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0064_001.xml#p0462a04">三、大圓滿前後宏期在西藏的傳承流布簡況及抉擇總結</cblink></li>
+	<li><cblink href="XML/B/B10/B10n0064_001.xml#p0490a03">參考書目</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/B/B10/B10n0064_001.xml#p0419a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

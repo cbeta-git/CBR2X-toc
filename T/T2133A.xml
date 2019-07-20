@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2133A_001.xml#p1190a18">序</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2133A_001.xml#p1190a22">梵語千字文</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2133A_001.xml#p1194c16">〔識語〕</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2133A_001.xml#p1194c31">〔梵唐消息〕</cblink></li>
+	<li><cblink href="XML/T/T54/T54n2133A_001.xml#p1196b09">梵語千字文後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T54/T54n2133A_001.xml#p1190a15">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

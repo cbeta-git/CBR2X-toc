@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0057a01">序</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0058a03">住全州南源洪聖寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0060b13">三吾曹山集聖寺</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0061b19">分座秉拂</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0062b09">機緣</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0063a16">佛事</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0064a12">頌古</cblink></li>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0065b01">行實</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J40/J40nB476_001.xml#p0058a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0134a02">No. 1517-A</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0134a11">No. 1517-B</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0134b21">釋氏資鑑目次</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0135b05">前文</cblink>
+	<ol>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0135b05">帝紀</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0136c24">佛</cblink>
+		<ol>
+			<li><cblink href="XML/X/X76/X76n1517_001.xml#p0137a01">釋迦如來宗派</cblink></li>
+			<li><cblink href="XML/X/X76/X76n1517_001.xml#p0137b10">轉八識成四智束四智為三身</cblink></li>
+			<li><cblink href="XML/X/X76/X76n1517_001.xml#p0137c02">六祖禪師頌</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0137c12">法</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0137d17">僧</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0138c25">釋迦文賦</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0139a18">序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0139c11">周</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0140c01">秦</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0140c22">漢</cblink>
+	<ol>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0141b14">西漢</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_001.xml#p0141c14">東漢</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X76/X76n1517_002.xml#p0144c05">三國</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_002.xml#p0145b17">西晉</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_002.xml#p0146a11">東晉</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_003.xml#p0156a19">南北朝</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_005.xml#p0173c23">隋</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_006.xml#p0179a09">唐上</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_007.xml#p0195a03">唐中</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_008.xml#p0206c03">唐下</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_008.xml#p0214c23">唐末至五代</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_008.xml#p0215a08">五代</cblink>
+	<ol>
+		<li><cblink href="XML/X/X76/X76n1517_008.xml#p0215a09">後梁</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_008.xml#p0216a03">後唐</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_008.xml#p0216b02">後晉</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_008.xml#p0216b17">後漢</cblink></li>
+		<li><cblink href="XML/X/X76/X76n1517_008.xml#p0216b24">後周</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X76/X76n1517_009.xml#p0218a12">宋上</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_010.xml#p0229b09">宋中</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_011.xml#p0241a17">宋下</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_012.xml#p0253a20">元</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_012.xml#p0254b01">No. 1517-1 國朝帝師行實</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_012.xml#p0254c09">No. 1517-C</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X76/X76n1517_001.xml#p0135b02">第一</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_002.xml#p0144a01">第二</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_003.xml#p0156a16">第三</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_004.xml#p0162b09">第四</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_005.xml#p0169c05">第五</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_006.xml#p0179a06">第六</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_007.xml#p0195a01">第七</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_008.xml#p0206c01">第八</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_009.xml#p0218a09">第九</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_010.xml#p0229b06">第十</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_011.xml#p0241a14">第十一</cblink></li>
+	<li><cblink href="XML/X/X76/X76n1517_012.xml#p0253a17">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

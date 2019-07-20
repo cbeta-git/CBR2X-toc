@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0120a03">念佛鏡序</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0121b04">1 勸進念佛門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0122b17">2 自力他力門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0123a03">3 念佛得益門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0123b28">4 已得往生門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0123c18">5 挍量功德門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0124c25">6 挍量齋福門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0125a12">7 疑謗得罪門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0125b16">8 誓願證教門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0126a18">9 廣攝諸教門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0126b18">10 釋眾疑惑門</cblink>
+	<ol>
+		<li><cblink href="XML/T/T47/T47n1966_002.xml#p0127a01">1 念佛對三階門</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1966_002.xml#p0127c20">2 念佛對彌勒門</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1966_002.xml#p0128b11">3 念佛對坐禪門</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1966_002.xml#p0128c29">4 念佛對講說門</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1966_002.xml#p0129a29">5 念佛對戒律門</cblink></li>
+		<li><cblink href="XML/T/T47/T47n1966_002.xml#p0129c11">6 念佛對六度門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0130a24">11 念佛出三界門</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0132b22">修西方十二時</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0132c18">修西方十勸</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0133a13">臨終正念往生文</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0133c01">重鍥念佛鏡敘</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1966_001.xml#p0121a10">本</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1966_002.xml#p0126b16">末</cblink></li>
+</ol>
+</nav>
+</body></html>

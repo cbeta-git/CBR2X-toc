@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1169_001.xml#p0677b27">1 大明成就分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_001.xml#p0678a12">2 觀智成就分</cblink>
+	<ol>
+		<li><cblink href="XML/T/T20/T20n1169_001.xml#p0678a12">1</cblink></li>
+		<li><cblink href="XML/T/T20/T20n1169_002.xml#p0680c02">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T20/T20n1169_003.xml#p0684c05">3 造㡧像分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_003.xml#p0685c10">4 尊那菩薩大明成就儀軌作曼拏羅法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_003.xml#p0686b13">5 護摩法分</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_003.xml#p0686c13">6 尊那菩薩持誦法分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T20/T20n1169_001.xml#p0677b24">第一</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_002.xml#p0680c02">第二</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_003.xml#p0684c02">第三</cblink></li>
+	<li><cblink href="XML/T/T20/T20n1169_004.xml#p0688a02">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0438a04">法華統略目次</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0438c09">序</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0438c19">釋經題</cblink>
+	<ol>
+		<li><cblink href="XML/X/X27/X27n0582_001.xml#p0438c22">妙</cblink></li>
+		<li><cblink href="XML/X/X27/X27n0582_001.xml#p0439b21">法</cblink></li>
+		<li><cblink href="XML/X/X27/X27n0582_001.xml#p0440b10">蓮華</cblink></li>
+		<li><cblink href="XML/X/X27/X27n0582_001.xml#p0440c11">教菩薩法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0442c07">釋章段</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0442c18">釋序品第一</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0457b06">釋方便品第二</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_002.xml#p0473b20">釋譬喻品第三</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_002.xml#p0492a06">釋信解品第四</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0502c18">釋五百弟子授記品第八</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0505a18">釋學無學人授記品第九</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0506a11">釋法師品第十</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0507c06">釋見寶塔品第十一</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0512a09">釋提婆達多品第十二</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0513a24">釋持品第十三</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0513c23">釋安樂行品第十四</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0516a11">釋涌出品第十五</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0518b13">釋壽量品第十六</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0523a10">釋分別功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0523c16">釋隨喜品第十八</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0524b22">釋法師功德品第十九</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0525b22">釋常不輕品第二十</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0525c18">釋如來神力品第二十一</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0526b22">釋囑累品第二十二</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0527a18">釋藥王品第二十三</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0528a24">釋隨喜功德品第二十四</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0528c09">釋觀音普門品第二十五</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0530a24">釋陀羅尼品第二十六</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0530b12">釋妙莊嚴王品第二十七</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0531a11">釋普賢勸發品第二十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0438c06">上本</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_001.xml#p0457b04">上末</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_002.xml#p0473b17">中本</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_002.xml#p0492a04">中末</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0502c15">下本</cblink></li>
+	<li><cblink href="XML/X/X27/X27n0582_003.xml#p0518b11">下末</cblink></li>
+</ol>
+</nav>
+</body></html>

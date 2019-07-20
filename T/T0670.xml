@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0670_001.xml#p0479a03">蔣之奇序</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0670_001.xml#p0479c06">蘇軾序</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0670_001.xml#p0480a16">一切佛語心品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T16/T16n0670_001.xml#p0480a16">之一</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0670_002.xml#p0489a24">之二</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0670_003.xml#p0497c16">之三</cblink></li>
+		<li><cblink href="XML/T/T16/T16n0670_004.xml#p0505b16">之四</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0670_001.xml#p0480a13">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0670_002.xml#p0489a21">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0670_003.xml#p0497c13">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0670_004.xml#p0505b13">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

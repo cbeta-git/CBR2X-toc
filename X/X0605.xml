@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0632a05">No. 605-A 刻註法華經序</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0632b13">No. 605-B 註妙法蓮華經序</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0633a04">目次</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0633c08">弘傳序</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0638b20">經題</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0639a08">譯者</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0639b24">序品第一</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_002.xml#p0666b15">方便品第二</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_003.xml#p0688b23">譬喻品第三</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_004.xml#p0713c05">信解品第四</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_005.xml#p0728c01">藥艸喻品第五</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_005.xml#p0737a11">授記品第六</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_005.xml#p0741a15">化城喻品第七</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_006.xml#p0753a23">五百弟子受記品第八</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_006.xml#p0758b04">授學無學人記品第九</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_006.xml#p0760b08">法師品第十</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_006.xml#p0765b15">見寶塔品第十一</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_007.xml#p0770c13">提婆達多品第十二</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_007.xml#p0777a09">勸持品第十三</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_007.xml#p0779a06">安樂行品第十四</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_007.xml#p0788a02">從地涌出品第十五</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_008.xml#p0793b01">如來壽量品第十六</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_008.xml#p0803a21">分別功德品第十七</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_008.xml#p0807b02">隨喜功德品第十八</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_008.xml#p0809b14">法師功德品第十九</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_009.xml#p0813a05">常不輕菩薩品第二十</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_009.xml#p0815b23">如來神力品第二十一</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_009.xml#p0817b24">囑累品第二十二</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_009.xml#p0818b22">藥王菩薩本事品第二十三</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_009.xml#p0822b04">妙音菩薩品第二十四</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_010.xml#p0825a19">觀世音菩薩普門品第二十五</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_010.xml#p0841c21">陀羅尼品第二十六</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_010.xml#p0844c16">妙莊嚴王本事品第二十七</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_010.xml#p0848c14">普賢菩薩勸發品第二十八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X30/X30n0605_001.xml#p0633c03">第一</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_002.xml#p0666b10">第二</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_003.xml#p0688b18">第三</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_004.xml#p0713c01">第四</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_005.xml#p0728b20">第五</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_006.xml#p0753a18">第六</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_007.xml#p0770c08">第七</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_008.xml#p0793a20">第八</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_009.xml#p0813a01">第九</cblink></li>
+	<li><cblink href="XML/X/X30/X30n0605_010.xml#p0825a14">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

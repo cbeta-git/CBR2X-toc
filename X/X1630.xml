@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0467b08">金剛經鳩異目次</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0467b21">序</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0467c20">張齊丘</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0468a09">虞候王某</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0468a23">孫咸</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0468b17">僧智燈</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0468b24">王從貴妹</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0468c06">左營伍伯</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0468c15">陳昭</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469a19">僧惟恭</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469b05">董進朝</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469b16">王沔</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469b22">僧會宗</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469c03">僧法正</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469c12">沙彌道蔭</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0469c17">王忠幹</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0470a10">何軫妻</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0470a18">王殷</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0470b01">趙安</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0470b09">王翰</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0470b20">高涉</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0470c16">豐州烽子</cblink></li>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0471a07">王孝廉</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X87/X87n1630_001.xml#p0467b19">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

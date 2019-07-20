@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1276_001.xml#p0807a05">No. 1276-A 禪門寶藏錄序</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1276_001.xml#p0807a21">目次</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1276_001.xml#p0807b11">禪教對辨門(二十五則)</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1276_002.xml#p0810b13">諸講歸伏門(二十五則)</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1276_003.xml#p0813c01">君臣崇信門三十九則 尼婆附</cblink>
+	<ol>
+		<li><cblink href="XML/X/X64/X64n1276_003.xml#p0813c02">君臣崇信門三十九則</cblink></li>
+		<li><cblink href="XML/X/X64/X64n1276_003.xml#p0816b03">尼婆三則</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X64/X64n1276_003.xml#p0816c04">No. 1276-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X64/X64n1276_001.xml#p0807b08">第一</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1276_002.xml#p0810b11">第二</cblink></li>
+	<li><cblink href="XML/X/X64/X64n1276_003.xml#p0813b23">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

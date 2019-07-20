@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0335a03">序</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0335b05">1 序品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0335c16">2 壽量品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0336b10">3 懺悔品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0339a07">4 讚歎品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0340a07">5 空品(一)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_002.xml#p0340c16">6 四天王品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_002.xml#p0344c20">7 大辯天神品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_002.xml#p0345a04">8 功德天品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_002.xml#p0345c07">9 堅牢地神品(二)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0346b15">10 散脂鬼神品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0346c23">11 正論品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0348a27">12 善集品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0349a29">13 鬼神品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0351a01">14 授記品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0351b23">15 除病品(三)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_004.xml#p0352b15">16 流水長者子品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_004.xml#p0353c21">17 捨身品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_004.xml#p0356c22">18 讚佛品(四)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_004.xml#p0358a02">19 囑累品(四)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0663_001.xml#p0335b02">第一</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_002.xml#p0340c13">第二</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_003.xml#p0346b12">第三</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0663_004.xml#p0352b12">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

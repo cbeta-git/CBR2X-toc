@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X05/X05n0232_001.xml#p0686a03">釋鈔序</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_001.xml#p0688c14">正文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X05/X05n0232_001.xml#p0688c15">第一</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_002.xml#p0704a08">第二</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_003.xml#p0719b04">第三</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_004.xml#p0734a13">第四</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_005.xml#p0752b05">第五</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_006.xml#p0775b01">第六</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_007.xml#p0796a15">第七</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_008.xml#p0813b15">第八</cblink></li>
+	<li><cblink href="XML/X/X05/X05n0232_009.xml#p0836b13">第九</cblink></li>
+</ol>
+</nav>
+</body></html>

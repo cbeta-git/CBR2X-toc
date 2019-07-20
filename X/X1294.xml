@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1294_001.xml#p0468b05">No. 1294-A 敘溈山警策</cblink></li>
+	<li><cblink href="XML/X/X65/X65n1294_001.xml#p0468c05">溈山警策註</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X65/X65n1294_001.xml#p0468c06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

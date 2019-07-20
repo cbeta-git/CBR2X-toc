@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0929_001.xml#p0356a09">序</cblink></li>
+	<li><cblink href="XML/X/X56/X56n0929_001.xml#p0356b01">法華玄記十不二門顯妙解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X56/X56n0929_001.xml#p0356a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

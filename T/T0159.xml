@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0159_001.xml#p0291a06">1 序品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_002.xml#p0296b25">2 報恩品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T03/T03n0159_002.xml#p0296b25">1</cblink></li>
+		<li><cblink href="XML/T/T03/T03n0159_003.xml#p0301a04">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T03/T03n0159_004.xml#p0306b20">3 厭捨品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_005.xml#p0312c14">4 無垢性品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_005.xml#p0315c27">5 阿蘭若品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_006.xml#p0317c04">6 離世間品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_006.xml#p0321a14">7 厭身品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_007.xml#p0322b04">8 波羅蜜多品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_007.xml#p0324c07">9 功德莊嚴品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_008.xml#p0326c04">10 觀心品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_008.xml#p0328b07">11 發菩提心品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_008.xml#p0329b09">12 成佛品</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_008.xml#p0330c02">13 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T03/T03n0159_001.xml#p0291a03">第一</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_002.xml#p0296b22">第二</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_003.xml#p0301a04">第三</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_004.xml#p0306b17">第四</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_005.xml#p0312c11">第五</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_006.xml#p0317c01">第六</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_007.xml#p0322b01">第七</cblink></li>
+	<li><cblink href="XML/T/T03/T03n0159_008.xml#p0326c01">第八</cblink></li>
+</ol>
+</nav>
+</body></html>

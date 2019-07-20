@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0122b07">三千章十科</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0122b15">一出本文</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0123a22">二辨三諦</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0124b12">三明事理</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0125a21">四簡權實</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0125c05">五顯體用</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0126a13">六述互具</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0127c10">七譬喻</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0128a11">八示別圓</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0128c04">九對四土</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0129a10">十判六即</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0963_001.xml#p0122b05">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

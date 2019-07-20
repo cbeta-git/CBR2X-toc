@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T17/T17n0816_001.xml#p0799c17">第一</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0816_002.xml#p0804c05">第二</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0816_003.xml#p0808b13">第三</cblink></li>
+	<li><cblink href="XML/T/T17/T17n0816_004.xml#p0813a11">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

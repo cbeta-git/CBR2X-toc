@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1342_001.xml#p0209c02">No. 1342-A 雲菴真淨禪師語錄敘</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1342_001.xml#p0209c13">雲菴真淨禪師語錄目錄</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1342_001.xml#p0210a10">No. 1342-B 大丞相請疏</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1342_001.xml#p0210a20">No. 1342-C 判府左丞請疏</cblink></li>
+	<li><cblink href="XML/X/X69/X69n1342_001.xml#p0210b08">No. 1342-D 附錄</cblink>
+	<ol>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0210b11">雲菴真淨和尚行狀</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0211c16">祭雲菴和尚文</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212a05">重修雲菴塔</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212a11">雲庵真讚</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212a22">題雲庵手帖三首</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212b10">跋山谷雲菴贊</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212b17">雲菴生辰</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212b20">七月四日晝夢雲菴和尚教誨久之而覺作此示超然</cblink></li>
+		<li><cblink href="XML/X/X69/X69n1342_001.xml#p0212c01">雲菴塔有雙桐作此寄因姪</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X69/X69n1342_001.xml#p0209c01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

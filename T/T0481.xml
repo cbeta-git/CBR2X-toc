@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0481_001.xml#p0625a06">1 四事品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_001.xml#p0627a11">2 妙慧超王佛品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_002.xml#p0629b17">4 持施王品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_002.xml#p0630b10">5 十八種品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_002.xml#p0631c01">6 曉三界品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_002.xml#p0632b04">7 諸入品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_002.xml#p0632c26">8 十二緣品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_003.xml#p0633c26">9 三十七品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0637c11">10 世俗度世品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0638b03">11 有為無為品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0638c29">12 寶光菩薩品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0639c22">13 往古品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0640b08">14 颰陀和五百人品</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0641b11">15 囑累品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T14/T14n0481_001.xml#p0625a03">第一</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_002.xml#p0629b15">第二</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_003.xml#p0633c23">第三</cblink></li>
+	<li><cblink href="XML/T/T14/T14n0481_004.xml#p0637c08">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

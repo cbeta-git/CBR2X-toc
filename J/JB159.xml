@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0137a03">上堂</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0137a26">普說</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0138a07">示五羊深禪人</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0138a23">示本空禪人</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0139a05">示徒悟玄</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0139a26">囑大川關主</cblink></li>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0139c21">普說行腳</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/J/J25/J25nB159_001.xml#p0137a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

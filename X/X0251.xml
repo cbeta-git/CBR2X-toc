@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0251_001.xml#p0151c03">No. 251-A</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0251_001.xml#p0152b02">御註圓覺經</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0251_002.xml#p0166c14">No. 251-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0251_001.xml#p0152b04">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0251_002.xml#p0159b15">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

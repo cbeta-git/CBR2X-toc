@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1198c04">大般涅槃經卷第二十二</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1199a05">華嚴經</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1199a16">大集經卷第十六</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1199b22">大品經卷第三</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1199c23">集一切福德經卷第二</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1200a01">淨業障經一卷</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1200b02">十波羅蜜法門</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1200b06">寶雲經卷第一</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1204b20">華嚴經</cblink></li>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1204c01">相續解脫經一卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T85/T85n2820_012.xml#p1197c09">第十二</cblink></li>
+</ol>
+</nav>
+</body></html>

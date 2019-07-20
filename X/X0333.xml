@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0068a07">經題</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0068b11">一切佛語心品第一</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0078b05">一切佛語心品第二</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0086c12">一切佛語心品第三</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0092a01">一切佛語心品第四</cblink></li>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0098b04">楞伽經心印一卷</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X18/X18n0333_001.xml#p0068a06">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

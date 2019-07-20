@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0976_001.xml#p0537a02">No. 976-A 天台四教集解卷上(并序)</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0976_001.xml#p0537b09">四教儀集解</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0976_003.xml#p0608a02">No. 976-B</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X57/X57n0976_001.xml#p0537b07">第一</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0976_002.xml#p0557c11">第二</cblink></li>
+	<li><cblink href="XML/X/X57/X57n0976_003.xml#p0581b09">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0372a06">一、前言</cblink></li>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0373a15">二、敦煌寺院經藏概貌</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0374a04">1. 敦煌大藏經的混沌期</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0376a05">2. 敦煌大藏經的形成期</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0379a20">3. 敦煌大藏經的《內典錄》時期</cblink></li>
+		<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0385a11">4. 敦煌大藏經的《開元錄》時期</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW08/ZW08n0070_001.xml#p0399a02">三、餘論</cblink></li>
+</ol>
+</nav>
+</body></html>

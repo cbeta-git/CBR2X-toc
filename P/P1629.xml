@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/P/P189/P189n1629_002.xml#p0013a01">第二</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_003.xml#p0045a01">第三</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_004.xml#p0073a01">第四</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_005.xml#p0103a01">第五</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_006.xml#p0131a01">第六</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_007.xml#p0161a01">第七</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_008.xml#p0191a01">第八</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_009.xml#p0221a01">第九</cblink></li>
+	<li><cblink href="XML/P/P189/P189n1629_010.xml#p0253a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

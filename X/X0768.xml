@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0768_001.xml#p0546a02">No. 768-A 起信論疏記會閱序</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_001.xml#p0546c11">大乘起信論疏筆削記會閱</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X45/X45n0768_001.xml#p0546c13">第一</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_002.xml#p0562a01">第二</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_003.xml#p0579b01">第三</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_004.xml#p0595b07">第四</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_005.xml#p0611c19">第五</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_006.xml#p0630a15">第六</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_007.xml#p0651b03">第七</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_008.xml#p0673a03">第八</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_009.xml#p0692b03">第九</cblink></li>
+	<li><cblink href="XML/X/X45/X45n0768_010.xml#p0713a03">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

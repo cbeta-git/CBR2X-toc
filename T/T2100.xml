@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2100_001.xml#p1127a07">重雕清涼傳序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_001.xml#p1129c14">清涼山賦</cblink>
+	<ol>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130a02">東臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130a07">南臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130a12">西臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130a17">北臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130a22">中臺</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130a27">總詩</cblink></li>
+		<li><cblink href="XML/T/T51/T51n2100_001.xml#p1130b03">題古并淨明塔律詩一首</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1131b26">附傳</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1132a10">又述二頌</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1133a17">題五臺真容院</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1133b04">臺山瑞應記</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1133c24">後序</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1134b25">古并崇善禪寺</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1134c16">四庫未收書目提要</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T51/T51n2100_001.xml#p1127b14">第一</cblink></li>
+	<li><cblink href="XML/T/T51/T51n2100_002.xml#p1130b11">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

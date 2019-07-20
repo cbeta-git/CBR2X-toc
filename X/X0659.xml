@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X36/X36n0659_001.xml#p0316b05">No. 659-A 新刻涅槃會疏序</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_001.xml#p0316c09">新刻夾科大涅槃經會疏凡例</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_001.xml#p0317c09">序品第一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_002.xml#p0339b02">純陀品第二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_002.xml#p0358b04">哀歎品第三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_003.xml#p0375a02">長壽品第四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_003.xml#p0389a22">金剛身品第五</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_003.xml#p0395a17">名字功德品第六</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_004.xml#p0396c11">四相品第七</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_006.xml#p0419b03">四依品第八</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_007.xml#p0434c14">邪正品第九</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_007.xml#p0439c16">四諦品第十</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_007.xml#p0441b21">四倒品第十一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_008.xml#p0442c11">如來性品第十二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_008.xml#p0460b15">文字品第十三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_008.xml#p0463b09">鳥喻品第十四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_009.xml#p0467c06">月喻品第十五</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_009.xml#p0470c03">菩薩品第十六</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_010.xml#p0484b20">一切大眾所問品第十七</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_010.xml#p0493a07">現病品第十八</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_011.xml#p0499b03">聖行品第十九</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_014.xml#p0542b06">梵行品第二十</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_018.xml#p0603b14">嬰兒行品第二十一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_019.xml#p0606a03">高貴德王菩薩品第二十二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_025.xml#p0675b03">師子吼菩薩品第二十三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_031.xml#p0753a06">迦葉菩薩品第二十四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_035.xml#p0822a08">憍陳如品第二十五</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X36/X36n0659_001.xml#p0317c07">第一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_002.xml#p0339b01">第二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_003.xml#p0375a01">第三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_004.xml#p0396c09">第四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_005.xml#p0408b14">第五</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_006.xml#p0419b01">第六</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_007.xml#p0434c12">第七</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_008.xml#p0442c09">第八</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_009.xml#p0467c04">第九</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_010.xml#p0484b18">第十</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_011.xml#p0499b01">第十一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_012.xml#p0516b01">第十二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_013.xml#p0530b07">第十三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_014.xml#p0542b04">第十四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_015.xml#p0556b01">第十五</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_016.xml#p0569c04">第十六</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_017.xml#p0584a01">第十七</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_018.xml#p0592c04">第十八</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_019.xml#p0606a01">第十九</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_020.xml#p0622b07">第二十</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_021.xml#p0631c01">第二十一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_022.xml#p0639c01">第二十二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_023.xml#p0652a10">第二十三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_024.xml#p0665c10">第二十四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_025.xml#p0675b01">第二十五</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_026.xml#p0693a01">第二十六</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_027.xml#p0709b01">第二十七</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_028.xml#p0719a04">第二十八</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_029.xml#p0730b01">第二十九</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_030.xml#p0742a03">第三十</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_031.xml#p0753a04">第三十一</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_032.xml#p0772a03">第三十二</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_033.xml#p0788b04">第三十三</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_034.xml#p0808a15">第三十四</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_035.xml#p0822a06">第三十五</cblink></li>
+	<li><cblink href="XML/X/X36/X36n0659_036.xml#p0836b01">第三十六</cblink></li>
+</ol>
+</nav>
+</body></html>

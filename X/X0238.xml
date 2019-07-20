@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0449a01">賢首時儀教觀圖</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0450a01">法界觀境普融無盡圖</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0451a06">序</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0451a13">初懸敘</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0451c08">二釋題</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0451c24">三科解</cblink></li>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0468a23">五悔解</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X08/X08n0238_001.xml#p0451a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0817a04">戒殺四十八問目錄</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0817a19">引</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0817b12">釋生物養人之疑(五問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0817c21">釋俗見斷殺之疑(六問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0818b03">釋業重難救之疑(五問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0818c14">釋葷血禱神之疑(三問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0819a06">釋享親祭祖之疑(四問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0819b16">釋燕賓違俗之疑(一問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0819c07">釋古聖教殺之疑(二問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0819c20">釋仁民愛物之疑(二問)</cblink></li>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820a06">釋因果差別之疑(六問)</cblink>
+	<ol>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820a10">不住持名</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820a15">即禪即佛持名</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820b01">即戒即佛持名</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820b07">即教即佛持名</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820b17">不持而持</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820b20">持而不持</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820c06">孤身持名</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0820c14">結期持名</cblink>
+		<ol>
+			<li><cblink href="XML/X/X60/X60n1138_001.xml#p0821a16">釋佛理難信之疑(三問)</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0821b08">臨終持名</cblink></li>
+		<li><cblink href="XML/X/X60/X60n1138_001.xml#p0821b17">發願懺悔持名</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X60/X60n1138_001.xml#p0817a16">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

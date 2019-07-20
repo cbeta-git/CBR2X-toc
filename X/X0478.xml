@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0478_001.xml#p0117a05">No. 478-A 金剛經筆記序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0478_001.xml#p0117b13">No. 478-B 金剛般若波羅蜜經筆記自序</cblink></li>
+	<li><cblink href="XML/X/X25/X25n0478_001.xml#p0117c18">金剛般若波羅蜜經筆記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X25/X25n0478_001.xml#p0117c20">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

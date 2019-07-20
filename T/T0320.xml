@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T11/T11n0320_001.xml#p0919a08">1 淨飯王始發信心品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_002.xml#p0924b18">2 王詣佛所品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_003.xml#p0925a13">3 淨飯王致禮如來品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_003.xml#p0926a01">4 阿修羅王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_004.xml#p0928c13">5 如來本行品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_004.xml#p0930b14">6 迦樓羅王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_005.xml#p0931b15">7 龍女授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_005.xml#p0933a06">8 龍王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_006.xml#p0934a16">9 鳩盤茶王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_006.xml#p0934c28">10 乾闥婆王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_006.xml#p0936a03">11 藥叉王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_007.xml#p0936c26">12 緊那羅王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_007.xml#p0939a04">13 寶瓔珞天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_008.xml#p0939c16">14 四大天王授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_008.xml#p0940c22">15 三十三天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_008.xml#p0941c21">16 焰摩天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_009.xml#p0943a14">17 睹史多天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_009.xml#p0944b10">18 樂變化天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_009.xml#p0945a29">19 他化自在天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_010.xml#p0946b10">20 大梵王天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_010.xml#p0947c25">21 光音天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_011.xml#p0949b26">22 遍淨天授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_011.xml#p0951b25">23 廣果天授記品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0320_011.xml#p0951b25">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0320_012.xml#p0952a22">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0320_013.xml#p0954c18">24 淨居天子說偈讚佛品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0320_013.xml#p0954c18">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0320_014.xml#p0958a11">2</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0320_015.xml#p0961b14">25 外道婆羅門授記品</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_016.xml#p0964b14">26 六界差別品</cblink>
+	<ol>
+		<li><cblink href="XML/T/T11/T11n0320_016.xml#p0964b14">1</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0320_017.xml#p0966c21">2</cblink></li>
+		<li><cblink href="XML/T/T11/T11n0320_018.xml#p0969b12">3</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T11/T11n0320_019.xml#p0971b26">27 淨飯王信解品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T11/T11n0320_001.xml#p0919a03">第一</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_002.xml#p0922a25">第二</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_003.xml#p0925a08">第三</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_004.xml#p0928c08">第四</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_005.xml#p0931b10">第五</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_006.xml#p0934a11">第六</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_007.xml#p0936c21">第七</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_008.xml#p0939c11">第八</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_009.xml#p0943a09">第九</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_010.xml#p0946b05">第十</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_011.xml#p0949b21">第十一</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_012.xml#p0952a22">第十二</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_013.xml#p0954c13">第十三</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_014.xml#p0958a11">第十四</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_015.xml#p0961b09">第十五</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_016.xml#p0964b09">第十六</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_017.xml#p0966c21">第十七</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_018.xml#p0969b12">第十八</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_019.xml#p0971b21">第十九</cblink></li>
+	<li><cblink href="XML/T/T11/T11n0320_020.xml#p0974a05">第二十</cblink></li>
+</ol>
+</nav>
+</body></html>

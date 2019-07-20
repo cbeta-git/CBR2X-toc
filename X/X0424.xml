@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0424_001.xml#p0600a01">No. 424-A 阿彌陀經疏鈔總科</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0424_001.xml#p0604a01">阿彌陀經疏鈔</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X22/X22n0424_001.xml#p0604a03">第一</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0424_002.xml#p0622b04">第二</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0424_003.xml#p0643c04">第三</cblink></li>
+	<li><cblink href="XML/X/X22/X22n0424_004.xml#p0664c07">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

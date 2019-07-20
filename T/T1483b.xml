@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0983c23">1 五篇事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0984a13">2 佛事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0985b04">3 法事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0985c03">4 結界法品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0986b10">5 歲坐事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0987b16">6 度人事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0987c25">7 受戒事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0988b20">8 受施事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0989b01">9 疾病事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0989b20">10 死亡事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0990a20">11 三衣事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0990b14">12 缽事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0990c06">13 雜事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0993c18">14 三自歸事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0994a15">15 五戒事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0994b07">16 十戒事品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0994b15">17 沙彌品</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0994c28">歲坐竟懺悔文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T24/T24n1483b_001.xml#p0983c19">第一</cblink></li>
+	<li><cblink href="XML/T/T24/T24n1483b_002.xml#p0990a16">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

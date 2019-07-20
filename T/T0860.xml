@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0860_001.xml#p0181a10">2 淨行護持品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0860_001.xml#p0182c11">3 供養儀式品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0860_001.xml#p0185a29">4 持誦法則品</cblink></li>
+	<li><cblink href="XML/T/T18/T18n0860_001.xml#p0186a28">5 真實事業品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T18/T18n0860_001.xml#p0181a08">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

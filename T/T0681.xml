@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0681_001.xml#p0723b21">1 密嚴會品(上)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_001.xml#p0726b15">2 妙身生品(上-中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_002.xml#p0733c21">3 胎生品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_002.xml#p0734a22">4 顯示自作品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_002.xml#p0736b16">5 分別觀行品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_002.xml#p0737a20">6 阿賴耶建立品(中)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_003.xml#p0738c22">7 目識境界品(下)</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_003.xml#p0739a22">8 阿賴耶微密品(下)</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T16/T16n0681_001.xml#p0723b18">上</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_002.xml#p0730c17">中</cblink></li>
+	<li><cblink href="XML/T/T16/T16n0681_003.xml#p0738c19">下</cblink></li>
+</ol>
+</nav>
+</body></html>

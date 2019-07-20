@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1599_001.xml#p0451a07">1 相品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_001.xml#p0453b08">2 障品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_001.xml#p0455a24">3 真實品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_002.xml#p0458a16">4 對治修住品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_002.xml#p0459b27">5 修住品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_002.xml#p0459c27">6 得果品</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_002.xml#p0460b07">7 無上乘品</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T31/T31n1599_001.xml#p0451a03">第一</cblink></li>
+	<li><cblink href="XML/T/T31/T31n1599_002.xml#p0458a12">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

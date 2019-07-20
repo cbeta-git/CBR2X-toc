@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0387b18">禪宗永嘉集序</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0388a17">1 慕道志儀</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0388a29">2 戒憍奢意</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0388b11">3 淨修三業</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0389b20">4 奢摩他頌</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0390c19">5 毘婆舍那頌</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0391a23">6 優畢叉頌</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0392a02">7 三乘漸次</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0393a25">8 事理不二</cblink></li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0394a01">9 勸友人書</cblink>
+	<ol>
+		<li><cblink href="XML/T/T48/T48n2013_001.xml#p0394a02">婺州浦陽縣佐溪山朗禪師召大師山居書</cblink></li>
+		<li><cblink href="XML/T/T48/T48n2013_001.xml#p0394a09">大師答朗禪師書</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0394c16">10 發願文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T48/T48n2013_001.xml#p0387c18">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

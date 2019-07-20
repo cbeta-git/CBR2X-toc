@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1904_001.xml#p0905a03">根本說一切有部出家授近圓羯磨儀範（序）</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1904_001.xml#p0906b27">授具足戒儀範</cblink></li>
+	<li><cblink href="XML/T/T45/T45n1904_001.xml#p0911c13">教求出家法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T45/T45n1904_001.xml#p0905b02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0260_001.xml#p0543a02">No. 260-A 大方廣圓覺修多羅了義經要解序</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0260_001.xml#p0543c17">經題　譯師　科分</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0260_001.xml#p0544a19">序分</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0260_001.xml#p0545a12">正宗分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0260_001.xml#p0545a12">文殊章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_001.xml#p0547b03">普賢章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_001.xml#p0549a02">普眼章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_001.xml#p0552b01">金剛藏章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_001.xml#p0554b19">彌勒章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_001.xml#p0557a18">清淨慧章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_002.xml#p0559b18">威德章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_002.xml#p0561b15">辯音章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_002.xml#p0564a06">淨業章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_002.xml#p0567a13">普覺章</cblink></li>
+		<li><cblink href="XML/X/X10/X10n0260_002.xml#p0569a07">圓覺章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0260_002.xml#p0571a13">流通分</cblink>
+	<ol>
+		<li><cblink href="XML/X/X10/X10n0260_002.xml#p0571a13">賢善首章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/X/X10/X10n0260_002.xml#p0573a04">No. 260-B 刻圓覺經要解後序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X10/X10n0260_001.xml#p0543c13">第一</cblink></li>
+	<li><cblink href="XML/X/X10/X10n0260_002.xml#p0559b17">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

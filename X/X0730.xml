@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0347b13">No. 730-A 序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0347c16">凡例</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0348b06">目次</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0351c18">No. 730-B 釋原序</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0355a04">篇目</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0355b01">釋本題</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0355b16">釋人題</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0355c21">集法緣成篇第一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_003.xml#p0374b14">諸界結解篇第二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_004.xml#p0383b13">諸戒受法篇第三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_007.xml#p0417c18">衣藥受淨篇第四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_008.xml#p0431b11">諸說戒法篇第五</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_009.xml#p0444c07">諸眾安居篇第六</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_009.xml#p0449b03">諸眾自恣法篇第七</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_010.xml#p0455c15">諸衣分法篇第八</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_011.xml#p0465c21">懺六聚法篇第九</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_014.xml#p0508a05">雜法住持篇第十</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_015.xml#p0521b20">續附</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X41/X41n0730_001.xml#p0355a20">第一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_002.xml#p0364b07">第二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_003.xml#p0374b10">第三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_004.xml#p0383b09">第四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_005.xml#p0397c03">第五</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_006.xml#p0409c13">第六</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_007.xml#p0417c14">第七</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_008.xml#p0431b07">第八</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_009.xml#p0444c03">第九</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_010.xml#p0455c11">第十</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_011.xml#p0465c17">第十一</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_012.xml#p0479b20">第十二</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_013.xml#p0490b17">第十三</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_014.xml#p0502c21">第十四</cblink></li>
+	<li><cblink href="XML/X/X41/X41n0730_015.xml#p0512c01">第十五</cblink></li>
+</ol>
+</nav>
+</body></html>

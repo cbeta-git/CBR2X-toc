@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0882a06">前文</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0883b18">妙法蓮華方便祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0884b01">妙法蓮華三昧見寶塔祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0884c08">妙法蓮華三昧提婆達多祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0885a11">妙法蓮華如來壽量祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0885c14">又妙法蓮華三昧如來壽命祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0886a20">妙法蓮華三昧常不輕菩薩祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0886b13">妙法蓮華三昧陀羅尼祕密三摩耶品</cblink></li>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0887a02">No. 204-A 䟦蓮華三昧經後</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X02/X02n0204_001.xml#p0882a03">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

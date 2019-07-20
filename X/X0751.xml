@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0901c04">No. 751-A 佛說目連五百問戒律中輕重事經序</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0902a15">目次</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0902b18">釋題</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0903a12">譯人</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0903a19">五篇事品第一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0905b08">問佛事品第二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0910b15">問法事品第三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0912a04">問結界法品第四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0915a12">問歲坐事品第五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0919b20">度人事品第六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0921a10">問受戒事品第七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0923c18">受施事品第八</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0926c15"> 疾病事品第九</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0927c12">死亡事品第十</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0930b08">問三衣事品第十一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0932a09">鉢事品第十二</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0933a09">問襍事品第十三</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0944a24">三自歸事品第十四</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0945c11">問五戒事品第十五</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0947a13">問十戒事第十六</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0947c02">問沙彌品第十七</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0948c12">歲坐竟懺悔文</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0949b18">此九十日中所犯事通威儀</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0951b16">偈讚</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X44/X44n0751_001.xml#p0902b13">第一</cblink></li>
+	<li><cblink href="XML/X/X44/X44n0751_002.xml#p0930b04">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

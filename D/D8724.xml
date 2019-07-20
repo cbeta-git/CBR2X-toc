@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0001a02">前文</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0002a08">第一</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0003a01">第二</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0003a11">第三</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0004a09">第四</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0005a01">第五</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0006a05">第六</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0007a09">第七</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0008a06">第八</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0009a05">第九</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0010a03">第十</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0010a12">第十一</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0011a07">第十二</cblink></li>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0012a06">無明詩一首</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/D/D04/D04n8724_001.xml#p0001a02">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

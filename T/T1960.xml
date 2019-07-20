@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1960_001.xml#p0030b04">釋淨土群疑論序</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/T/T47/T47n1960_001.xml#p0030c20">第一</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1960_002.xml#p0037a02">第二</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1960_003.xml#p0043c06">第三</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1960_004.xml#p0050a26">第四</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1960_005.xml#p0056c12">第五</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1960_006.xml#p0063a26">第六</cblink></li>
+	<li><cblink href="XML/T/T47/T47n1960_007.xml#p0070a02">第七</cblink></li>
+</ol>
+</nav>
+</body></html>

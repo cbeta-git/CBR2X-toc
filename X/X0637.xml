@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/X/X34/X34n0637_001.xml#p0126a02">No. 637-A 法華玄贊決擇記序</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0637_001.xml#p0126b05">法華疏決擇記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/X/X34/X34n0637_001.xml#p0126b07">第一</cblink></li>
+	<li><cblink href="XML/X/X34/X34n0637_002.xml#p0147a08">第二</cblink></li>
+</ol>
+</nav>
+</body></html>
