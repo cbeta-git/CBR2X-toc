@@ -290,30 +290,4 @@
 	</li>
 </ol>
 </nav>
-<nav type="juan">
-<h1>卷</h1>
-<ol>
-	<li><cblink href="XML/LC/LC07/LC07n0007_001.xml#p0001a01">第一</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_002.xml#p0017a01">第二</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_003.xml#p0023a01">第三</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_004.xml#p0035a01">第四</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_005.xml#p0055a01">第五</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_006.xml#p0095a01">第六</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_007.xml#p0129a01">第七</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_008.xml#p0185a01">第八</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_009.xml#p0225a01">第九</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_010.xml#p0279a01">第十</cblink></li>
-	<li><cblink href="XML/LC/LC07/LC07n0007_011.xml#p0317a01">第十一</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_012.xml#p0389a01">第十二</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_013.xml#p0413a01">第十三</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_014.xml#p0447a01">第十四</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_015.xml#p0473a01">第十五</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_016.xml#p0507a01">第十六</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_017.xml#p0515a01">第十七</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_018.xml#p0545a01">第十八</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_019.xml#p0573a01">第十九</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_020.xml#p0629a01">第二十</cblink></li>
-	<li><cblink href="XML/LC/LC08/LC08n0007_021.xml#p0693a01">第二十一</cblink></li>
-</ol>
-</nav>
 </body></html>
