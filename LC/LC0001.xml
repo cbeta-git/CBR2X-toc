@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa001a01">作者簡介</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa001a09">絕世天資佛學啟蒙</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa003a02">金陵事師創新講學</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa005a02">勤奮研究揚名國際</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa006a05">著述研究為教忘我</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa008a05">振響當世流韻未來</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_002.xml#p0001a05">印度佛學源流略講</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC01/LC01n0001_002.xml#p0001a07">緒論</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_003.xml#p0013a02">第一講　原始佛學</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_003.xml#p0015a05">第一節　釋迦的時代</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_003.xml#p0024a05">第二節　原始佛學的構成</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_003.xml#p0032a02">第三節　原始佛學的要點</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0040a02">第二講　部派佛學</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0040a05">第一節　佛學分派的經過</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0063a07">第二節　上座系【CB】，係【呂澂】系係學說的要點</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0081a09">第三節　說一切有部系【CB】，係【呂澂】系係學說的要點</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0101a04">第四節　犢子系【CB】，係【呂澂】系係學說的要點</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0115a10">第五節　大眾系【CB】，係【呂澂】系係學說的要點</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_005.xml#p0133a02">第三講　初期大乘佛學</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_005.xml#p0136a02">第一節　初期流行的大乘經典及其主要思想</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_005.xml#p0157a05">第二節　龍樹的學說</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_005.xml#p0188a06">第三節　提婆及其後的傳承</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_006.xml#p0211a02">第四講　小乘佛學</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_006.xml#p0215a09">第一節　有部及新有部的學說</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_006.xml#p0239a08">第二節　經部和正量部的學說</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_007.xml#p0267a02">第五講　中期大乘佛學</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_007.xml#p0268a02">第一節　時代背景</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_007.xml#p0279a03">第二節　續出的大乘經及其主要思想</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_007.xml#p0301a11">第三節　無著世親的學說</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_007.xml#p0319a12">第四節　瑜伽行學派和中觀學派</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_008.xml#p0356a02">第六講　晚期大乘佛學</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_008.xml#p0357a06">第一節　時代背景</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_008.xml#p0366a06">第二節　法稱、月官與瑜伽行派</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_008.xml#p0388a12">第三節　月稱、寂天與中觀學派</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_009.xml#p0407a02">餘論</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_010.xml#p0422a02">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC01/LC01n0001_010.xml#p0422a04">談南傳的佛滅年代</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_011.xml#p0428a07">略論南方上座部佛學</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_012.xml#p0437a02">略述有部學</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0444a02">阿毗達磨泛論</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0444a04">一　阿毗達磨與小乘派別之關係</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0450a08">二　初期有部阿毗達磨</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0456a08">三　第二三期有部阿毗達磨</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0462a04">四　大小乘論書之交涉</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0466a12">五　大乘阿毗達磨</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_014.xml#p0471a07">略述正量部佛學</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_015.xml#p0480a04">毗曇的文獻源流——《阿毗曇心論講要》序言之一</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_016.xml#p0486a01">略述經部學</cblink></li>
+		<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0504a02">佛家邏輯——法稱的因明說</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0504a05">一　序說</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0509a02">二　現量</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0514a02">三　為自比量</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0519a11">四　為他比量一</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0525a14">五　為他比量二</cblink></li>
+			<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0533a02">六　結論</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/LC/LC01/LC01n0001_001.xml#pa001a01">第一</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_002.xml#p0001a01">第二</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_003.xml#p0013a01">第三</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_004.xml#p0040a01">第四</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_005.xml#p0133a01">第五</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_006.xml#p0211a01">第六</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_007.xml#p0267a01">第七</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_008.xml#p0356a01">第八</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_009.xml#p0407a01">第九</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_010.xml#p0422a01">第十</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_011.xml#p0428a06">第十一</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_012.xml#p0437a01">第十二</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_013.xml#p0444a01">第十三</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_014.xml#p0471a06">第十四</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_015.xml#p0480a03">第十五</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_016.xml#p0486a01">第十六</cblink></li>
+	<li><cblink href="XML/LC/LC01/LC01n0001_017.xml#p0504a01">第十七</cblink></li>
+</ol>
+</nav>
+</body></html>
