@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/LC/LC05/LC05n0005_001.xml#p0002a02">談「學」與「人之自覺」</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_002.xml#p0010a02">佛法與世間</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_003.xml#p0021a02">佛性義</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_004.xml#p0029a02">種姓義</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_005.xml#p0041a02">法界釋義</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_006.xml#p0046a02">正覺與出離</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_007.xml#p0061a02">緣起與實相（上）</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_008.xml#p0075a02">緣起與實相（下）</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_009.xml#p0089a02">觀行與轉依</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_010.xml#p0102a02">談真如</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_011.xml#p0108a02">禪學述原</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC05/LC05n0005_011.xml#p0108a04">前言</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_011.xml#p0109a06">一　楞伽禪</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_011.xml#p0113a04">二　起信禪</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_011.xml#p0116a12">三　般若禪</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_012.xml#p0125a02">試論中國佛學有關心性的基本思想</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_013.xml#p0138a02">起信與楞伽</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_014.xml#p0149a02">大乘起信論攷證</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC05/LC05n0005_014.xml#p0149a04">一</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_014.xml#p0179a06">二</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_015.xml#p0216a02">楞嚴百偽</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0245a02">諸家戒本通論</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0245a04">一</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0253a03">二</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0269a02">三</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0278a08">四</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0287a02">附錄　論律學與十八部分派之關係</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_017.xml#p0303a05">雜阿含經刊定記</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC05/LC05n0005_017.xml#p0303a07">一　刊定經名</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_017.xml#p0304a12">二　刊定品目</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_017.xml#p0308a12">三　刊定文段次第</cblink></li>
+		<li><cblink href="XML/LC/LC05/LC05n0005_017.xml#p0319a04">四　附論《雜阿含經本母》</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_018.xml#p0332a03">顯揚聖教論大意</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/LC/LC05/LC05n0005_001.xml#p0002a01">第一</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_002.xml#p0010a01">第二</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_003.xml#p0021a01">第三</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_004.xml#p0029a01">第四</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_005.xml#p0041a01">第五</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_006.xml#p0046a01">第六</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_007.xml#p0061a01">第七</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_008.xml#p0075a01">第八</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_009.xml#p0089a01">第九</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_010.xml#p0102a01">第十</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_011.xml#p0108a01">第十一</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_012.xml#p0125a01">第十二</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_013.xml#p0138a01">第十三</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_014.xml#p0149a01">第十四</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_015.xml#p0216a01">第十五</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_016.xml#p0245a01">第十六</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_017.xml#p0303a01">第十七</cblink></li>
+	<li><cblink href="XML/LC/LC05/LC05n0005_018.xml#p0332a01">第十八</cblink></li>
+</ol>
+</nav>
+</body></html>

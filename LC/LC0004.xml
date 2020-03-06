@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/LC/LC04/LC04n0004_001.xml#p0002a02">佛家辯證法</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_002.xml#p0015a02">入論十四因過解</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_003.xml#p0036a02">因輪論圖解</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_004.xml#p0042a02">集量論釋略抄</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC04/LC04n0004_004.xml#p0042a05">凡例</cblink></li>
+		<li><cblink href="XML/LC/LC04/LC04n0004_004.xml#p0044a06">集量論本科段<note place="inline">依寶本</note></cblink></li>
+		<li><cblink href="XML/LC/LC04/LC04n0004_004.xml#p0047a08">集量論釋</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC04/LC04n0004_004.xml#p0047a12">現量品第一</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_005.xml#p0053a15">為自比量品第二</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_006.xml#p0061a02">為他比量品第三</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_007.xml#p0072a05">觀喻似喻品第四</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_008.xml#p0078a07">觀遮詮品第五</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_009.xml#p0079a06">觀過類品第六</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0093a02">附錄　集量所破義</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0093a11">一、成質論之說</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0097a02">二、正理論者之說</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0101a04">三、勝論者之說</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0104a12">四、數論者之說</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0106a13">五、彌曼薩論者之說</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_011.xml#p0113a03">西藏所傳的因明</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_012.xml#p0120a02">因明入正理論講解</cblink>
+	<ol>
+		<li><cblink href="XML/LC/LC04/LC04n0004_012.xml#p0120a04">一、因明入正理論的三個本子和註疏</cblink></li>
+		<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0124a12">二、因明入正理論本文</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0127a12">一、總述要義</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0131a12">二、能立</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0146a09">三、似能立</cblink>
+			<ol>
+				<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0147a07">三．一、似宗</cblink></li>
+				<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0153a09">三．二、似因</cblink></li>
+				<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0183a11">三．三、似喻</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0194a12">四、現量　比量　似現量　似比量</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0203a02">五、能破　似能破</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0210a04">六、總結</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/LC/LC04/LC04n0004_014.xml#p0211a02">附錄</cblink>
+		<ol>
+			<li><cblink href="XML/LC/LC04/LC04n0004_014.xml#p0211a04">一、真唯識量</cblink></li>
+			<li><cblink href="XML/LC/LC04/LC04n0004_014.xml#p0234a04">二、因明入正理論疏評介</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/LC/LC04/LC04n0004_001.xml#p0002a01">第一</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_002.xml#p0015a01">第二</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_003.xml#p0036a01">第三</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_004.xml#p0042a01">第四</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_005.xml#p0053a14">第五</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_006.xml#p0061a01">第六</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_007.xml#p0072a04">第七</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_008.xml#p0078a06">第八</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_009.xml#p0079a05">第九</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_010.xml#p0093a01">第十</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_011.xml#p0113a01">第十一</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_012.xml#p0120a01">第十二</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_013.xml#p0124a11">第十三</cblink></li>
+	<li><cblink href="XML/LC/LC04/LC04n0004_014.xml#p0211a01">第十四</cblink></li>
+</ol>
+</nav>
+</body></html>
