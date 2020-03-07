@@ -118,23 +118,4 @@
 	</li>
 </ol>
 </nav>
-<nav type="juan">
-<h1>卷</h1>
-<ol>
-	<li><cblink href="XML/LC/LC03/LC03n0003_001.xml#p0002a01">第一</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_002.xml#p0014a01">第二</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_003.xml#p0035a08">第三</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_004.xml#p0049a10">第四</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_005.xml#p0072a03">第五</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_006.xml#p0088a01">第六</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_007.xml#p0147a01">第七</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_008.xml#p0199a01">第八</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_009.xml#p0213a01">第九</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_010.xml#p0240a01">第十</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_011.xml#p0249a01">第十一</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_012.xml#p0258a01">第十二</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_013.xml#p0270a01">第十三</cblink></li>
-	<li><cblink href="XML/LC/LC03/LC03n0003_014.xml#p0286a01">第十四</cblink></li>
-</ol>
-</nav>
 </body></html>
