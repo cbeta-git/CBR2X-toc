@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0088_001.xml#p0443a09">前言</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0088_001.xml#p0445a12">一、《洪武南藏》的結構與續藏刊刻的經過</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0088_001.xml#p0451a22">二、《洪武南藏》燒毀考</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0088_001.xml#p0458a07">結論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0088_001.xml#p0443a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

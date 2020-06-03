@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0079_001.xml#p0015a02">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0079_001.xml#p0016a10">正文</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0079_001.xml#p0018a01">附圖</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0079_001.xml#p0019a01">附錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0079_001.xml#p0015a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

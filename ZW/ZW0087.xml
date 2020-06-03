@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0419a08">一、前言</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0420a19">二、敦煌遺書中所存《壇經》寫本及其錄校價值</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0422a12">（一）關於「福門」問題</cblink></li>
+		<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0425a09">（二）關於「念不去」與「念不起」</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0428a19">三、如何正確處理敦煌本與其他各種版本《壇經》的關係</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0429a09">（一）論「道須通流」</cblink></li>
+		<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0433a19">（二）關於「不言動」與「不言不動」</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0437a14">四、如何正確對待敦煌本《壇經》中的經論引用現象</cblink></li>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0442a11">五、結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW10/ZW10n0087_001.xml#p0419a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
