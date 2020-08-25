@@ -77,13 +77,4 @@
 	</li>
 </ol>
 </nav>
-<nav type="juan">
-<h1>卷</h1>
-<ol>
-	<li><cblink href="XML/ZW/ZW10/ZW10n0086_001.xml#p0329a01">第一</cblink></li>
-	<li><cblink href="XML/ZW/ZW10/ZW10n0086_002.xml#p0338a01">第二</cblink></li>
-	<li><cblink href="XML/ZW/ZW10/ZW10n0086_003.xml#p0373a01">第三</cblink></li>
-	<li><cblink href="XML/ZW/ZW10/ZW10n0086_004.xml#p0393a01">第四</cblink></li>
-</ol>
-</nav>
 </body></html>
