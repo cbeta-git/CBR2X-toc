@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW11/ZW11n0095_001.xml#p0375a03">序言</cblink></li>
+	<li><cblink href="XML/ZW/ZW11/ZW11n0095_001.xml#p0376a11">一、日本古代的大藏經書寫</cblink></li>
+	<li><cblink href="XML/ZW/ZW11/ZW11n0095_001.xml#p0379a12">二、現存的外國刻本大藏經</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW11/ZW11n0095_001.xml#p0379a13">（一）現存國外刻本藏經概要</cblink></li>
+		<li><cblink href="XML/ZW/ZW11/ZW11n0095_001.xml#p0388a25">（二）現存刻本大藏經零本</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW11/ZW11n0095_001.xml#p0401a23">附：參考資料</cblink></li>
+</ol>
+</nav>
+</body></html>
