@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0361a03">第六章</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0361a11">一、正文</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0361a20">二、校記並諸家錄校復議</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0363a10">三、注釋</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0363a22">四、分段標點復議</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0363a24">（一）分段、分句</cblink></li>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0364a19">（二）標點</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0365a01">五、疏義</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0367a19">六、原始資料</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0369a03">第七章</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0369a12">一、正文</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0370a13">二、校記並諸家錄校復議</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0379a10">三、注釋</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0380a06">四、分段標點復議</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0380a08">（一）分段</cblink></li>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0380a21">（二）分句及標點</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0383a19">五、疏義</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0385a13">六、原始資料</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0388a03">第八章</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0388a11">一、正文</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0389a15">二、校記並諸家錄校復議</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0396a09">三、注釋</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0397a11">四、分段標點復議</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0397a13">（一）分段</cblink></li>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0399a18">（二）分句及標點</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0406a18">五、疏義</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0416a07">六、原始資料</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0100_001.xml#p0361a01">第一</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0100_002.xml#p0369a01">第二</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0100_003.xml#p0388a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

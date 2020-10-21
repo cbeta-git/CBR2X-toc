@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0101_001.xml#p0421a03">一、小引</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0101_001.xml#p0422a03">二、關於北敦04264號</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0101_001.xml#p0433a02">三、關於Дх2142號與Дх3815號</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0101_001.xml#p0436a14">四、關於《釋迦如來十地行錄》中《第七地金犢太子》</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0101_001.xml#p0448a08">五、小結</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0101_001.xml#p0421a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

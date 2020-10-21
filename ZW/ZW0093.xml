@@ -9,9 +9,13 @@
 <h1>目錄</h1>
 <ol>
 	<li><cblink href="XML/ZW/ZW11/ZW11n0093_001.xml#p0235a03">題解</cblink></li>
-	<li><cblink href="XML/ZW/ZW11/ZW11n0093_001.xml#p0236a01">錄文一（卷第五）</cblink></li>
-	<li><cblink href="XML/ZW/ZW11/ZW11n0093_002.xml#p0259a01">錄文二（卷第六）</cblink></li>
-	<li><cblink href="XML/ZW/ZW11/ZW11n0093_003.xml#p0285a01">錄文三（卷第七）</cblink></li>
+	<li><cblink href="XML/ZW/ZW11/ZW11n0093_001.xml#p0236a01">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW11/ZW11n0093_001.xml#p0236a01">卷第五</cblink></li>
+		<li><cblink href="XML/ZW/ZW11/ZW11n0093_002.xml#p0259a01">卷第六</cblink></li>
+		<li><cblink href="XML/ZW/ZW11/ZW11n0093_003.xml#p0285a01">卷第七</cblink></li>
+	</ol>
+	</li>
 </ol>
 </nav>
 </body></html>

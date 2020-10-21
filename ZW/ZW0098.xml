@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_001.xml#p0063a03">題解</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_001.xml#p0069a01">錄文</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_001.xml#p0069a03">圓通三慧大齋壇前教誡儀文</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0098_001.xml#p0069a06">觀音齋儀文序</cblink></li>
+			<li><cblink href="XML/ZW/ZW12/ZW12n0098_001.xml#p0070a10">眉州著作佐郎成都府教授賢良侯溥集</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_002.xml#p0074a01">圓通三慧道場開壇</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_003.xml#p0095a01">圓通三慧道場儀文上</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_004.xml#p0119a01">圓通三慧道場儀文中</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_005.xml#p0157a17">圓通三慧道場儀文下</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_006.xml#p0189a12">圓通三慧道場提綱</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_007.xml#p0219a05">圓通三慧道場密教上</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_008.xml#p0244a13">圓通三慧道場密教中</cblink></li>
+		<li><cblink href="XML/ZW/ZW12/ZW12n0098_009.xml#p0260a12">圓通三慧道場密教下</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_009.xml#p0278a01">附錄：西園圓通頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_001.xml#p0063a01">第一</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_002.xml#p0074a01">第二</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_003.xml#p0095a01">第三</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_004.xml#p0119a01">第四</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_005.xml#p0157a16">第五</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_006.xml#p0189a11">第六</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_007.xml#p0219a04">第七</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_008.xml#p0244a12">第八</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12n0098_009.xml#p0260a11">第九</cblink></li>
+</ol>
+</nav>
+</body></html>
