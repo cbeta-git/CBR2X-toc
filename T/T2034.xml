@@ -8,28 +8,341 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109a07">大乘錄</cblink>
+	<li><cblink href="XML/T/T49/T49n2034_001.xml#p0022c26">帝年</cblink>
 	<ol>
-		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109b13">1 大乘修多羅有譯</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0112a27">2 大乘修多羅失譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114b12">3 大乘毘尼有譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114c01">4 大乘毘尼失譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114c12">5 大乘阿毘曇有譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0115a17">6 大乘阿毘曇失譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_001.xml#p0022c29">1 帝年上（周秦）</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_002.xml#p0029b05">2 帝年次（前漢　新王　後漢）</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_003.xml#p0034b05">3 帝年下（魏　晉　宋　齊　梁　周　大隋）</cblink></li>
 	</ol>
 	</li>
-	<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115a25">小乘錄</cblink>
+	<li><cblink href="XML/T/T49/T49n2034_004.xml#p0049b02">譯經</cblink>
 	<ol>
-		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115c06">1 小乘修多羅有譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0116c04">2 小乘修多羅失譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119a27">3 小乘毘尼有譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119b28">4 小乘毘尼失譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119c20">5 小乘阿毘曇有譯錄</cblink></li>
-		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0120a08">6 小乘阿毘曇失譯錄</cblink></li>
+		<li><cblink href="XML/T/T49/T49n2034_004.xml#p0049b05">1 譯經（後漢）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0049d02">1 迦葉摩騰</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0050a04">2 竺法蘭</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0050a21">3 安世高</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0052c15">4 支婁迦讖</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0053b26">5 安玄</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0053c07">6 竺佛朔</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0053c15">7 支曜</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0054a11">8 康巨</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0054a14">9 嚴佛調</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0054a26">10 康孟詳</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0054b09">11 曇果</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0054b13">12 竺大力</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_004.xml#p0054b18">13 失譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_005.xml#p0055c21">2 譯經（魏　吳）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056b08">1 魏</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056b08">1 曇柯迦羅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056b22">2 康僧鎧</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056c02">3 曇諦</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056c08">4 白延</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056c19">5 支彊梁接</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0056c25">6 安法賢</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_005.xml#p0057a03">2 吳</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0057a03">1 維祇難</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0057a11">2 竺律炎</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0057a17">3 支謙</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_005.xml#p0059a18">4 康僧會</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_005.xml#p0060a25">3 失譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_006.xml#p0061b14">3 譯經（西晉）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0061c25">1 竺法護</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0065a08">2 彊梁婁至</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0065a12">3 安法欽</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0065a21">4 無羅叉（朱士行）</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0065b19">5 聶承遠</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0065b26">6 竺叔蘭</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0065c03">7 聶道真</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0066a27">8 白法祖</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0066b22">9 法立</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0066c01">10 衛士度</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0066c06">11 支敏度</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0066c10">12 法炬</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0068a12">13 支法度</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_006.xml#p0068a21">14 失譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_007.xml#p0068b08">4 譯經（東晉）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0069a10">1 帛尸梨蜜多羅</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0069a24">2 支道根</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0069b03">3 康法邃</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0069b06">4 曇無蘭</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0070b23">5 康道和</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0070b27">6 迦留陀伽</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0070c03">7 僧伽提婆</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0070c20">8 卑摩羅叉</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0071a02">9 曇摩</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0071a08">10 佛馱跋陀羅</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0071b07">11 法顯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0071c01">12 祇多蜜</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0071c25">13 竺難提</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0072a06">14 竺法力</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0072a11">15 嵩公</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0072a17">16 退公</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0072a20">17 法勇</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0072a23">18 慧遠</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0073a10">19 竺僧敷</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0073a18">20 曇詵</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0073a21">21 支遁</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0073b20">22 竺僧度</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0074a02">23 竺道祖</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0074a07">24 支敏度</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0074a10">25 康法暢</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0074a15">26 竺法濟</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0074a18">27 曇微</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_007.xml#p0074a26">28 失譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_008.xml#p0074c23">5 譯經（二秦）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_008.xml#p0075b21">1 苻秦</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0075b21">1 曇摩持</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0075c01">2 慧常</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0075c05">3 曇摩蜱</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0075c11">4 鳩摩羅佛提</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0075c16">5 曇摩難提</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0076a03">6 僧伽跋澄</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0076a11">7 僧伽提婆</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0076a26">8 道安</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_008.xml#p0077a12">2 姚秦</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0077a12">1 竺佛念</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0077b08">2 曇摩耶舍</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0077b18">3 弗若多羅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0077b26">4 鳩摩羅什</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0079c01">5 佛馱耶舍</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0080b15">6 僧肇</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0081c03">7 僧叡</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_008.xml#p0081c21">8 道恒</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_009.xml#p0082b07">6 譯經（乞伏西秦　沮渠北涼　元魏　高齊　陳氏）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0083b18">1 乞伏西秦</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0083b18">1 聖堅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0083c20">2 失譯</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084a06">2 沮渠北涼</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084a06">1 道龔</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084a10">2 法眾</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084a14">3 僧伽陀</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084a19">4 曇摩讖</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084c11">5 沮渠京聲</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0084c20">6 浮陀跋摩</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085a07">7 智猛</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085a12">8 曇覺</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085a17">9 失譯</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085a23">3 元魏北臺</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085a23">1 曇曜</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085b07">2 曇靜</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085b17">3 吉迦夜</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085b28">4 曇辯</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085c04">4 元魏南京</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085c04">1 曇摩留支</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085c11">2 法場</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0085c14">3 菩提流支</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0086b17">4 勒那摩提</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0086c03">5 佛陀扇多</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0086c15">5 元魏鄴都</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0086c15">1 瞿曇般若流支</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087a16">2 月婆首那</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087a22">3 楊衒之</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087b19">4 李廓</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087b23">6 高齊</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087b23">1 那連提耶舍</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087c07">2 萬天懿</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087c12">7 陳氏</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0087c12">1 俱那羅陀</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0088b10">2 月婆首那</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_009.xml#p0088b26">3 須菩提</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_010.xml#p0088c04">7 譯經（宋）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0089b09">1 佛陀什</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0089b24">2 智嚴</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0089c14">3 寶雲</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0089c27">4 慧嚴</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0090a15">5 伊葉波羅</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0090a19">6 求那跋摩</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0091a12">7 僧伽跋摩</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0091a24">8 求那跋陀羅</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0092b13">9 曇摩蜜多</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0092c03">10 畺良耶舍</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0092c12">11 曇無竭</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0092c20">12 沮渠京聲</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0093a27">13 功德直</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0093b07">14 慧簡</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0093c08">15 僧璩</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0093c12">16 法穎</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0093c18">17 法眷</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0093c25">18 翔公</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0094a02">19 道嚴</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0094a07">20 勇公</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0094a14">21 法海</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0094a21">22 先公</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_010.xml#p0094a25">23 道儼</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_011.xml#p0094b03">8 譯經（齊　梁　周）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_011.xml#p0095b09">1 齊</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0095b09">1 曇摩伽陀耶舍</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0095b14">2 摩訶乘</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0095b18">3 僧伽跋陀羅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0095c18">4 達摩摩提</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096a04">5 求那毘地</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096a10">6 法度</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096a14">7 法願</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096a20">8 王宗</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096a25">9 曇景</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096b01">10 法尼</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096b04">11 道標　道政</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096b09">12 道備</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096b15">13 蕭子良</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c07">14 庾頡</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c10">15 超度</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c13">16 法化</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c17">17 法瑗</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c20">18 慧基</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c23">19 王巾</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c26">2 梁</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0096c26">1 尼僧法</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0097b28">2 妙光</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0097c03">3 僧盛</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0097c06">4 僧祐</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0098a27">5 道歡</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0098b01">6 曼陀羅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0098b09">7 僧伽婆羅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0098c14">8 木道賢</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0098c17">9 月婆首那</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0098c22">10 真諦</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0099a23">11 僧旻</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0099b01">12 僧紹</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0099b05">13 寶唱</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0099b22">14 法朗</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0099b25">15 蕭衍</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0099c28">16 慧令</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a02">17 慧皎</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a06">18 袁曇允</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a09">19 蕭綱</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a14">20 智藏</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a20">21 虞孝敬</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a25">3 周</cblink>
+			<ol>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100a25">1 曇顯</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100b04">2 攘那跋陀羅</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100b09">3 達摩留支</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100b12">4 闍那耶舍</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100b24">5 耶舍崛多</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100c06">6 闍那崛多</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100c12">7 僧[益*力]</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0100c29">8 慧善</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0101a10">9 忘名</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0101b04">10 淨藹</cblink></li>
+				<li><cblink href="XML/T/T49/T49n2034_011.xml#p0101b15">11 道安</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_012.xml#p0101c16">9 譯經（大隋）</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0102b17">1 達摩般若（法智）</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0102c01">2 毘尼多留支</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0102c10">3 那連提耶舍</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0103a09">4 僧就</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0103b20">5 闍那崛多</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0104c07">6 法上</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0105a19">7 靈裕</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0105b16">8 信行</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0105c04">9 法經</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0105c20">10 寶貴</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106a20">11 僧粲</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106b01">12 僧琨</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106b12">13 彥琮</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106b27">14 慧影</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106c08">15 郭誼</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106c24">16 侯君素</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0106c27">17 徐同卿</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0107a05">18 劉憑</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_012.xml#p0107a18">19 勅有司</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109a04">入藏目</cblink>
+	<ol>
+		<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109a07">1 大乘錄</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_013.xml#p0109b13">1 大乘修多羅有譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_013.xml#p0112a27">2 大乘修多羅失譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114b12">3 大乘毘尼有譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114c01">4 大乘毘尼失譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_013.xml#p0114c12">5 大乘阿毘曇有譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_013.xml#p0115a17">6 大乘阿毘曇失譯</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115a25">2 小乘錄</cblink>
+		<ol>
+			<li><cblink href="XML/T/T49/T49n2034_014.xml#p0115c06">1 小乘修多羅有譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_014.xml#p0116c04">2 小乘修多羅失譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119a27">3 小乘毘尼有譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119b28">4 小乘毘尼失譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_014.xml#p0119c20">5 小乘阿毘曇有譯</cblink></li>
+			<li><cblink href="XML/T/T49/T49n2034_014.xml#p0120a08">6 小乘阿毘曇失譯</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0120a19">上開皇三寶錄表</cblink></li>
 	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0120b09">開皇三寶錄總目序</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0125b24">見存經錄</cblink></li>
+	<li><cblink href="XML/T/T49/T49n2034_015.xml#p0127b25">未見經錄</cblink></li>
 </ol>
 </nav>
 <nav type="juan">

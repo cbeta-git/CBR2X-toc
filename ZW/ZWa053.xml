@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0423a06">編者按</cblink></li>
+	<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0423a18">1 概念淺說</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0423a19">1.1 什麼是數字圖書館</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0424a05">1.2 數字化的方式</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0425a07">2 弊端分析</cblink>
+	<ol>
+		<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0425a10">2.1 檢索問題</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0426a06">2.2 標準問題</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0427a07">2.3 版權問題</cblink></li>
+		<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0428a09">2.4 使用問題</cblink>
+		<ol>
+			<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0428a10">（1）速度</cblink></li>
+			<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0428a23">（2）費用</cblink></li>
+			<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0429a12">（3）習慣</cblink></li>
+			<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0429a23">（4）健康</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0430a18">參考文獻</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW09/ZW09na053_001.xml#p0423a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

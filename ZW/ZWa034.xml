@@ -5,10 +5,10 @@
 		<title>本經目次</title>
 	</head>
 <body>
-<nav type="catalog">
-<h1>目錄</h1>
+<nav type="juan">
+<h1>卷</h1>
 <ol>
-	<li><cblink href="XML/ZW/ZW12/ZW12na084_001.xml#p0462a02">徵稿啟事</cblink></li>
+	<li><cblink href="XML/ZW/ZW06/ZW06na034_001.xml#p0029a01">第一</cblink></li>
 </ol>
 </nav>
 </body></html>

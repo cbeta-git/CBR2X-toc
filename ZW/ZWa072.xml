@@ -8,7 +8,13 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/ZW/ZW10/ZW10na072_001.xml#p0460a02">徵稿啟事</cblink></li>
+	<li><cblink href="XML/ZW/ZW12/ZW12na072_001.xml#p0462a02">徵稿啟事</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW12/ZW12na072_001.xml#p0462a01">第一</cblink></li>
 </ol>
 </nav>
 </body></html>

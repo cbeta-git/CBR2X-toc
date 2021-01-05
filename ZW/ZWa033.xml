@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW06/ZW06na033_001.xml#p0001a02">中文</cblink></li>
+	<li><cblink href="XML/ZW/ZW06/ZW06na033_001.xml#p0008a02">英文</cblink></li>
+	<li><cblink href="XML/ZW/ZW06/ZW06na033_001.xml#p0019a02">日文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/ZW/ZW06/ZW06na033_001.xml#p0001a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

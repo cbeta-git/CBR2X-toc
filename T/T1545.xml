@@ -11,233 +11,422 @@
 	<li><cblink href="XML/T/T27/T27n1545_001.xml#p0001a07">序</cblink></li>
 	<li><cblink href="XML/T/T27/T27n1545_002.xml#p0005b08">1 雜蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_002.xml#p0005b08">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_003.xml#p0010c02">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_004.xml#p0015c02">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_005.xml#p0020b14">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_006.xml#p0025c02">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_007.xml#p0030c20">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_008.xml#p0036a05">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_009.xml#p0040c20">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_010.xml#p0045c19">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_011.xml#p0051a02">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_012.xml#p0055c23">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_013.xml#p0061c02">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_014.xml#p0066c08">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_015.xml#p0071c23">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_016.xml#p0077a17">15</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_017.xml#p0082c02">16</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_018.xml#p0088a11">17</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_019.xml#p0093c06">18</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_020.xml#p0099a18">19</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_021.xml#p0104c02">20</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_022.xml#p0110a02">21</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_023.xml#p0115b11">22</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_024.xml#p0120c12">23</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_025.xml#p0126b02">24</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_026.xml#p0132a03">25</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_027.xml#p0137a16">26</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_028.xml#p0142b12">27</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_029.xml#p0147c08">28</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_030.xml#p0153a03">29</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_031.xml#p0158a15">30</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_032.xml#p0163a19">31</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_033.xml#p0168c20">32</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_034.xml#p0175a03">33</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_035.xml#p0180a22">34</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_036.xml#p0185a15">35</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_037.xml#p0190a03">36</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_038.xml#p0194c18">37</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_039.xml#p0199c19">38</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_040.xml#p0205a03">39</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_041.xml#p0210a12">40</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_042.xml#p0215b23">41</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_043.xml#p0221a02">42</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_044.xml#p0226b03">43</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_045.xml#p0231b15">44</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_002.xml#p0005b08">1 世第一法納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_002.xml#p0005b08">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_003.xml#p0010c06">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_004.xml#p0015c06">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_005.xml#p0020b18">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_006.xml#p0025c06">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_007.xml#p0030c24">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_008.xml#p0036a09">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_009.xml#p0040c24">8</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_009.xml#p0042c07">2 智納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_009.xml#p0042c07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_010.xml#p0045c23">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_011.xml#p0051a06">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_012.xml#p0055c27">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_013.xml#p0061c06">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_014.xml#p0066c12">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_015.xml#p0071c27">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_016.xml#p0077a21">8</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_017.xml#p0082c06">9</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_018.xml#p0088a15">10</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_019.xml#p0093c10">11</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_020.xml#p0099a22">12</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_021.xml#p0104c07">13</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_022.xml#p0110a07">14</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_023.xml#p0115b16">15</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_023.xml#p0116b26">3 補特伽羅納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_023.xml#p0116b26">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_024.xml#p0120c17">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_025.xml#p0126b07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_026.xml#p0132a08">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_027.xml#p0137a21">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_028.xml#p0142b17">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_029.xml#p0147c13">7</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_029.xml#p0150c12">4 愛敬納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_029.xml#p0150c12">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_030.xml#p0153a07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_031.xml#p0158a20">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_032.xml#p0163a24">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_033.xml#p0168c25">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_034.xml#p0175a08">6</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_034.xml#p0178c25">5 無慚愧納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_034.xml#p0178c25">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_035.xml#p0180a27">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_036.xml#p0185a20">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_037.xml#p0190a08">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_038.xml#p0194c23">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_038.xml#p0198a07">6 相納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_038.xml#p0198a07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_039.xml#p0199c24">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_039.xml#p0203b19">7 無義納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_039.xml#p0203b19">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_040.xml#p0205a07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_041.xml#p0210a17">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_042.xml#p0215b28">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_042.xml#p0216b20">8 思納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_042.xml#p0216b20">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_043.xml#p0221a07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_044.xml#p0226b08">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_045.xml#p0231b20">4</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_046.xml#p0236b19">2 結蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_046.xml#p0236b19">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_047.xml#p0241b19">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_048.xml#p0247a02">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_049.xml#p0252a18">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_050.xml#p0257a13">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_051.xml#p0263a02">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_052.xml#p0268a02">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_053.xml#p0273a02">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_054.xml#p0278a02">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_055.xml#p0283a11">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_056.xml#p0288a02">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_057.xml#p0293a23">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_058.xml#p0298b02">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_059.xml#p0303a15">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_060.xml#p0308b02">15</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_061.xml#p0313b10">16</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_062.xml#p0318c16">17</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_063.xml#p0324b02">18</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_064.xml#p0329c05">19</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_065.xml#p0335a23">20</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_066.xml#p0340b16">21</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_067.xml#p0345b18">22</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_068.xml#p0350b10">23</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_069.xml#p0355c04">24</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_070.xml#p0360c20">25</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_071.xml#p0366a05">26</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_072.xml#p0371a02">27</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_073.xml#p0375c10">28</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_074.xml#p0381a11">29</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_075.xml#p0386a05">30</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_076.xml#p0391a02">31</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_077.xml#p0396a07">32</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_078.xml#p0401a17">33</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_079.xml#p0406b02">34</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_080.xml#p0411b07">35</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_081.xml#p0416b17">36</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_082.xml#p0421c12">37</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_083.xml#p0427a02">38</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_084.xml#p0432b02">39</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_085.xml#p0437c02">40</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_086.xml#p0442b21">41</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_087.xml#p0447c16">42</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_088.xml#p0452b23">43</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_089.xml#p0457b07">44</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_090.xml#p0462c12">45</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_091.xml#p0467c22">46</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_092.xml#p0473b07">47</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_046.xml#p0236b19">1 不善納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_046.xml#p0236b19">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_047.xml#p0241b24">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_048.xml#p0247a07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_049.xml#p0252a23">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_050.xml#p0257a17">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_051.xml#p0263a07">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_052.xml#p0268a07">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_053.xml#p0273a07">8</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_054.xml#p0278a07">9</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_055.xml#p0283a16">10</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_056.xml#p0288a07">2 一行納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_056.xml#p0288a07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_057.xml#p0293a28">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_058.xml#p0298b07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_059.xml#p0303a20">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_060.xml#p0308b06">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_061.xml#p0313b15">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_062.xml#p0318c21">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_063.xml#p0324b07">8</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_063.xml#p0327b01">3 有情納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_063.xml#p0327b01">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_064.xml#p0329c10">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_065.xml#p0335a28">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_066.xml#p0340b21">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_067.xml#p0345b23">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_068.xml#p0350b15">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_069.xml#p0355c09">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_070.xml#p0360c24">8</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_071.xml#p0366a10">4 十門納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_071.xml#p0366a10">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_072.xml#p0371a07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_073.xml#p0375c15">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_074.xml#p0381a16">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_075.xml#p0386a10">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_076.xml#p0391a07">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_077.xml#p0396a12">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_078.xml#p0401a22">8</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_079.xml#p0406b07">9</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_080.xml#p0411b11">10</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_081.xml#p0416b22">11</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_082.xml#p0421c17">12</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_083.xml#p0427a07">13</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_084.xml#p0432b07">14</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_085.xml#p0437c07">15</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_086.xml#p0442b26">16</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_087.xml#p0447c21">17</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_088.xml#p0452b28">18</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_089.xml#p0457b12">19</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_090.xml#p0462c16">20</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_091.xml#p0467c27">21</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_092.xml#p0473b12">22</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_093.xml#p0479a07">3 智蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_093.xml#p0479a07">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_094.xml#p0484a22">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_095.xml#p0489b08">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_096.xml#p0494b15">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_097.xml#p0499c06">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_098.xml#p0505a02">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_099.xml#p0510a10">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_100.xml#p0515b07">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_101.xml#p0521a02">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_102.xml#p0526a13">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_103.xml#p0531a20">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_104.xml#p0536c02">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_105.xml#p0541c19">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_106.xml#p0546c18">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_107.xml#p0552a01">15</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_108.xml#p0557a09">16</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_109.xml#p0562a19">17</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_110.xml#p0567b16">18</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_111.xml#p0573a02">19</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_093.xml#p0479a07">1 學支納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_093.xml#p0479a07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_094.xml#p0484a27">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_095.xml#p0489b13">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_096.xml#p0494b20">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_097.xml#p0499c11">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_097.xml#p0503c23">2 五種納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_097.xml#p0503c23">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_098.xml#p0505a07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_099.xml#p0510a15">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_099.xml#p0512a20">3 他心智納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_099.xml#p0512a20">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_100.xml#p0515b11">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_101.xml#p0521a07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_102.xml#p0526a18">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_103.xml#p0531a25">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_104.xml#p0536c07">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_105.xml#p0541c24">7</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_105.xml#p0546b08">4 修智納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_105.xml#p0546b08">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_106.xml#p0546c23">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_107.xml#p0552a06">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_108.xml#p0557a14">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_109.xml#p0562a24">5 七聖納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_109.xml#p0562a24">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_110.xml#p0567b21">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_111.xml#p0573a07">3</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_112.xml#p0578a13">4 業蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_112.xml#p0578a13">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_113.xml#p0583a21">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_114.xml#p0589c13">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_115.xml#p0596a14">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_116.xml#p0601c02">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_117.xml#p0607a13">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_118.xml#p0612c02">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_119.xml#p0618a06">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_120.xml#p0623b16">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_121.xml#p0629a07">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_122.xml#p0634b15">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_123.xml#p0640b18">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_124.xml#p0645c16">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_125.xml#p0650c02">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_126.xml#p0656a02">15</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_112.xml#p0578a13">1 惡行納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_112.xml#p0578a13">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_113.xml#p0583a26">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_114.xml#p0589c18">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_115.xml#p0596a19">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_116.xml#p0601c07">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_116.xml#p0604c02">2 邪語納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_116.xml#p0604c02">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_117.xml#p0607a18">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_118.xml#p0612c07">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_118.xml#p0616c16">3 害生納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_118.xml#p0616c16">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_119.xml#p0618a11">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_120.xml#p0623b21">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_121.xml#p0629a12">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_122.xml#p0634b20">4 表無表納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_122.xml#p0634b20">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_123.xml#p0640b23">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_124.xml#p0645c21">3</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_124.xml#p0649a14">5 自業納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_124.xml#p0649a14">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_125.xml#p0650c07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_126.xml#p0656a07">3</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_127.xml#p0661c09">5 大種蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_127.xml#p0661c09">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_128.xml#p0665c23">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_129.xml#p0670b07">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_130.xml#p0674c22">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_131.xml#p0679a08">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_132.xml#p0683c02">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_133.xml#p0688a02">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_134.xml#p0692b02">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_135.xml#p0696b18">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_136.xml#p0701a13">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_137.xml#p0705c02">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_138.xml#p0710b07">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_139.xml#p0714b23">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_140.xml#p0719b21">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_141.xml#p0724a02">15</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_127.xml#p0661c09">1 大造納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_127.xml#p0661c09">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_128.xml#p0665c28">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_129.xml#p0670b12">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_130.xml#p0674c27">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_131.xml#p0679a13">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_131.xml#p0680b24">2 緣納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_131.xml#p0680b24">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_132.xml#p0683c07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_133.xml#p0688a07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_134.xml#p0692b07">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_134.xml#p0693b17">3 具見納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_134.xml#p0693b17">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_135.xml#p0696b23">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_136.xml#p0701a18">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_137.xml#p0705c07">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_137.xml#p0709a24">4 執受納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_137.xml#p0709a24">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_138.xml#p0710b12">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_139.xml#p0714b28">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_140.xml#p0719b26">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_141.xml#p0724a07">5</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_142.xml#p0728c09">6 根蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_142.xml#p0728c09">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_143.xml#p0733b02">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_144.xml#p0738a02">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_145.xml#p0742c20">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_146.xml#p0747a02">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_147.xml#p0751b13">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_148.xml#p0755c10">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_149.xml#p0760a17">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_150.xml#p0764a22">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_151.xml#p0769a02">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_152.xml#p0773a15">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_153.xml#p0777c02">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_154.xml#p0782a19">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_155.xml#p0786c07">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_156.xml#p0791b02">15</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_142.xml#p0728c09">1 根納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_142.xml#p0728c09">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_143.xml#p0733b07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_144.xml#p0738a07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_145.xml#p0742c25">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_146.xml#p0747a07">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_147.xml#p0751b18">2 有納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_147.xml#p0751b18">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_148.xml#p0755c15">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_149.xml#p0760a22">3 觸納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_149.xml#p0760a22">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_150.xml#p0764a27">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_151.xml#p0769a07">4 等心納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_151.xml#p0769a07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_152.xml#p0773a20">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_153.xml#p0777c07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_154.xml#p0782a24">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_155.xml#p0786c12">5</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_155.xml#p0787b11">5 一心納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_155.xml#p0787b11">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_156.xml#p0791b07">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_156.xml#p0792b27">6 魚納息</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_156.xml#p0795c24">7 因緣納息</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_157.xml#p0796a25">7 定蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_157.xml#p0796a25">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_158.xml#p0800c17">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_159.xml#p0805c02">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_160.xml#p0810a22">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_161.xml#p0814c14">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_162.xml#p0819a02">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_163.xml#p0823c07">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_164.xml#p0827c09">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_165.xml#p0832b02">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_166.xml#p0836c17">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_167.xml#p0841b15">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_168.xml#p0845c21">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_169.xml#p0850b23">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_170.xml#p0855a12">14</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_171.xml#p0859c17">15</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_172.xml#p0864b17">16</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_173.xml#p0869b15">17</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_174.xml#p0873c06">18</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_175.xml#p0877c15">19</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_176.xml#p0883a03">20</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_177.xml#p0887b17">21</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_178.xml#p0892a20">22</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_179.xml#p0896c04">23</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_180.xml#p0901c07">24</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_181.xml#p0906c02">25</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_182.xml#p0911b06">26</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_183.xml#p0915c03">27</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_184.xml#p0920c20">28</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_185.xml#p0925c02">29</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_186.xml#p0930a12">30</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_157.xml#p0796a25">1 得納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_157.xml#p0796a25">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_158.xml#p0800c22">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_159.xml#p0805c07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_160.xml#p0810a27">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_161.xml#p0814c19">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_162.xml#p0819a07">6</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_162.xml#p0821b08">2 緣納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_162.xml#p0821b08">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_163.xml#p0823c12">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_164.xml#p0827c14">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_165.xml#p0832b07">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_166.xml#p0836c22">3 攝納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_166.xml#p0836c22">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_167.xml#p0841b20">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_168.xml#p0845c26">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_169.xml#p0850b28">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_170.xml#p0855a17">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_171.xml#p0859c22">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_172.xml#p0864b22">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_173.xml#p0869b20">8</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_174.xml#p0873c11">4 不還納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_174.xml#p0873c11">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_175.xml#p0877c20">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_176.xml#p0883a08">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_177.xml#p0887b22">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_178.xml#p0892a25">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_179.xml#p0896c09">6</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_180.xml#p0901c12">7</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_181.xml#p0906c07">8</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_182.xml#p0911b11">9</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_183.xml#p0915c08">10</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_183.xml#p0919b23">5 一行納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_183.xml#p0919b23">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_184.xml#p0920c25">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_185.xml#p0925c07">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_186.xml#p0930a17">4</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 	<li><cblink href="XML/T/T27/T27n1545_187.xml#p0936c07">8 見蘊</cblink>
 	<ol>
-		<li><cblink href="XML/T/T27/T27n1545_187.xml#p0936c07">1</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_188.xml#p0940c22">2</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_189.xml#p0945a05">3</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_190.xml#p0949b06">4</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_191.xml#p0953b17">5</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_192.xml#p0958b06">6</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_193.xml#p0963c05">7</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_194.xml#p0968c03">8</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_195.xml#p0973b02">9</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_196.xml#p0978c03">10</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_197.xml#p0983a16">11</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_198.xml#p0987c05">12</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_199.xml#p0993b02">13</cblink></li>
-		<li><cblink href="XML/T/T27/T27n1545_200.xml#p0998c14">14</cblink></li>
+		<li><cblink href="XML/T/T27/T27n1545_187.xml#p0936c07">1 念住納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_187.xml#p0936c07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_188.xml#p0940c27">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_189.xml#p0945a10">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_190.xml#p0949b11">4</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_191.xml#p0953b22">5</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_192.xml#p0958b11">6</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_192.xml#p0960a28">2 三有納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_192.xml#p0960a28">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_193.xml#p0963c10">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_194.xml#p0968c08">3</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_195.xml#p0973b07">4</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_195.xml#p0974b25">3 想納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_195.xml#p0974b25">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_196.xml#p0978c08">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_196.xml#p0980b07">4 智納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_196.xml#p0980b07">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_197.xml#p0983a21">2</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/T/T27/T27n1545_198.xml#p0987c10">5 見納息</cblink>
+		<ol>
+			<li><cblink href="XML/T/T27/T27n1545_198.xml#p0987c10">1</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_199.xml#p0993b07">2</cblink></li>
+			<li><cblink href="XML/T/T27/T27n1545_200.xml#p0998c18">3</cblink></li>
+		</ol>
+		</li>
 	</ol>
 	</li>
 </ol>
