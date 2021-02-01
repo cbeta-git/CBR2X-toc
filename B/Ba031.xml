@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/B/B31/B31na031_001.xml#pa001a01">編輯說明</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -8,6 +8,7 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
+	<li><cblink href="XML/GA/GA012/GA012n0011_011.xml#pa001a01">版本說明</cblink></li>
 	<li><cblink href="XML/GA/GA012/GA012n0011_011.xml#p0637a03">宋太宗皇帝御贊舍利</cblink></li>
 	<li><cblink href="XML/GA/GA012/GA012n0011_011.xml#p0637a07">宋英宗皇帝賜懷璉手詔</cblink></li>
 	<li><cblink href="XML/GA/GA012/GA012n0011_011.xml#p0638a01">奉使道中寄育王山長老常坦</cblink></li>
@@ -296,7 +297,7 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/GA/GA012/GA012n0011_011.xml#p0631a01">第十一</cblink></li>
+	<li><cblink href="XML/GA/GA012/GA012n0011_011.xml#pa001a01">第十一</cblink></li>
 	<li><cblink href="XML/GA/GA012/GA012n0011_012.xml#p0681a01">第十二</cblink></li>
 	<li><cblink href="XML/GA/GA012/GA012n0011_013.xml#p0735a01">第十三</cblink></li>
 	<li><cblink href="XML/GA/GA012/GA012n0011_014.xml#p0779a01">第十四</cblink></li>

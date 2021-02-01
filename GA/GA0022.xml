@@ -8,6 +8,7 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
+	<li><cblink href="XML/GA/GA024/GA024n0022_001.xml#pa001a01">版本說明</cblink></li>
 	<li><cblink href="XML/GA/GA024/GA024n0022_001.xml#p0003a01">提要</cblink></li>
 	<li><cblink href="XML/GA/GA024/GA024n0022_001.xml#p0005a01">序</cblink></li>
 	<li><cblink href="XML/GA/GA024/GA024n0022_001.xml#p0007a05">宸恩</cblink>
@@ -688,7 +689,7 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/GA/GA024/GA024n0022_001.xml#p0003a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA024/GA024n0022_001.xml#pa001a01">第一</cblink></li>
 	<li><cblink href="XML/GA/GA024/GA024n0022_002.xml#p0015a01">第二</cblink></li>
 	<li><cblink href="XML/GA/GA024/GA024n0022_003.xml#p0029a01">第三</cblink></li>
 	<li><cblink href="XML/GA/GA024/GA024n0022_004.xml#p0075a01">第四</cblink></li>

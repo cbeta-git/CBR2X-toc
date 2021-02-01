@@ -8,6 +8,7 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
+	<li><cblink href="XML/GA/GA020/GA020n0018_001.xml#pb001a01">版本說明</cblink></li>
 	<li><cblink href="XML/GA/GA020/GA020n0018_001.xml#pb003a01">卷首</cblink>
 	<ol>
 		<li><cblink href="XML/GA/GA020/GA020n0018_001.xml#pb003a01">慕天顏序</cblink></li>
@@ -486,7 +487,7 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/GA/GA020/GA020n0018_001.xml#pb003a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA020/GA020n0018_001.xml#pb001a01">第一</cblink></li>
 </ol>
 </nav>
 </body></html>
