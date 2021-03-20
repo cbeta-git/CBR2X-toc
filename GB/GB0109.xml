@@ -8,8 +8,8 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#pa001a01">版本說明</cblink></li>
 	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#p0001a01">簡介</cblink></li>
+	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#p0002a01">版本說明</cblink></li>
 	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#p0003a01">重刻序</cblink></li>
 	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#p0011a03">寺記</cblink>
 	<ol>
@@ -163,7 +163,7 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#pa001a01">第一</cblink></li>
+	<li><cblink href="XML/GB/GB078/GB078n0109_001.xml#p0001a01">第一</cblink></li>
 	<li><cblink href="XML/GB/GB078/GB078n0109_002.xml#p0039a01">第二</cblink></li>
 	<li><cblink href="XML/GB/GB078/GB078n0109_003.xml#p0085a01">第三</cblink></li>
 </ol>

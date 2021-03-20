@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/Y/Y99/Y99na004_001.xml#p0056a02">印順文教基金會簡介</cblink>
+	<ol>
+		<li><cblink href="XML/Y/Y99/Y99na004_001.xml#p0056a04">成立緣起</cblink></li>
+		<li><cblink href="XML/Y/Y99/Y99na004_001.xml#p0056a08">本會主要辦理業務</cblink></li>
+		<li><cblink href="XML/Y/Y99/Y99na004_001.xml#p0056a22">連聯方式</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/Y/Y99/Y99na004_001.xml#p0056a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

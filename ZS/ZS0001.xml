@@ -8,6 +8,10 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
+	<li><cblink href="XML/ZS/ZS01/ZS01n0001_001.xml#pa001a03">緣起</cblink></li>
+	<li><cblink href="XML/ZS/ZS01/ZS01n0001_001.xml#pb001a04">前言</cblink></li>
+	<li><cblink href="XML/ZS/ZS01/ZS01n0001_001.xml#pc001a04">說明</cblink></li>
+	<li><cblink href="XML/ZS/ZS01/ZS01n0001_001.xml#pd001a04">目錄</cblink></li>
 	<li><cblink href="XML/ZS/ZS01/ZS01n0001_001.xml#p0001a06">一通論</cblink>
 	<ol>
 		<li><cblink href="XML/ZS/ZS01/ZS01n0001_001.xml#p0001a08">天竺國佛教</cblink></li>

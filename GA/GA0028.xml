@@ -8,7 +8,7 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#pa001a01">版本說明</cblink></li>
+	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#p0001a01">版本說明</cblink></li>
 	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#p0003a01">序</cblink></li>
 	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#p0007a01">目錄</cblink></li>
 	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#p0009a03">建置</cblink></li>
@@ -684,7 +684,7 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#pa001a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA029/GA029n0028_001.xml#p0001a01">第一</cblink></li>
 	<li><cblink href="XML/GA/GA029/GA029n0028_002.xml#p0051a01">第二</cblink></li>
 	<li><cblink href="XML/GA/GA029/GA029n0028_003.xml#p0077a01">第三</cblink></li>
 	<li><cblink href="XML/GA/GA029/GA029n0028_004.xml#p0093a01">第四</cblink></li>

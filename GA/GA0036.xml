@@ -8,7 +8,7 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/GA/GA035/GA035n0036_001.xml#pb001a01">版本說明</cblink></li>
+	<li><cblink href="XML/GA/GA035/GA035n0036_001.xml#pb002a01">版本說明</cblink></li>
 	<li><cblink href="XML/GA/GA035/GA035n0036_001.xml#pb003a01">序</cblink></li>
 	<li><cblink href="XML/GA/GA035/GA035n0036_001.xml#pb019a01">山圖</cblink>
 	<ol>
@@ -231,7 +231,7 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/GA/GA035/GA035n0036_001.xml#pb001a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA035/GA035n0036_001.xml#pb002a01">第一</cblink></li>
 	<li><cblink href="XML/GA/GA035/GA035n0036_002.xml#pb065a01">第二</cblink></li>
 	<li><cblink href="XML/GA/GA035/GA035n0036_003.xml#pb103a01">第三</cblink></li>
 	<li><cblink href="XML/GA/GA035/GA035n0036_004.xml#pb121a01">第四</cblink></li>
