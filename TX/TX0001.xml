@@ -8,912 +8,904 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a01">法藏</cblink>
+	<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a01">概論</cblink>
 	<ol>
-		<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a01">第一編　佛法總學</cblink>
+		<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a01">佛學概論</cblink>
 		<ol>
-			<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a01">概論</cblink>
+			<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a04">目次</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0005a01">緒言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0010a01">學史</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a01">佛學概論</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0010a02">第一章　釋尊略傳</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0001a04">目次</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0005a01">緒言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0010a01">學史</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0010a02">第一章　釋尊略傳</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0010a03">第一節　釋尊出於印度之背景</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0011a02">第二節　未成正覺前之釋尊</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0012a03">第三節　成正覺後之釋尊</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0013a01">第二章　印度佛學略史</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0013a02">第一節　佛滅後結集諸藏差別</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0014a11">第二節　小乘盛行與分成各部</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0017a01">第三節　大乘繼興與其派別</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0018a02">第三章　中國佛學歷史</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0018a03">第一節　經律論之翻譯</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0020a03">第二節　宗派之成立</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0021a03">第三節　唐末以來之變遷</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0022a01">第四章　各地之佛學略史</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0022a02">第一節　錫蘭緬甸暹羅等處之佛學</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0023a06">第二節　西藏尼泊爾蒙古等處之佛學</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0024a07">第三節　朝鮮日本臺灣安南之佛學</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0026a01">學理</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0026a02">第一章　因緣所生法（五乘共學）</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0026a03">第一節　總論</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0031a04">第二節　無始流轉</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0031a12">一　心之分析</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0034a01">二　煩惱業生</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0036a11">三　有情本死中生</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0037a04">四　器界成住壞空</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0037a09">第三節　業與界趣</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0041a11">第四節　異生與聖</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0042a06">一　煩惱伏與斷</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0043a05">二　斷之差別</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0044a01">第五節　成聖之道</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0044a02">一　有情種姓</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0045a02">二　佛教增上</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0045a06">三　人天階梯</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0045a11">四　出世三乘</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0046a10">第六節　再論業與界趣之流轉</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0050a02">第二章　三法印（出世三乘共學）</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0050a06">第一節　諸行無常</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0051a07">第二節　諸法無我</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0052a06">第三節　涅槃寂靜</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0054a01">第三章　一實相印（大乘不共學）</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0054a10">第一節　諸法畢竟空</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0055a10">第二節　五法三自性</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0059a09">第三節　八識二無我</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0060a07">第四節　法界無障礙</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0061a09">第四章　約略指廣</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0062a07">結論</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0062a08">第一節　解釋對於佛學之誤會</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0064a08">第二節　佛學的本質</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0066a08">第三節　佛學的方法</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0067a11">第四節　佛學的應用</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0069a01">第五節　怎樣研究佛學</cblink></li>
-					</ol>
-					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0010a03">第一節　釋尊出於印度之背景</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0011a02">第二節　未成正覺前之釋尊</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0012a03">第三節　成正覺後之釋尊</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0071a01">佛理要略</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0013a01">第二章　印度佛學略史</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0071a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0071a17">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0072a02">一　因緣生法——五乘共法——向上增進心</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0074a01">甲　破無因及邪因</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0075a04">乙　正因緣法</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0075a07">1.十二緣起法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0076a10">2.四緣生法</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0077a08">丙　近明六道業果——惡止善行</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0078a03">丁　推進三乘行果——捨染趣淨</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0078a09">二　三法印——三乘共法——出離流轉心</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0080a08">甲　諸行無常</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0081a07">乙　諸法無我</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0082a04">丙　涅槃寂靜</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0083a01">三　大乘法——普度成佛心</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0084a02">甲　一切法自性空義</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0084a10">乙　一切法唯識現義</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0085a07">丙　一切法大總持義</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0087a01">四　結論</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0013a02">第一節　佛滅後結集諸藏差別</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0014a11">第二節　小乘盛行與分成各部</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0017a01">第三節　大乘繼興與其派別</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0088a01">佛法導言</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0018a02">第三章　中國佛學歷史</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0088a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0088a11">一　緒言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0089a03">二　小乘</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0093a06">三　大乘</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0100a05">四　小乘與大乘之關係</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0102a03">五　佛法與人世之關係</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0104a03">六　佛法與中國之關係</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0107a07">七　中國佛教之整建與發揚</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0018a03">第一節　經律論之翻譯</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0020a03">第二節　宗派之成立</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0021a03">第三節　唐末以來之變遷</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0109a01">佛乘宗要論</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0022a01">第四章　各地之佛學略史</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0109a04">目次</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0119a01">緒論</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0119a07">第一章　佛法的系統觀</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0119a10">第一節　厭離世間的．超出世間的</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0120a06">一　世間之名義</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0121a09">二　世間之範圍</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0122a10">甲、普遍的世界眾生觀</cblink></li>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0124a10">乙、切近的人生宇宙觀</cblink></li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0126a12">三　出世與厭世</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0128a02">第二節　隨順世間的．救護世間的</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0128a06">第三節　由超出世間而救護世間的</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0128a11">第四節　擇滅惡世以創造美善的世間</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0131a02">第五節　吾之佛法的全系統觀</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0131a05">一、實證一切法一心真如、達到形而上學目的</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0132a01">二、成就圓滿的人格及圓滿的法界</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0132a05">三、隨順無限的世界眾生、應化無盡利樂無盡</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0132a10">第二章　佛法的自利利他觀</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0135a03">第一節　唯佛法有真正的自利</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0135a11">第二節　純以利他成就自利的佛法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0136a04">第三節　為利他故先求自利的佛法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0136a08">第四節　不分先後自他等利的佛法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0136a11">第五節　唯佛法能真正的利他</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0137a04">第三章　佛法應化現代人心之需要</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0137a08">第一節　佛法契理適機之原則</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0138a06">第二節　佛法隨眾生現行的原則</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0139a02">第三節　佛教須應時設化的需要</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0139a08">第四節　中國民族於佛法的需要</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0140a01">一、意盛志銳者於佛法的需要</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0140a11">二、積迷習謬者於佛法的需要</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0141a04">三、五族和平於佛法的需要</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0142a02">第五節　現在人心於佛法的需要</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0142a05">一、甯息世界的大亂源於佛法的需要</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0143a04">二、釀造世界新文化於佛法的需要</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0144a10">三、滿足人心安慰人心於佛法的需要</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0145a02">第四章　佛法可說不可說</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0145a07">第一節　佛法的法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0145a11">第二節　法性離言不可說</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0146a03">第三節　為令解行成果故巧施言說</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0146a07">第四節　轉法輪</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0147a03">第五節　佛乘的乘</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0148a01">純正的佛法</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0148a05">第一章　純正佛法的分類</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0148a09">第二章　小乘</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0149a01">第一節　小乘的宗要</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0149a04">第二節　了生死為因</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0149a08">一　生為苦本</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0150a07">二　遍觀世間皆無常苦空無我不淨</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0153a01">甲、五蘊六大十二處十八界</cblink></li>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0159a03">乙、三界五趣九地</cblink></li>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0161a06">丙、器世間</cblink></li>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0161a10">丁、福業非福業不動業</cblink></li>
-									<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0162a02">戊、三世流轉生死相續</cblink></li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0162a07">三　確知世間虛偽決志擇滅</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0162a11">第三節　離貪愛為根本</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0163a05">一　觀苦本之所由起</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0163a09">二　十二有支</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0166a07">三　我及我所有法與五利使</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0168a12">四　俱生我愛與五鈍使</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0169a06">五　五欲</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a01">六　戒定慧三無漏學</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a06">第四節　滅盡為究竟</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a09">一　滅盡妙離</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a12">二　辟支佛及四沙門果</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0171a09">三　有餘依涅槃</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0172a01">四　無餘依涅槃</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0172a06">第五節　宗本之四諦</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0172a08">一　四諦</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0173a03">二　三十七菩提分</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0174a03">第六節　小乘的內容及定義</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0174a06">一　小乘即聲聞獨覺</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0174a10">二　對大乘故名小乘</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0175a01">第七節　小乘與出世出家及人天善法</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0175a03">一　小乘祇為出世法</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0175a09">二　小乘有出家的必要</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0176a08">三　出家在家各有所宜</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0177a07">四　小乘兼有人天善法</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0178a04">第三章　大乘</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0178a06">第一節　大乘的宗要</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0178a09">第二節　菩提心為因</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0179a04">第三節　大慈悲為根本</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0180a01">第四節　方便為究竟</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0180a12">第五節　大乘的涅槃菩提法身</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0182a05">第六節　大乘教理行果的經論及宗派</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0183a09">第七節　大乘的教門派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0183a12">一　三論宗</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0184a08">二　唯識宗</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0185a02">三　華嚴宗</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0185a10">四　天台宗</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0186a09">第八節　大乘的理門派</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0188a02">第九節　大乘的行門派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0188a05">一　律宗</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0190a03">二　蓮宗　融通念佛宗　時宗</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0192a01">第十節　大乘的果門派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0192a04">一　真言宗</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0193a01">二　淨土真宗</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0193a06">三　日蓮宗</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0194a01">第十一節　大乘的內容與定義</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0194a06">第十二節　大乘不拘在家出家</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0195a01">第四章　小乘與大乘之關係</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0195a04">第一節　人天乘與小乘皆大乘方便</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0195a09">第二節　小乘是入大乘的正方便</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0196a04">第三節　小乘有不能通入大乘者</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0196a10">第四節　出家本宜以小乘為大乘方便</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0197a04">第五節　後代不宜用小乘</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0197a12">第六節　宏法者當善巧說法之秘要</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a01">應用的佛法</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a04">第一章　世間各教各學的批判</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a07">第一節　略敘已經批判者</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a09">一、純正哲學</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a03">二、應用哲學</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a05">三、天神教</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a07">四、進化論</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a09">第二節　略出今應批判者</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0201a01">第三節　近代科學與小乘學</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0203a03">第四節　現代哲學與大乘學</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0204a06">一、杜威派的實用證驗哲學</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0205a02">二、歐根的精神生活哲學</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0205a05">三、柏格森派的直覺哲學與羅素爾派的析觀哲學</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0206a02">第五節　現代的宗教迷謬</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0206a09">一　鬼靈的迷謬</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0208a02">二　數命的迷謬</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0209a02">三　空定的迷謬</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0209a12">四　神仙的迷謬</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0210a08">第二章　佛乘與人世的關係</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0211a01">第一節　佛乘與法界一切眾生</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0211a06">第二節　在人間現證於佛乘之利益</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0212a04">第三節　佛乘與人天善法</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0212a11">一　人乘善法</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0213a09">二　天乘善法</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0214a15">第四節　人間聖賢須修證天乘善法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0215a05">第五節　世間善法須有出世善法為本</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0215a10">第六節　聖者之應化不可思議</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0216a04">第三章　佛教與中華民國的關係</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0216a08">第一節　佛教本超脫於國族的封蔽</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0217a03">第二節　佛教適應於國族的治化</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0217a09">第三節　救中華民國須有藉乎佛教</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0218a02">第四節　吾國問題即人世問題</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0218a07">第五節　宏揚佛教須有藉乎中國</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0219a04">第六節　佛教問題即人文問題</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0219a10">第四章　佛教流傳於人世的現在將來</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0220a02">第一節　佛教住持僧之整理</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0220a11">第二節　佛教正信會之建立</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0221a05">第三節　設施佛教的教育</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0221a09">第四節　施行佛教的大悲救世事業</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0222a03">第五節　佛教協會</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0222a07">第六節　將來的佛教徒眾</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a01">結論</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a04">第一章　歸宿</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a06">第一節　信者於佛乘的歸宿</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a09">第二節　歸宿佛</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0225a09">第三節　歸宿佛法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0225a12">第四節　歸宿佛法僧</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0226a15">第二章　迴趣</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0227a03">第一節　覺者於法界的迴趣</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0227a07">第二節　迴趣一心真如</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0227a10">第三節　迴趣無上正覺</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0228a02">第四節　迴趣法界有情</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0229a01">佛陀學綱</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0229a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0229a11">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0230a12">一　原理——現實主義（即法爾如是）</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0232a01">甲、現行實事</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0235a01">乙、現事實性</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0237a01">丙、現量實相</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0238a09">丁、現變實力</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0239a12">二　動機——平等主義（即大慈悲性）</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0245a07">三　辦法——進化主義（由人生而佛）</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0254a03">四　效果——自由主義（即無障礙義）</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0254a10">一、境智自由</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0255a06">二、業果自由</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0255a11">三、完全自由</cblink></li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0257a01">甚麼是佛學</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0257a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0257a12">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0258a08">一　佛學的本質</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0258a09">甲　覺者所知人生宇宙的實事真理</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0259a12">乙　覺者開示我們從人至佛的方法——戒定慧</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0260a11">二　佛學的適應</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0260a12">甲　佛學與宗教及科學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0263a03">乙　佛學與政治及社會</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0263a04">1.共和政治的人生觀</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0263a09">2.大同社會的宇宙觀</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0264a01">三　怎樣研究佛學</cblink></li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0269a01">佛學講要</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0269a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0269a20">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0270a10">一　佛學之特質</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0270a12">甲、自然之改造與順成</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0273a08">乙、真如之親證與應化</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0274a12">丙、理論之超越與施設</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0275a12">丁、定通之習得與銷融</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0277a03">戊、即空之有與即有之空——不常不斷中道</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0278a05">己、即悲之智與即智之悲——不苦不樂中道</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0279a11">二　佛學之全景</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0281a12">三　佛學之較量</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0282a05">甲、佛學之教與宗教</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0283a03">乙、佛學之理與哲學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0283a11">丙、佛教之色法不相應行法與物理學生理學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0284a03">丁、佛理之心心所法不相應行法與心理學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0284a06">戊、佛理之因明與論理學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0284a09">己、佛行之律與經世學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0285a02">庚、佛行之禪與衛生學</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0285a09">辛、佛果之施設應化與文藝美術</cblink></li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0287a01">佛法僧義廣論</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0287a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0287a09">一　敘意</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0288a09">二　佛觀</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0295a09">三　法觀</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0305a11">四　僧觀</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0314a03">五　總結</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0022a02">第一節　錫蘭緬甸暹羅等處之佛學</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0023a06">第二節　西藏尼泊爾蒙古等處之佛學</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0024a07">第三節　朝鮮日本臺灣安南之佛學</cblink></li>
 				</ol>
 				</li>
 			</ol>
 			</li>
-			<li><cblink href="XML/TX/TX01/TX01n0001_009.xml#p0317a01">判攝</cblink>
+			<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0026a01">學理</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX01/TX01n0001_009.xml#p0317a01">佛藏擇法眼圖</cblink></li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0318a01">佛學大系</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0026a02">第一章　因緣所生法（五乘共學）</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0318a02">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0318a10">一　三唯論</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0322a01">二　三唯論之含攝</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0026a03">第一節　總論</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0031a04">第二節　無始流轉</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0322a02">甲　三唯論的各攝</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0323a19">乙　三唯論的互攝</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0031a12">一　心之分析</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0034a01">二　煩惱業生</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0036a11">三　有情本死中生</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0037a04">四　器界成住壞空</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0324a05">三　三唯論之貫通</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0037a09">第三節　業與界趣</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0041a11">第四節　異生與聖</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0324a06">甲　三唯論與大乘宗</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0325a01">乙　三唯論與哲學</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0042a06">一　煩惱伏與斷</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0043a05">二　斷之差別</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0044a01">第五節　成聖之道</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0044a02">一　有情種姓</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0045a02">二　佛教增上</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0045a06">三　人天階梯</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0045a11">四　出世三乘</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0046a10">第六節　再論業與界趣之流轉</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0050a02">第二章　三法印（出世三乘共學）</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0050a06">第一節　諸行無常</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0051a07">第二節　諸法無我</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0052a06">第三節　涅槃寂靜</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0054a01">第三章　一實相印（大乘不共學）</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0054a10">第一節　諸法畢竟空</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0055a10">第二節　五法三自性</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0059a09">第三節　八識二無我</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0060a07">第四節　法界無障礙</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0061a09">第四章　約略指廣</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0062a07">結論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0062a08">第一節　解釋對於佛學之誤會</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0064a08">第二節　佛學的本質</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0066a08">第三節　佛學的方法</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0067a11">第四節　佛學的應用</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_001.xml#p0069a01">第五節　怎樣研究佛學</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0071a01">佛理要略</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0071a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0071a17">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0072a02">一　因緣生法——五乘共法——向上增進心</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0074a01">甲　破無因及邪因</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0075a04">乙　正因緣法</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0075a07">１　十二緣起法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0076a10">２　四緣生法</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0077a08">丙　近明六道業果——惡止善行</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0078a03">丁　推進三乘行果——捨染趣淨</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0078a09">二　三法印——三乘共法——出離流轉心</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0080a08">甲　諸行無常</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0081a07">乙　諸法無我</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0082a04">丙　涅槃寂靜</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0083a01">三　大乘法——普度成佛心</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0084a02">甲　一切法自性空義</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0084a10">乙　一切法唯識現義</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0085a07">丙　一切法大總持義</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_002.xml#p0087a01">四　結論</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0088a01">佛法導言</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0088a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0088a11">一　緒言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0089a03">二　小乘</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0093a06">三　大乘</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0100a05">四　小乘與大乘之關係</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0102a03">五　佛法與人世之關係</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0104a03">六　佛法與中國之關係</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_003.xml#p0107a07">七　中國佛教之整建與發揚</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0109a01">佛乘宗要論</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0109a04">目次</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0119a01">緒論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0119a07">第一章　佛法的系統觀</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0119a10">第一節　厭離世間的．超出世間的</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0120a06">一　世間之名義</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0121a09">二　世間之範圍</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0122a10">甲、普遍的世界眾生觀</cblink></li>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0124a10">乙、切近的人生宇宙觀</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0126a12">三　出世與厭世</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0128a02">第二節　隨順世間的．救護世間的</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0128a06">第三節　由超出世間而救護世間的</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0128a11">第四節　擇滅惡世以創造美善的世間</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0131a02">第五節　吾之佛法的全系統觀</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0131a05">一、實證一切法一心真如、達到形而上學目的</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0132a01">二、成就圓滿的人格及圓滿的法界</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0132a05">三、隨順無限的世界眾生、應化無盡利樂無盡</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_011.xml#p0327a01">佛法之分宗判教</cblink></li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0334a01">佛法大系</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0132a10">第二章　佛法的自利利他觀</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0334a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0334a07">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0335a08">一　人天乘</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0336a07">二　小乘法</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0337a09">三　大乘法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0135a03">第一節　唯佛法有真正的自利</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0135a11">第二節　純以利他成就自利的佛法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0136a04">第三節　為利他故先求自利的佛法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0136a08">第四節　不分先後自他等利的佛法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0136a11">第五節　唯佛法能真正的利他</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_013.xml#p0342a01">佛法一味論之十宗片面觀</cblink></li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0345a01">佛法悟入漸次</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0137a04">第三章　佛法應化現代人心之需要</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0345a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0345a08">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0346a01">一、明業果不斷故有情續生</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0351a09">二、明唯有根塵故人我本空</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0353a01">三、明諸法本空故唯識所變</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0353a08">四、明本非空有故入佛知見</cblink></li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0355a01">律禪密淨四行論</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0355a02">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0355a21">一　四門之統攝</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0137a08">第一節　佛法契理適機之原則</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0138a06">第二節　佛法隨眾生現行的原則</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0139a02">第三節　佛教須應時設化的需要</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0139a08">第四節　中國民族於佛法的需要</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0356a03">甲、戒律</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0356a11">乙、禪觀</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0357a07">丙、密咒</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0358a01">丁、淨土</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0140a01">一、意盛志銳者於佛法的需要</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0140a11">二、積迷習謬者於佛法的需要</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0141a04">三、五族和平於佛法的需要</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0358a10">二　四門之別類</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0142a02">第五節　現在人心於佛法的需要</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0358a11">甲、律禪與密淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0360a08">乙、禪密與律淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0361a02">丙、律密與禪淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0361a10">丁、律與禪密淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0362a03">戊、淨與律禪密</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0362a10">己、密與律禪淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0363a02">庚、禪與律密淨</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0363a08">三　四門之序次</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0363a09">甲、律禪密淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0364a05">乙、禪律密淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0365a08">丙、密律禪淨</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0366a01">丁、淨律禪密</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0142a05">一、甯息世界的大亂源於佛法的需要</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0143a04">二、釀造世界新文化於佛法的需要</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0144a10">三、滿足人心安慰人心於佛法的需要</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_016.xml#p0367a01">性釋</cblink></li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0372a01">諸法眾緣生唯識現</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0145a02">第四章　佛法可說不可說</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0372a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0372a23">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0373a02">一　諸法眾緣生</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0373a03">甲　名義</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0374a10">乙　不圓澈的諸法眾緣生義</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0375a04">丙　圓澈的諸法眾緣生義</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0375a08">1.諸法眾緣生故畢竟空</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0375a11">2.諸法畢竟空故眾緣生</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a02">3.諸法即空緣生即緣生空</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a07">二　諸法唯識現</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a08">甲　名義</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a12">「唯識」</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0377a04">「現」</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0377a12">乙　不顯了的諸法唯識現義</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0378a01">1.無明等十二有支緣起義</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0378a04">2.制心一處無事不辦義</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0378a06">3.依真如以迷悟而起義</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0379a01">4.如來藏覺不覺緣起義</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0379a04">5.真界或法身緣起義</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0379a10">丙　顯了的諸法唯識現義</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0380a03">三　諸法眾緣生唯識現與三性三無性</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0380a11">四　觀此義為境所起之行</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0381a03">五　依此境修行所證之果</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0145a07">第一節　佛法的法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0145a11">第二節　法性離言不可說</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0146a03">第三節　為令解行成果故巧施言說</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0146a07">第四節　轉法輪</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0147a03">第五節　佛乘的乘</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0382a01">萬有皆因緣所生</cblink>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0148a01">純正的佛法</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0148a05">第一章　純正佛法的分類</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0148a09">第二章　小乘</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0382a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0383a01">一　引言</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0149a01">第一節　小乘的宗要</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0149a04">第二節　了生死為因</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0383a07">甲、習俗的迷信非佛教</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0384a07">乙、佛教的消極非本質</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0385a08">丙、空與唯識等亦附加義</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0149a08">一　生為苦本</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0150a07">二　遍觀世間皆無常苦空無我不淨</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0153a01">甲、五蘊六大十二處十八界</cblink></li>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0159a03">乙、三界五趣九地</cblink></li>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0161a06">丙、器世間</cblink></li>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0161a10">丁、福業非福業不動業</cblink></li>
+							<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0162a02">戊、三世流轉生死相續</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0162a07">三　確知世間虛偽決志擇滅</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0386a02">二　析名</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0162a11">第三節　離貪愛為根本</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0386a05">甲、萬有</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0386a11">乙、因與緣</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0387a06">丙、生</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0163a05">一　觀苦本之所由起</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0163a09">二　十二有支</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0166a07">三　我及我所有法與五利使</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0168a12">四　俱生我愛與五鈍使</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0169a06">五　五欲</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a01">六　戒定慧三無漏學</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0387a11">三　立宗</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a06">第四節　滅盡為究竟</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0388a01">甲、各因引果之先後熏起續斷與唯識</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0388a10">乙、眾緣合成之違順消長泛要與皆空</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0389a09">丙、因緣生存之主伴攝入同異與圓中</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a09">一　滅盡妙離</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0170a12">二　辟支佛及四沙門果</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0171a09">三　有餘依涅槃</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0172a01">四　無餘依涅槃</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0390a10">四　破邪</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0172a06">第五節　宗本之四諦</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0391a02">甲、不平等因</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0391a09">乙、無因偶然</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a01">丙、偏因或緣</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0172a08">一　四諦</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0173a03">二　三十七菩提分</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a05">五　結論</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0174a03">第六節　小乘的內容及定義</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a08">甲、正明萬法因緣有</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a11">乙、盡除迷信成正信</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0393a02">丙、信行因果得圓成</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0174a06">一　小乘即聲聞獨覺</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0174a10">二　對大乘故名小乘</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0175a01">第七節　小乘與出世出家及人天善法</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0175a03">一　小乘祇為出世法</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0175a09">二　小乘有出家的必要</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0176a08">三　出家在家各有所宜</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0177a07">四　小乘兼有人天善法</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0394a01">諸法有無自性問題</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0178a04">第三章　大乘</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0394a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0394a09">一　略示</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0395a09">二　小乘的有無自性說</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0399a12">三　空宗的有無自性說</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0402a01">四　唯識宗的有無自性說</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0407a07">五　中國佛學的圓中自性說</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0178a06">第一節　大乘的宗要</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0178a09">第二節　菩提心為因</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0179a04">第三節　大慈悲為根本</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0180a01">第四節　方便為究竟</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0180a12">第五節　大乘的涅槃菩提法身</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0182a05">第六節　大乘教理行果的經論及宗派</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0183a09">第七節　大乘的教門派</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0183a12">一　三論宗</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0184a08">二　唯識宗</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0185a02">三　華嚴宗</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0185a10">四　天台宗</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0186a09">第八節　大乘的理門派</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0188a02">第九節　大乘的行門派</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0188a05">一　律宗</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0190a03">二　蓮宗　融通念佛宗　時宗</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0192a01">第十節　大乘的果門派</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0192a04">一　真言宗</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0193a01">二　淨土真宗</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0193a06">三　日蓮宗</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0194a01">第十一節　大乘的內容與定義</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0194a06">第十二節　大乘不拘在家出家</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0413a01">漢藏教理融會談</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0195a01">第四章　小乘與大乘之關係</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0413a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0413a22">一　發端</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0415a05">二　空有問題</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0415a06">甲　二諦上觀察空有宗</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0416a02">1.嘉祥四重天台七重賢首五重等</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0416a07">2.瑜伽唯識的四重二諦</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0423a04">乙　論法上觀察空有宗</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0423a05">1.有宗用科學邏輯立論</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0424a06">2.空宗龍樹等用辯證法破顯</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0425a08">3.空宗清辨派近於形式邏輯</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0426a11">丙　空有宗比觀</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0427a07">丁　漢藏應互學</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0428a06">三　顯密問題</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0428a07">甲　不取東台密判教取藏所分顯密</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0431a03">乙　性相為顯台賢禪淨等即等於密</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0432a10">丙　一切佛法之顯密觀</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a01">1.顯中顯</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a03">2.顯中密</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a06">3.密中顯</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a10">4.密中密</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0434a02">丁　重重顯密之勝劣觀</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0436a10">戊　台賢禪淨及各派密續之互學</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0437a03">四　結論</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0195a04">第一節　人天乘與小乘皆大乘方便</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0195a09">第二節　小乘是入大乘的正方便</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0196a04">第三節　小乘有不能通入大乘者</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0196a10">第四節　出家本宜以小乘為大乘方便</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0197a04">第五節　後代不宜用小乘</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0197a12">第六節　宏法者當善巧說法之秘要</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_021.xml#p0439a01">幾點佛法的要義</cblink></li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0444a01">新與融貫</cblink>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a01">應用的佛法</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a04">第一章　世間各教各學的批判</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0444a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0444a18">一　由本人意趣說起</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a07">第一節　略敘已經批判者</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0445a03">甲　非研究佛書之學者</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0445a09">乙　不為專承一宗之徒裔</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0447a07">丙　無求即時成佛之貪心</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0448a05">丁　為學菩薩發心修行者</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0199a09">一、純正哲學</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a03">二、應用哲學</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a05">三、天神教</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a07">四、進化論</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0449a08">二　佛教中心與中國佛教本位的新</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0200a09">第二節　略出今應批判者</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0201a01">第三節　近代科學與小乘學</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0203a03">第四節　現代哲學與大乘學</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0449a09">甲　新的意義</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0450a10">乙　佛教中心的新</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0451a09">丙　中國佛教本位的新</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0204a06">一、杜威派的實用證驗哲學</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0205a02">二、歐根的精神生活哲學</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0205a05">三、柏格森派的直覺哲學與羅素爾派的析觀哲學</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0453a03">三　宗乘融貫與文系融貫</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0206a02">第五節　現代的宗教迷謬</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0453a04">甲　融貫的由來</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0453a12">乙　宗乘融貫</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0454a09">丙　文系融貫</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0455a09">四　本院研究諸系的略明</cblink></li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0458a01">佛教的教史教法和今後的建設</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0458a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0459a01">一　全部教史的綱要</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0459a02">甲　佛法流變的原則</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0461a03">乙　印度佛教的三期</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0461a06">1.小乘興盛時期</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0462a01">2.大乘興盛時期</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0462a11">3.密咒興盛的時期</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0463a12">丙　世界佛教的三系</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0466a10">二　全部教法的綱要</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0466a11">甲　四藏</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0468a01">乙　三法</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0468a06">1.五乘共法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0469a06">2.三乘共法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0470a01">3.大乘不共法</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0470a03">大乘性相</cblink></li>
-								<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0470a07">大乘行果</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0471a08">三　今後佛學的建立</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0472a02">甲　研教</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0472a05">1.法物</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0473a01">2.經書</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0474a10">乙　究理</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0475a08">丙　修行</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0475a11">1.律儀行</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0476a04">2.禪觀行</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0477a03">3.真言行</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0477a07">4.淨土行</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0478a12">丁　證果</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0479a03">1.信果</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0479a08">2.戒果</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0480a02">3.定果</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0480a09">4.慧果</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0482a02">四　今後僧教育的建立</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0482a08">甲、律儀院</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0483a01">乙、普通教理院</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0483a06">丙、高等教理院</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0483a09">丁、參學處</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0484a04">五　今後教制的施設</cblink></li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0486a01">世界佛學苑之佛法系統觀</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0486a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0486a22">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0487a06">一　遺教之整治</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0488a02">甲、法物館</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0488a08">乙、圖書館</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0489a07">二　學理之研究</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0490a01">甲、錫蘭文系學院</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0490a07">乙、中國文系學院</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0490a11">丙、西藏文系學院</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0491a06">丁、歐美文系學院</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0491a11">三　道行之修習</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0492a03">甲、律儀林</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0492a06">乙、禪觀林</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0492a10">丙、密咒林</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0493a09">丁、淨土林</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0494a01">四　效果之成就</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0494a04">甲、信果</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0494a09">乙、戒果</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0495a02">丙、定果</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0495a05">丁、智果</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0206a09">一　鬼靈的迷謬</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0208a02">二　數命的迷謬</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0209a02">三　空定的迷謬</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0209a12">四　神仙的迷謬</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0497a01">世苑圖書館館員之修學方針</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0210a08">第二章　佛乘與人世的關係</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0497a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0497a14">一　修學的宗旨</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0498a03">二　全部佛法之鳥瞰</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0504a01">三　研究的方針</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0211a01">第一節　佛乘與法界一切眾生</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0211a06">第二節　在人間現證於佛乘之利益</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0212a04">第三節　佛乘與人天善法</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0504a12">甲、五三共法系</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0505a05">乙、小大律藏系</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0505a09">丙、法相唯識系</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0506a03">丁、般若中論系</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0506a08">戊、中國台賢禪淨系</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0507a07">己、印華日藏密法系</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0212a11">一　人乘善法</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0213a09">二　天乘善法</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0507a12">四　結論</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0214a15">第四節　人間聖賢須修證天乘善法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0215a05">第五節　世間善法須有出世善法為本</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0215a10">第六節　聖者之應化不可思議</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a01">我怎樣判攝一切佛法</cblink>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0216a04">第三章　佛教與中華民國的關係</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a11">前言</cblink></li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a13">一　前二期我對一切佛法的看法</cblink>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0216a08">第一節　佛教本超脫於國族的封蔽</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0217a03">第二節　佛教適應於國族的治化</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0217a09">第三節　救中華民國須有藉乎佛教</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0218a02">第四節　吾國問題即人世問題</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0218a07">第五節　宏揚佛教須有藉乎中國</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0219a04">第六節　佛教問題即人文問題</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0219a10">第四章　佛教流傳於人世的現在將來</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0220a02">第一節　佛教住持僧之整理</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0220a11">第二節　佛教正信會之建立</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0221a05">第三節　設施佛教的教育</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0221a09">第四節　施行佛教的大悲救世事業</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0222a03">第五節　佛教協會</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0222a07">第六節　將來的佛教徒眾</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a01">結論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a04">第一章　歸宿</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a06">第一節　信者於佛乘的歸宿</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0224a09">第二節　歸宿佛</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0225a09">第三節　歸宿佛法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0225a12">第四節　歸宿佛法僧</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0226a15">第二章　迴趣</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0227a03">第一節　覺者於法界的迴趣</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0227a07">第二節　迴趣一心真如</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0227a10">第三節　迴趣無上正覺</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_004.xml#p0228a02">第四節　迴趣法界有情</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0229a01">佛陀學綱</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0229a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0229a11">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0230a12">一　原理——現實主義（即法爾如是）</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0232a01">甲、現行實事</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0235a01">乙、現事實性</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0237a01">丙、現量實相</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0238a09">丁、現變實力</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0239a12">二　動機——平等主義（即大慈悲性）</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0245a07">三　辦法——進化主義（由人生而佛）</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0254a03">四　效果——自由主義（即無障礙義）</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0254a10">一、境智自由</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0255a06">二、業果自由</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_005.xml#p0255a11">三、完全自由</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0257a01">甚麼是佛學</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0257a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0257a12">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0258a08">一　佛學的本質</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0258a09">甲　覺者所知人生宇宙的實事真理</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0259a12">乙　覺者開示我們從人至佛的方法——戒定慧</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0260a11">二　佛學的適應</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0260a12">甲　佛學與宗教及科學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0263a03">乙　佛學與政治及社會</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0263a04">１、共和政治的人生觀</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0263a09">２、大同社會的宇宙觀</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_006.xml#p0264a01">三　怎樣研究佛學</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0269a01">佛學講要</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0269a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0269a20">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0270a10">一　佛學之特質</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0270a12">甲、自然之改造與順成</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0273a08">乙、真如之親證與應化</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0274a12">丙、理論之超越與施設</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0275a12">丁、定通之習得與銷融</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0277a03">戊、即空之有與即有之空——不常不斷中道</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0278a05">己、即悲之智與即智之悲——不苦不樂中道</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0279a11">二　佛學之全景</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0281a12">三　佛學之較量</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0282a05">甲、佛學之教與宗教</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0283a03">乙、佛學之理與哲學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0283a11">丙、佛教之色法不相應行法與物理學生理學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0284a03">丁、佛理之心心所法不相應行法與心理學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0284a06">戊、佛理之因明與論理學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0284a09">己、佛行之律與經世學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0285a02">庚、佛行之禪與衛生學</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_007.xml#p0285a09">辛、佛果之施設應化與文藝美術</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0287a01">佛法僧義廣論</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0287a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0287a09">一　敘意</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0288a09">二　佛觀</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0295a09">三　法觀</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0305a11">四　僧觀</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_008.xml#p0314a03">五　總結</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/TX/TX01/TX01n0001_009.xml#p0317a01">判攝</cblink>
+	<ol>
+		<li><cblink href="XML/TX/TX01/TX01n0001_009.xml#p0317a01">佛藏擇法眼圖</cblink></li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0318a01">佛學大系</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0318a02">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0318a10">一　三唯論</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0322a01">二　三唯論之含攝</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0322a02">甲　三唯論的各攝</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0323a19">乙　三唯論的互攝</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0324a05">三　三唯論之貫通</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0324a06">甲　三唯論與大乘宗</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_010.xml#p0325a01">乙　三唯論與哲學</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_011.xml#p0327a01">佛法之分宗判教</cblink></li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0334a01">佛法大系</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0334a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0334a07">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0335a08">一　人天乘</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0336a07">二　小乘法</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_012.xml#p0337a09">三　大乘法</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_013.xml#p0342a01">佛法一味論之十宗片面觀</cblink></li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0345a01">佛法悟入漸次</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0345a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0345a08">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0346a01">一、明業果不斷故有情續生</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0351a09">二、明唯有根塵故人我本空</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0353a01">三、明諸法本空故唯識所變</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_014.xml#p0353a08">四、明本非空有故入佛知見</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0355a01">律禪密淨四行論</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0355a02">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0355a21">一　四門之統攝</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0356a03">甲、戒律</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0356a11">乙、禪觀</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0357a07">丙、密咒</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0358a01">丁、淨土</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0358a10">二　四門之別類</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0358a11">甲、律禪與密淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0360a08">乙、禪密與律淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0361a02">丙、律密與禪淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0361a10">丁、律與禪密淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0362a03">戊、淨與律禪密</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0362a10">己、密與律禪淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0363a02">庚、禪與律密淨</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0363a08">三　四門之序次</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0363a09">甲、律禪密淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0364a05">乙、禪律密淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0365a08">丙、密律禪淨</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_015.xml#p0366a01">丁、淨律禪密</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_016.xml#p0367a01">性釋</cblink></li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0372a01">諸法眾緣生唯識現</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0372a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0372a23">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0373a02">一　諸法眾緣生</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0373a03">甲　名義</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0374a10">乙　不圓澈的諸法眾緣生義</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0375a04">丙　圓澈的諸法眾緣生義</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0375a08">１　諸法眾緣生故畢竟空</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0375a11">２　諸法畢竟空故眾緣生</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a02">３　諸法即空緣生即緣生空</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a07">二　諸法唯識現</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a08">甲　名義</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0376a12">「唯識」</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0377a04">「現」</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0377a12">乙　不顯了的諸法唯識現義</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0378a01">１　無明等十二有支緣起義</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0378a04">２　制心一處無事不辦義</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0378a06">３　依真如以迷悟而起義</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0379a01">４　如來藏覺不覺緣起義</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0379a04">５　真界或法身緣起義</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0379a10">丙　顯了的諸法唯識現義</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0380a03">三　諸法眾緣生唯識現與三性三無性</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0380a11">四　觀此義為境所起之行</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_017.xml#p0381a03">五　依此境修行所證之果</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0382a01">萬有皆因緣所生</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0382a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0383a01">一　引言</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0383a07">甲、習俗的迷信非佛教</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0384a07">乙、佛教的消極非本質</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0385a08">丙、空與唯識等亦附加義</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0386a02">二　析名</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0386a05">甲、萬有</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0386a11">乙、因與緣</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0387a06">丙、生</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0387a11">三　立宗</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0388a01">甲、各因引果之先後熏起續斷與唯識</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0388a10">乙、眾緣合成之違順消長泛要與皆空</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0389a09">丙、因緣生存之主伴攝入同異與圓中</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0390a10">四　破邪</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0391a02">甲、不平等因</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0391a09">乙、無因偶然</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a01">丙、偏因或緣</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a05">五　結論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a08">甲、正明萬法因緣有</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0392a11">乙、盡除迷信成正信</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_018.xml#p0393a02">丙、信行因果得圓成</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0394a01">諸法有無自性問題</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0394a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0394a09">一　略示</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0395a09">二　小乘的有無自性說</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0399a12">三　空宗的有無自性說</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0402a01">四　唯識宗的有無自性說</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_019.xml#p0407a07">五　中國佛學的圓中自性說</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0413a01">漢藏教理融會談</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0413a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0413a22">一　發端</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0415a05">二　空有問題</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0415a06">甲　二諦上觀察空有宗</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0416a02">１　嘉祥四重天台七重賢首五重等</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0416a07">２　瑜伽唯識的四重二諦</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0423a04">乙　論法上觀察空有宗</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0423a05">１　有宗用科學邏輯立論</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0424a06">２　空宗龍樹等用辯證法破顯</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0425a08">３　空宗清辨派近於形式邏輯</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0426a11">丙　空有宗比觀</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0427a07">丁　漢藏應互學</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0428a06">三　顯密問題</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0428a07">甲　不取東台密判教取藏所分顯密</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0431a03">乙　性相為顯台賢禪淨等即等於密</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0432a10">丙　一切佛法之顯密觀</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a01">１　顯中顯</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a03">２　顯中密</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a06">３　密中顯</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0433a10">４　密中密</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0434a02">丁　重重顯密之勝劣觀</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0436a10">戊　台賢禪淨及各派密續之互學</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_020.xml#p0437a03">四　結論</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_021.xml#p0439a01">幾點佛法的要義</cblink></li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0444a01">新與融貫</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0444a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0444a18">一　由本人意趣說起</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0445a03">甲　非研究佛書之學者</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0445a09">乙　不為專承一宗之徒裔</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0447a07">丙　無求即時成佛之貪心</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0448a05">丁　為學菩薩發心修行者</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0449a08">二　佛教中心與中國佛教本位的新</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0449a09">甲　新的意義</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0450a10">乙　佛教中心的新</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0451a09">丙　中國佛教本位的新</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0453a03">三　宗乘融貫與文系融貫</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0453a04">甲　融貫的由來</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0453a12">乙　宗乘融貫</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0454a09">丙　文系融貫</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_022.xml#p0455a09">四　本院研究諸系的略明</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0458a01">佛教的教史教法和今後的建設</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0458a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0459a01">一　全部教史的綱要</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0459a02">甲　佛法流變的原則</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0461a03">乙　印度佛教的三期</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0461a06">１　小乘興盛時期</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0462a01">２　大乘興盛時期</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0462a11">３　密咒興盛的時期</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0463a12">丙　世界佛教的三系</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0466a10">二　全部教法的綱要</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0466a11">甲　四藏</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0468a01">乙　三法</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0468a06">１　五乘共法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0469a06">２　三乘共法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0470a01">３　大乘不共法</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0510a01">甲　初期的略述</cblink></li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0511a04">乙　第二期的略述</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0470a03">大乘性相</cblink></li>
+						<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0470a07">大乘行果</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0513a02">二　第三期我對一切佛法的看法</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0514a02">甲　教之佛本及三期三系</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0514a10">第一、小行大隱時期</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0515a09">第二、大主小從時期</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0516a06">第三、大行小隱密主顯從時期</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0519a12">乙　理之實際及三級三宗</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0520a08">第一級五乘共法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0521a12">第二級三乘共法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0522a08">第三級大乘特法</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0523a02">一、法性空慧宗</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0523a07">二、法相唯識宗</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0524a04">三、法界圓覺宗</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0525a09">丙　行之當機及三依三趣</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0526a05">一、依聲聞行果趣發起大乘心的正法時期</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0527a04">二、依天乘行果趣獲得大乘果的像法時期</cblink></li>
-							<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0528a01">三、依人乘行果趣進修大乘行的末法時期</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0471a08">三　今後佛學的建立</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0472a02">甲　研教</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0472a05">１　法物</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0473a01">１　經書</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0474a10">乙　究理</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0475a08">丙　修行</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0475a11">１　律儀行</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0476a04">２　禪觀行</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0477a03">３　真言行</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0477a07">４　淨土行</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0478a12">丁　證果</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0479a03">１　信果</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0479a08">２　戒果</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0480a02">３　定果</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0480a09">４　慧果</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0482a02">四　今後僧教育的建立</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0482a08">甲、律儀院</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0483a01">乙、普通教理院</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0483a06">丙、高等教理院</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0483a09">丁、參學處</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_023.xml#p0484a04">五　今後教制的施設</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0486a01">世界佛學苑之佛法系統觀</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0486a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0486a22">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0487a06">一　遺教之整治</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0488a02">甲、法物館</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0488a08">乙、圖書館</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0489a07">二　學理之研究</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0490a01">甲、錫蘭文系學院</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0490a07">乙、中國文系學院</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0490a11">丙、西藏文系學院</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0491a06">丁、歐美文系學院</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0491a11">三　道行之修習</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0492a03">甲、律儀林</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0492a06">乙、禪觀林</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0492a10">丙、密咒林</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0493a09">丁、淨土林</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0494a01">四　效果之成就</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0494a04">甲、信果</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0494a09">乙、戒果</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0495a02">丙、定果</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_024.xml#p0495a05">丁、智果</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0497a01">世苑圖書館館員之修學方針</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0497a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0497a14">一　修學的宗旨</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0498a03">二　全部佛法之鳥瞰</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0504a01">三　研究的方針</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0504a12">甲、五三共法系</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0505a05">乙、小大律藏系</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0505a09">丙、法相唯識系</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0506a03">丁、般若中論系</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0506a08">戊、中國台賢禪淨系</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0507a07">己、印華日藏密法系</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_025.xml#p0507a12">四　結論</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a01">我怎樣判攝一切佛法</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a11">前言</cblink></li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0509a13">一　前二期我對一切佛法的看法</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0510a01">甲　初期的略述</cblink></li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0511a04">乙　第二期的略述</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0513a02">二　第三期我對一切佛法的看法</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0514a02">甲　教之佛本及三期三系</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0514a10">第一、小行大隱時期</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0515a09">第二、大主小從時期</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0516a06">第三、大行小隱密主顯從時期</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0519a12">乙　理之實際及三級三宗</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0520a08">第一級五乘共法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0521a12">第二級三乘共法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0522a08">第三級大乘特法</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0523a02">一、法性空慧宗</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0523a07">二、法相唯識宗</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0524a04">三、法界圓覺宗</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0525a09">丙　行之當機及三依三趣</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0526a05">一、依聲聞行果趣發起大乘心的正法時期</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0527a04">二、依天乘行果趣獲得大乘果的像法時期</cblink></li>
+					<li><cblink href="XML/TX/TX01/TX01n0001_026.xml#p0528a01">三、依人乘行果趣進修大乘行的末法時期</cblink></li>
 				</ol>
 				</li>
 			</ol>
@@ -922,604 +914,596 @@
 		</li>
 	</ol>
 	</li>
-	<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a01">法藏</cblink>
+	<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a01">源流</cblink>
 	<ol>
-		<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a01">第一編　佛法總學</cblink>
+		<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a01">中國佛學</cblink>
 		<ol>
-			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a01">源流</cblink>
+			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a04">目次</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0539a01">第一章　佛學大綱</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0549a04">第二章　中國佛學特質在禪</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a01">中國佛學</cblink>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0549a05">第一節　略敘因緣</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0531a04">目次</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0539a01">第一章　佛學大綱</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0549a04">第二章　中國佛學特質在禪</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0551a01">一、梵僧的化風</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0552a05">二、華士之時尚</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0554a02">第二節　依教修心禪</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0554a12">一　安般禪</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0556a01">二　五門禪</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0557a12">三　念佛禪</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0560a10">四　實相禪</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0565a02">第三節　悟心成佛禪</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0566a07">一　超教之頓悟</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0569a12">二　達摩與慧可</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0575a12">三　僧燦至弘忍</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0582a08">四　慧能之師資</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0588a04">第四節　超佛祖師禪</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0589a05">一　行思與懷讓</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0594a04">二　希遷與道一</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0597a10">三　百丈與道藥</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0607a05">四　雲龍與黃溈</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0617a06">第五節　越祖分燈禪</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0618a07">一　溈仰之邃密</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0622a09">二　臨濟之陡徹</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0630a08">三　洞曹之回互</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0636a03">四　雲門與法眼</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0646a11">第六節　宋元明清禪</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0649a02">一　公案之拈頌</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0652a05">二　話頭之疑參</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0654a08">三　禪淨之合修</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0656a02">四　宗教之和會</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0660a03">五　空默之觀照</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0662a02">六　語錄之纂研</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0666a04">七　坐跑之兼運</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0668a03">八　僧俗之常套</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0671a01">九　仙道之旁附</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0673a07">十　儒理之推演</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0679a01">第三章　禪觀行演為台賢教</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0679a02">第一節　緒言</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0679a04">一　賢首學與天台學名義之審定</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0680a02">二　台賢為中國特創之佛學</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0681a05">三　台賢皆以禪為源</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0682a03">第二節　實相禪布為天台教</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0682a04">一　天台學之根據</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0683a09">二　天台學之先河</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0684a08">三　天台學之成立</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0549a05">第一節　略敘因緣</cblink>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0684a09">甲　慧文慧思之創發</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0687a02">乙　智者之完成</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0551a01">一、梵僧的化風</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0552a05">二、華士之時尚</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0554a02">第二節　依教修心禪</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0554a12">一　安般禪</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0556a01">二　五門禪</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0557a12">三　念佛禪</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0560a10">四　實相禪</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0565a02">第三節　悟心成佛禪</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0566a07">一　超教之頓悟</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0569a12">二　達摩與慧可</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0575a12">三　僧燦至弘忍</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0582a08">四　慧能之師資</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0588a04">第四節　超佛祖師禪</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0589a05">一　行思與懷讓</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0594a04">二　希遷與道一</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0597a10">三　百丈與道藥</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0607a05">四　雲龍與黃溈</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0617a06">第五節　越祖分燈禪</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0618a07">一　溈仰之邃密</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0622a09">二　臨濟之陡徹</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0630a08">三　洞曹之回互</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0636a03">四　雲門與法眼</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0646a11">第六節　宋元明清禪</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0649a02">一　公案之拈頌</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0652a05">二　話頭之疑參</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0654a08">三　禪淨之合修</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0656a02">四　宗教之和會</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0660a03">五　空默之觀照</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0662a02">六　語錄之纂研</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0666a04">七　坐跑之兼運</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0668a03">八　僧俗之常套</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0671a01">九　仙道之旁附</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0673a07">十　儒理之推演</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0687a07">１　建立八教</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0689a02">２　五時</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0689a06">３　一念三千</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0690a06">４　六即</cblink></li>
 						</ol>
 						</li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0679a01">第三章　禪觀行演為台賢教</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0691a04">四　天台學之演變</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0679a02">第一節　緒言</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0679a04">一　賢首學與天台學名義之審定</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0680a02">二　台賢為中國特創之佛學</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0681a05">三　台賢皆以禪為源</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0682a03">第二節　實相禪布為天台教</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0682a04">一　天台學之根據</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0683a09">二　天台學之先河</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0684a08">三　天台學之成立</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0684a09">甲　慧文慧思之創發</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0687a02">乙　智者之完成</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0687a07">1.建立八教</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0689a02">2.五時</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0689a06">3.一念三千</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0690a06">4.六即</cblink></li>
-								</ol>
-								</li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0691a04">四　天台學之演變</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0691a10">甲　荊溪與法相華嚴及禪之對抗</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0692a08">乙　宋代山內山外與華嚴及禪之辨</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0693a03">丙　蕅益援禪法相入天台</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0693a11">五　天台學之述要</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0694a03">甲、一心三觀</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0694a06">乙、十法界</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0694a10">丙、六即</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0695a02">丁、性具</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0695a08">六　天台學與禪律淨密之關係</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0695a09">甲、天台學與禪宗的關係</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0696a03">乙、天台學與律宗之關係</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0696a07">丙、天台學與淨土宗之關係</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0696a10">丁、天台學與密宗之關係</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0697a03">第三節　如來禪演出賢首教</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0697a04">一　賢首學之根據</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0697a11">二　賢首學之先河</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0699a03">三　賢首學之成立</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0699a07">甲　杜順之法界三觀及十玄</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0700a07">乙　智儼之六相五教</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0700a12">丙　賢首之三時十宗</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0701a04">1.十宗</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0702a12">2.三時</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0703a09">3.十儀</cblink></li>
-								</ol>
-								</li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0703a13">四　賢首學之演變</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0704a01">甲　慧苑之刊定</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0704a08">乙　清涼之恢宏</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0705a04">丙　圭峰之斂削</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0705a08">丁　宋以來之衰落</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0705a11">戊　明清來與天台之對抗</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0706a03">五　賢首學之述要</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0706a05">甲、五重法界</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0706a11">乙、六相</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0707a02">丙、十玄</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0708a05">丁、性起</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0708a09">六　賢首學與禪律淨密之關係</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0709a02">第四節　賢首學與天台學之比較</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0709a05">一　五教與化法四教</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0710a10">二　十儀與化儀四教</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0711a13">三　三時與五時</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0712a13">四　同別圓與兼純圓</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0713a05">第五節　結論</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0691a10">甲　荊溪與法相華嚴及禪之對抗</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0692a08">乙　宋代山內山外與華嚴及禪之辨</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0693a03">丙　蕅益援禪法相入天台</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0715a01">第四章　禪台賢流歸淨土行</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0693a11">五　天台學之述要</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0715a09">第一節　依教律修禪之淨</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0716a02">一　無量佛剎</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0717a06">二　彌勒內院</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0718a07">三　彌陀淨土</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0720a09">第二節　尊教律別禪之淨</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0730a04">第三節　透禪融教律之淨</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0731a08">一　禪宗之淨</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0738a02">二　臺教之淨</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0743a09">三　賢教之淨</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0746a09">第四節　奪禪超教律之淨</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0747a03">一　汎源</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0748a05">二　切因</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0750a05">三　碩果</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0752a06">四　轉流</cblink></li>
-						</ol>
-						</li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0694a03">甲、一心三觀</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0694a06">乙、十法界</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0694a10">丙、六即</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0695a02">丁、性具</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a01">第五章　中國佛學之重建</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0695a08">六　天台學與禪律淨密之關係</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a02">第一節　略指所依</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a05">第二節　教史概觀</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a08">一、主流</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0755a07">二、旁流</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0756a04">三、表攝</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0756a11">第三節　博究融匯</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a03">一、安般禪五門禪之探攝</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a06">二、實相禪天臺教之探攝</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a08">三、如來禪賢首教之探攝</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a11">四、念佛禪淨土行之探攝</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0758a03">第四節　綜攝重建</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0695a09">甲、天台學與禪宗的關係</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0696a03">乙、天台學與律宗之關係</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0696a07">丙、天台學與淨土宗之關係</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0696a10">丁、天台學與密宗之關係</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0761a01">佛教各宗派源流</cblink>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0697a03">第三節　如來禪演出賢首教</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0761a04">目次</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0771a01">第一章　總論</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0697a04">一　賢首學之根據</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0697a11">二　賢首學之先河</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0699a03">三　賢首學之成立</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0771a02">第一節　佛說自證法一音無異</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0771a08">第二節　佛隨機說故有諸乘差別</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0772a04">第三節　佛示寂後結集諸藏差別</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0773a11">第四節　小乘大乘之差別</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a07">第二章　印度之小乘宗派源流</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a08">第一節　教義之分派</cblink>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0699a07">甲　杜順之法界三觀及十玄</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0700a07">乙　智儼之六相五教</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0700a12">丙　賢首之三時十宗</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a09">一　上座大眾之分派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a10">甲　分裂之遠緣</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0775a12">乙　分裂之主因</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0777a06">丙　分裂後之狀況</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0778a07">二　大眾部之一再分派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0778a08">甲　一說部、說出世部、雞胤部</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0779a06">乙　多聞部、說假部</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0780a01">丙　制多山部、西山住部、北山住部</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0780a11">三　上座部之一再分派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0780a12">甲　說一切有部、雪山部</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0781a11">乙　犢子部、法上部、賢冑部、正量部、密林山部</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0782a08">丙　化地部、法藏部</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0783a03">丁　飲光部、經量部</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0783a11">四　印度小乘二十部之統系</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0786a02">五　諸部法義之對勘</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0786a03">甲　宗輪論諸部本末宗義之同異</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0787a02">1.大眾部一說部說出世部雞胤部之本宗同義</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0787a03">（一）世尊觀</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0787a09">（二）菩薩觀</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0788a01">（三）智識觀</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0788a05">（四）聖果觀</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0788a11">（五）教法觀</cblink></li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0789a05">2.大眾部一說部說出世部雞胤部之末宗異義</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0789a10">3.大眾部所出餘部之宗義</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0790a07">4.說一切有部之宗義</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0790a08">（一）總法觀</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0790a12">（二）雜法觀</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0792a06">（三）教法觀</cblink></li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0792a10">5.襲本上座之雪山部宗義</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0793a04">6.犢子部等五部之宗義</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0794a11">7.化地部本末同異宗義</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0794a12">（一）化地部本宗同義</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0795a10">（二）化地部末宗異義</cblink></li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a02">8.法藏部飲光部經量部之宗義</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a03">（一）法藏部之宗義</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a06">（二）飲光部之宗義</cblink></li>
-										<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a09">（三）經量部之宗義</cblink></li>
-									</ol>
-									</li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a12">乙　依中土六宗說以總束二十部</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0797a01">1.我法俱有宗</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0797a06">2.法有我無宗</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0797a11">3.法無去來宗</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0798a02">4.現通假實宗</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0798a04">5.俗妄真實宗</cblink></li>
-									<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0798a06">6.諸法但名宗</cblink></li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0799a10">丙　統論二十部離合之勢</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0800a07">第二節　律學之分派</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0801a02">一　耶舍之矯正非法十事</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0802a08">二　傳聞由二部漸分至五百部</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0701a04">１　十宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0702a12">２　三時</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0703a09">３　十儀</cblink></li>
 						</ol>
 						</li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0803a03">第三章　東傳之小乘宗派源流</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0703a13">四　賢首學之演變</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0803a04">第一節　律學之東傳宗派</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0803a05">一　諸部律學之翻譯</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0804a08">二　四分律之宏傳</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0805a10">三　南山律宗與四分律</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0807a02">四　南山宗明小乘律之大綱</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0808a07">第二節　教義之東傳宗派</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0808a08">一　小乘經論之傳譯</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0809a05">二　成實宗之源流</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0809a06">甲　成實宗之原委</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0810a02">乙　成實論乘部之判屬</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0810a11">丙　成實論之法相</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0811a08">丁　成實論之宗義</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0812a04">三　俱舍宗之源流</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0812a05">甲　俱舍宗之名義</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0813a01">乙　俱舍論之緣起</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0814a09">丙　俱舍宗之傳衍</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0815a05">丁　俱舍論之文義</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0816a09">戊　俱舍論之法相</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0817a01">己　俱舍論之宗旨</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0817a09">庚　俱舍論之行位</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0704a01">甲　慧苑之刊定</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0704a08">乙　清涼之恢宏</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0705a04">丙　圭峰之斂削</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0705a08">丁　宋以來之衰落</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0705a11">戊　明清來與天台之對抗</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0818a04">第四章　各地小乘之宗派源流</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0819a04">第五章　印度之大乘宗派源流</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0706a03">五　賢首學之述要</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0819a05">第一節　傳教之大乘宗派</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0819a06">一　未分宗派之大乘</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0820a06">二　空宗有宗之大乘</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0821a03">三　顯教密教之大乘</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0822a01">第二節　傳證之大乘宗派</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0706a05">甲、五重法界</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0706a11">乙、六相</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0707a02">丙、十玄</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0708a05">丁、性起</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0822a09">第六章　中華之大乘宗派源流</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0708a09">六　賢首學與禪律淨密之關係</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0709a02">第四節　賢首學與天台學之比較</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0709a05">一　五教與化法四教</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0710a10">二　十儀與化儀四教</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0711a13">三　三時與五時</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0712a13">四　同別圓與兼純圓</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0713a05">第五節　結論</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0715a01">第四章　禪台賢流歸淨土行</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0715a09">第一節　依教律修禪之淨</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0716a02">一　無量佛剎</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0717a06">二　彌勒內院</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0718a07">三　彌陀淨土</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0720a09">第二節　尊教律別禪之淨</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0730a04">第三節　透禪融教律之淨</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0731a08">一　禪宗之淨</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0738a02">二　臺教之淨</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0743a09">三　賢教之淨</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0746a09">第四節　奪禪超教律之淨</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0747a03">一　汎源</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0748a05">二　切因</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0750a05">三　碩果</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0752a06">四　轉流</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a01">第五章　中國佛學之重建</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a02">第一節　略指所依</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a05">第二節　教史概觀</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0754a08">一、主流</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0755a07">二、旁流</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0756a04">三、表攝</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0756a11">第三節　博究融匯</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a03">一、安般禪五門禪之探攝</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a06">二、實相禪天臺教之探攝</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a08">三、如來禪賢首教之探攝</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0757a11">四、念佛禪淨土行之探攝</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_027.xml#p0758a03">第四節　綜攝重建</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0761a01">佛教各宗派源流</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0761a04">目次</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0771a01">第一章　總論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0771a02">第一節　佛說自證法一音無異</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0771a08">第二節　佛隨機說故有諸乘差別</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0772a04">第三節　佛示寂後結集諸藏差別</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0773a11">第四節　小乘大乘之差別</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a07">第二章　印度之小乘宗派源流</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a08">第一節　教義之分派</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a09">一　上座大眾之分派</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0822a10">第一節　大乘經論之傳譯</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0823a08">第二節　三論之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0823a09">一　此宗之名義</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0824a11">二　此宗之相用</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0827a03">三　此宗之判攝</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0827a09">四　此宗之行果</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0828a06">第三節　涅槃宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0828a07">一　宗名</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0829a01">二　宗史</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0829a11">三　宗旨</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0830a02">第四節　地論宗之源流</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0830a10">第五節　禪宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0830a11">一　印度之淵源</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0831a04">二　支那之流派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0831a05">甲　五祖及其旁支</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0831a11">乙　南宗下之二流五家七派</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0832a11">三　此宗之名義及宗旨</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0833a08">四　唐季來此宗獨盛行之故</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0834a09">第六節　攝論宗之源流</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0835a04">第七節　天台宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0835a05">一　此宗之得名</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0836a02">二　此宗之傳統</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0837a04">三　此宗之典籍</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0837a11">四　時教之判攝</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0838a12">五　觀法之安立</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0840a01">第八節　南山宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0840a02">一　明此宗為大乘宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0840a11">二　圓融戒行</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0841a09">三　融小歸大</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0842a09">四　通受別受</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0843a01">第九節　淨土宗之源流</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0844a01">第十節　唯識宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0844a02">一　名義之審定</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0844a12">二　經論之依據</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0845a09">三　師資之傳承</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0846a10">第十一節　華嚴宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0846a11">一　宗名</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0847a06">二　宗史</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0848a03">三　宗義</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0849a01">第十二節　真言宗之源流</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0849a02">一　略史</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0850a01">二　大義</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0850a07">第十三節　大乘各宗派合論</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0850a08">一　明廢立</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0851a03">二　明差別</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0855a02">三　明融貫</cblink></li>
-						</ol>
-						</li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0774a10">甲　分裂之遠緣</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0775a12">乙　分裂之主因</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0777a06">丙　分裂後之狀況</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0857a01">第七章　藏蒙滿之大乘宗派源流</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0778a07">二　大眾部之一再分派</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0857a02">第一節　真言宗之蓮華部</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0857a03">一　緣起</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0858a04">二　分派</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0858a05">甲　紅衣派</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0859a01">乙　黃衣派</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0859a07">第二節　毗摩羅密多羅之觀法</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0859a12">第三節　甘丹派之戒律</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0778a08">甲　一說部、說出世部、雞胤部</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0779a06">乙　多聞部、說假部</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0780a01">丙　制多山部、西山住部、北山住部</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0860a05">第八章　朝鮮之大乘宗派源流</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0861a07">第九章　日本之大乘宗派</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0780a11">三　上座部之一再分派</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0861a08">第一節　緣起</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0862a01">第二節　傳承於我國之宗派</cblink>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0780a12">甲　說一切有部、雪山部</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0781a11">乙　犢子部、法上部、賢冑部、正量部、密林山部</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0782a08">丙　化地部、法藏部</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0783a03">丁　飲光部、經量部</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0783a11">四　印度小乘二十部之統系</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0786a02">五　諸部法義之對勘</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0786a03">甲　宗輪論諸部本末宗義之同異</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0862a02">一　三論宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0862a07">二　唯識宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0863a02">三　華嚴宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0863a06">四　天台宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0863a12">五　真言宗</cblink>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0787a02">１　大眾部一說部說出世部雞胤部之本宗同義</cblink>
 							<ol>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0864a01">甲　傳承</cblink></li>
-								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0864a08">乙　展發</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0787a03">（一）世尊觀</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0787a09">（二）菩薩觀</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0788a01">（三）智識觀</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0788a05">（四）聖果觀</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0788a11">（五）教法觀</cblink></li>
 							</ol>
 							</li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0865a04">六　淨土宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0865a11">七　禪宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0789a05">２　大眾部一說部說出世部雞胤部之末宗異義</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0789a10">３　大眾部所出餘部之宗義</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0790a07">４　說一切有部之宗義</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0790a08">（一）總法觀</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0790a12">（二）雜法觀</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0792a06">（三）教法觀</cblink></li>
+							</ol>
+							</li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0792a10">５　襲本上座之雪山部宗義</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0793a04">６　犢子部等五部之宗義</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0794a11">７　化地部本末同異宗義</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0794a12">（一）化地部本宗同義</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0795a10">（二）化地部末宗異義</cblink></li>
+							</ol>
+							</li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a02">８　法藏部飲光部經量部之宗義</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a03">（一）法藏部之宗義</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a06">（二）飲光部之宗義</cblink></li>
+								<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a09">（三）經量部之宗義</cblink></li>
+							</ol>
+							</li>
 						</ol>
 						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0866a05">第三節　日本轉出之宗派</cblink>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0796a12">乙　依中土六宗說以總束二十部</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0866a06">一　由淨土轉出之融通宗真宗時宗</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0867a02">二　由天台宗轉出之日蓮宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0797a01">１　我法俱有宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0797a06">２　法有我無宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0797a11">３　法無去來宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0798a02">４　現通假實宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0798a04">５　俗妄真實宗</cblink></li>
+							<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0798a06">６　諸法但名宗</cblink></li>
 						</ol>
 						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0867a07">第四節　綜論</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0799a10">丙　統論二十部離合之勢</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0869a01">會昌以前中華佛教之三大系</cblink>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0800a07">第二節　律學之分派</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0869a02">前言</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0870a01">一、道安重行系</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0871a01">二、傳龍樹學系</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0871a05">三、傳世親學系</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0801a02">一　耶舍之矯正非法十事</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0802a08">二　傳聞由二部漸分至五百部</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_030.xml#p0875a01">論中國佛教史</cblink></li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0881a01">中國之佛教</cblink>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0803a03">第三章　東傳之小乘宗派源流</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0803a04">第一節　律學之東傳宗派</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0881a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0882a01">一　佛教原來之性質</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0882a02">甲　理論</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0882a04">1.因緣生果</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0883a01">2.本性空寂</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0883a07">3.名相假立</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0884a03">4.中道真實</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0884a09">乙　事行</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0884a12">1.神祕傾信</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0885a05">2.僧團律行</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0885a10">3.禪悟會通</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0887a04">4.學思論辯</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0887a09">丙　目標</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0887a12">1.人間進善</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0889a06">2.後世超生</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0890a03">3.涅槃解脫</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0891a07">4.法界圓明</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0891a11">二　中國佛教之變質</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0892a11">三　中國佛教之改進</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0803a05">一　諸部律學之翻譯</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0804a08">二　四分律之宏傳</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0805a10">三　南山律宗與四分律</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0807a02">四　南山宗明小乘律之大綱</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0894a01">佛教史略</cblink>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0808a07">第二節　教義之東傳宗派</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0894a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0894a20">一　緒言</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0895a08">二　創闢時代</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0808a08">一　小乘經論之傳譯</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0809a05">二　成實宗之源流</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0896a01">甲　佛之誕生與長成</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0897a01">乙　佛之出家與成道</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0898a08">丙　佛之說法與入寂</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0900a10">丁　創闢時代贊語</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0809a06">甲　成實宗之原委</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0810a02">乙　成實論乘部之判屬</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0810a11">丙　成實論之法相</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0811a08">丁　成實論之宗義</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0901a08">三　流傳時代</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0812a04">三　俱舍宗之源流</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0902a03">甲　印度時代</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0902a06">1.　印度小乘時代</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0903a09">2.　印度大乘時代</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0905a06">3.　印度時代贊語</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0906a10">乙　亞洲時代</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0907a07">1.　創開到全盛時代</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0910a04">2.　變通到衰落時代</cblink></li>
-							<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0913a12">3.　亞州時代贊語</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0914a07">丙　世界時代</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0812a05">甲　俱舍宗之名義</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0813a01">乙　俱舍論之緣起</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0814a09">丙　俱舍宗之傳衍</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0815a05">丁　俱舍論之文義</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0816a09">戊　俱舍論之法相</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0817a01">己　俱舍論之宗旨</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0817a09">庚　俱舍論之行位</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0917a01">亞歐美佛教之鳥瞰</cblink>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0818a04">第四章　各地小乘之宗派源流</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0819a04">第五章　印度之大乘宗派源流</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0819a05">第一節　傳教之大乘宗派</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0917a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0917a11">一　成立佛教之根本原理</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0918a11">二　佛教普及之範圍</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0919a06">三　亞洲佛教古代之概況</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0920a10">四　亞洲佛教在近代之大系</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0921a05">五　亞洲佛教在近代之傳播</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0923a09">六　歐洲佛教之近況</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0924a03">七　美洲佛教之近況</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0819a06">一　未分宗派之大乘</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0820a06">二　空宗有宗之大乘</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0821a03">三　顯教密教之大乘</cblink></li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0926a01">佛學源流及其新運動</cblink>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0822a01">第二節　傳證之大乘宗派</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0822a09">第六章　中華之大乘宗派源流</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0822a10">第一節　大乘經論之傳譯</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0823a08">第二節　三論之源流</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0926a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0926a13">一　佛學的發源</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0927a09">二　佛學在印度的流行</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0929a02">三　佛學在中國的流行</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0931a09">四　現今佛教在世界上三個中心</cblink></li>
-					<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0933a09">五　余之佛學新運動</cblink>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0823a09">一　此宗之名義</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0824a11">二　此宗之相用</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0827a03">三　此宗之判攝</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0827a09">四　此宗之行果</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0828a06">第三節　涅槃宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0828a07">一　宗名</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0829a01">二　宗史</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0829a11">三　宗旨</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0830a02">第四節　地論宗之源流</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0830a10">第五節　禪宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0830a11">一　印度之淵源</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0831a04">二　支那之流派</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0935a03">甲、人生的佛學</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0935a07">乙、科學的佛學</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0936a03">丙、實證的佛學</cblink></li>
-						<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0937a02">丁、世界的佛學</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0831a05">甲　五祖及其旁支</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0831a11">乙　南宗下之二流五家七派</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0832a11">三　此宗之名義及宗旨</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0833a08">四　唐季來此宗獨盛行之故</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0834a09">第六節　攝論宗之源流</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0835a04">第七節　天台宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0835a05">一　此宗之得名</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0836a02">二　此宗之傳統</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0837a04">三　此宗之典籍</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0837a11">四　時教之判攝</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0838a12">五　觀法之安立</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0840a01">第八節　南山宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0840a02">一　明此宗為大乘宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0840a11">二　圓融戒行</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0841a09">三　融小歸大</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0842a09">四　通受別受</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0843a01">第九節　淨土宗之源流</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0844a01">第十節　唯識宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0844a02">一　名義之審定</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0844a12">二　經論之依據</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0845a09">三　師資之傳承</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0846a10">第十一節　華嚴宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0846a11">一　宗名</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0847a06">二　宗史</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0848a03">三　宗義</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0849a01">第十二節　真言宗之源流</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0849a02">一　略史</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0850a01">二　大義</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0850a07">第十三節　大乘各宗派合論</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0850a08">一　明廢立</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0851a03">二　明差別</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0855a02">三　明融貫</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0857a01">第七章　藏蒙滿之大乘宗派源流</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0857a02">第一節　真言宗之蓮華部</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0857a03">一　緣起</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0858a04">二　分派</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0858a05">甲　紅衣派</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0859a01">乙　黃衣派</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0859a07">第二節　毗摩羅密多羅之觀法</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0859a12">第三節　甘丹派之戒律</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0860a05">第八章　朝鮮之大乘宗派源流</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0861a07">第九章　日本之大乘宗派</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0861a08">第一節　緣起</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0862a01">第二節　傳承於我國之宗派</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0862a02">一　三論宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0862a07">二　唯識宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0863a02">三　華嚴宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0863a06">四　天台宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0863a12">五　真言宗</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0864a01">甲　傳承</cblink></li>
+						<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0864a08">乙　展發</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0865a04">六　淨土宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0865a11">七　禪宗</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0866a05">第三節　日本轉出之宗派</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0866a06">一　由淨土轉出之融通宗真宗時宗</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0867a02">二　由天台宗轉出之日蓮宗</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_028.xml#p0867a07">第四節　綜論</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0869a01">會昌以前中華佛教之三大系</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0869a02">前言</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0870a01">一、道安重行系</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0871a01">二、傳龍樹學系</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_029.xml#p0871a05">三、傳世親學系</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_030.xml#p0875a01">論中國佛教史</cblink></li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0881a01">中國之佛教</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0881a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0882a01">一　佛教原來之性質</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0882a02">甲　理論</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0882a04">１　因緣生果</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0883a01">２　本性空寂</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0883a07">３　名相假立</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0884a03">４　中道真實</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0884a09">乙　事行</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0884a12">１　神祕傾信</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0885a05">２　僧團律行</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0885a10">３　禪悟會通</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0887a04">４　學思論辯</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0887a09">丙　目標</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0887a12">１　人間進善</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0889a06">２　後世超生</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0890a03">３　涅槃解脫</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0891a07">４　法界圓明</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0891a11">二　中國佛教之變質</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_031.xml#p0892a11">三　中國佛教之改進</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0894a01">佛教史略</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0894a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0894a20">一　緒言</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0895a08">二　創闢時代</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0896a01">甲　佛之誕生與長成</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0897a01">乙　佛之出家與成道</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0898a08">丙　佛之說法與入寂</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0900a10">丁　創闢時代贊語</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0901a08">三　流傳時代</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0902a03">甲　印度時代</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0902a06">１　印度小乘時代</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0903a09">２　印度大乘時代</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0905a06">３　印度時代贊語</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0906a10">乙　亞洲時代</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0907a07">１　創開到全盛時代</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0910a04">２　變通到衰落時代</cblink></li>
+					<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0913a12">３　亞州時代贊語</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_032.xml#p0914a07">丙　世界時代</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0917a01">亞歐美佛教之鳥瞰</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0917a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0917a11">一　成立佛教之根本原理</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0918a11">二　佛教普及之範圍</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0919a06">三　亞洲佛教古代之概況</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0920a10">四　亞洲佛教在近代之大系</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0921a05">五　亞洲佛教在近代之傳播</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0923a09">六　歐洲佛教之近況</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_033.xml#p0924a03">七　美洲佛教之近況</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0926a01">佛學源流及其新運動</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0926a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0926a13">一　佛學的發源</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0927a09">二　佛學在印度的流行</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0929a02">三　佛學在中國的流行</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0931a09">四　現今佛教在世界上三個中心</cblink></li>
+			<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0933a09">五　余之佛學新運動</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0935a03">甲、人生的佛學</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0935a07">乙、科學的佛學</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0936a03">丙、實證的佛學</cblink></li>
+				<li><cblink href="XML/TX/TX02/TX02n0001_034.xml#p0937a02">丁、世界的佛學</cblink></li>
 			</ol>
 			</li>
 		</ol>

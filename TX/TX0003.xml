@@ -8,447 +8,439 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a01">法藏</cblink>
+	<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a01">教釋</cblink>
 	<ol>
-		<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a01">第三編　三乘共學</cblink>
+		<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a01">四十二章經講錄</cblink>
 		<ol>
-			<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a01">教釋</cblink>
+			<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a03">科分</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb002a21">懸論</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a01">四十二章經講錄</cblink>
+				<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb002a22">一　明勝義</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb006a12">二　釋經題</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb007a04">釋經</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb007a05">甲一　總起分</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb011a09">甲二　正說分</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb001a03">科分</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb002a21">懸論</cblink>
+					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb011a10">乙一　三乘共教行果</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb002a22">一　明勝義</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb006a12">二　釋經題</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb011a11">丙一　證出世果</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb017a02">丙二　修出家行</cblink></li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb007a04">釋經</cblink>
+					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb022a09">乙二　五乘善惡通義</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb025a05">乙三　大乘不共勝行</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb007a05">甲一　總起分</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb011a09">甲二　正說分</cblink>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb025a06">丙一　立信願</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb028a12">丙二　修六度</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb011a10">乙一　三乘共教行果</cblink>
+							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb029a01">丁一　布施度</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb031a08">丁二　持戒度</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb035a02">丁三　忍辱度</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb036a07">丁四　禪定度</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb040a07">丁五　般若度</cblink>
 							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb011a11">丙一　證出世果</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb017a02">丙二　修出家行</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb022a09">乙二　五乘善惡通義</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb025a05">乙三　大乘不共勝行</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb025a06">丙一　立信願</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb028a12">丙二　修六度</cblink>
+								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb040a08">戊一　根本智</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb041a11">戊二　後得智</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb047a10">戊三　加行智</cblink>
 								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb029a01">丁一　布施度</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb031a08">丁二　持戒度</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb035a02">丁三　忍辱度</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb036a07">丁四　禪定度</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb040a07">丁五　般若度</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb040a08">戊一　根本智</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb041a11">戊二　後得智</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb047a10">戊三　加行智</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb047a11">己一　無常即常觀</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb051a07">己二　無我如幻觀</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb053a02">己三　通觀五欲</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb053a12">己四　別訶色欲</cblink></li>
-										</ol>
-										</li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb057a02">丁六　精進度</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb057a03">戊一　披甲精進</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb057a04">己一　披甲精進行</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb062a04">己二　披甲精進相</cblink></li>
-										</ol>
-										</li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb063a02">戊二　攝善精進</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb065a12">戊三　利樂精進</cblink></li>
-									</ol>
-									</li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb047a11">己一　無常即常觀</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb051a07">己二　無我如幻觀</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb053a02">己三　通觀五欲</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb053a12">己四　別訶色欲</cblink></li>
 								</ol>
 								</li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb067a02">丙三　明急戒乘</cblink></li>
 							</ol>
 							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb068a05">乙四　信教解理修行</cblink>
+							<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb057a02">丁六　精進度</cblink>
 							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb068a06">丙一　信教</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb069a07">丙二　解理</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb070a08">丙三　修行</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb057a03">戊一　披甲精進</cblink>
+								<ol>
+									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb057a04">己一　披甲精進行</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb062a04">己二　披甲精進相</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb063a02">戊二　攝善精進</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb065a12">戊三　利樂精進</cblink></li>
 							</ol>
 							</li>
 						</ol>
 						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb071a09">甲三　統結分</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb067a02">丙三　明急戒乘</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb068a05">乙四　信教解理修行</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb068a06">丙一　信教</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb069a07">丙二　解理</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb070a08">丙三　修行</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb075a01">佛說八大人覺經講記</cblink>
+				<li><cblink href="XML/TX/TX03/TX03n0003_001.xml#pb071a09">甲三　統結分</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb075a01">佛說八大人覺經講記</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb075a03">科分</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb076a07">懸論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb076a08">一　經論的詮釋</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb080a09">二　翻譯人的考證</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb081a02">釋經</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb081a03">甲一　緣起分</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb082a02">甲二　正說分</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb075a03">科分</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb076a07">懸論</cblink>
+					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb082a03">乙一　自利分</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb076a08">一　經論的詮釋</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb080a09">二　翻譯人的考證</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb082a04">丙一　正修四念住</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb085a11">丙二　別觀愛取緣</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb086a10">丁一　覺貪愛為苦</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb087a07">丁二　覺追求增罪</cblink></li>
+						</ol>
+						</li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb081a02">釋經</cblink>
+					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb088a09">乙二　二利行</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb081a03">甲一　緣起分</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb082a02">甲二　正說分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb082a03">乙一　自利分</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb082a04">丙一　正修四念住</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb085a11">丙二　別觀愛取緣</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb086a10">丁一　覺貪愛為苦</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb087a07">丁二　覺追求增罪</cblink></li>
-								</ol>
-								</li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb088a09">乙二　二利行</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb088a10">丙一　精進度懈怠</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb090a04">丙二　智慧度愚癡</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb091a07">乙三　利他行</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb091a08">丙一　等怨親而施慈</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb092a08">丙二　涉塵俗而不染</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb093a08">丙三　代受苦而普濟</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb095a10">甲三　流通分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb095a11">乙一　結成二利</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb096a11">乙二　勸誦八事</cblink></li>
-						</ol>
-						</li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb088a10">丙一　精進度懈怠</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb090a04">丙二　智慧度愚癡</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb091a07">乙三　利他行</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb091a08">丙一　等怨親而施慈</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb092a08">丙二　涉塵俗而不染</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb093a08">丙三　代受苦而普濟</cblink></li>
 					</ol>
 					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb098a01">佛遺教經講要</cblink>
+				<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb095a10">甲三　流通分</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb098a03">科分</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb100a01">懸論</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb100a02">一　釋經題</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb102a07">二　明譯史</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb103a05">釋經</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb103a06">甲一　敘分——六種成就</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a05">甲二　正宗分——二重法要</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a06">乙一　共法要</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a07">丙一　對治邪業</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a08">丁一　根本淨</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb107a10">丁二　方便淨</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb109a08">丁三　明戒德</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a01">丁四　顯戒益</cblink></li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a07">丙二　對治妄苦</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a08">丁一　根欲放逸苦</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a09">戊一　根放逸苦</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb111a11">戊二　欲放逸苦</cblink></li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb113a07">丁二　多求飲食苦</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb114a06">丁三　懈怠睡眠苦</cblink></li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb115a11">丙三　對治煩惱</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb115a12">丁一　對治瞋恚</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb117a09">丁二　對治憍慢</cblink></li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb118a10">丁三　對治諂曲</cblink></li>
-								</ol>
-								</li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb119a07">乙二　不共法要</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb119a08">丙一　少欲</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb120a10">丙二　知足</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb121a08">丙三　遠離</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb122a09">丙四　精進</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb123a04">丙五　不忘念</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb124a01">丙六　禪定</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb124a09">丙七　智慧</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb125a08">丙八　不戲論</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb126a05">甲三　流通分——四番流通</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb126a06">乙一　勤修流通</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb127a06">乙二　證決流通</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb129a01">乙三　斷疑流通</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb129a02">丙一　顯餘疑</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb129a09">丙二　斷餘疑</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb130a11">丙三　重勸修</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb131a04">乙四　囑付流通</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb132a01">佛說大乘稻稈經講記</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb132a03">科分</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb134a22">經題</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb138a01">釋經</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb138a06">甲一　序分</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb141a02">甲二　發起分</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb142a06">甲三　所知事分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb142a07">乙一　標舉徵起</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb144a11">乙二　依問解釋</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb144a12">丙一　流轉門</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb148a01">丙二　還滅門</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb149a02">甲四　所知性分</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb150a03">甲五　所知果分</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb151a04">甲六　云何所知分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb151a05">乙一　勝義諦門</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb151a06">丙一　觀因緣</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb152a10">丙二　觀法</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb153a03">丙三　觀佛</cblink></li>
-							</ol>
-							</li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb153a08">乙二　世俗諦門</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb153a09">丙一　從有因緣所生門</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb154a07">丙二　從無常因所生門</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb154a11">丙三　從無我因所生門</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb154a12">丁一　外因緣</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb155a01">戊一　因相應</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb155a02">己一　從能成因所生門</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb155a12">己二　從無作者因所生門</cblink></li>
-										</ol>
-										</li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb156a09">戊二　緣相應</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb156a10">己一　從能成緣所生門</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb157a10">己二　從無作者緣所生門</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb158a12">己三　遮惡見</cblink></li>
-										</ol>
-										</li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb160a01">丁二　內因緣</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb160a02">戊一　因相應</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb160a03">己一　能成因</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb161a02">己二　無作者</cblink></li>
-										</ol>
-										</li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb161a09">戊二　緣相應</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb161a10">己一　明種種緣</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb162a04">己二　能成緣</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb163a09">己三　無作者</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb164a09">己四　辨體相</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb165a12">己五　釋名義</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb166a06">己六　明相續</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb167a07">己七　離二邊</cblink></li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb168a05">己八　明束因</cblink>
-											<ol>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb168a06">庚一　標</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb168a12">庚二　列數</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb169a03">庚三　作用</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb169a07">庚四　解釋</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb169a12">庚五　無作者</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb170a04">庚六　緣無作</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb170a09">庚七　果無作</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb171a02">庚八　事證明</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb171a08">庚九　多業不一時受</cblink>
-												<ol>
-													<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb171a09">辛一　現業</cblink></li>
-													<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb174a01">辛二　生業</cblink></li>
-													<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb174a07">辛三　後業</cblink></li>
-													<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb175a02">辛四　不定業</cblink></li>
-												</ol>
-												</li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb175a09">庚十　遮惡見</cblink></li>
-											</ol>
-											</li>
-										</ol>
-										</li>
-									</ol>
-									</li>
-								</ol>
-								</li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb176a12">甲七　經之所要分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb177a01">乙一　除三世迷</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb178a03">乙二　捨諸見</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb179a07">乙三　明果利</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb180a06">乙四　結信受</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb182a01">佛說彌勒下生成佛經講要</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb182a03">科分</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb183a16">懸論</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb183a17">一　釋名題</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb183a18">甲　釋經題</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb187a12">乙　釋譯題</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb188a10">二　明大意</cblink></li>
-					</ol>
-					</li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb189a10">釋經</cblink>
-					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb189a11">甲一　證信發起分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb190a01">乙一　證信序</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb191a05">乙二　發起序</cblink></li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb192a05">甲二　伽陀請說分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb192a06">乙一　偈請</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a03">乙二　偈說</cblink>
-							<ol>
-								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a04">丙一　誡許</cblink></li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a08">丙二　正說</cblink>
-								<ol>
-									<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a09">丁一　依正莊嚴</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a10">戊一　國界莊嚴</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb197a02">戊二　國主莊嚴</cblink></li>
-									</ol>
-									</li>
-									<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb199a04">丁二　佛法興化</cblink>
-									<ol>
-										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb199a05">戊一　降世示生</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb202a02">戊二　出家成佛</cblink></li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb204a03">戊三　說法度眾</cblink>
-										<ol>
-											<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb204a04">己一　聞法得果</cblink>
-											<ol>
-												<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb204a05">庚一　初聞法出家</cblink></li>
-												<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb205a09">庚二　修行得果</cblink></li>
-											</ol>
-											</li>
-											<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb209a05">己二　率眾普化</cblink></li>
-										</ol>
-										</li>
-										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb212a03">戊四　化滿法住</cblink></li>
-									</ol>
-									</li>
-								</ol>
-								</li>
-								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb212a12">丙三　結勸</cblink></li>
-							</ol>
-							</li>
-						</ol>
-						</li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb213a07">甲三　利益信奉分</cblink>
-						<ol>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb213a08">乙一　聞法利益</cblink></li>
-							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb214a07">乙二　結眾奉信</cblink></li>
-						</ol>
-						</li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_006.xml#pb216a01">佛說彌勒大成佛經開題</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_006.xml#pb216a03">一、佛法大綱</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_006.xml#pb218a01">二、泛談淨土</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb095a11">乙一　結成二利</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_002.xml#pb096a11">乙二　勸誦八事</cblink></li>
 				</ol>
 				</li>
 			</ol>
 			</li>
-			<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a01">義繹</cblink>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb098a01">佛遺教經講要</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb098a03">科分</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb100a01">懸論</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a01">成實論大意</cblink>
+				<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb100a02">一　釋經題</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb102a07">二　明譯史</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb103a05">釋經</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb103a06">甲一　敘分——六種成就</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a05">甲二　正宗分——二重法要</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a12">序論</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb225a05">本論</cblink>
+					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a06">乙一　共法要</cblink>
 					<ol>
-						<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb225a06">一　十二偈與發聚</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb230a02">二　苦諦聚</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb234a01">三　集諦聚</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb236a12">四　滅諦聚</cblink></li>
-						<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb238a05">五　道諦聚</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a07">丙一　對治邪業</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb106a08">丁一　根本淨</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb107a10">丁二　方便淨</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb109a08">丁三　明戒德</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a01">丁四　顯戒益</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a07">丙二　對治妄苦</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a08">丁一　根欲放逸苦</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb110a09">戊一　根放逸苦</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb111a11">戊二　欲放逸苦</cblink></li>
+							</ol>
+							</li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb113a07">丁二　多求飲食苦</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb114a06">丁三　懈怠睡眠苦</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb115a11">丙三　對治煩惱</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb115a12">丁一　對治瞋恚</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb117a09">丁二　對治憍慢</cblink></li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb118a10">丁三　對治諂曲</cblink></li>
+						</ol>
+						</li>
 					</ol>
 					</li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb241a06">結論</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb119a07">乙二　不共法要</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb119a08">丙一　少欲</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb120a10">丙二　知足</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb121a08">丙三　遠離</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb122a09">丙四　精進</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb123a04">丙五　不忘念</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb124a01">丙六　禪定</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb124a09">丙七　智慧</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb125a08">丙八　不戲論</cblink></li>
+					</ol>
+					</li>
 				</ol>
 				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_008.xml#pb244a01">小乘佛學概略之科目</cblink></li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_009.xml#pb251a01">阿蘭那行與養成僧寶</cblink></li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb254a01">佛學即慧學</cblink>
+				<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb126a05">甲三　流通分——四番流通</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb254a03">綱要</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb254a10">一　佛學的發生</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb256a06">二　由聞所成慧以成信</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb258a02">三　依思所成慧而成戒</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb260a03">四　定心相應的修所成慧</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb262a05">五　三慧增上引發真無漏慧</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb263a08">六　結成佛學即慧學</cblink></li>
-				</ol>
-				</li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_011.xml#pb265a01">從信心上修戒定慧學</cblink></li>
-				<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb269a01">怎樣赴龍華三會</cblink>
-				<ol>
-					<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb269a03">前言</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb269a10">一　什麼是龍華三會</cblink></li>
-					<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb272a07">二　怎樣赴龍華三會</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb126a06">乙一　勤修流通</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb127a06">乙二　證決流通</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb129a01">乙三　斷疑流通</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb129a02">丙一　顯餘疑</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb129a09">丙二　斷餘疑</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb130a11">丙三　重勸修</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_003.xml#pb131a04">乙四　囑付流通</cblink></li>
 				</ol>
 				</li>
 			</ol>
 			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb132a01">佛說大乘稻稈經講記</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb132a03">科分</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb134a22">經題</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb138a01">釋經</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb138a06">甲一　序分</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb141a02">甲二　發起分</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb142a06">甲三　所知事分</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb142a07">乙一　標舉徵起</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb144a11">乙二　依問解釋</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb144a12">丙一　流轉門</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb148a01">丙二　還滅門</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb149a02">甲四　所知性分</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb150a03">甲五　所知果分</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb151a04">甲六　云何所知分</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb151a05">乙一　勝義諦門</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb151a06">丙一　觀因緣</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb152a10">丙二　觀法</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb153a03">丙三　觀佛</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb153a08">乙二　世俗諦門</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb153a09">丙一　從有因緣所生門</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb154a07">丙二　從無常因所生門</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb154a11">丙三　從無我因所生門</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb154a12">丁一　外因緣</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb155a01">戊一　因相應</cblink>
+								<ol>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb155a02">己一　從能成因所生門</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb155a12">己二　從無作者因所生門</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb156a09">戊二　緣相應</cblink>
+								<ol>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb156a10">己一　從能成緣所生門</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb157a10">己二　從無作者緣所生門</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb158a12">己三　遮惡見</cblink></li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb160a01">丁二　內因緣</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb160a02">戊一　因相應</cblink>
+								<ol>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb160a03">己一　能成因</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb161a02">己二　無作者</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb161a09">戊二　緣相應</cblink>
+								<ol>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb161a10">己一　明種種緣</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb162a04">己二　能成緣</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb163a09">己三　無作者</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb164a09">己四　辨體相</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb165a12">己五　釋名義</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb166a06">己六　明相續</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb167a07">己七　離二邊</cblink></li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb168a05">己八　明束因</cblink>
+									<ol>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb168a06">庚一　標</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb168a12">庚二　列數</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb169a03">庚三　作用</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb169a07">庚四　解釋</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb169a12">庚五　無作者</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb170a04">庚六　緣無作</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb170a09">庚七　果無作</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb171a02">庚八　事證明</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb171a08">庚九　多業不一時受</cblink>
+										<ol>
+											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb171a09">辛一　現業</cblink></li>
+											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb174a01">辛二　生業</cblink></li>
+											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb174a07">辛三　後業</cblink></li>
+											<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb175a02">辛四　不定業</cblink></li>
+										</ol>
+										</li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb175a09">庚十　遮惡見</cblink></li>
+									</ol>
+									</li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb176a12">甲七　經之所要分</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb177a01">乙一　除三世迷</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb178a03">乙二　捨諸見</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb179a07">乙三　明果利</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_004.xml#pb180a06">乙四　結信受</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb182a01">佛說彌勒下生成佛經講要</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb182a03">科分</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb183a16">懸論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb183a17">一　釋名題</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb183a18">甲　釋經題</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb187a12">乙　釋譯題</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb188a10">二　明大意</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb189a10">釋經</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb189a11">甲一　證信發起分</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb190a01">乙一　證信序</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb191a05">乙二　發起序</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb192a05">甲二　伽陀請說分</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb192a06">乙一　偈請</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a03">乙二　偈說</cblink>
+					<ol>
+						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a04">丙一　誡許</cblink></li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a08">丙二　正說</cblink>
+						<ol>
+							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a09">丁一　依正莊嚴</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb193a10">戊一　國界莊嚴</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb197a02">戊二　國主莊嚴</cblink></li>
+							</ol>
+							</li>
+							<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb199a04">丁二　佛法興化</cblink>
+							<ol>
+								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb199a05">戊一　降世示生</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb202a02">戊二　出家成佛</cblink></li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb204a03">戊三　說法度眾</cblink>
+								<ol>
+									<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb204a04">己一　聞法得果</cblink>
+									<ol>
+										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb204a05">庚一　初聞法出家</cblink></li>
+										<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb205a09">庚二　修行得果</cblink></li>
+									</ol>
+									</li>
+									<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb209a05">己二　率眾普化</cblink></li>
+								</ol>
+								</li>
+								<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb212a03">戊四　化滿法住</cblink></li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb212a12">丙三　結勸</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb213a07">甲三　利益信奉分</cblink>
+				<ol>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb213a08">乙一　聞法利益</cblink></li>
+					<li><cblink href="XML/TX/TX03/TX03n0003_005.xml#pb214a07">乙二　結眾奉信</cblink></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_006.xml#pb216a01">佛說彌勒大成佛經開題</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_006.xml#pb216a03">一、佛法大綱</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_006.xml#pb218a01">二、泛談淨土</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a01">義繹</cblink>
+	<ol>
+		<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a01">成實論大意</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb221a12">序論</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb225a05">本論</cblink>
+			<ol>
+				<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb225a06">一　十二偈與發聚</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb230a02">二　苦諦聚</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb234a01">三　集諦聚</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb236a12">四　滅諦聚</cblink></li>
+				<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb238a05">五　道諦聚</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_007.xml#pb241a06">結論</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_008.xml#pb244a01">小乘佛學概略之科目</cblink></li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_009.xml#pb251a01">阿蘭那行與養成僧寶</cblink></li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb254a01">佛學即慧學</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb254a03">綱要</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb254a10">一　佛學的發生</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb256a06">二　由聞所成慧以成信</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb258a02">三　依思所成慧而成戒</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb260a03">四　定心相應的修所成慧</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb262a05">五　三慧增上引發真無漏慧</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_010.xml#pb263a08">六　結成佛學即慧學</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_011.xml#pb265a01">從信心上修戒定慧學</cblink></li>
+		<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb269a01">怎樣赴龍華三會</cblink>
+		<ol>
+			<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb269a03">前言</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb269a10">一　什麼是龍華三會</cblink></li>
+			<li><cblink href="XML/TX/TX03/TX03n0003_012.xml#pb272a07">二　怎樣赴龍華三會</cblink></li>
 		</ol>
 		</li>
 	</ol>
