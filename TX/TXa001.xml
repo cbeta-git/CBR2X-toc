@@ -8,22 +8,28 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/TX/TX00/TX00na001_001.xml#pa001a01">編纂說明</cblink>
+	<li><cblink href="XML/TX/TX00/TX00na001_001.xml#pa001a01">編印緣起</cblink></li>
+	<li><cblink href="XML/TX/TX00/TX00na001_001.xml#pb001a01">編纂凡例</cblink></li>
+	<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0139a01">編纂人員名錄</cblink></li>
+	<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0140a01">編纂始末略紀</cblink></li>
+	<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0156a01">完成出版簡述</cblink>
 	<ol>
-		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#pa001a01">編印緣起</cblink></li>
-		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#pb001a01">編纂凡例</cblink></li>
-		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0139a01">編纂人員名錄</cblink></li>
-		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0140a01">編纂始末略紀</cblink></li>
-		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0156a01">完成出版簡述</cblink>
-		<ol>
-			<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0156a03">全書於今八月完成</cblink></li>
-			<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0157a02">編纂全書簡要經過</cblink></li>
-			<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0158a02">原稿由滬達運香港</cblink></li>
-			<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0159a06">略述校印經費來源</cblink></li>
-			<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0161a12">大陸不准銷行全書</cblink></li>
-			<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0163a11">只要大師精神長存</cblink></li>
-		</ol>
-		</li>
+		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0156a03">全書於今八月完成</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0157a02">編纂全書簡要經過</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0158a02">原稿由滬達運香港</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0159a06">略述校印經費來源</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0161a12">大陸不准銷行全書</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_001.xml#p0163a11">只要大師精神長存</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0166a01">光碟版序</cblink>
+	<ol>
+		<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0166a02">承先啟後、繼往開來的大乘行者</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0166a08">編纂《太虛大師全書》的緣起</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0167a10">編纂《太虛大師全書》的迴響</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0168a12">無限感恩懷念太虛大師</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0170a04">結語</cblink></li>
+		<li><cblink href="XML/TX/TX00/TX00na001_002.xml#p0171a01">致謝</cblink></li>
 	</ol>
 	</li>
 </ol>
