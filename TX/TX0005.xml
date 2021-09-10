@@ -13,8 +13,8 @@
 		<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0001a02">金剛般若波羅蜜經義脈</cblink>
 		<ol>
 			<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0001a04">科分</cblink></li>
-			<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0002a01">一、釋經題目</cblink></li>
-			<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0006a01">二、解經義脈</cblink>
+			<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0002a01">一　釋經題目</cblink></li>
+			<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0006a01">二　解經義脈</cblink>
 			<ol>
 				<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0006a05">甲　序分</cblink></li>
 				<li><cblink href="XML/TX/TX06/TX06n0005_001.xml#p0006a07">乙　正宗分</cblink>
@@ -40,6 +40,10 @@
 				</li>
 			</ol>
 			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/TX/TX06/TX06n0005_002.xml#p0019a01">金剛般若波羅蜜經講錄</cblink>
+		<ol>
 			<li><cblink href="XML/TX/TX06/TX06n0005_002.xml#p0019a03">科分</cblink></li>
 			<li><cblink href="XML/TX/TX06/TX06n0005_002.xml#p0020a01">釋經題</cblink></li>
 			<li><cblink href="XML/TX/TX06/TX06n0005_002.xml#p0023a04">法會因由分第一</cblink></li>
@@ -301,22 +305,22 @@
 			<ol>
 				<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0251a05">一　釋經題名義</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0251a06">甲、仁</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0252a07">乙、王</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0252a12">丙、護</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0253a03">丁、國</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0253a06">戊、般若</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0253a08">己、波羅密多</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0254a01">庚、經</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0251a06">甲　仁</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0252a07">乙　王</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0252a12">丙　護</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0253a03">丁　國</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0253a06">戊　般若</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0253a08">己　波羅密多</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0254a01">庚　經</cblink></li>
 				</ol>
 				</li>
 				<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0254a05">二　釋句義</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0254a06">甲、仁王</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0255a07">乙、護國</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0257a08">丙、仁王護國</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0258a04">丁、仁王護國般若波羅密多</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0259a07">戊、仁王護國般若波羅密多經</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0254a06">甲　仁王</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0255a07">乙　護國</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0257a08">丙　仁王護國</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0258a04">丁　仁王護國般若波羅密多</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0259a07">戊　仁王護國般若波羅密多經</cblink></li>
 				</ol>
 				</li>
 				<li><cblink href="XML/TX/TX06/TX06n0005_004.xml#p0260a02">三　釋大意</cblink></li>
@@ -852,11 +856,11 @@
 			<ol>
 				<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0539a04">一　五蘊</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0539a06">甲、色蘊</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a02">乙、受蘊</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a08">丙、想蘊</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a09">丁、行蘊</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a12">戊、識蘊</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0539a06">甲　色蘊</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a02">乙　受蘊</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a08">丙　想蘊</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a09">丁　行蘊</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0540a12">戊　識蘊</cblink></li>
 				</ol>
 				</li>
 				<li><cblink href="XML/TX/TX06/TX06n0005_007.xml#p0541a01">二　五蘊皆空</cblink></li>
@@ -890,8 +894,8 @@
 						<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0550a03">１　佛世的一味法</cblink></li>
 						<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0550a07">２　佛後的分代法</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0550a08">（一）　印度的三個時代</cblink></li>
-							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0551a07">（二）　傳存的三種文系</cblink></li>
+							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0550a08">（一）印度的三個時代</cblink></li>
+							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0551a07">（二）傳存的三種文系</cblink></li>
 						</ol>
 						</li>
 					</ol>
@@ -906,8 +910,8 @@
 						<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0556a02">２　波羅密多</cblink></li>
 						<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0557a12">３　心</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0558a01">（一）　就法說</cblink></li>
-							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0559a04">（二）　就喻說</cblink></li>
+							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0558a01">（一）就法說</cblink></li>
+							<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0559a04">（二）就喻說</cblink></li>
 						</ol>
 						</li>
 						<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0559a09">４　經</cblink></li>
@@ -924,10 +928,10 @@
 				</li>
 				<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0564a02">三　明譯傳</cblink>
 				<ol>
-					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0564a03">甲、本經諸譯</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0565a09">乙、諸譯異同</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0566a06">丙、正明今譯</cblink></li>
-					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0567a01">丁、今譯弘傳</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0564a03">甲　本經諸譯</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0565a09">乙　諸譯異同</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0566a06">丙　正明今譯</cblink></li>
+					<li><cblink href="XML/TX/TX06/TX06n0005_008.xml#p0567a01">丁　今譯弘傳</cblink></li>
 				</ol>
 				</li>
 			</ol>
@@ -979,8 +983,8 @@
 						<li><cblink href="XML/TX/TX07/TX07n0005_009.xml#pa609a05">１　經論相資為門</cblink></li>
 						<li><cblink href="XML/TX/TX07/TX07n0005_009.xml#pa609a09">２　教理相資為門</cblink>
 						<ol>
-							<li><cblink href="XML/TX/TX07/TX07n0005_009.xml#pa609a10">（一）　教門</cblink></li>
-							<li><cblink href="XML/TX/TX07/TX07n0005_009.xml#pa610a06">（二）　理門</cblink></li>
+							<li><cblink href="XML/TX/TX07/TX07n0005_009.xml#pa609a10">（一）教門</cblink></li>
+							<li><cblink href="XML/TX/TX07/TX07n0005_009.xml#pa610a06">（二）理門</cblink></li>
 						</ol>
 						</li>
 					</ol>
@@ -1606,8 +1610,8 @@
 			</li>
 			<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa772a11">二　中論在一切佛法中</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa773a01">甲、在教理中</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa776a04">乙、在行果中</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa773a01">甲　在教理中</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa776a04">乙　在行果中</cblink></li>
 			</ol>
 			</li>
 			<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa779a10">三　中論在龍樹諸論中</cblink>
@@ -1615,17 +1619,17 @@
 				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa780a06">甲　宗論之部</cblink></li>
 				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa783a04">乙　釋經之部</cblink></li>
 				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa784a05">丙　集經之部</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa785a01">丁、頌讚之部</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa785a01">丁　頌讚之部</cblink></li>
 			</ol>
 			</li>
 			<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa786a10">四　中論在印度諸釋中</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa787a03">甲、提婆諸論</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa788a06">乙、中論梵志青目釋</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa788a11">丙、順中論義入般若法門</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa789a04">丁、大乘中觀論釋</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa789a07">戊、般若燈論釋</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa789a12">己、入中論</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa787a03">甲　提婆諸論</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa788a06">乙　中論梵志青目釋</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa788a11">丙　順中論義入般若法門</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa789a04">丁　大乘中觀論釋</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa789a07">戊　般若燈論釋</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa789a12">己　入中論</cblink></li>
 			</ol>
 			</li>
 			<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa791a07">五　中論在中國諸宗中</cblink>
@@ -1650,8 +1654,8 @@
 			</li>
 			<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa808a05">七　中論前二十五品</cblink>
 			<ol>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa809a02">甲、列品名</cblink></li>
-				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa810a05">乙、釋文義</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa809a02">甲　列品名</cblink></li>
+				<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa810a05">乙　釋文義</cblink></li>
 			</ol>
 			</li>
 			<li><cblink href="XML/TX/TX07/TX07n0005_010.xml#pa823a01">八　中論後二品</cblink></li>
@@ -1691,10 +1695,10 @@
 		<li><cblink href="XML/TX/TX07/TX07n0005_015.xml#pa876a01">論掌珍論之真性有為空量</cblink></li>
 		<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa878a01">大乘之革命</cblink>
 		<ol>
-			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa880a07">一者、革眾生不定聚之命入正定聚</cblink></li>
-			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa881a04">二者、革眾生異生之命入大乘聖位</cblink></li>
-			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa881a09">三者、革眾生五乘之命入唯一大乘</cblink></li>
-			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa882a05">四者、革眾生命入如來位</cblink></li>
+			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa880a07">一者　革眾生不定聚之命入正定聚</cblink></li>
+			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa881a04">二者　革眾生異生之命入大乘聖位</cblink></li>
+			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa881a09">三者　革眾生五乘之命入唯一大乘</cblink></li>
+			<li><cblink href="XML/TX/TX07/TX07n0005_016.xml#pa882a05">四者　革眾生命入如來位</cblink></li>
 		</ol>
 		</li>
 	</ol>
