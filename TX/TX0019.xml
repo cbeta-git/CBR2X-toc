@@ -117,34 +117,30 @@
 	</li>
 	<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0163a01">自傳</cblink>
 	<ol>
-		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0163a01">太虛自傳</cblink>
-		<ol>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0163a03">綱要</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0164a07">弁言</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0165a05">一　生長在農工到商讀的鄉鎮</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0178a04">二　出家與受戒讀經</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0184a01">三　學教參禪與閱藏</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0190a06">四　新學和革命思想的侵入</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0195a10">五　學生教員與法師方丈</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0199a06">六　我與辛亥革命時的佛教</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0204a07">七　民初間思想行動的不安定</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0209a02">八　普陀山的閉關</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0219a08">九　出關與游台灣日本</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0224a09">一〇　覺社之佛教新運動</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0230a02">一一　先後依我剃度的幾個徒弟</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0237a07">一二　南通與北京的講經</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0242a05">一三　住彌勒院與講經武昌廣州</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0248a03">一四　住淨慈寺與講經北京</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0255a05">一五　歸元寺講經與佛學院的開辦</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0262a05">一六　佛學院第一期的經過</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0271a10">一七　廬山大林寺的復興</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0278a09">一八　光孝寺講經與佛學院第二期生</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0286a11">一九　北京天童等處講學與赴東亞佛教大會</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0296a05">二〇　佛化教育社與北京南洋講學</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0303a08">二一　法苑與南普陀寺閩南佛學院</cblink></li>
-			<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0308a09">二二　歐美游化的經歷</cblink></li>
-		</ol>
-		</li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0163a03">綱要</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0164a07">弁言</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0165a05">一　生長在農工到商讀的鄉鎮</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0178a04">二　出家與受戒讀經</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0184a01">三　學教參禪與閱藏</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0190a06">四　新學和革命思想的侵入</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0195a10">五　學生教員與法師方丈</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0199a06">六　我與辛亥革命時的佛教</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0204a07">七　民初間思想行動的不安定</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0209a02">八　普陀山的閉關</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0219a08">九　出關與游台灣日本</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0224a09">一〇　覺社之佛教新運動</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0230a02">一一　先後依我剃度的幾個徒弟</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0237a07">一二　南通與北京的講經</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0242a05">一三　住彌勒院與講經武昌廣州</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0248a03">一四　住淨慈寺與講經北京</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0255a05">一五　歸元寺講經與佛學院的開辦</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0262a05">一六　佛學院第一期的經過</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0271a10">一七　廬山大林寺的復興</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0278a09">一八　光孝寺講經與佛學院第二期生</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0286a11">一九　北京天童等處講學與赴東亞佛教大會</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0296a05">二〇　佛化教育社與北京南洋講學</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0303a08">二一　法苑與南普陀寺閩南佛學院</cblink></li>
+		<li><cblink href="XML/TX/TX29/TX29n0019_018.xml#p0308a09">二二　歐美游化的經歷</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/TX/TX29/TX29n0019_019.xml#p0313a01">遊記</cblink>
