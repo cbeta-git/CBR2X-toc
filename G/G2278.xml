@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0556a02">前文</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0556a13">一　惜福</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0557a07">二　習勞</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0557b15">三　持戒</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0558a04">四　自尊</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0558b02">結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2278_001.xml#p0556a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

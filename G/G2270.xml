@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2270_001.xml#p0519a03">概說</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2270_001.xml#p0520a12">三歸五戒乃至菩薩戒之要略</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2270_001.xml#p0524a02">結語</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2270_001.xml#p0525a01">菩薩戒受隨綱要表</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2270_001.xml#p0519a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

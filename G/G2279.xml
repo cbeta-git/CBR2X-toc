@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0559a02">前文</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0559a08">第一章　緒言</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0559a11">第二章　病重時</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0559b07">第三章　臨終時</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0560a07">第四章　命終後一日</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0560b01">第五章　薦亡等事</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0560b13">第六章　勸請發起臨終助念會</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0560b15">第七章　結語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2279_001.xml#p0559a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

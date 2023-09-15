@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2268_001.xml#p0512a03">第一章　三歸之略義</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2268_001.xml#p0512a17">第二章　授三歸之方法</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2268_001.xml#p0512b05">第三章　授三歸之利益</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2268_001.xml#p0512b14">第四章　結誥</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2268_001.xml#p0512a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

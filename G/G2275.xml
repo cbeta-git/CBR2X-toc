@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2275_001.xml#p0539a02">緒言</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2275_001.xml#p0539b09">釋相</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2275_001.xml#p0539b17">第一門　所犯境</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2275_001.xml#p0539b20">第二門　成犯相</cblink>
+		<ol>
+			<li><cblink href="XML/G/G104/G104n2275_001.xml#p0540a04">第一章　有主物</cblink>
+			<ol>
+				<li><cblink href="XML/G/G104/G104n2275_001.xml#p0540a07">第一節　三寶物</cblink></li>
+				<li><cblink href="XML/G/G104/G104n2275_001.xml#p0540b14">第二節　人物</cblink></li>
+				<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541a07">第三節　非人及畜生物</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541a11">第二章　有主想</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541a15">第三章　有盜心</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541a19">第四章　是重物</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541b02">第五章　舉離處</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541b10">第三門　開不犯</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2275_001.xml#p0541b17">後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2275_001.xml#p0539a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
