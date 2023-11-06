@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0543a02">徵辨學律義八則</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0544b01">問答十章</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0546b01">占察法</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0548a01">南山三大部靈芝記註釋現存本</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0549b08">略誦四分戒菩薩戒法</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2276_001.xml#p0549b10">四分戒本</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2276_001.xml#p0549b14">菩薩戒本</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0550a01">敬三寶</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2276_001.xml#p0550a02">前文</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2276_001.xml#p0550a06">第一　敬佛</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2276_001.xml#p0550a16">第二　敬法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2276_001.xml#p0550b06">第三　敬僧</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0551a01">行事鈔資持記隨講別錄</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2276_001.xml#p0543a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0391a02">前言</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0391a06">總科</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0391b01">集法緣成篇第一</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0392a01">諸界結解篇第二</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0392b01">諸戒受法篇第三</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0393b14">衣藥受淨篇第四</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394a10">諸說戒法篇第五</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394a20">諸眾安居法篇第六</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394b01">諸眾自恣篇第七</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394b07">諸分衣法篇第八</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394b15">懺六聚法篇第九</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394b27">雜法住持篇第十</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0394b34">後記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2256_001.xml#p0391a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

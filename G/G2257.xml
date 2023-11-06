@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0395a03">目錄</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0395a18">總科</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0395b01">事鈔持犯四行體狀表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0396a01">事鈔成就處所表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0396b01">事鈔通塞表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0398a01">事鈔漸頓表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0399a01">事鈔優劣表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0402b01">事鈔不學無知歷位分別表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0405a01">事鈔方便趣果分別表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0405a15">事鈔具緣成犯分別表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0406a01">事鈔境想分別表</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0410a01">附錄</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0410a01">南山戒疏持犯體狀表</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0411a01">戒疏持犯四行體狀表</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0411b01">戒疏雙持雙犯表</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0411b19">殺戒異境表</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0412a01">殺戒闕想緣表</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0412b01">制廣教五意章中所詮四根表</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2257_001.xml#p0412b21">制廣教五意章中所詮四相表</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2257_001.xml#p0395a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

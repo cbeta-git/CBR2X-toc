@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0573a01">凡例</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0573b01">目錄</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0573c03">第一章　懺罪法</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0573c04">第一節　懺泥薩祇波逸底迦法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0574c01">第二節　懺波逸底迦法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0574c21">第三節　懺突色訖里多法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0575a16">第二章　襃灑陀法</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0575b21">第三章　安居法</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0575c01">第一節　安居法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0575c20">第二節　受日法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0576a14">第四章　隨意法</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0576b19">第五章　衣藥受淨法</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0576b20">第一節　受衣法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0577a09">第二節　捨衣法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0577a15">第三節　受捨鉢法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0577b01">第四節　受藥法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0578a13">第五節　長衣分別法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0578c06">第六節　金銀分別法</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2281_001.xml#p0578c17">第七節　餘食法</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0579a07">附錄　食罷發願法</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2281_001.xml#p0573a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

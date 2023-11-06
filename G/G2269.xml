@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0513a02">總科</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0513a18">初敬本教興篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0513b18">二濟時護法篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0514b19">三隨機立教篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0515a01">四乘心行事篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0515a16">五寄緣真俗篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0515b01">六引教徵事篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0516a01">七約時科節篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0516b01">八威容有儀篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0518a01">九功用顯迹篇</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0518b26">十程器陳迹篇</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2269_001.xml#p0513a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
