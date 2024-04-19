@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2259_001.xml#p0423a03">目錄</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2259_001.xml#p0423b01">事鈔</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0423b02">序文科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0425a14">標宗顯德篇科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0426a14">篇聚名報篇科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0428a01">隨戒釋相篇科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0430a18">盜戒科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0432b01">持犯方軌篇科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0435b01">懺六聚法篇略科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0436a01">沙彌別行篇略科</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2259_001.xml#p0437a01">戒疏</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0437a02">諸篇方便章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0438a01">持犯義章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0439b01">波羅夷約義以明章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0441a26">婬戒犯緣闕緣章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0441b01">制廣教五意章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0442a18">境想義門章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0442b01">大盜戒科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0444b24">大殺戒犯緣闕緣章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0445a01">大妄語戒犯緣闕緣章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0445a06">僧殘義門持犯方軌章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0445b01">捨墮義門持犯方軌章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0445b09">單提義門持犯方軌章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0446a01">提舍義門持犯方軌章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0446a09">眾學義門持犯方軌章科</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2259_001.xml#p0447a01">業疏</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0447a02">俗人受法章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0448b01">出家宗致章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0449a01">戒體章科</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2259_001.xml#p0453a01">懺六聚法篇略科</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2259_001.xml#p0423a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

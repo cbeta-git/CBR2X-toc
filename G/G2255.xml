@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0341a03">標誌例</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0341a04">釋題目</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0341b01">別述羯磨大宗</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0342b01">集法緣成篇第一</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0352a01">諸界結解篇第二</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0357a01">諸戒受法篇第三</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0367a01">衣藥受淨篇第四</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0370a01">諸說戒法篇第五</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0371a01">諸眾安居法篇第六</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0372a01">諸眾自恣法篇第七</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0373a01">諸分衣法篇第八</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0375a01">懺六聚法篇第九</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0377a01">雜法住持篇第十</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0377b01">四分律刪補隨機羯磨諸文目錄</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0377b02">集法緣成篇第一</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0377b04">諸界結解篇第二</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0377b11">諸戒受法篇第三</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0378a13">衣藥受淨篇第四</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0378b01">諸說戒法篇第五</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0378b11">諸眾安居篇第六</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0378b14">諸自恣法篇第七</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0378b19">諸分衣法篇第八</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0379a06">諸罪懺法篇第九</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0379a18">雜法住持篇第十</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0379b01">附略例</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0379b01">結戒場及大界法略例</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0381b01">受戒法略例</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0384b01">說戒安居自恣略例</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0385a01">說戒法略例</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0387b09">安居法略例</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2255_001.xml#p0388a01">自恣法略例</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2255_001.xml#p0341a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

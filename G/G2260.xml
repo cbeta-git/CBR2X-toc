@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2260_001.xml#p0455a03">略科</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2260_001.xml#p0455b01">隨講別錄</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0455b07">一</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0456a11">二</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0456a17">三</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0456b22">四</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0457b01">五</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0459b01">六</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0460b17">七</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0463a01">八</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0463a09">九</cblink></li>
+		<li><cblink href="XML/G/G104/G104n2260_001.xml#p0464b02">十</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2260_001.xml#p0455a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
