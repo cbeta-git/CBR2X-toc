@@ -8,8 +8,6 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-		<li><cblink href="XML/C/C056/C056n1159_001.xml#p0116a05">大般若經</cblink></li>
-	
 	<li><cblink href="XML/C/C056/C056n1159_001.xml#p0116a11">天</cblink>
 	<ol>
 		<li><cblink href="XML/C/C056/C056n1159_001.xml#p0116a11">大般若經（卷 1-10）</cblink></li>
@@ -130,7 +128,7 @@
 		<li><cblink href="XML/C/C056/C056n1159_001.xml#p0123a01">大般若經（卷 231-240）</cblink></li>
 	</ol>
 	</li>
-	<li><cblink href="XML/C/C056/C056n1159_001.xml#p0123a07">𨳝</cblink>
+	<li><cblink href="XML/C/C056/C056n1159_001.xml#p0123a07">閏</cblink>
 	<ol>
 		<li><cblink href="XML/C/C056/C056n1159_001.xml#p0123a07">大般若經（卷 241-250）</cblink></li>
 	</ol>
@@ -248,6 +246,10 @@
 	<li><cblink href="XML/C/C056/C056n1159_001.xml#p0131a09">岡</cblink>
 	<ol>
 		<li><cblink href="XML/C/C056/C056n1159_001.xml#p0131a09">大般若經（卷 471-478）</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/C/C056/C056n1159_002.xml#p0132a06">岡</cblink>
+	<ol>
 		<li><cblink href="XML/C/C056/C056n1159_002.xml#p0132a06">大般若經（卷 479-480）</cblink></li>
 	</ol>
 	</li>
@@ -1575,7 +1577,6 @@
 		<li><cblink href="XML/C/C056/C056n1159_005.xml#p0187a02">遺教經論</cblink></li>
 		<li><cblink href="XML/C/C056/C056n1159_005.xml#p0187a04">涅槃論</cblink></li>
 		<li><cblink href="XML/C/C056/C056n1159_005.xml#p0187a04">本有今無論</cblink></li>
-		<li><cblink href="XML/C/C056/C056n1159_005.xml#p0187a06">瑜伽師地論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/C/C056/C056n1159_005.xml#p0187a08">堂</cblink>
@@ -2930,7 +2931,7 @@
 		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0235a11">出曜經（卷 21-30）</cblink></li>
 	</ol>
 	</li>
-	<li><cblink href="XML/C/C056/C056n1159_008.xml#p0235b03">𣡸</cblink>
+	<li><cblink href="XML/C/C056/C056n1159_008.xml#p0235b03">鬱</cblink>
 	<ol>
 		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0235b03">賢愚經</cblink></li>
 	</ol>
@@ -3121,7 +3122,7 @@
 	</li>
 	<li><cblink href="XML/C/C056/C056n1159_008.xml#p0241a03">吹</cblink>
 	<ol>
-		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0241a03">大周刊定眾經目錄</cblink></li>
+		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0241a03">大周刊定眾經目錄（卷 11-15）</cblink></li>
 		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0241a04">古今譯經圖紀</cblink></li>
 		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0241a05">續古今譯經圖紀</cblink></li>
 		<li><cblink href="XML/C/C056/C056n1159_008.xml#p0241a06">續大唐內典錄讚序</cblink></li>
