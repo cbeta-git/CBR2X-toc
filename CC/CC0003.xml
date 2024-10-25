@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0019a02">內容提要</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0021a01">後六卷還譯序</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0025a01">例言</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0027a01">卷第三十四科目</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0031a01">卷第三十五</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0031a01">科目</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0035a06">本文</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0054a01">二十九事名目表</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_002.xml#p0057a01">卷第三十六</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC003/CC003n0003_002.xml#p0057a01">科目</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_002.xml#p0061a03">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_003.xml#p0083a01">卷第三十七</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC003/CC003n0003_003.xml#p0083a01">科目</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_003.xml#p0089a03">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_004.xml#p0109a01">卷第三十八</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC003/CC003n0003_004.xml#p0109a01">科目</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_004.xml#p0113a03">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_005.xml#p0135a01">卷第三十九</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC003/CC003n0003_005.xml#p0135a01">科目</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_005.xml#p0139a02">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_006.xml#p0159a01">卷第四十</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC003/CC003n0003_006.xml#p0159a01">科目</cblink></li>
+		<li><cblink href="XML/CC/CC003/CC003n0003_006.xml#p0163a03">本文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_006.xml#p0185a01">地波羅密多品第七補譯</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/CC/CC003/CC003n0003_001.xml#p0019a01">第一</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_002.xml#p0057a01">第二</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_003.xml#p0083a01">第三</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_004.xml#p0109a01">第四</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_005.xml#p0135a01">第五</cblink></li>
+	<li><cblink href="XML/CC/CC003/CC003n0003_006.xml#p0159a01">第六</cblink></li>
+</ol>
+</nav>
+</body></html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0955a03">編者誌</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0956a05">敬禮佛陀</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0956a09">現量品第一</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0963a07">自義比量品第二</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0971a03">他義比量品第三</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0979a07">觀喻與似喻品第四</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0982a14">觀遣他品第五</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0990a11">觀反斷品第六</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G150/G150n2550_001.xml#p0955a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

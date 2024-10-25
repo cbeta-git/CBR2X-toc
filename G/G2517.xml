@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G148/G148n2517_001.xml#p0437a04">引言</cblink></li>
+	<li><cblink href="XML/G/G148/G148n2517_001.xml#p0438a01">菩提道次第論攝頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G148/G148n2517_001.xml#p0437a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

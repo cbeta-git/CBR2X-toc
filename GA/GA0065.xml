@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0001a01">版本說明</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0003a01">卷首</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0003a01">序</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0009a01">重修敘</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0015a01">目錄</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0019a01">凢例</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0023a01">逰雁蕩雜詩</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0023a02">老僧巖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0023a05">石梁洞</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0023a08">靈峰洞</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0024a01">石芝峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0024a04">五老峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0024a07">龍鼻水</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0024a10">剪刀峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0025a03">僊人橋</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0025a06">天柱峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0025a09">獨秀峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0026a02">響巖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0026a05">大龍湫</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0026a08">逰雁山畢，晚飯能仁寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0027a01">登雁山最高處二首</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0029a01">鴈宕雜咏</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0029a02">能仁寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0029a06">剪刀峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0029a09">大龍湫</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0030a02">展旗峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0030a05">屏霞峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0030a08">天柱峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0031a01">玉女峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0031a04">龍鼻水</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0031a07">卓筆峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0031a10">獨秀峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0032a03">僧抱石</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0032a06">水簾洞</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0032a09">靈峰洞</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0033a02">五老峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0033a05">石梁洞</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0033a08">老僧巖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0034a01">鷹巖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0034a04">㕠鸞峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0034a07">含珠峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0034a10">托硯峯</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0035a03">石門潭</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0035a06">逰雁山</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0037a01">鴈山行</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0038a02">寄龍湫上人</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0038a06">鴈蕩歌</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0042a01">秋日偕僚友㳺雁宕二首</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0042a08">過四十九盤嶺宿能仁寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0043a01">大龍湫</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0043a04">剪刀峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0043a07">天柱峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0043a10">展旗峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0044a03">玉女峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0044a06">卓筆峰</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0044a09">鴈山観瀑八韻</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0045a05">靈峰寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0045a08">靈巖寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0046a01">石梁洞</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0046a04">觀海亭</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0046a08">観海亭　用韻二章</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0047a07">観海亭和　道尊車韻</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0048a02">天柱峯</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0048a06">龍湫高頂</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0048a10">天柱峯和胡四尊韻</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0049a04">龍湫高頂和韻</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0049a08">呈查盤胡四尊</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0050a02">靈巖寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0050a06">龍湫</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0050a10">靈峰寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0051a04">能仁寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0051a08">鴈山漫懷三絕</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0052a05">同鄭無功世丈酌靈岩寺</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0055a01">雁山寺圖</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0055a01">一、雁山總圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0057a01">二、本覺寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0059a01">三、凌雲寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0061a01">四、寳冠寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0063a01">五、能仁寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0065a01">六、古塔寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0067a01">七、飛泉寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0069a01">八、普門寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0071a01">九、羅漢寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0073a01">十、石門寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0075a01">十一、瑞鹿寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0077a01">十二、華嚴寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0079a01">十三、天柱寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0081a01">十四、靈峯寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0083a01">十五、真濟寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0085a01">十六、靈巖寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0087a01">十七、淨明寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0089a01">十八、石梁寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0091a01">十九、雙峯寺圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0093a01">二十、剪刀峯圖</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0095a01">二十一、大龍湫圖</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0097a01">鴈山紀勝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0101a02">山名</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0101a07">山界</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0102a05">開山次第</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0104a03">通山徑路</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0105a08">谷</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0106a05">水簾谷</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0106a08">安禪谷</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0107a01">會賢谷</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0107a03">南閤谷</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0107a05">北閤谷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0107a07">湫</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0107a08">大龍湫</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0108a09">小龍湫</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0109a05">上龍湫</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0110a01">峯</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0110a02">東谷諸峯</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0111a06">西谷諸峯</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0112a07">泉</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0112a08">龍鼻泉</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0113a09">劒鋒泉</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0114a06">摩訶泉</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0114a09">合掌泉</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0115a01">溫湯泉</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0115a06">巖</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0115a07">梅雨巖</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0115a09">天柱巖</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0117a04">石</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0118a09">潭</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0118a10">下培潭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0119a01">西龍潭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0119a03">大龍湫潭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0119a07">小龍湫潭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0120a01">照膽潭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0120a04">梅雨潭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0120a07">白雨潭</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0120a10">池</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0121a01">騰池</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0121a03">洞</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0121a04">天聦洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0121a07">龍逰洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0121a10">石洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0122a02">新月洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0122a04">羅漢洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0122a08">古洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0123a03">風洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0124a01">南碧霄洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0124a03">北碧霄洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0124a05">道松洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0124a07">道姑洞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0125a04">石佛洞</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0125a10">溪</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0126a01">新溪</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0126a07">䈥竹溪</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0126a09">白溪</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0127a03">九折溪</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0127a06">澗</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0127a07">䈥竹澗</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0127a10">峽</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0128a01">經行峽</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0128a05">門</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0128a06">石門</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0129a07">嶼</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0129a08">卓嶼　馬家嶼</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0130a04">閤</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0130a05">南閤　北閤</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0130a09">嶺</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0130a10">東嶺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0131a02">丹芳嶺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0131a05">飛泉嶺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0131a07">謝公嶺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0131a10">馬鞍嶺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0132a03">溫嶺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0132a08">西嶺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0132a10">障</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0133a01">屏霞障</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0133a04">連雲障</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0133a07">橋</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0133a08">行春橋</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0133a10">星橋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0135a02">寺院</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0135a03">序</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0135a07">能仁寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0137a02">靈岩寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0138a01">靈雲寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0138a04">雙峯寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0138a08">靈峯寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0139a01">寳冠寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0139a05">羅漢寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0139a09">瑞鹿寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0140a03">飛泉寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0140a07">石梁寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0141a01">本覺寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0141a04">古塔寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0141a07">石門寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0141a09">普明寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0142a01">天柱寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0142a03">華嚴寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0142a05">淨明寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0142a09">真濟寺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0143a02">附</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0143a03">白巖寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0143a06">明因寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0144a03">實相寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0144a06">崇德寺</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0145a01">菴</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0145a02">觀瀑菴</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0145a04">八扇菴</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0145a08">堂</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0145a09">資深堂</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0146a01">亭</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0146a02">看不足亭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0146a05">忘歸亭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0146a07">翠微亭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0146a09">藍玉亭</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0147a01">鴈山書院</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0149a01">仙釋</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0149a02">木葉老人</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0150a03">窺鏡童</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0150a07">偷桃僧</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0151a02">陳覺</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0151a09">諾詎羅</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0152a04">宋全了</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0152a09">景宣</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0153a04">寒坑龍</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0154a01">五百羅漢</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0154a08">逺夣和尚碑文</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0161a02">土産</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0161a03">茶</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0162a02">杜鵑花</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0162a05">觀音竹</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0162a08">方竹</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0163a01">䈥竹</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0163a04">金星草</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0163a07">金線草</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0163a10">鳳尾草</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0164a02">龍鬚草</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0164a07">石菖蒲</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0164a10">緑草</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0165a03">櫻粟</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0165a06">百合</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0165a08">鈎脗</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0166a02">黃精</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0166a07">薯蕷</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0166a10">何首烏</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0167a05">山蘿菔</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0167a08">金釵石斛</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0167a10">雪裏開</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0168a02">金線重樓</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0168a04">金銀花</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0168a08">香薷</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0169a01">鳥獸</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0169a02">白鷴</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0169a05">錦雞</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0169a09">練鵲</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0170a01">金雀</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0170a03">山樂官</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0170a06">山羊</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0170a09">熊</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0171a04">玉面狸</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0171a07">竹豚</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0171a10">獾豬</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0172a02">野豬</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0172a05">田狗</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0172a07">香狸</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0172a09">五段狸</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0173a01">猴</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0173a05">魚類</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0173a06">香魚</cblink></li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0174a06">石門鯉魚</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a02">詩</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a03">五言絕句</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a04">宋</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a05">能仁賜額</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a07">國朝</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a08">望鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a10">羅漢洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0176a02">石梁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0176a04">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0176a06">憶山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0176a08">度謝公嶺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0176a10">照膽潭</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0177a02">靈峰洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0177a04">仙人橋</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0177a06">響巗</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0177a08">展旗峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0177a10">天柱峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0178a02">獨秀峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0178a04">玉女峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0178a06">龍鼻水</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0178a08">剪刀峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0178a10">度馬鞍嶺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0179a02">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0179a04">宿能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0179a06">早行鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0179a08">老僧岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0179a10">石梁洞</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0181a01">七言絕句</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0181a02">宋</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0181a03">過靈岩寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0181a06">過鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0182a02">過靈岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0182a07">過靈峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0182a10">龍鼻水</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0183a03">過淨名</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0183a08">送夏元鼎歸鴈山</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0184a01">元</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0184a02">送輔賢出山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0184a07">贈靈岩秀禪師</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0185a02">雪屋為通上人之第作</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0185a05">國朝</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0185a06">入鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0185a09">逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0186a02">龍湫和韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0186a05">寄題鴈山書院</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0186a08">和尚巖</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0187a01">石梁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0187a04">玉女峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0187a07">鴈山四絕</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0188a06">梅雨岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0188a09">僊人橋</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0189a02">展旗峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0189a05">登龍湫背</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0189a08">龍湫二絕</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0190a03">次鶴泉上龍湫背</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0190a06">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0190a09">天柱峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0191a02">玉女峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0191a05">龍鼻水</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0191a08">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0192a01">僧抱石</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0192a05">龍鼻水</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0192a08">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0193a04">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0193a10">靈巖寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0194a06">登龍湫背</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0194a09">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0195a02">石梁洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0195a05">觀大龍湫漫興</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0195a08">出鴈蕩山，見海上舟行，口占</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0196a01">天柱峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0196a04">五日雨游鴈宕觧疑山靈兼柬龍塘憲使五首【CB】，〔－〕【志彙】五首</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0199a01">五言律</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0199a02">宋</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0199a03">重逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0199a06">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0199a09">鴈山寶冠寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0200a04">逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0200a07">石門菴</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0200a10">壽昌道中</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0201a05">龍湫觀瀑</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0201a08">靈岩靈峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0202a01">淨明</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0202a04">鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0202a07">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0202a10">觀音岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0203a03">天聰洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0203a06">維摩室</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0203a09">巖居僧</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0204a02">元</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0204a03">代送彥明</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0204a06">能仁方丈</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0204a09">淨名寺</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0205a02">國朝</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0205a03">宿靈峯寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0205a06">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0205a09">宿能仁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0206a02">龍鼻嵓</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0206a05">鴈山次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0206a08">能仁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0207a01">過丹芳嶺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0207a04">再過丹芳嶺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0207a07">靈峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0207a10">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0208a03">能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0208a06">靈嵓</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0208a09">石門次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0209a02">龍湫寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0209a05">靈嵓次嚴二守韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0209a08">逰蕩北最高峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0210a01">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0210a04">大龍湫次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0210a07">靈峯寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0210a10">龍湫道中</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0211a03">秋夜宿龍湫古寺贈上人</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0211a06">宿靈嵓寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0211a09">曉入能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0212a02">逰能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0212a05">靈岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0212a08">六賢祠</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0213a01">次文谷</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0213a04">宿能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0213a07">宿能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0213a10">宿能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0214a03">宿能仁寺次文谷韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0214a06">過鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0215a02">靈峰廽文</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0215a06">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0215a09">龍鼻水</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0216a02">逰雁山</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0217a01">七言律</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0217a02">宋</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0217a03">荅樂清尹周邠寄鴈山圖</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0218a01">迎趙清獻公逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0218a05">約逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0218a09">淨名寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0219a03">西瀑布</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0219a07">卓筆峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0220a01">雙鸞峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0220a05">送劉方叔、李文仲逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0220a09">瑞鹿寺</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0221a03">元</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0221a04">瀑布</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0221a08">鴈山次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0222a02">贈國性菴入鴈山次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0222a06">逰雙峯寺，贈覺上人</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0222a10">和逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0223a08">逰鴈山能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0224a02">簡五峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0224a06">常雲峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0224a10">寄題大龍湫和李五峯韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0225a04">宿龍菴懷友</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0225a08">國朝</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0225a09">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0226a03">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0226a07">逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0227a01">能仁寺漫興</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0227a05">入鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0228a03">雁蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0228a07">秋夜偕應黃二子宿靈巖天【CB】，【志彙】巖天柱峯大雷雨作</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0229a01">靈峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0229a05">石梁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0229a09">長至宿鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0230a03">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0230a07">靈嵓</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0231a01">上劉五清提學逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0231a05">鴈山呈諸同逰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0231a09">逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0232a03">逰能仁寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0232a07">聞二謝先生逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0233a01">過鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0233a05">鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0233a09">靈峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0234a03">約逰鴈山，至栢山而返</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0234a07">鴈山紀行</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0235a01">重陽前一日逰鴈山能仁寺和韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0235a06">逰鴈蕩三首</cblink>
+				<ol>
+					<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0235a07">一</cblink></li>
+					<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0235a10">二</cblink></li>
+					<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0236a04">三</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0236a08">鴈山有感</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0237a02">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0237a06">逰雁山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0237a10">早度四十九盤嶺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0238a04">入雁山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0238a08">龍湫即事</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0239a02">秋日陪諸公逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0239a06">靈岩寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0239a10">詠鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0240a04">宿能仁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0240a08">石梁洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0241a02">羅漢洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0241a06">宿靈岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0241a10">能仁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0242a04">雪洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0242a08">鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0243a02">鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0243a06">鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0243a10">靈峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0244a04">鴈山春行</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0244a08">約逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0245a02">鴈山午眺次古韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0245a06">秋日同友人逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0245a10">鴈山次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0246a04">逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0246a08">登鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0247a02">登鴈蕩山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0247a06">過能仁偕僧觀龍湫諸勝</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0247a10">觀龍鼻水</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0248a04">憇能仁寺次何賔岩韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0248a08">逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0249a06">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0249a10">雁山次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0250a04">逰龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0250a08">雨後同朱靈谷入山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0251a02">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0251a06">靈岩寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0251a10">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0252a04">石門潭</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0252a08">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0253a02">玉女峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0253a06">宿能仁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0253a10">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0254a08">龍湫觀瀑</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0255a02">宿能仁候觀察吳公不至</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0255a06">龍湫谷有懷壺梁山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0255a10">次韻酬蕩南先生逰鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0256a04">九日同吳願夫登鴈山最高處</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0256a08">風洞寄懷吳千峯先生</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0257a02">龍湫偶書</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0257a06">逰鴈山歸途</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0257a10">逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0258a04">靈峰洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0258a08">靈峰洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0259a02">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0259a06">靈巖寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0259a10">靈巖寺</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0261a01">五言古詩</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0261a02">晉</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0261a03">斤竹澗越嶺溪行</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0261a10">石門山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0262a06">夜宿石門</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0262a10">宋</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0263a01">逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0263a07">度謝公嶺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0263a10">逰靈岩靈峯，寄輝老禪</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0264a09">逰鴈蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0265a08">和立齋先生鴈山韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0266a03">逰靈岩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0266a09">宿靈岩贈長老敏行</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0267a06">元</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0267a07">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0268a01">逰石門</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0268a08">觀龍鼻天柱，贈欽上人</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0270a05">同靳従矩宿鴈山天柱院</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0271a06">國朝</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0271a07">游雁蕩</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0273a09">北鴈歩虛詞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0274a06">送葉澄逰鴈山還金陵，兼呈大司馬喬公</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0276a06">石梁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0276a09">小龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0277a04">入雲峯</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0277a09">鴈山夜坐</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0278a04">靈峯洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0278a08">靈巖</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0279a02">龍壑軒夜坐</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0279a05">靈嵓次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0279a08">龍壑軒次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0280a01">石梁次韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0280a04">逰龍湫遇雨</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0281a03">常雲峯初至作</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0282a01">石梁</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0282a04">入龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0282a07">鴈山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0282a10">將入鴈蕩雨，憇樂清飲西塔院</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0283a09">張使君招同鄭中丞、陳茂才登西皋塔院，用中丞公韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0284a09">夏日偕徵君何無咎、茂才陳納之，自能仁寺抵石梁洞</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0285a04">大龍湫注自鴈湖，飛瀑千丈，是山中竒絕處</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0285a08">入靈巗眺玉女、㕠鸞諸峰</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0286a03">大龍湫，用鄭中丞韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0286a07">登龍湫背</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0287a01">七言古詩</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0287a02">宋</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0287a03">淨名寺</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0287a06">鴈蕩山</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0287a09">元</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0287a10">龍鼻水聽琴，為劉芳在作</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0289a01">龍湫行，送軒宗冕歸山</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0289a09">和沈憲副逰鴈山韻</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0290a08">瀑布歌</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0291a05">大龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0292a02">龍鼻泉歌</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0292a06">同五溪萬公酌瀑布下</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0293a02">過鴈蕩山中</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0293a06">龍湫</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0293a10">鴈山從事有感届行賦此</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0295a01">排律</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0295a02">五言</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0295a03">題靈岩寺</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0295a09">靈岩寄跡</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0296a04">過靈岩寺</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0297a01">七言</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0297a02">遊鴈蕩</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0299a01">古詩長短句</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0299a02">登靈峯</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0300a02">鴈蕩吟，送秦文學還吳</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0301a09">鴈山書院</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0302a05">鴈蕩篇，和許松臯韻</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0305a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0305a02">宋</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0305a03">鴈山圖序</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0307a03">國朝</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0307a04">逰鴈山詩序</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0310a02">修鴈山志序</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0312a04">修鴈山志序</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0315a06">雁山續集敘</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0319a02">鴈蕩靈巖寺疏序</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0323a06">逺夣說贈魁上人</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0329a01">記</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0329a02">宋</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0329a03">記鴈蕩山</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0331a02">鴈山記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0333a07">詔復能仁寺碑記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0336a05">白岩院記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0338a09">勑賜靈岩寺額記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0341a10">鴈山十記</cblink>
+			<ol>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0342a01">始入鴈山觀石梁記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0343a08">逰靈峯硐記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0346a07">暮入靈岩記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0349a01">靈岩二竒記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0350a05">訪欽禪師過馬鞍嶺記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0353a07">大龍湫記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0356a03">宿能仁寺東菴記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0357a04">遊惠上人開西谷記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0359a09">鴈名山記</cblink></li>
+				<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0362a01">秋遊鴈蕩記</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0364a08">逰石梁記</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0365a07">國朝</cblink>
+		<ol>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0365a08">逰散水岩記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0366a08">逰鴈山記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0379a04">鴈蕩山重建靈巗佛殿記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0385a02">遊鴈宕山記</cblink></li>
+			<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0393a08">逰雁蕩記</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0403a01">後跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/GA/GA060/GA060n0065_001.xml#p0001a01">第一</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_002.xml#p0135a01">第二</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_003.xml#p0161a01">第三</cblink></li>
+	<li><cblink href="XML/GA/GA060/GA060n0065_004.xml#p0175a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

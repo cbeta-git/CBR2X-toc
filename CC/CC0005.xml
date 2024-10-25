@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/CC/CC005/CC005n0005_001.xml#pa001a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/CC/CC005/CC005n0005_001.xml#pa001a01">重刻序</cblink></li>
+		<li><cblink href="XML/CC/CC005/CC005n0005_001.xml#pa002a06">緣起序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/CC/CC005/CC005n0005_001.xml#p0001a01">般若融心論</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/CC/CC005/CC005n0005_001.xml#pa001a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

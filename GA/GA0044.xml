@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb002a01">版本說明</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb003a04">古蹟</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb007a01">五言詩</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb007a02">陪潤州薛司空、丹徒桂明府游招𨼆寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb007a07">招𨼆寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb008a02">招𨼆寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb008a06">郡守東萊勝侯約遊招𨼆山，醉中紀興</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb011a02">春日邀陳自所郡矦招𨼆寺登覽</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb011a09">秋日遊招𨼆寺回飲于竹院</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb013a01">七言詩</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb013a02">詠玉蘂花</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb014a08">詠玉蘂花</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb015a02">春望</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb015a07">招𨼆寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb016a03">南涯、玉山、南郭三大夫邀登招𨼆，用舊韻</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb016a09">遊招𨼆寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb017a05">同吳文臺郡守、徐龍寰邑令游招𨼆（二首）</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb018a06">遊招𨼆寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb019a02">賦</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb019a02">招𨼆寺賦</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb023a01">記</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb023a01">玉蘂仙踪堂記</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb031a01">招𨼆寺記</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb037a07">重修招𨼆寺記</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb041a08">萬古清流記</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb045a02">如斯亭對</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/GA/GA043/GA043n0044_001.xml#pb002a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

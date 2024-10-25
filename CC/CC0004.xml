@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/CC/CC004/CC004n0004_001.xml#p0001a13">顯宗</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_001.xml#p0002a16">出體</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_001.xml#p0004a03">題名</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_001.xml#p0004a16">釋文</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_010.xml#p0156a16">編者案</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/CC/CC004/CC004n0004_001.xml#p0001a01">第一</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_002.xml#p0027a11">第二</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_003.xml#p0052a11">第三</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_004.xml#p0067a11">第四</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_005.xml#p0076a11">第五</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_006.xml#p0087a11">第六</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_007.xml#p0097a11">第七</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_008.xml#p0114a11">第八</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_009.xml#p0133a11">第九</cblink></li>
+	<li><cblink href="XML/CC/CC004/CC004n0004_010.xml#p0148a11">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

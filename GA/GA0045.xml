@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc002a01">版本說明</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc003a04">鶴林寺</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc007a01">古蹟</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc007a02">黃鶴山</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc007a06">戴公山</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc007a08">磨笄山</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc007a09">胡蜂嶺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a01">放生池</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a03">古竹院</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a05">愛蓮池</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a06">龍目湖</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a07">昇仙橋</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a08">濂溪祠</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc008a09">古竹院祠亭</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a01">米元章護伽藍神祠</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a02">殿後祖堂</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a03">宋武帝賜田山碑</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a04">宋高宗御書七佛偈并像碑七座</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a05">金剛經碑一座</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a06">心經塔一座、太湖石香爐一座</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a07">寄奴泉</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a08">鴻鶴橋</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc009a09">杜鵑花院</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc010a01">天雨寶華堂</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc010a02">輪藏殿</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc010a03">周濂溪先生書堂</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc010a04">田土</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc011a01">五言詩</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc011a02">奉陪韋潤州遊鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc011a06">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc012a01">題鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc012a06">寄江南鶴林寺石氷上人</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc015a03">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc015a07">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc016a09">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc017a04">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc018a02">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc018a06">重游鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc019a05">送履中歸鶴林</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc019a09">遊鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc020a04">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc020a08">集鶴林寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc023a01">七言詩</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc023a02">中秋翫月</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc023a07">同柳子玉游鶴林招隱醉歸呈景純</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc024a04">景純見和次韻贈之</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc025a04">子玉家宴，用前韻見寄，復答之</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc025a09">景純復以二篇言唱酬之意，仍次其韻</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc026a09">禱雨有應</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc028a01">訪住山石隱翁</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc028a06">遊鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc029a02">題鶴林寺</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc029a07">七言絕句</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc029a08">過竹院</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc030a02">春晚遊</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc031a01">春晚因視賑糶之鶴林，次前韻</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc031a06">清明日過鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc032a05">鶴林寺</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc033a01">次前韻</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc033a06">遊鶴林寺，與錢翊之譚禪</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc035a01">黑漆光菩薩傳</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc039a03">法語</cblink>
+	<ol>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc039a04">玄素禪師</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc040a05">中峯禪師</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc041a02">峽山禪師</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc041a05">圓悟禪師</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc042a03">附孫覿語</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc043a04">覿啟族孫書言</cblink></li>
+		<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc043a09">又</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc045a01">殷天祥傳</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc052a01">十三松賦</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc054a05">十三松銘</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc055a05">十三松記</cblink></li>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc060a01">畫祖師像記</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/GA/GA043/GA043n0045_001.xml#pc002a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

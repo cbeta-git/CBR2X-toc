@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G150/G150n2551_001.xml#p0995a04">自義比量品第一</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_002.xml#p1019a04">成量品第二（上）</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_002.xml#p1028a08">成量品第二（下）</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_003.xml#p1040a04">現量品第三（上）</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_003.xml#p1051a03">現量品第三（中）</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_003.xml#p1064a03">現量品第三（下）</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_004.xml#p1078a04">他義品第四（上）</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_004.xml#p1087a09">他義品第四（下）</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G150/G150n2551_001.xml#p0995a01">第一</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_002.xml#p1019a01">第二</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_003.xml#p1040a01">第三</cblink></li>
+	<li><cblink href="XML/G/G150/G150n2551_004.xml#p1078a01">第四</cblink></li>
+</ol>
+</nav>
+</body></html>
