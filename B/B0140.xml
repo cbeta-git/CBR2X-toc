@@ -8,14 +8,19 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/B/B24/B24n0140_001.xml#p0577a10">序</cblink></li>
-	<li><cblink href="XML/B/B24/B24n0140_001.xml#p0578a10">重刻敘</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0140_001.xml#p0577a10">序</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0577a10">雪峯志序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0578a10">重刻雪峯誌敘</cblink></li>
+	</ol>
+	</li>
 	<li><cblink href="XML/B/B24/B24n0140_001.xml#p0579a10">目錄</cblink></li>
 	<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580a14">紀形勝</cblink>
 	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580a15">紀形勝序</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580a17">雪峰山</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580b15">象骨峰山</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580b16">鳳凰岡寺</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580b15">象骨峰</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580b16">鳳凰岡</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580b17">烏石嶺</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0580b18">丁山</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0581a01">六華峰</cblink></li>
@@ -37,17 +42,19 @@
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0581b11">蘸月池</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0581b14">雪嶠路</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0581b15">古鏡臺</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_001.xml#p0581b16">紀形勝論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582a14">紀剏立</cblink>
 	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582a15">紀剏立序</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582a17">雪峰崇聖禪寺</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582b11">法堂</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582b12">祖師堂</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582b15">檀越祠</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0582b18">枯木菴</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0583a06">鼇山閣</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0583a11">留香堂寺</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0583a11">留香堂</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0583a17">三毬堂</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0583b02">白雲堂</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0583b03">臥雲堂</cblink></li>
@@ -77,19 +84,23 @@
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0584a18">定林菴</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0584b03">無字碑</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0584b05">枯木菴題刻</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_002.xml#p0585b14">紀剏立論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/B/B24/B24n0140_003.xml#p0586a14">紀禪宗</cblink>
 	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_003.xml#p0586a15">紀禪宗序</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_003.xml#p0586a17">真覺大師年譜</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_003.xml#p0593b02">紀禪宗論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/B/B24/B24n0140_004.xml#p0593b14">紀法派</cblink>
 	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0593b15">紀法派序</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0593b17">雪峰法嗣</cblink>
 		<ol>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0593b18">雲門文偃禪師</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0594a13">福州玄沙師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0594a13">福州玄沙師備宗一禪師</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0594b04">福州長慶慧稜禪師</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0594b17">漳州保福從展禪師</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0595a02">福州鼓山神晏興聖國師</cblink></li>
@@ -131,6 +142,7 @@
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0597a08">漳州保福院超悟禪師</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0597a09">太原孚上座</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0597b04">南岳般若惟勁寶聞禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0597b07">雪峰法嗣論</cblink></li>
 		</ol>
 		</li>
 		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0597b13">雪峰別支</cblink>
@@ -142,141 +154,174 @@
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0598b01">雪峰慧空禪師</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0598b11">雪峰忠禪師</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0598b14">吉州禾山殷禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_004.xml#p0599a11">雪峰別支論</cblink></li>
 		</ol>
 		</li>
 		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0599b10">東土祖師系圖譜</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0602b18">雲門宗分派圖譜</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0602b30">雲門宗分派圖譜</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0605a11">法眼宗分派圖譜</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_004.xml#p0607b12">紀法派論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608a14">紀當山</cblink>
 	<ol>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608a17">第一代開山真覺大師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b01">第二代戒華禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b03">第三代元旵禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b05">第四代仁曉禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b07">第五代象敦禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b09">第六代德建禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b11">第七代彰微禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b13">第八代行元禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b15">第九代延超禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b17">第十代嘉潤禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a01">第十一代印超禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a03">第十二代月譽禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a05">第十三代隆禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a08">第十四代有需禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a10">第十五代大智禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a12">第十六代真歇清了禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b02">第十七代預禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b04">第十八代惠禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b06">第十九代宗演禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b08">第二十代繼椿禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b10">第二十一代空禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b12">第二十二代惠忠禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b15">第二十三代蘊聞禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b18">第二十四代惠然禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a02">第二十五代原深禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a05">第二十六代宗一禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a07">第二十七代惠深禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a09">第二十八代南瑩禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a11">第二十九代元聰禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a12">第三十代璧禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a14">第三十一代肇禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a16">第三十二代體仁禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a18">第三十三代行謙禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b03">第三十四代妙湛禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b05">第三十五代宗禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b07">第三十六代冲禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b09">第三十七代德因大夢禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b12">第三十八代道源禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b15">第三十九代了玉禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b17">第四十代宗信禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a01">第四十一代果禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a03">第四十二代一麟禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a05">第四十三代善珍禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a07">第四十四代環溪禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a09">第四十五代可湘禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a12">第四十六代至慧禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a14">第四十七代善用禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a15">第四十八代祖森禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a16">第四十九代俊禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a18">第五十代聳禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b02">第五十一代雲禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b04">第五十二代鏡行禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b06">第五十三代悟逸樵隱禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b11">第五十四代𥤱禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b13">第五十五代有禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b15">第五十六代隆禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b17">第五十七代明禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a02">第五十八代逆川順禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a05">第五十九代空禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a07">第六十代崇禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a10">第六十一代雪庭信禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a12">第六十二代愍忠慈禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a14">第六十三代墀禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a16">第六十四代正禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b01">第六十五代鏡堂宗禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b03">第六十六代希儒禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b05">第六十七代重興雪峰寺</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b09">第六十八代鎮禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b11">第六十九代遠芷秋厓禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b13">第七十代象祖禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b14">第七十一代良琛禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b15">第七十二代祖淵禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b16">第七十三代無念禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b17">第七十四代思惠禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b18">第七十五代慶預</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a01">第七十六代源潭月菴禪師。</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a11">第七十七代傳馨禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a12">第七十八代源慶禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a14">第七十九代志謙禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a15">第八十代源隆禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a17">第八十一代智哲禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b01">第八十二代智鎮禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b04">第八十三代智明性菴禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b08">第八十四代智潮禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b10">第八十四代慧洪禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b12">第八十五代廣仁禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b14">第八十六代廣儀禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b16">第八十七代慧經禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a01">第八十八代惠全禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a03">第八十九代惠孜禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a05">第九十代廣亨禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a07">第九十一代廣欽禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a09">第九十二代德秀禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a14">第九十三代德昌龍河禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a18">第九十四代德曉禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b03">第九十五代德性禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b06">第九十六代重興雪峰寺</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b10">第九十七代行清碧泉禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b13">第九十八代定聰明軒禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b15">第九十九代仁岱近軒禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b18">第一百代定綺華峰禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a03">第一百一代賢桐鳳岡禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a05">第一百二代紹城居武禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a07">第一百三代古雪恩禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a08">第一百四代亘信彌禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a11">第一百五代白嵩俊禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a13">第一百六代恆濤心禪師</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a16">第一百七代六吉謙禪師</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608a15">紀當山序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608a17">唐</cblink>
+		<ol>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608a17">第一代開山真覺大師</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b01">宋</cblink>
+		<ol>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b01">第二代戒華禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b03">第三代元旵禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b05">第四代仁曉禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b07">第五代象敦禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b09">第六代德建禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b11">第七代彰微禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b13">第八代行元禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b15">第九代延超禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0608b17">第十代嘉潤禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a01">第十一代印超禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a03">第十二代月譽禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a05">第十三代隆禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a08">第十四代有需禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a10">第十五代大智禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609a12">第十六代真歇清了禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b02">第十七代預禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b04">第十八代惠禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b06">第十九代宗演禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b08">第二十代繼椿禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b10">第二十一代空禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b12">第二十二代惠忠禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b15">第二十三代蘊聞禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0609b18">第二十四代惠然禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a02">第二十五代原深禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a05">第二十六代宗一禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a07">第二十七代惠深禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a09">第二十八代南瑩禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a11">第二十九代元聰禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a12">第三十代璧禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a14">第三十一代肇禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a16">第三十二代體仁禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610a18">第三十三代行謙禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b03">第三十四代妙湛禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b05">第三十五代宗禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b07">第三十六代冲禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b09">第三十七代德因大夢禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b12">第三十八代道源禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b15">第三十九代了玉禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0610b17">第四十代宗信禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a01">第四十一代果禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a03">第四十二代一麟禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a05">第四十三代善珍禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a07">第四十四代環溪禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a09">第四十五代可湘禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a12">第四十六代至慧禪師</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a14">元</cblink>
+		<ol>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a14">第四十七代善用禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a15">第四十八代祖森禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a16">第四十九代俊禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611a18">第五十代聳禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b02">第五十一代雲禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b04">第五十二代鏡行禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b06">第五十三代悟逸樵隱禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b11">第五十四代𥤱禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b13">第五十五代有禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b15">第五十六代隆禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0611b17">第五十七代明禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a02">第五十八代逆川順禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a05">第五十九代空禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a07">第六十代崇禪師</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a10">明</cblink>
+		<ol>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a10">第六十一代雪庭信禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a12">第六十二代愍忠慈禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a14">第六十三代墀禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612a16">第六十四代正禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b01">第六十五代鏡堂宗禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b03">第六十六代希儒禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b05">第六十七代重興雪峰寺正映潔菴禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b09">第六十八代鎮禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b11">第六十九代遠芷秋厓禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b13">第七十代象祖禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b14">第七十一代良琛禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b15">第七十二代祖淵禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b16">第七十三代無念禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b17">第七十四代思惠禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0612b18">第七十五代慶預禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a01">第七十六代源潭月菴禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a11">第七十七代傳馨禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a12">第七十八代源慶禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a14">第七十九代志謙禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a15">第八十代源隆禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613a17">第八十一代智哲禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b01">第八十二代智鎮禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b04">第八十三代智明性菴禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b08">第八十四代智潮禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b10">第八十四代慧洪禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b12">第八十五代廣仁禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b14">第八十六代廣儀禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0613b16">第八十七代慧經禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a01">第八十八代惠全禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a03">第八十九代惠孜禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a05">第九十代廣亨禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a07">第九十一代廣欽禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a09">第九十二代德秀禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a14">第九十三代德昌龍河禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614a18">第九十四代德曉禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b03">第九十五代德性禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b06">第九十六代重興雪峰寺行存六華禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b10">第九十七代行清碧泉禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b13">第九十八代定聰明軒禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b15">第九十九代仁岱近軒禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0614b18">第一百代定綺華峰禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a03">第一百一代賢桐鳳岡禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a05">第一百二代紹城居武禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a07">第一百三代古雪恩禪師</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a08">清</cblink>
+		<ol>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a08">第一百四代亘信彌禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a11">第一百五代白嵩俊禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a13">第一百六代恆濤心禪師</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a16">第一百七代六吉謙禪師</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B24/B24n0140_005.xml#p0615a17">紀當山論</cblink></li>
 	</ol>
 	</li>
-	<li><cblink href="XML/B/B24/B24n0140_006.xml#p0615b14">紀田產</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0140_006.xml#p0615b14">紀田產</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_006.xml#p0615b15">紀田產序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_006.xml#p0615b17">侯官縣田產</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_006.xml#p0617a07">紀田產論</cblink></li>
+	</ol>
+	</li>
 	<li><cblink href="XML/B/B24/B24n0140_007.xml#p0617b14">紀生植</cblink>
 	<ol>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0617b17">穀</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a01">木</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a05">竹</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a07">藥</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a11">花</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a17">蔬</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b02">果</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b06">鳥</cblink></li>
-		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b09">獸</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0617b15">紀生植序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0617b17">穀之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a01">木之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a05">竹之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a07">藥之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a11">花之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618a17">蔬之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b02">果之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b06">鳥之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b09">獸之屬</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_007.xml#p0618b11">紀生植論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/B/B24/B24n0140_008.xml#p0619a14">紀藝文</cblink>
 	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_008.xml#p0619a15">紀藝文序</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_008.xml#p0619a17">文類</cblink>
 		<ol>
 			<li><cblink href="XML/B/B24/B24n0140_008.xml#p0619a18">雪峰真覺大禪師碑銘</cblink></li>
@@ -300,10 +345,12 @@
 			<li><cblink href="XML/B/B24/B24n0140_008.xml#p0633a10">遊雪峰說</cblink></li>
 		</ol>
 		</li>
+		<li><cblink href="XML/B/B24/B24n0140_008.xml#p0633b12">紀藝文論</cblink></li>
 	</ol>
 	</li>
 	<li><cblink href="XML/B/B24/B24n0140_009.xml#p0634a14">紀題咏</cblink>
 	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_009.xml#p0634a15">紀題咏序</cblink></li>
 		<li><cblink href="XML/B/B24/B24n0140_009.xml#p0634a17">詩類</cblink>
 		<ol>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0634a18">雪峰溫泉</cblink></li>
@@ -387,28 +434,28 @@
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0643a18">憇雪峰寺</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0643b12">遊雪峰寺宿馬逸人宅</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0643b15">贈雪峰寺月菴上人</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0643b18">遊雪峰停舟大穆溪</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0643b18">遊雪峰，停舟大穆溪</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644a03">歇馬氏太平庄</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644a06">游雪峰龍眠兩日下山有作</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644a06">游雪峰龍眠兩日，下山有作</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644a12">枯木菴</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644a15">應潮泉</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644b01">無字碑</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644b07">韓衡之李明六董叔會從游雪峰</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644b07">韓衡之、李明六、董叔會從游雪峰</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0644b18">雪峰道中</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645a04">游雪峰宿馬氏太平庄</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645a08">雪峰寺二首</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645a15">枯木菴</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b01">雪峰晤盂山上人上人能詩曾識先君常過予家予方穉齒迄今三十餘載矣感而有贈</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b01">雪峰晤盂山上人</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b06">宿雪峰扆翠寮</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b09">別雪峰</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b12">蘸月池</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b15">六華峰</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0645b18">自大穆溪至雪峰道中作</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646a04">重至雪峰懷謝在杭方伯</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646a04">重至雪峰，懷謝在杭方伯</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646a08">宿留香堂</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646a12">靜安上人捐貲修造大殿喜贈</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646a12">靜安上人捐貲修造大殿，喜贈</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646a16">獅子峰訪定林上人靜室</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646b03">過扆翠寮憶盂山長老</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646b03">過扆翠寮，憶盂山長老</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646b06">雪峰道中</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646b10">宿太平庄馬氏山樓賦贈</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0646b14">雪峰寺二首</cblink></li>
@@ -418,7 +465,22 @@
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647a14">雪峰下山作</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647a18">又題太平馬氏山居</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647b04">遊雪峰寺</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647b08">雪峰原列廿四景茲乃撮其尤者為十二景各拈七言絕句一篇以紀之俾覽者獲知其槩云爾</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647b08">題雪峰十二景</cblink>
+			<ol>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647b11">雪峰山</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0647b16">烏石嶺</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648a01">應潮泉</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648a05">乘雲臺</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648a09">留香堂</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648a14">蘸月池</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648a18">萬松關</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648b04">枯木菴</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648b12">木毬堂</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0648b17">難提塔</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0649a03">金鼇橋</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0649a07">藍田庄</cblink></li>
+			</ol>
+			</li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0649a10">到雪峰寺二首</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0649a17">遊雪峰四首</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0649b12">訪定林上人</cblink></li>
@@ -479,12 +541,12 @@
 				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0655b14">望州亭</cblink></li>
 				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0655b18">卓錫泉</cblink></li>
 				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a04">應潮泉</cblink></li>
+				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a08">乘雲臺</cblink></li>
 			</ol>
 			</li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a08">乘雲臺</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a10">遊雪峰寺</cblink></li>
 			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a13">登絕頂</cblink></li>
-			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a17">和石倉曹廉憲雪峰十二詠</cblink>
+			<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a17">和石倉曹亷憲雪峰十二詠</cblink>
 			<ol>
 				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656a18">雪峰山</cblink></li>
 				<li><cblink href="XML/B/B24/B24n0140_009.xml#p0656b03">烏石嶺</cblink></li>
@@ -524,8 +586,64 @@
 		</li>
 	</ol>
 	</li>
-	<li><cblink href="XML/B/B24/B24n0140_010.xml#p0659a14">紀悟證</cblink></li>
-	<li><cblink href="XML/B/B24/B24n0140_010.xml#p0674b10">助刻寺誌芳名</cblink></li>
+	<li><cblink href="XML/B/B24/B24n0140_010.xml#p0659a14">紀悟證</cblink>
+	<ol>
+		<li><cblink href="XML/B/B24/B24n0140_010.xml#p0659a15">紀悟證序</cblink></li>
+		<li><cblink href="XML/B/B24/B24n0140_010.xml#p0659a17">祖師機緣四十八則</cblink>
+		<ol>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0659a17">一</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0659b07">二</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0660b03">三</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0661b12">四</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0662a09">五</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0662a16">六</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0663a04">七</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0663a09">八</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0663b08">九</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0663b13">十</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0664a07">十一</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0664b10">十二</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0665a04">十三</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0665a11">十四</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0665a17">十五</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0665b03">十六</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0665b08">十七</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0666a11">十八</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0666a18">十九</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0666b11">二十</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0667a09">二十一</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0667b05">二十二</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0667b10">二十三</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0667b17">二十四</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0668a06">二十五</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0668b02">二十六</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0668b16">二十七</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0669a04">二十八</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0670a07">二十九</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0670a16">三十</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0670b08">三十一</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0670b13">三十二</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0670b17">三十三</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0671a18">三十四</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0671b07">三十五</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0671b11">三十六</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0672a01">三十七</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0672a06">三十八</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0672a08">三十九</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0672b09">四十</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0672b13">四十一</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0672b18">四十二</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0673a10">四十三</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0673a18">四十四</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0673b03">四十五</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0673b12">四十六</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0673b17">四十七</cblink></li>
+			<li><cblink href="XML/B/B24/B24n0140_010.xml#p0674a02">四十八</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/B/B24/B24n0140_010.xml#p0674a06">雪峰東山空禪師答余才𦮠書</cblink></li>
+	</ol>
+	</li>
 </ol>
 </nav>
 <nav type="juan">
