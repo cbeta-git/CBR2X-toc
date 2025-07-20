@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G160/G160n2619_001.xml#p0095a07">一、事略</cblink></li>
+	<li><cblink href="XML/G/G160/G160n2619_001.xml#p0104a10">二、宗喀巴的弟子</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G160/G160n2619_001.xml#p0095a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
