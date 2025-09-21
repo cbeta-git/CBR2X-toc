@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G157/G157n2601_001.xml#p0951a01">序</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2601_001.xml#p0969a03">初題目</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2601_001.xml#p0975a11">二述人</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2601_001.xml#p0976a02">三正文</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G157/G157n2601_001.xml#p0951a01">第一</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2601_002.xml#p1023a01">第二</cblink></li>
+</ol>
+</nav>
+</body></html>

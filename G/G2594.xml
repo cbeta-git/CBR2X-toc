@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0001a01">序</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0002a03">前文</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0029a10">具緣第一</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0053a10">訶欲第二</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0061a14">棄蓋第三</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0080a11">調和第四</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0099a04">方便行第五</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0104a01">正修行第六</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0150a05">善根發第七</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0171a06">覺知魔事第八</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0184a02">治病第九</cblink></li>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0204a09">證果第十</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G157/G157n2594_001.xml#p0001a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
