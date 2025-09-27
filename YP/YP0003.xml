@@ -86,13 +86,4 @@
 	</li>
 </ol>
 </nav>
-<nav type="juan">
-<h1>卷</h1>
-<ol>
-	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0353a01">第一</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_002.xml#p0373a01">第二</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_003.xml#p0380a09">第三</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_004.xml#p0441a07">第四</cblink></li>
-</ol>
-</nav>
 </body></html>
