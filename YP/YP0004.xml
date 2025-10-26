@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/YP/YP02/YP02n0004_001.xml#p0001a02">自序</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0004_001.xml#p0005a05">一　本經的譯者</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0004_001.xml#p0021a13">二　本經的經題</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0004_002.xml#p0034a01">三　經文的解說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP02/YP02n0004_002.xml#p0034a03">甲一　標宗</cblink></li>
+		<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0068a06">甲二　顯義</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0068a07">乙一　正為利根示常道</cblink>
+			<ol>
+				<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0068a08">丙一　法說般若體</cblink>
+				<ol>
+					<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0068a09">丁一　修般若行</cblink>
+					<ol>
+						<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0068a10">戊一　廣觀蘊空</cblink>
+						<ol>
+							<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0068a11">己一　融相即性觀——加行</cblink></li>
+							<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0081a01">己二　泯相證性觀——正證</cblink></li>
+						</ol>
+						</li>
+						<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0089a04">戊二　略觀處界等空</cblink></li>
+						<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0114a09">戊三　結顯空義</cblink></li>
+					</ol>
+					</li>
+					<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0117a13">丁二　得般若果</cblink>
+					<ol>
+						<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0117a14">戊一　涅槃果——三乘共果</cblink></li>
+						<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0124a01">戊二　菩提果——如來不共果</cblink></li>
+					</ol>
+					</li>
+				</ol>
+				</li>
+				<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0127a03">丙二　喻讚般若德</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/YP/YP02/YP02n0004_003.xml#p0129a02">乙二　曲為鈍根說方便</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

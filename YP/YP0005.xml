@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0131a02">自序</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0135a05">前文</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0136a14">一　無價之寶的般若</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0140a03">㈠　通別題的分析</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0141a13">㈡　通題經的解說</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0144a09">㈢　別題心的略釋</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0147a11">㈣　略釋波羅密多</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_001.xml#p0149a12">㈤　開顯般若重要</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_002.xml#p0159a13">二　開顯本經的宗要</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_003.xml#p0185a02">三　色空無礙的正觀</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_004.xml#p0197a03">四　諸法空性的體證</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_005.xml#p0204a05">五　蘊處界三的空無</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_006.xml#p0213a13">六　徹悟十二緣起空</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_007.xml#p0224a14">七　洞達四聖諦理空</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_008.xml#p0235a04">八　智得空及結空義</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_009.xml#p0241a08">九　無得而得般若果</cblink></li>
+	<li><cblink href="XML/YP/YP02/YP02n0005_010.xml#p0255a11">十　喻讚般若兼說咒</cblink></li>
+</ol>
+</nav>
+</body></html>

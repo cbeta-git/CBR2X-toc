@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0001a02">序</cblink></li>
+	<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0003a05">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0003a07">一　聞法勝利</cblink></li>
+		<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0012a07">二　諸善根本</cblink></li>
+		<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0021a12">三　經題略釋</cblink></li>
+		<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0030a12">四　譯者簡介</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP03/YP03n0007_002.xml#p0035a02">正釋經文</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP03/YP03n0007_002.xml#p0035a04">甲一　證信</cblink></li>
+		<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0045a05">甲二　正說</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0045a06">乙一　明世出世業果</cblink>
+			<ol>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0045a07">丙一　就因明果</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0054a12">丙二　即果明因</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0057a04">丙三　舉因相明</cblink>
+				<ol>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0057a05">丁一　觀心無主</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0062a12">丁二　觀法如幻</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0065a13">丁三　勸應修善</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0069a09">丙四　舉果相證</cblink>
+				<ol>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0069a10">丁一　以佛果證</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0079a10">丁二　以菩薩證</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0080a07">丁三　以天龍證</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0081a06">丁四　以海眾證</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0083a05">丙五　結勸修學</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0087a09">乙二　正明十善業道</cblink>
+			<ol>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0087a10">丙一　顯善法用</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0094a09">丙二　釋善法名</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0099a03">丙三　出善法相</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0109a08">乙三　明十善業功德</cblink>
+			<ol>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0109a09">丙一　明離殺生功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0119a03">丙二　明離偷盜功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0131a05">丙三　明離邪行功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0138a04">丙四　明離妄語功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0146a02">丙五　明離兩舌功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0152a07">丙六　明離惡口功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0159a07">丙七　明離綺語功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0163a02">丙八　明離貪欲功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0171a02">丙九　明離瞋恚功德</cblink></li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0176a03">丙十　明離邪見功德</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0189a03">乙四　明十善業勝行</cblink>
+			<ol>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0189a04">丙一　明六度</cblink>
+				<ol>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0189a05">丁一　廣明布施度</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0207a03">丁二　略明餘五度</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0214a07">丙二　明眾行</cblink>
+				<ol>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0214a08">丁一　四無量心</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0217a10">丁二　四攝事</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0220a04">丁三　三十七菩提分</cblink></li>
+					<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0226a08">丁四　止觀、方便</cblink></li>
+				</ol>
+				</li>
+				<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0228a05">丙三　結廣</cblink></li>
+			</ol>
+			</li>
+			<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0230a12">乙五　明十善業殊勝</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP03/YP03n0007_004.xml#p0232a10">甲三　流通</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/YP/YP03/YP03n0007_001.xml#p0001a01">第一</cblink></li>
+	<li><cblink href="XML/YP/YP03/YP03n0007_002.xml#p0035a02">第二</cblink></li>
+	<li><cblink href="XML/YP/YP03/YP03n0007_003.xml#p0045a05">第三</cblink></li>
+	<li><cblink href="XML/YP/YP03/YP03n0007_004.xml#p0232a10">第四</cblink></li>
+</ol>
+</nav>
+</body></html>
