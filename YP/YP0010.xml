@@ -8,11 +8,15 @@
 <nav type="catalog">
 <h1>目錄</h1>
 <ol>
-	<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0001a06">題前概說</cblink></li>
-	<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0003a08">一　本經的譯者</cblink></li>
-	<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0009a09">二　本經的題釋</cblink></li>
-	<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0030a11">三　本經的宗要</cblink></li>
-	<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0033a12">四　本經的教別</cblink></li>
+	<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0001a06">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0001a08">前文</cblink></li>
+		<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0003a08">一　本經的譯者</cblink></li>
+		<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0009a09">二　本經的題釋</cblink></li>
+		<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0030a11">三　本經的宗要</cblink></li>
+		<li><cblink href="XML/YP/YP04/YP04n0010_001.xml#p0033a12">四　本經的教別</cblink></li>
+	</ol>
+	</li>
 	<li><cblink href="XML/YP/YP04/YP04n0010_002.xml#p0037a02">正釋經文</cblink>
 	<ol>
 		<li><cblink href="XML/YP/YP04/YP04n0010_002.xml#p0037a04">甲一　序分</cblink>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G155/G155n2590_001.xml#p0141a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/G/G155/G155n2590_001.xml#p0141a01">六祖壇經箋註序</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_001.xml#p0145a01">六祖壇經箋註後序</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_001.xml#p0150a01">箋經雜記</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_001.xml#p0171a01">六祖大師法寶壇經略序</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_001.xml#p0187a01">壇經序</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_001.xml#p0206a01">六祖大師法寶壇經箋註</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G155/G155n2590_002.xml#p0208a14">行由品第一</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_003.xml#p0285a14">般若品第二</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_004.xml#p0338a13">疑問品第三</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_005.xml#p0359a12">定慧品第四</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_006.xml#p0371a14">坐禪品第五</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_007.xml#p0375a06">懺悔品第六</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_008.xml#p0400a09">機緣品第七</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_009.xml#p0484a07">頓漸品第八</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_010.xml#p0518a14">護法品第九</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_011.xml#p0531a01">付囑品第十</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_012.xml#p0586a02">跋</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_013.xml#p0592a01">附</cblink>
+	<ol>
+		<li><cblink href="XML/G/G155/G155n2590_013.xml#p0592a01">六祖能禪師碑銘</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_013.xml#p0640a06">曹溪第六祖賜諡大鑒禪師碑</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_013.xml#p0651a09">大唐曹溪第六祖大鑒禪師第二碑</cblink></li>
+		<li><cblink href="XML/G/G155/G155n2590_013.xml#p0656a03">歷朝崇奉事蹟</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G155/G155n2590_001.xml#p0141a01">第一</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_002.xml#p0208a14">第二</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_003.xml#p0285a14">第三</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_004.xml#p0338a13">第四</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_005.xml#p0359a12">第五</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_006.xml#p0371a14">第六</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_007.xml#p0375a06">第七</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_008.xml#p0400a09">第八</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_009.xml#p0484a07">第九</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_010.xml#p0518a14">第十</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_011.xml#p0531a01">第十一</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_012.xml#p0586a02">第十二</cblink></li>
+	<li><cblink href="XML/G/G155/G155n2590_013.xml#p0592a01">第十三</cblink></li>
+</ol>
+</nav>
+</body></html>

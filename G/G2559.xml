@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0895a02">前文</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0900a01">觀因緣門第一</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0908a02">觀有果無果門第二</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0930a05">觀緣門第三</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0934a08">觀相門第四</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0944a07">觀有相無相門第五</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0947a03">觀一異門第六</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0953a01">觀有無門第七</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0958a03">觀性門第八</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0963a08">觀因果門第九</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0964a12">觀作者門第十</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0976a08">觀三時門第十一</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0980a15">觀生門第十二</cblink></li>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0986a02">後語</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G151/G151n2559_001.xml#p0895a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>
