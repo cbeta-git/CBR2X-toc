@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0681a01">經題</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0681a06">序文</cblink>
+	<ol>
+		<li><cblink href="XML/G/G086/G086n2203_001.xml#p0681a06">御製六祖法寶壇經敘</cblink></li>
+		<li><cblink href="XML/G/G086/G086n2203_001.xml#p0681a16">刻法寶壇經序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0682a11">目錄</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0683a02">悟法傳衣第一</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0691a16">釋功德淨土第二</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0694a02">定慧一體第三</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0695a08">教授坐禪第四</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0696a02">傳香懺悔第五</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0699a07">參請機緣第六</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0707a07">南頓北漸第七</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0710a14">唐朝徵詔第八</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0711a15">法門對示第九</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0713a04">付囑流通第十</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0718a06">緣起</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0724a08">跋</cblink></li>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0726a08">頌</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G086/G086n2203_001.xml#p0681a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

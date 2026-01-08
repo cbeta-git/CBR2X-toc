@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/G/G103/G103n2241_001.xml#p0195a01">序</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_001.xml#p0197a14">佛國品第一</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_001.xml#p0214a01">維摩詰所說經方便品第二</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_001.xml#p0221a03">維摩詰所說經弟子品第三</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_001.xml#p0238a12">維摩詰所說經菩薩品第四</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_002.xml#p0251a06">文殊師利問疾品第五</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_002.xml#p0266a01">維摩詰所說經不思議品第六</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_002.xml#p0273a13">維摩詰所說經觀眾生品第七</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_002.xml#p0286a07">維摩詰所說經佛道品第八</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_002.xml#p0297a02">維摩詰所說經入不二法門品第九</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0308a08">香積佛品第十</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0317a05">維摩詰所說經菩薩行品第十一</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0327a06">維摩詰所說經見阿閦佛品第十二</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0334a01">維摩詰所說經法供養品第十三</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0339a10">維摩詰所說經囑累品第十四</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0342a10">跋</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G103/G103n2241_001.xml#p0195a01">第一</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_002.xml#p0251a02">第二</cblink></li>
+	<li><cblink href="XML/G/G103/G103n2241_003.xml#p0308a04">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

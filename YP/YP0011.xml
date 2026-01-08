@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0001a06">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0001a08">前文</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0002a08">一　本經傳譯的敘說</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0005a01">二　本經譯者的簡介</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0009a10">三　本經主角的家庭</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0019a09">四　本經旨意的揭示</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_001.xml#p0026a04">五　本經經題的略釋</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP05/YP05n0011_002.xml#p0036a01">正釋經文</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP05/YP05n0011_002.xml#p0036a03">佛國品第一</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_003.xml#p0186a01">方便品第二</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_004.xml#p0264a01">弟子品第三</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_005.xml#p0414a01">菩薩品第四</cblink></li>
+		<li><cblink href="XML/YP/YP05/YP05n0011_006.xml#p0506a01">文殊師利問疾品第五</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>
