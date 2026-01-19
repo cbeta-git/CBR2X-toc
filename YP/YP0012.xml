@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#pa001a02">序</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#pa001a02">序一</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#pa007a02">序二</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#pa009a02">自序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0001a04">一　總敘全經旨意</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0001a06">㈠　梵本與譯本</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0004a05">㈡　本經的組織</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0007a06">㈢　經題的解釋</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0013a01">㈣　本經的特勝</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0017a04">二　別釋勝義了義</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0017a06">㈠　釋勝義</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0021a02">㈡　釋了義</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#p0024a13">㈢　勝義了義</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_002.xml#p0028a01">三　正釋經文</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP07/YP07n0012_002.xml#p0028a01">序品第一</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_003.xml#p0059a01">勝義諦相品第二</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_004.xml#p0140a01">心意識相品第三</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_005.xml#p0165a01">一切法相品第四</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_006.xml#p0188a01">無自性相品第五</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_007.xml#p0284a01">分別瑜伽品第六</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_008.xml#p0457a01">地波羅密多品第七</cblink></li>
+		<li><cblink href="XML/YP/YP07/YP07n0012_009.xml#p0565a01">如來成所作事品第八</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>
