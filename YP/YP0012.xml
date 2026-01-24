@@ -44,4 +44,18 @@
 	</li>
 </ol>
 </nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/YP/YP07/YP07n0012_001.xml#pa001a01">第一</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_002.xml#p0028a01">第二</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_003.xml#p0059a01">第三</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_004.xml#p0140a01">第四</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_005.xml#p0165a01">第五</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_006.xml#p0188a01">第六</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_007.xml#p0284a01">第七</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_008.xml#p0457a01">第八</cblink></li>
+	<li><cblink href="XML/YP/YP07/YP07n0012_009.xml#p0565a01">第九</cblink></li>
+</ol>
+</nav>
 </body></html>
