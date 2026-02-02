@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目錄</h1>
+<ol>
+	<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0001a06">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0001a08">前文</cblink></li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0002a08">一　淨土貫通整個的佛法</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0003a10">㈠　五乘所共的淨土</cblink></li>
+			<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0004a12">㈡　三乘所共的淨土</cblink></li>
+			<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0005a14">㈢　大乘不共的淨土</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0007a02">二　淨土顯示各種的特色</cblink></li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0011a03">三　彌勒淨土的適合時機</cblink></li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0015a04">四　彌勒淨土的殊勝易生</cblink></li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0019a05">五　本經譯者的歷史簡介</cblink></li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0023a07">六　本經經題的略為解釋</cblink></li>
+		<li><cblink href="XML/YP/YP08/YP08n0013_001.xml#p0040a09">七　彌勒菩薩的前生因緣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP08/YP08n0013_002.xml#p0044a02">正釋經文</cblink></li>
+</ol>
+</nav>
+</body></html>
