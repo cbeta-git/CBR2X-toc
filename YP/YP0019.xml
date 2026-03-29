@@ -6,7 +6,7 @@
 	</head>
 <body>
 <nav type="catalog">
-<h1>目錄</h1>
+<h1>目次</h1>
 <ol>
 	<li><cblink href="XML/YP/YP13/YP13n0019_001.xml#p0001a06">題前概說</cblink>
 	<ol>
@@ -14,9 +14,9 @@
 		<li><cblink href="XML/YP/YP13/YP13n0019_001.xml#p0009a06">二　題目的略釋</cblink></li>
 	</ol>
 	</li>
-	<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0014a01">正釋頌義</cblink>
+	<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0014a02">正釋頌義</cblink>
 	<ol>
-		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0014a03">早覺</cblink></li>
+		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0014a04">早覺</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0020a08">鳴鐘</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0029a11">聞聲</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0036a12">著衣</cblink></li>
@@ -56,7 +56,7 @@
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0152a11">漱口</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0154a10">出錫杖</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0159a02">敷單坐禪</cblink></li>
-		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0162a01">睡眠</cblink></li>
+		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0162a02">睡眠</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0164a03">取水</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0170a14">浴佛</cblink></li>
 		<li><cblink href="XML/YP/YP13/YP13n0019_002.xml#p0175a02">讚佛</cblink></li>
