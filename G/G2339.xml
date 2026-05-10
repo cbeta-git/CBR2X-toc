@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G124/G124n2339_001.xml#p0517a01">品目</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_001.xml#p0520a03">體例</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_001.xml#p0520a11">經題</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_001.xml#p0527a05">譯者</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_001.xml#p0527a13">佛國品第一</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_002.xml#p0582a03">方便品第二</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_003.xml#p0608a03">弟子品第三</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_004.xml#p0685a03">菩薩品第四</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_005.xml#p0732a03">文殊師利問疾品第五</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_006.xml#p0779a03">不思議品第六</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_006.xml#p0788a14">觀眾生品第七</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_007.xml#p0823a03">佛道品第八</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_008.xml#p0853a03">入不二法門方便品第九</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_008.xml#p0868a14">香積佛品第十</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_009.xml#p0885a03">菩薩行品第十一</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_009.xml#p0915a13">見阿閦佛品第十二</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_010.xml#p0937a03">法供養品第十三</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_010.xml#p0955a13">囑累品第十四</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G124/G124n2339_001.xml#p0517a01">第一</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_002.xml#p0582a01">第二</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_003.xml#p0608a01">第三</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_004.xml#p0685a01">第四</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_005.xml#p0732a01">第五</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_006.xml#p0779a01">第六</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_007.xml#p0823a01">第七</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_008.xml#p0853a01">第八</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_009.xml#p0885a01">第九</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2339_010.xml#p0937a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

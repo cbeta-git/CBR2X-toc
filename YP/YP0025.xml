@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP19/YP19n0025_001.xml#p0091a06">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP19/YP19n0025_001.xml#p0091a08">前文</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_001.xml#p0092a08">一　佛法對於心識的重視</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_001.xml#p0097a06">二　心識不同類型的眺望</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_001.xml#p0106a04">三　略說心意識三的異同</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_001.xml#p0118a06">四　作者造作偈頌的意趣</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP19/YP19n0025_002.xml#p0124a02">正釋頌文</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP19/YP19n0025_002.xml#p0124a04">一　前五識頌</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP19/YP19n0025_002.xml#p0124a05">㈠　有漏雜染識</cblink></li>
+			<li><cblink href="XML/YP/YP19/YP19n0025_002.xml#p0229a04">㈡　無漏清淨識</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_003.xml#p0236a10">二　第六識頌</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP19/YP19n0025_003.xml#p0236a11">㈠　有漏雜染識</cblink></li>
+			<li><cblink href="XML/YP/YP19/YP19n0025_003.xml#p0322a06">㈡　無漏清淨識</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_004.xml#p0333a13">三　第七識頌</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP19/YP19n0025_004.xml#p0333a14">㈠　有漏雜染識</cblink></li>
+			<li><cblink href="XML/YP/YP19/YP19n0025_004.xml#p0351a09">㈡　無漏清淨識</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP19/YP19n0025_005.xml#p0363a03">四　第八識頌</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP19/YP19n0025_005.xml#p0363a04">㈠有漏雜染識</cblink></li>
+			<li><cblink href="XML/YP/YP19/YP19n0025_005.xml#p0399a03">㈡　無漏清淨識</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP19/YP19n0025_006.xml#p0409a08">結尾的話</cblink></li>
+</ol>
+</nav>
+</body></html>

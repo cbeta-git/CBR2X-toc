@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G124/G124n2337_001.xml#p0209a01">自序</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_001.xml#p0213a01">雜記</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_001.xml#p0215a01">經題</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_001.xml#p0217a01">譯者</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_002.xml#p0219a02">一、序分</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_003.xml#p0232a14">二、正宗分</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_004.xml#p0324a06">三、流通分</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G124/G124n2337_001.xml#p0209a01">第一</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_002.xml#p0219a02">第二</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_003.xml#p0232a14">第三</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2337_004.xml#p0324a06">第四</cblink></li>
+</ol>
+</nav>
+</body></html>

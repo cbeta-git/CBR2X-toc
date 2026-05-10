@@ -9,10 +9,13 @@
 <h1>目次</h1>
 <ol>
 	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0353a02">序</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0357a04">懸論</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0357a06">一　本經譯史的簡說</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0361a12">二　本經宗要及勝用</cblink></li>
-	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0367a04">三　本經經題的略釋</cblink></li>
+	<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0357a04">懸論</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0357a06">一　本經譯史的簡說</cblink></li>
+		<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0361a12">二　本經宗要及勝用</cblink></li>
+		<li><cblink href="XML/YP/YP01/YP01n0003_001.xml#p0367a04">三　本經經題的略釋</cblink></li>
+	</ol>
+	</li>
 	<li><cblink href="XML/YP/YP01/YP01n0003_002.xml#p0373a01">正講</cblink>
 	<ol>
 		<li><cblink href="XML/YP/YP01/YP01n0003_002.xml#p0373a03">甲一　序略說意</cblink>

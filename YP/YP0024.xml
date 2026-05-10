@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP19/YP19n0024_001.xml#p0001a06">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP19/YP19n0024_001.xml#p0001a08">一　唯心思想的探究</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_001.xml#p0008a13">二　唯心說與因果說的關係</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_001.xml#p0013a10">三　本論的論題、作者及譯者</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0018a02">正釋頌文</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0018a04">一　有心無境四事不成難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0023a03">二　舉夢等喻明四義得成</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0029a07">三　舉地獄喻總答外四難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0034a08">四　顯外舉喻及理不成立</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0036a02">五　破有部說業力生非理</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0037a09">六　破經部說業熏習餘處</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0040a12">七　釋外引聖教為證不成</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0043a14">八　顯佛說彼十意趣所在</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0047a03">九　明密說十二處之勝利</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0052a06">十　破各學派執實有極微</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0060a08">十一　明極微所以不成之故</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0062a11">十二　破有部聚色有和合義</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0064a03">十三　再顯有分無分之過失</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0066a13">十四　再顯執境為一之過失</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0071a08">十五　釋外人現量證境之難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0074a10">十六　破執曾受境及釋夢覺難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0077a10">十七　釋二識決定夢覺果異難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0081a02">十八　釋無外境應無殺罪難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0083a11">十九　舉意罰為大罪以返詰</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0087a14">二十　釋外舉他心智不成難</cblink></li>
+		<li><cblink href="XML/YP/YP19/YP19n0024_002.xml#p0089a13">結說推佛</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

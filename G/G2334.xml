@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G124/G124n2334_001.xml#p0063a05">總題</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2334_001.xml#p0073a04">譯人</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2334_001.xml#p0075a05">章題</cblink></li>
+	<li><cblink href="XML/G/G124/G124n2334_001.xml#p0078a06">正文</cblink>
+	<ol>
+		<li><cblink href="XML/G/G124/G124n2334_001.xml#p0078a06">序分</cblink></li>
+		<li><cblink href="XML/G/G124/G124n2334_001.xml#p0080a10">正宗分</cblink></li>
+		<li><cblink href="XML/G/G124/G124n2334_001.xml#p0169a08">流通分</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G124/G124n2334_001.xml#p0063a01">第一</cblink></li>
+</ol>
+</nav>
+</body></html>

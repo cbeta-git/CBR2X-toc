@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP16/YP16n0023_001.xml#pa001a01">序</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP16/YP16n0023_001.xml#pa001a02">序一</cblink></li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_001.xml#pa009a02">序二</cblink></li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_001.xml#pa011a02">序三</cblink></li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_001.xml#pa015a02">自序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0001a04">懸論</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0001a06">一　本論作者小史</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0001a08">㈠　作者生年的考訂</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0002a10">㈡　作者出家的研究</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0005a06">㈢　作者思想的透視</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0007a02">㈣　作者作品的一瞥</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0008a03">二　本論與婆沙的關係</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0008a04">㈠　毘婆沙論的編集</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0009a14">㈡　本論的應運問世</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0012a08">三　本論與雜心的關係</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0012a09">㈠　從組織的次第看</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0016a08">㈡　從頌文的對照看</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0018a11">㈢　從世親的學歷看</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0020a11">四　本論的思想淵源</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0020a12">㈠　直接的思想</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0022a04">㈡　間接的思想</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0024a04">㈢　思想的革新</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0025a11">五　本論的組織次第</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0025a12">㈠　一論的組織</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0027a13">㈡　諸品的次第</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0030a11">㈢　破我品別說</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0036a04">六　本論的價值與地位</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0036a05">㈠　偉大的價值</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0037a13">㈡　崇高的地位</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0039a03">七　本論的譯者與釋者</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0039a04">㈠　譯者</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0043a11">㈡　釋者</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0045a03">八　本論的論題略釋</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0045a04">㈠　分別的解釋</cblink></li>
+			<li><cblink href="XML/YP/YP16/YP16n0023_002.xml#p0046a11">㈡　綜合的解釋</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP16/YP16n0023_003.xml#p0050a01">正釋</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP16/YP16n0023_003.xml#p0050a03">分別界品第一</cblink></li>
+		<li><cblink href="XML/YP/YP16/YP16n0023_004.xml#p0235a01">分別根品第二</cblink></li>
+		<li><cblink href="XML/YP/YP17/YP17n0023_005.xml#p0001a04">分別世間品第三</cblink></li>
+		<li><cblink href="XML/YP/YP17/YP17n0023_006.xml#p0216a01">分別業品第四</cblink></li>
+		<li><cblink href="XML/YP/YP18/YP18n0023_007.xml#p0001a03">分別隨眠品第五</cblink></li>
+		<li><cblink href="XML/YP/YP18/YP18n0023_008.xml#p0148a01">分別賢聖品第六</cblink></li>
+		<li><cblink href="XML/YP/YP18/YP18n0023_009.xml#p0309a01">分別智品第七</cblink></li>
+		<li><cblink href="XML/YP/YP18/YP18n0023_010.xml#p0401a01">分別定品第八</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>
