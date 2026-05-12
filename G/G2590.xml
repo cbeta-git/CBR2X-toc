@@ -39,22 +39,4 @@
 	</li>
 </ol>
 </nav>
-<nav type="juan">
-<h1>卷</h1>
-<ol>
-	<li><cblink href="XML/G/G155/G155n2590_001.xml#p0141a01">第一</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_002.xml#p0206a01">第二</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_003.xml#p0285a14">第三</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_004.xml#p0338a13">第四</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_005.xml#p0359a12">第五</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_006.xml#p0371a14">第六</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_007.xml#p0375a06">第七</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_008.xml#p0400a09">第八</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_009.xml#p0484a07">第九</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_010.xml#p0518a14">第十</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_011.xml#p0531a01">第十一</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_012.xml#p0586a02">第十二</cblink></li>
-	<li><cblink href="XML/G/G155/G155n2590_013.xml#p0592a01">第十三</cblink></li>
-</ol>
-</nav>
 </body></html>
