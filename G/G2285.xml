@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2285_001.xml#p0589a01">序</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2285_001.xml#p0591a03">前言</cblink></li>
+	<li><cblink href="XML/G/G104/G104n2285_001.xml#p0591a15">初總釋名題</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2285_001.xml#p0591a15">一法題</cblink>
+		<ol>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0591a15">一釋名</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0595a03">次顯體</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0596a02">三明宗</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0596a12">四論用</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0597a05">五判教相</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/G/G104/G104n2285_001.xml#p0597a16">二人題</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G104/G104n2285_001.xml#p0599a12">二別解文義</cblink>
+	<ol>
+		<li><cblink href="XML/G/G104/G104n2285_001.xml#p0600a01">初略標大綱（序分）</cblink>
+		<ol>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0600a01">初泛標正法</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0601a14">次標宗大乘</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_001.xml#p0604a01">三標示止觀</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/G/G104/G104n2285_002.xml#p0607a01">二廣作分別（正宗分）</cblink>
+		<ol>
+			<li><cblink href="XML/G/G104/G104n2285_002.xml#p0607a01">初重問</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_002.xml#p0607a08">二詳答</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/G/G104/G104n2285_019.xml#p0841a04">三歷事指點（流通分）</cblink>
+		<ol>
+			<li><cblink href="XML/G/G104/G104n2285_019.xml#p0841a04">初明禮佛時止觀</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_020.xml#p0853a11">二明食時止觀</cblink></li>
+			<li><cblink href="XML/G/G104/G104n2285_020.xml#p0855a15">三明便利時止觀</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>
