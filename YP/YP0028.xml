@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#pa001a02">自序</cblink></li>
+	<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#p0001a06">文前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#p0001a07">前言</cblink></li>
+		<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#p0003a14">一　菩提心的尊貴殊勝及其功德</cblink></li>
+		<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#p0007a11">二　菩提心為入大乘的不二法門</cblink></li>
+		<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#p0010a04">三　本文題目的略為解說</cblink></li>
+		<li><cblink href="XML/YP/YP26/YP26n0028_001.xml#p0018a06">四　本文作者的史實簡介</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP26/YP26n0028_002.xml#p0023a02">解釋正文</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP26/YP26n0028_002.xml#p0023a04">一　緒說</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP26/YP26n0028_002.xml#p0023a05">㈠　心願為修行宗本</cblink></li>
+			<li><cblink href="XML/YP/YP26/YP26n0028_002.xml#p0039a12">㈡　心願為立行標準</cblink></li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0074a04">二　正說</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0074a05">㈠　略標</cblink></li>
+			<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0079a07">㈡　別釋</cblink>
+			<ol>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0079a08">⒈　念佛重恩發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0092a08">⒉　念父母恩發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0113a05">⒊　念師長恩發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0120a11">⒋　念施主恩發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0137a05">⒌　念眾生恩發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0147a14">⒍　念生死苦發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0186a11">⒎　尊重己靈發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0195a07">⒏　懺悔業障發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0210a03">⒐　求生淨土發菩提心</cblink></li>
+				<li><cblink href="XML/YP/YP26/YP26n0028_003.xml#p0221a01">⒑　令正法久住發菩提心</cblink></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+		<li><cblink href="XML/YP/YP26/YP26n0028_004.xml#p0240a07">三　結說</cblink>
+		<ol>
+			<li><cblink href="XML/YP/YP26/YP26n0028_004.xml#p0240a08">㈠　躬自反省</cblink></li>
+			<li><cblink href="XML/YP/YP26/YP26n0028_004.xml#p0246a03">㈡　普勸大眾</cblink></li>
+			<li><cblink href="XML/YP/YP26/YP26n0028_004.xml#p0251a08">㈢　苦樂相校</cblink></li>
+			<li><cblink href="XML/YP/YP26/YP26n0028_004.xml#p0252a08">㈣　至再叮嚀</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

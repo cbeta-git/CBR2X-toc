@@ -385,9 +385,9 @@
 <nav type="juan">
 <h1>卷</h1>
 <ol>
-	<li><cblink href="XML/YP/YP25/YP25n0027_001.xml#p0001a01">第一</cblink></li>
-	<li><cblink href="XML/YP/YP25/YP25n0027_002.xml#p0271a01">第二</cblink></li>
-	<li><cblink href="XML/YP/YP25/YP25n0027_003.xml#p0497a01">第三</cblink></li>
+	<li><cblink href="XML/YP/YP25/YP25n0027_001.xml#p0001a01">上</cblink></li>
+	<li><cblink href="XML/YP/YP25/YP25n0027_002.xml#p0271a01">中</cblink></li>
+	<li><cblink href="XML/YP/YP25/YP25n0027_003.xml#p0497a01">下</cblink></li>
 </ol>
 </nav>
 </body></html>
