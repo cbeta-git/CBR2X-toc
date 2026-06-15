@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pa001a02">自序</cblink></li>
+	<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pb001a02">成佛之道（偈頌）</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pb001a04">歸敬三寶章</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pb002a09">聞法趣入章</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pb003a09">五乘共法章</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pb005a13">三乘共法章</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_001.xml#pb009a07">大乘不共法章</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP27/YP27n0029_002.xml#p0001a04">題前概說</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP27/YP27n0029_002.xml#p0001a05">一　本頌造作的經過</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_002.xml#p0003a01">二　本頌作者的小史</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP27/YP27n0029_002.xml#p0013a01">正釋偈頌</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP27/YP27n0029_002.xml#p0013a02">第一章　歸敬三寶</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_003.xml#p0083a02">第二章　聞法趣入</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_004.xml#p0131a02">第三章　五乘共法</cblink></li>
+		<li><cblink href="XML/YP/YP27/YP27n0029_005.xml#p0255a02">第四章　三乘共法</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>
