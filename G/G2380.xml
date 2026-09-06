@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2380_001.xml#p0183a02">略明宗要</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2380_001.xml#p0186a10">次釋經文</cblink>
+	<ol>
+		<li><cblink href="XML/G/G131/G131n2380_001.xml#p0186a10">釋題名</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2380_001.xml#p0187a04">述傳譯</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2380_001.xml#p0187a14">解本文</cblink>
+		<ol>
+			<li><cblink href="XML/G/G131/G131n2380_001.xml#p0187a14">前文</cblink></li>
+			<li><cblink href="XML/G/G131/G131n2380_001.xml#p0188a01">序分</cblink></li>
+			<li><cblink href="XML/G/G131/G131n2380_001.xml#p0192a03">正宗分</cblink></li>
+			<li><cblink href="XML/G/G131/G131n2380_001.xml#p0223a02">流通分</cblink></li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

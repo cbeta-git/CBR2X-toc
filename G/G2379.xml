@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0001a01">科文</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0012a03">通序大意</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0013a08">第一、教起因緣</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0017a02">第二、藏乘分攝</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0020a04">第三、辯定時會</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0020a15">第四、教義顯密</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0023a09">第五、所被機宜</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0024a14">第六、能詮體性</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0026a10">第七、宗趣通局</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0027a11">第八、翻譯傳授</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0029a03">第九、總釋名題</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0037a02">第十、別解文義</cblink>
+	<ol>
+		<li><cblink href="XML/G/G131/G131n2379_001.xml#p0037a03">前文</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2379_001.xml#p0037a06">序分</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2379_001.xml#p0042a11">正宗分</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2379_003.xml#p0179a02">流通分</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2379_001.xml#p0001a01">第一</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_002.xml#p0070a01">第二</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2379_003.xml#p0132a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>

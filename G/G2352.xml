@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G127/G127n2352_001.xml#p0257a01">序文</cblink>
+	<ol>
+		<li><cblink href="XML/G/G127/G127n2352_001.xml#p0257a01">蔣之奇序</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_001.xml#p0260a01">蘇軾序</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_001.xml#p0262a01">自序</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G127/G127n2352_001.xml#p0266a01">科文</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_001.xml#p0320a03">懸談</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_002.xml#p0363a03">通釋名題</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_002.xml#p0367a11">正解經文</cblink>
+	<ol>
+		<li><cblink href="XML/G/G127/G127n2352_002.xml#p0367a11">一切佛語心品第一之上</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_003.xml#p0426a03">一切佛語心品第一之中</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_004.xml#p0481a03">一切佛語心品第一之下</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_005.xml#p0550a03">一切佛語心品第二之上</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_006.xml#p0613a03">一切佛語心品第二之下</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_007.xml#p0684a03">一切佛語心品第三之上</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_008.xml#p0748a03">一切佛語心品第三之下</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_009.xml#p0796a03">一切佛語心品第四之上</cblink></li>
+		<li><cblink href="XML/G/G127/G127n2352_010.xml#p0861a03">一切佛語心品第四之下</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G127/G127n2352_001.xml#p0257a01">第一</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_002.xml#p0363a01">第二</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_003.xml#p0426a01">第三</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_004.xml#p0481a01">第四</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_005.xml#p0550a01">第五</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_006.xml#p0613a01">第六</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_007.xml#p0684a01">第七</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_008.xml#p0748a01">第八</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_009.xml#p0796a01">第九</cblink></li>
+	<li><cblink href="XML/G/G127/G127n2352_010.xml#p0861a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>
