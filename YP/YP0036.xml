@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP31/YP31n0036_001.xml#p0381a06">一</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0036_001.xml#p0382a14">二</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0036_001.xml#p0394a02">三</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0036_001.xml#p0404a05">四</cblink></li>
+</ol>
+</nav>
+</body></html>

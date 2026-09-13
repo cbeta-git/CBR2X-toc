@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP31/YP31n0033_001.xml#p0311a04">概觀</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0033_001.xml#p0313a12">成立</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0033_001.xml#p0315a12">傳來</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0033_001.xml#p0319a11">漢譯</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0033_001.xml#p0319a12">異譯</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0033_001.xml#p0319a13">組織及其內容</cblink></li>
+</ol>
+</nav>
+</body></html>

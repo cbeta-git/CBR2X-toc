@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0325a04">成立</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0326a01">思想的由來</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0330a09">傳來</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0330a14">釋家及其釋論</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0331a14">漢譯</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0333a05">異譯</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0336a05">註疏</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0337a07">攝論的宗派</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0340a09">組織</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0342a01">內容</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0346a01">造論的目的</cblink></li>
+	<li><cblink href="XML/YP/YP31/YP31n0034_001.xml#p0346a10">名義及其所屬</cblink></li>
+</ol>
+</nav>
+</body></html>
