@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#pa001a01">三寶歌詞曲</cblink></li>
+	<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0001a04">一　前言</cblink></li>
+	<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0009a06">二　總說三寶</cblink></li>
+	<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0013a07">三　別釋歌義</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0013a08">㈠　釋佛寶歌</cblink></li>
+		<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0042a04">㈡　釋法寶歌</cblink></li>
+		<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0068a12">㈢　釋僧寶歌</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP32/YP32n0037_001.xml#p0082a02">四　結說</cblink></li>
+</ol>
+</nav>
+</body></html>
