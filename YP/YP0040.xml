@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/YP/YP33/YP33n0040_001.xml#p0319a06">一　緒說</cblink></li>
+	<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0330a02">二　成正覺前的釋尊</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0330a03">一　藍毘尼園的誕生</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0333a10">二　阿私陀仙的看相</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0338a02">三　文事武備的學習</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0341a03">四　觀耕於野的痛感</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0344a10">五　耶輸陀羅的為妃</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0348a03">六　四門遊觀的所見</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0361a10">七　一線曙光的發現</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0369a03">八　毅然決然的出家</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0380a13">九　參師訪道的生涯</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_002.xml#p0390a02">一〇　雪山六年的苦行</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0396a03">三　成正覺後的釋尊</cblink>
+	<ol>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0396a04">一　菩提樹下的成道</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0404a10">二　施鹿林中的初轉</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0415a09">三　清淨僧團的建立</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0423a02">四　在王舍城的教化</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0432a07">五　榮歸故鄉的成就</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0440a10">六　祇園說法的度眾</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0447a02">七　尼眾教團的成立</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0454a06">八　內訌外患的逼來</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0461a12">九　提婆達多的自立</cblink></li>
+		<li><cblink href="XML/YP/YP33/YP33n0040_003.xml#p0469a13">一〇　雙林樹下的入滅</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/YP/YP33/YP33n0040_004.xml#p0481a02">四　結說</cblink></li>
+</ol>
+</nav>
+</body></html>
