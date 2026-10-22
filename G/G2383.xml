@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2383_001.xml#p0361a03">前文</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2383_001.xml#p0362a10">疏文</cblink></li>
+</ol>
+</nav>
+</body></html>

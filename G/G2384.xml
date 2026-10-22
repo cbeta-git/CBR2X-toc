@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2384_001.xml#p0391a03">自序</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2384_001.xml#p0392a06">略開十門</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2384_001.xml#p0403a02">隨文解釋</cblink>
+	<ol>
+		<li><cblink href="XML/G/G131/G131n2384_001.xml#p0403a02">序分</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2384_001.xml#p0405a09">正宗分</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2384_001.xml#p0432a09">流通分</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>
