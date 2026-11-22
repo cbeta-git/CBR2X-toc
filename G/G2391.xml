@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0917a02">目錄</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0917a08">彌陀因地</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0917a14">佛願攝生</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0918a06">極樂依正</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0918a12">持名往生</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0919a01">三福三心</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0919a07">作佛是佛</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0919a12">修十善業</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0920a01">速滅重罪</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0920a06">隨念隨見</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0920a10">佛號久住</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0920a14">念佛圓通</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0921a05">滿菩提願</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0921a10">念佛殊勝</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2391_001.xml#p0922a01">法門易行</cblink></li>
+</ol>
+</nav>
+</body></html>

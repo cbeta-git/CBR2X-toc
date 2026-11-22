@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0863a04">前文</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0863a07">一教起因緣</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0864a15">二藏乘分攝</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0865a07">三教義分齊</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0866a05">四通釋名題</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0869a02">五別解文義</cblink>
+	<ol>
+		<li><cblink href="XML/G/G131/G131n2389_001.xml#p0869a03">一序分</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2389_001.xml#p0870a09">二正宗分</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2389_001.xml#p0878a11">三流通分</cblink></li>
+	</ol>
+	</li>
+	<li><cblink href="XML/G/G131/G131n2389_001.xml#p0882a01">附事義音釋</cblink></li>
+</ol>
+</nav>
+</body></html>

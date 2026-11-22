@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0923a01">自序</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0928a03">讚頌</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0928a15">前文</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0929a07">甲一、釋經題</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0929a14">甲二、釋譯師敬禮</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0930a02">甲三、釋所為相屬</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2392_001.xml#p0931a01">甲四、釋經義</cblink>
+	<ol>
+		<li><cblink href="XML/G/G131/G131n2392_001.xml#p0931a03">乙一、經中所明緣起理趣</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2392_001.xml#p0945a03">乙二、梵土諸疏所釋理趣</cblink></li>
+		<li><cblink href="XML/G/G131/G131n2392_002.xml#p0957a06">乙三、正釋經義</cblink></li>
+	</ol>
+	</li>
+</ol>
+</nav>
+</body></html>

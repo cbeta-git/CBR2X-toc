@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2393_001.xml#p1031a01">品目</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_001.xml#p1032a08">自序</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_001.xml#p1034a02">前文</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_001.xml#p1034a07">序品第一</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_003.xml#p1069a02">勝義諦相品第二</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_004.xml#p1087a02">心意識相品第三</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_004.xml#p1091a13">一切法相品第四</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_005.xml#p1099a02">無自性相品第五</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_006.xml#p1123a02">分別瑜伽品第六</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_008.xml#p1166a02">地波羅蜜多品第七</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_010.xml#p1197a02">如來成所作事品第八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2393_001.xml#p1031a01">第一</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_002.xml#p1051a01">第二</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_003.xml#p1069a01">第三</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_004.xml#p1087a01">第四</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_005.xml#p1099a01">第五</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_006.xml#p1123a01">第六</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_007.xml#p1143a01">第七</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_008.xml#p1166a01">第八</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_009.xml#p1178a01">第九</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2393_010.xml#p1197a01">第十</cblink></li>
+</ol>
+</nav>
+</body></html>

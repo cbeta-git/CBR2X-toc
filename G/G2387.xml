@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>本經目次</title>
+	</head>
+<body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2387_001.xml#p0585a01">原序</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_001.xml#p0587a03">前文</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_001.xml#p0591a10">序品第一</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_001.xml#p0616a10">觀如來品第二</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_002.xml#p0642a03">菩薩行品第三</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_002.xml#p0684a11">二諦品第四</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_002.xml#p0697a09">護國品第五</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_003.xml#p0709a03">不思議品第六</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_003.xml#p0714a04">奉持品第七</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_003.xml#p0770a11">囑累品第八</cblink></li>
+</ol>
+</nav>
+<nav type="juan">
+<h1>卷</h1>
+<ol>
+	<li><cblink href="XML/G/G131/G131n2387_001.xml#p0585a01">第一</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_002.xml#p0642a01">第二</cblink></li>
+	<li><cblink href="XML/G/G131/G131n2387_003.xml#p0709a01">第三</cblink></li>
+</ol>
+</nav>
+</body></html>
