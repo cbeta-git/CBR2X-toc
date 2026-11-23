@@ -5,4 +5,10 @@
 		<title>本經目次</title>
 	</head>
 <body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2272_001.xml#p0529a01">僧尼十種受法料簡圖</cblink></li>
+</ol>
+</nav>
 </body></html>

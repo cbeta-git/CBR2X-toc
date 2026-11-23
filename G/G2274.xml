@@ -5,4 +5,10 @@
 		<title>本經目次</title>
 	</head>
 <body>
+<nav type="catalog">
+<h1>目次</h1>
+<ol>
+	<li><cblink href="XML/G/G104/G104n2274_001.xml#p0537a01">表無表章科</cblink></li>
+</ol>
+</nav>
 </body></html>
